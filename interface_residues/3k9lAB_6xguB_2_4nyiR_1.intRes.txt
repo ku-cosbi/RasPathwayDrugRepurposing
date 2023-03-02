@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6xguB_B_ARG_111	<-->	4nyiR_R_ASP_154
+6xguB_B_GLU_124	<-->	4nyiR_R_ASP_47
+6xguB_B_ASP_113	<-->	4nyiR_R_ARG_161
+6xguB_B_THR_116	<-->	4nyiR_R_ARG_161
+6xguB_B_GLU_124	<-->	4nyiR_R_GLY_48
+6xguB_B_LYS_106	<-->	4nyiR_R_PHE_28
+6xguB_B_ALA_110	<-->	4nyiR_R_ASP_154
+6xguB_B_ALA_119	<-->	4nyiR_R_ASP_47
+6xguB_B_SER_120	<-->	4nyiR_R_ARG_164
+6xguB_B_SER_120	<-->	4nyiR_R_GLN_165
+6xguB_B_SER_120	<-->	4nyiR_R_ARG_161
+6xguB_B_LYS_106	<-->	4nyiR_R_ASN_26
+6xguB_B_ASP_117	<-->	4nyiR_R_GLN_165
+6xguB_B_SER_120	<-->	4nyiR_R_ASP_47
+6xguB_B_ARG_100	<-->	4nyiR_R_TYR_157
+6xguB_B_ARG_100	<-->	4nyiR_R_ASP_154
+6xguB_B_ARG_100	<-->	4nyiR_R_GLU_153
+6xguB_B_ILE_122	<-->	4nyiR_R_ASP_47
+6xguB_B_ILE_122	<-->	4nyiR_R_GLY_48
+6xguB_B_ARG_100	<-->	4nyiR_R_THR_158
+6xguB_B_GLY_123	<-->	4nyiR_R_GLY_48
+6xguB_B_LEU_121	<-->	4nyiR_R_ASP_47

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6cc9B_B_ASP_153	<-->	2n42A_A_ASN_26
+6cc9B_B_GLN_25	<-->	2n42A_A_GLN_150
+6cc9B_B_VAL_45	<-->	2n42A_A_VAL_45
+6cc9B_B_THR_50	<-->	2n42A_A_THR_50
+6cc9B_B_ASN_26	<-->	2n42A_A_GLN_150
+6cc9B_B_ASN_26	<-->	2n42A_A_THR_148
+6cc9B_B_ASN_26	<-->	2n42A_A_ARG_149
+6cc9B_B_ALA_146	<-->	2n42A_A_THR_148
+6cc9B_B_GLN_150	<-->	2n42A_A_HIS_27
+6cc9B_B_VAL_45	<-->	2n42A_A_VAL_44
+6cc9B_B_ARG_149	<-->	2n42A_A_LYS_147
+6cc9B_B_PHE_28	<-->	2n42A_A_THR_148
+6cc9B_B_VAL_44	<-->	2n42A_A_VAL_45
+6cc9B_B_GLN_43	<-->	2n42A_A_GLU_49
+6cc9B_B_GLN_43	<-->	2n42A_A_GLY_48
+6cc9B_B_GLN_43	<-->	2n42A_A_VAL_45
+6cc9B_B_ARG_149	<-->	2n42A_A_THR_148
+6cc9B_B_GLN_43	<-->	2n42A_A_THR_50
+6cc9B_B_VAL_45	<-->	2n42A_A_GLN_43
+6cc9B_B_VAL_45	<-->	2n42A_A_THR_50
+6cc9B_B_GLY_48	<-->	2n42A_A_GLN_43

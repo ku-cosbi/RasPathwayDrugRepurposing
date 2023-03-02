@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_LYS_465	<-->	6j71A_A_ASP_165
+3qwqA_A_LYS_465	<-->	6j71A_A_THR_186
+3qwqA_A_LYS_463	<-->	6j71A_A_ILE_184
+3qwqA_A_ILE_467	<-->	6j71A_A_ASP_165
+3qwqA_A_THR_464	<-->	6j71A_A_ASP_185
+3qwqA_A_THR_464	<-->	6j71A_A_ILE_184
+3qwqA_A_THR_464	<-->	6j71A_A_ASN_187
+3qwqA_A_ASP_436	<-->	6j71A_A_LEU_183
+3qwqA_A_GLY_461	<-->	6j71A_A_LEU_183
+3qwqA_A_GLY_461	<-->	6j71A_A_GLN_156
+3qwqA_A_GLU_472	<-->	6j71A_A_ALA_191
+3qwqA_A_LYS_463	<-->	6j71A_A_ASP_185
+3qwqA_A_GLN_411	<-->	6j71A_A_THR_182
+3qwqA_A_ILE_466	<-->	6j71A_A_THR_186
+3qwqA_A_LYS_463	<-->	6j71A_A_LEU_183
+3qwqA_A_ASP_436	<-->	6j71A_A_THR_182
+3qwqA_A_SER_460	<-->	6j71A_A_ARG_157
+3qwqA_A_THR_464	<-->	6j71A_A_THR_186

@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1n3hA_A_PHE_117	<-->	5cdwE_E_PRO_7
+1n3hA_A_LYS_116	<-->	5cdwE_E_PRO_5
+1n3hA_A_PHE_117	<-->	5cdwE_E_PRO_5
+1n3hA_A_ASN_144	<-->	5cdwE_E_ILE_13
+1n3hA_A_HIS_146	<-->	5cdwE_E_ALA_16
+1n3hA_A_PHE_117	<-->	5cdwE_E_HIS_6
+1n3hA_A_HIS_146	<-->	5cdwE_E_GLU_20
+1n3hA_A_ALA_118	<-->	5cdwE_E_PRO_5
+1n3hA_A_LYS_116	<-->	5cdwE_E_HIS_6
+1n3hA_A_LYS_116	<-->	5cdwE_E_PHE_9
+1n3hA_A_ALA_143	<-->	5cdwE_E_MET_21
+1n3hA_A_ILE_142	<-->	5cdwE_E_PHE_10
+1n3hA_A_HIS_146	<-->	5cdwE_E_LYS_17
+1n3hA_A_CYS_138	<-->	5cdwE_E_PRO_7
+1n3hA_A_GLN_140	<-->	5cdwE_E_PRO_7

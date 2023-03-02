@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5fwmK_K_PHE_130	<-->	2w96A_A_LEU_6
+5fwmK_K_PHE_130	<-->	2w96A_A_CYS_7
+5fwmK_K_PHE_130	<-->	2w96A_A_CYS_8
+5fwmK_K_LYS_282	<-->	2w96A_A_LYS_112
+5fwmK_K_HIS_281	<-->	2w96A_A_MET_113
+5fwmK_K_ASP_236	<-->	2w96A_A_LEU_138
+5fwmK_K_HIS_281	<-->	2w96A_A_LEU_152
+5fwmK_K_PRO_239	<-->	2w96A_A_TRP_150
+5fwmK_K_ARG_288	<-->	2w96A_A_MET_113
+5fwmK_K_ASP_129	<-->	2w96A_A_LEU_6
+5fwmK_K_ASP_129	<-->	2w96A_A_CYS_7
+5fwmK_K_ARG_288	<-->	2w96A_A_LYS_114
+5fwmK_K_GLN_270	<-->	2w96A_A_THR_116
+5fwmK_K_ARG_126	<-->	2w96A_A_CYS_7
+5fwmK_K_GLN_270	<-->	2w96A_A_ILE_117
+5fwmK_K_ALA_133	<-->	2w96A_A_LEU_6
+5fwmK_K_ASP_241	<-->	2w96A_A_TRP_150
+5fwmK_K_HIS_292	<-->	2w96A_A_THR_116
+5fwmK_K_HIS_281	<-->	2w96A_A_TRP_150
+5fwmK_K_HIS_281	<-->	2w96A_A_VAL_145
+5fwmK_K_ARG_240	<-->	2w96A_A_TRP_150
+5fwmK_K_GLU_274	<-->	2w96A_A_GLU_115
+5fwmK_K_GLU_274	<-->	2w96A_A_THR_116
+5fwmK_K_GLU_274	<-->	2w96A_A_PRO_118

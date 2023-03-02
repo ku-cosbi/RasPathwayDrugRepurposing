@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6bofA_A_GLN_25	<-->	2n42A_A_GLN_150
+6bofA_A_TYR_40	<-->	2n42A_A_GLN_165
+6bofA_A_TYR_32	<-->	2n42A_A_ARG_161
+6bofA_A_VAL_45	<-->	2n42A_A_GLY_48
+6bofA_A_ARG_41	<-->	2n42A_A_ARG_161
+6bofA_A_GLU_31	<-->	2n42A_A_ASP_47
+6bofA_A_ASP_30	<-->	2n42A_A_ARG_161
+6bofA_A_TYR_32	<-->	2n42A_A_GLN_165
+6bofA_A_TYR_40	<-->	2n42A_A_ARG_161
+6bofA_A_VAL_29	<-->	2n42A_A_TYR_157
+6bofA_A_GLU_31	<-->	2n42A_A_ARG_161
+6bofA_A_VAL_29	<-->	2n42A_A_GLY_48
+6bofA_A_VAL_29	<-->	2n42A_A_ASP_47
+6bofA_A_VAL_29	<-->	2n42A_A_ILE_46
+6bofA_A_VAL_29	<-->	2n42A_A_VAL_45
+6bofA_A_VAL_45	<-->	2n42A_A_VAL_45
+6bofA_A_ASP_30	<-->	2n42A_A_ASP_47
+6bofA_A_GLY_48	<-->	2n42A_A_THR_50

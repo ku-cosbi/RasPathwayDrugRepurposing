@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb7E_E_ILE_3	<-->	1nqlA_A_SER_205
+5wb7E_E_THR_47	<-->	1nqlA_A_LYS_4
+5wb7E_E_LEU_22	<-->	1nqlA_A_SER_203
+5wb7E_E_LEU_46	<-->	1nqlA_A_LYS_4
+5wb7E_E_LEU_46	<-->	1nqlA_A_GLN_59
+5wb7E_E_VAL_48	<-->	1nqlA_A_GLU_3
+5wb7E_E_LEU_22	<-->	1nqlA_A_ASP_206
+5wb7E_E_LEU_22	<-->	1nqlA_A_SER_205
+5wb7E_E_GLY_38	<-->	1nqlA_A_THR_217
+5wb7E_E_THR_47	<-->	1nqlA_A_GLU_3
+5wb7E_E_ASP_24	<-->	1nqlA_A_SER_203
+5wb7E_E_MET_25	<-->	1nqlA_A_LYS_202
+5wb7E_E_ASP_24	<-->	1nqlA_A_PRO_204
+5wb7E_E_LEU_46	<-->	1nqlA_A_GLU_35
+5wb7E_E_MET_25	<-->	1nqlA_A_GLY_201
+5wb7E_E_THR_37	<-->	1nqlA_A_THR_217
+5wb7E_E_VAL_48	<-->	1nqlA_A_LYS_4
+5wb7E_E_LEU_46	<-->	1nqlA_A_GLU_3
+5wb7E_E_THR_37	<-->	1nqlA_A_LEU_225
+5wb7E_E_MET_25	<-->	1nqlA_A_SER_203

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiR_R_GLY_151	<-->	5tarA_A_ASN_26
+4nyiR_R_GLY_151	<-->	5tarA_A_HIS_27
+4nyiR_R_GLN_43	<-->	5tarA_A_VAL_45
+4nyiR_R_VAL_45	<-->	5tarA_A_THR_50
+4nyiR_R_GLU_153	<-->	5tarA_A_ASN_26
+4nyiR_R_GLN_150	<-->	5tarA_A_PHE_28
+4nyiR_R_ASN_26	<-->	5tarA_A_ASP_153
+4nyiR_R_VAL_152	<-->	5tarA_A_ASN_26
+4nyiR_R_VAL_45	<-->	5tarA_A_VAL_45
+4nyiR_R_GLN_150	<-->	5tarA_A_HIS_27
+4nyiR_R_GLN_150	<-->	5tarA_A_ASN_26
+4nyiR_R_ARG_149	<-->	5tarA_A_ASN_26
+4nyiR_R_GLY_48	<-->	5tarA_A_GLN_43
+4nyiR_R_VAL_45	<-->	5tarA_A_GLN_43
+4nyiR_R_THR_148	<-->	5tarA_A_THR_148
+4nyiR_R_THR_148	<-->	5tarA_A_ARG_149
+4nyiR_R_ARG_149	<-->	5tarA_A_ARG_149
+4nyiR_R_ASN_26	<-->	5tarA_A_ARG_149
+4nyiR_R_GLN_150	<-->	5tarA_A_ASP_30
+4nyiR_R_PHE_28	<-->	5tarA_A_GLY_151
+4nyiR_R_PHE_28	<-->	5tarA_A_ASP_153
+4nyiR_R_PHE_28	<-->	5tarA_A_ASP_154

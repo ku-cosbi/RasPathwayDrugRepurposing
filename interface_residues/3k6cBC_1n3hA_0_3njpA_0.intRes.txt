@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1n3hA_A_PRO_101	<-->	3njpA_A_PRO_362
+1n3hA_A_PRO_101	<-->	3njpA_A_PRO_361
+1n3hA_A_LEU_106	<-->	3njpA_A_ILE_370
+1n3hA_A_CYS_102	<-->	3njpA_A_PRO_361
+1n3hA_A_LYS_100	<-->	3njpA_A_PRO_362
+1n3hA_A_PRO_105	<-->	3njpA_A_GLU_367
+1n3hA_A_GLN_76	<-->	3njpA_A_ILE_370
+1n3hA_A_ASP_70	<-->	3njpA_A_LYS_336
+1n3hA_A_ASP_70	<-->	3njpA_A_ASN_337
+1n3hA_A_ARG_79	<-->	3njpA_A_ASP_364
+1n3hA_A_ARG_79	<-->	3njpA_A_GLN_366
+1n3hA_A_LEU_106	<-->	3njpA_A_LYS_333
+1n3hA_A_LEU_106	<-->	3njpA_A_ILE_332

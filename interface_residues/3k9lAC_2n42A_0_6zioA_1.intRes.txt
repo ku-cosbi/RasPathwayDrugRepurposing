@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_THR_148	<-->	6zioA_A_PHE_28
+2n42A_A_ASN_26	<-->	6zioA_A_GLU_153
+2n42A_A_THR_50	<-->	6zioA_A_THR_50
+2n42A_A_VAL_45	<-->	6zioA_A_GLN_43
+2n42A_A_ASN_26	<-->	6zioA_A_ARG_149
+2n42A_A_THR_50	<-->	6zioA_A_GLN_43
+2n42A_A_THR_148	<-->	6zioA_A_HIS_27
+2n42A_A_GLN_150	<-->	6zioA_A_ASN_26
+2n42A_A_THR_50	<-->	6zioA_A_VAL_45
+2n42A_A_VAL_45	<-->	6zioA_A_VAL_45
+2n42A_A_GLN_22	<-->	6zioA_A_ARG_149
+2n42A_A_GLN_43	<-->	6zioA_A_GLY_48
+2n42A_A_THR_148	<-->	6zioA_A_ASN_26
+2n42A_A_HIS_27	<-->	6zioA_A_ARG_149
+2n42A_A_HIS_27	<-->	6zioA_A_THR_148
+2n42A_A_HIS_27	<-->	6zioA_A_GLN_150
+2n42A_A_GLN_43	<-->	6zioA_A_VAL_45
+2n42A_A_GLY_48	<-->	6zioA_A_GLN_43

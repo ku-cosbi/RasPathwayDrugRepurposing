@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_HIS_409	<-->	3p11A_A_ALA_153
+3qwqA_A_HIS_409	<-->	3p11A_A_ASP_152
+3qwqA_A_HIS_409	<-->	3p11A_A_ARG_151
+3qwqA_A_HIS_409	<-->	3p11A_A_ARG_145
+3qwqA_A_GLN_411	<-->	3p11A_A_GLU_154
+3qwqA_A_HIS_409	<-->	3p11A_A_GLU_154
+3qwqA_A_ILE_467	<-->	3p11A_A_ASP_140
+3qwqA_A_GLN_384	<-->	3p11A_A_ARG_145
+3qwqA_A_LYS_465	<-->	3p11A_A_ASP_159
+3qwqA_A_LYS_465	<-->	3p11A_A_LYS_158
+3qwqA_A_PHE_357	<-->	3p11A_A_PRO_193
+3qwqA_A_ARG_353	<-->	3p11A_A_ILE_190
+3qwqA_A_LYS_465	<-->	3p11A_A_ASP_140
+3qwqA_A_LYS_465	<-->	3p11A_A_VAL_157

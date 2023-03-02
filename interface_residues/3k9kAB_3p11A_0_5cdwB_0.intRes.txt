@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_THR_185	<-->	5cdwB_B_ASN_74
+3p11A_A_PRO_204	<-->	5cdwB_B_GLN_54
+3p11A_A_THR_185	<-->	5cdwB_B_LYS_72
+3p11A_A_PRO_204	<-->	5cdwB_B_PHE_49
+3p11A_A_LYS_172	<-->	5cdwB_B_VAL_70
+3p11A_A_GLN_119	<-->	5cdwB_B_SER_75
+3p11A_A_GLN_119	<-->	5cdwB_B_ASN_74
+3p11A_A_LYS_172	<-->	5cdwB_B_LYS_72
+3p11A_A_ASN_203	<-->	5cdwB_B_PHE_56
+3p11A_A_THR_121	<-->	5cdwB_B_ASN_74
+3p11A_A_ARG_84	<-->	5cdwB_B_GLU_78
+3p11A_A_THR_118	<-->	5cdwB_B_ASN_74
+3p11A_A_THR_185	<-->	5cdwB_B_PHE_73
+3p11A_A_ASN_205	<-->	5cdwB_B_PHE_49

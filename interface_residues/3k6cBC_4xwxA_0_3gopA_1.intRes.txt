@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_LEU_106	<-->	3gopA_A_PRO_748
+4xwxA_A_LEU_106	<-->	3gopA_A_HIS_749
+4xwxA_A_SER_103	<-->	3gopA_A_ASN_802
+4xwxA_A_SER_103	<-->	3gopA_A_TYR_803
+4xwxA_A_ARG_79	<-->	3gopA_A_ASP_746
+4xwxA_A_SER_103	<-->	3gopA_A_GLU_805
+4xwxA_A_SER_103	<-->	3gopA_A_ASP_806
+4xwxA_A_GLN_76	<-->	3gopA_A_PRO_748
+4xwxA_A_ALA_95	<-->	3gopA_A_ALA_674
+4xwxA_A_ALA_95	<-->	3gopA_A_PRO_675
+4xwxA_A_LEU_106	<-->	3gopA_A_LYS_799
+4xwxA_A_ARG_104	<-->	3gopA_A_ASP_806
+4xwxA_A_ARG_104	<-->	3gopA_A_ILE_941
+4xwxA_A_ARG_104	<-->	3gopA_A_ILE_942
+4xwxA_A_PRO_105	<-->	3gopA_A_LYS_799
+4xwxA_A_GLU_87	<-->	3gopA_A_ALA_674
+4xwxA_A_LYS_93	<-->	3gopA_A_GLN_677
+4xwxA_A_PRO_158	<-->	3gopA_A_ILE_994
+4xwxA_A_PRO_105	<-->	3gopA_A_TYR_803
+4xwxA_A_PRO_105	<-->	3gopA_A_ASN_747
+4xwxA_A_SER_103	<-->	3gopA_A_ARG_938

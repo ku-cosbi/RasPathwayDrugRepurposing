@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_ASP_223	<-->	2l05A_A_ILE_191
+4zdrA_A_LYS_212	<-->	2l05A_A_LYS_182
+4zdrA_A_THR_215	<-->	2l05A_A_ILE_191
+4zdrA_A_PHE_196	<-->	2l05A_A_LEU_232
+4zdrA_A_ARG_222	<-->	2l05A_A_LEU_232
+4zdrA_A_ARG_222	<-->	2l05A_A_PRO_231
+4zdrA_A_ARG_222	<-->	2l05A_A_VAL_230
+4zdrA_A_TYR_211	<-->	2l05A_A_LYS_183
+4zdrA_A_TYR_211	<-->	2l05A_A_LYS_182
+4zdrA_A_TYR_211	<-->	2l05A_A_MET_186
+4zdrA_A_ILE_200	<-->	2l05A_A_GLY_189
+4zdrA_A_LYS_212	<-->	2l05A_A_ASP_179
+4zdrA_A_THR_215	<-->	2l05A_A_MET_186
+4zdrA_A_LEU_203	<-->	2l05A_A_ARG_188
+4zdrA_A_LEU_203	<-->	2l05A_A_GLY_189
+4zdrA_A_LEU_203	<-->	2l05A_A_MET_186
+4zdrA_A_MET_218	<-->	2l05A_A_ILE_191
+4zdrA_A_LEU_206	<-->	2l05A_A_MET_186
+4zdrA_A_ARG_222	<-->	2l05A_A_ILE_191
+4zdrA_A_GLN_219	<-->	2l05A_A_ILE_191
+4zdrA_A_GLN_219	<-->	2l05A_A_GLU_193
+4zdrA_A_LEU_225	<-->	2l05A_A_LEU_232

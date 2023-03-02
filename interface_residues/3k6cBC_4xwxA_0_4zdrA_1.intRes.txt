@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_LEU_110	<-->	4zdrA_A_GLU_102
+4xwxA_A_SER_103	<-->	4zdrA_A_LEU_129
+4xwxA_A_ARG_104	<-->	4zdrA_A_LEU_98
+4xwxA_A_SER_103	<-->	4zdrA_A_LYS_122
+4xwxA_A_SER_103	<-->	4zdrA_A_TYR_126
+4xwxA_A_ARG_104	<-->	4zdrA_A_GLN_144
+4xwxA_A_PRO_105	<-->	4zdrA_A_GLN_144
+4xwxA_A_SER_107	<-->	4zdrA_A_GLU_102
+4xwxA_A_PRO_105	<-->	4zdrA_A_GLU_102
+4xwxA_A_SER_107	<-->	4zdrA_A_LYS_122
+4xwxA_A_GLY_111	<-->	4zdrA_A_GLU_102
+4xwxA_A_GLY_111	<-->	4zdrA_A_LYS_103
+4xwxA_A_ARG_104	<-->	4zdrA_A_GLU_102
+4xwxA_A_GLY_111	<-->	4zdrA_A_PRO_107
+4xwxA_A_SER_113	<-->	4zdrA_A_LYS_103
+4xwxA_A_ARG_112	<-->	4zdrA_A_PHE_104
+4xwxA_A_LEU_63	<-->	4zdrA_A_PRO_107
+4xwxA_A_SER_103	<-->	4zdrA_A_LEU_98
+4xwxA_A_ARG_112	<-->	4zdrA_A_GLY_33
+4xwxA_A_ARG_112	<-->	4zdrA_A_LYS_103
+4xwxA_A_ARG_104	<-->	4zdrA_A_SER_99
+4xwxA_A_SER_103	<-->	4zdrA_A_GLN_144
