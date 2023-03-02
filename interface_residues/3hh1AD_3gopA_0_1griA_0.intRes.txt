@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3gopA_A_LEU_859	<-->	1griA_A_ARG_67
+3gopA_A_SER_900	<-->	1griA_A_ARG_67
+3gopA_A_LEU_863	<-->	1griA_A_ARG_67
+3gopA_A_ILE_862	<-->	1griA_A_ARG_67
+3gopA_A_LYS_905	<-->	1griA_A_GLU_72
+3gopA_A_HIS_864	<-->	1griA_A_SER_96
+3gopA_A_SER_901	<-->	1griA_A_GLU_71
+3gopA_A_GLU_898	<-->	1griA_A_ASP_104
+3gopA_A_LEU_863	<-->	1griA_A_ARG_86
+3gopA_A_LEU_863	<-->	1griA_A_LYS_109
+3gopA_A_SER_900	<-->	1griA_A_GLU_71
+3gopA_A_PRO_895	<-->	1griA_A_ASP_104
+3gopA_A_SER_900	<-->	1griA_A_VAL_105
+3gopA_A_SER_897	<-->	1griA_A_PHE_101
+3gopA_A_SER_900	<-->	1griA_A_HIS_107
+3gopA_A_SER_897	<-->	1griA_A_ASP_104
+3gopA_A_ILE_866	<-->	1griA_A_LYS_109
+3gopA_A_LEU_863	<-->	1griA_A_PHE_108
+3gopA_A_LEU_863	<-->	1griA_A_SER_96
+3gopA_A_GLU_904	<-->	1griA_A_ALA_68
+3gopA_A_GLU_904	<-->	1griA_A_ARG_67
+3gopA_A_LEU_863	<-->	1griA_A_HIS_107
+3gopA_A_HIS_864	<-->	1griA_A_LYS_109

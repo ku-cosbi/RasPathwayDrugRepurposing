@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2jitB_B_ARG_776	<-->	3kexA_A_LYS_679
+2jitB_B_LEU_704	<-->	3kexA_A_VAL_680
+2jitB_B_LEU_704	<-->	3kexA_A_TYR_805
+2jitB_B_LEU_782	<-->	3kexA_A_ASP_748
+2jitB_B_LEU_782	<-->	3kexA_A_HIS_749
+2jitB_B_LEU_704	<-->	3kexA_A_HIS_809
+2jitB_B_ARG_705	<-->	3kexA_A_LYS_679
+2jitB_B_LEU_704	<-->	3kexA_A_LEU_747
+2jitB_B_LEU_703	<-->	3kexA_A_VAL_680
+2jitB_B_ILE_706	<-->	3kexA_A_ARG_754
+2jitB_B_ALA_702	<-->	3kexA_A_HIS_809
+2jitB_B_TYR_764	<-->	3kexA_A_GLU_808
+2jitB_B_LEU_782	<-->	3kexA_A_ALA_750
+2jitB_B_LYS_757	<-->	3kexA_A_LYS_801
+2jitB_B_ILE_706	<-->	3kexA_A_SER_746
+2jitB_B_ILE_706	<-->	3kexA_A_LEU_747
+2jitB_B_ILE_780	<-->	3kexA_A_ASP_748
+2jitB_B_LEU_760	<-->	3kexA_A_LYS_801
+2jitB_B_LEU_704	<-->	3kexA_A_SER_746
+2jitB_B_ILE_706	<-->	3kexA_A_ASP_748
+2jitB_B_LEU_760	<-->	3kexA_A_HIS_749
+2jitB_B_ARG_705	<-->	3kexA_A_LEU_681
+2jitB_B_LEU_703	<-->	3kexA_A_LYS_679

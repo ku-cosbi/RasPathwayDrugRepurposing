@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiS_S_GLU_731	<-->	7aeiA_A_LEU_887
+4nyiS_S_GLY_719	<-->	7aeiA_A_ALA_871
+4nyiS_S_ILE_742	<-->	7aeiA_A_SER_921
+4nyiS_S_VAL_730	<-->	7aeiA_A_LEU_887
+4nyiS_S_GLY_719	<-->	7aeiA_A_ARG_889
+4nyiS_S_LYS_735	<-->	7aeiA_A_SER_925
+4nyiS_S_LYS_735	<-->	7aeiA_A_GLU_928
+4nyiS_S_THR_734	<-->	7aeiA_A_ILE_886
+4nyiS_S_ILE_742	<-->	7aeiA_A_GLU_922
+4nyiS_S_THR_720	<-->	7aeiA_A_ALA_871
+4nyiS_S_THR_720	<-->	7aeiA_A_GLU_872
+4nyiS_S_THR_734	<-->	7aeiA_A_LEU_887
+4nyiS_S_GLN_738	<-->	7aeiA_A_SER_921
+4nyiS_S_ARG_722	<-->	7aeiA_A_HIS_870
+4nyiS_S_GLU_716	<-->	7aeiA_A_GLY_873
+4nyiS_S_GLU_716	<-->	7aeiA_A_GLU_872
+4nyiS_S_VAL_730	<-->	7aeiA_A_HIS_888

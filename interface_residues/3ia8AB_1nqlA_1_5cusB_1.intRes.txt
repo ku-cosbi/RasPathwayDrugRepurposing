@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1nqlA_A_LEU_325	<-->	5cusB_B_ALA_8
+1nqlA_A_SER_324	<-->	5cusB_B_ALA_8
+1nqlA_A_HIS_409	<-->	5cusB_B_ASN_82
+1nqlA_A_LYS_322	<-->	5cusB_B_ALA_8
+1nqlA_A_LEU_325	<-->	5cusB_B_TRP_60
+1nqlA_A_GLY_319	<-->	5cusB_B_VAL_268
+1nqlA_A_GLU_320	<-->	5cusB_B_PRO_272
+1nqlA_A_GLU_320	<-->	5cusB_B_SER_270
+1nqlA_A_ASP_323	<-->	5cusB_B_VAL_9
+1nqlA_A_HIS_409	<-->	5cusB_B_TRP_60
+1nqlA_A_GLY_319	<-->	5cusB_B_ALA_269
+1nqlA_A_GLY_317	<-->	5cusB_B_ALA_8
+1nqlA_A_LEU_348	<-->	5cusB_B_TRP_60
+1nqlA_A_HIS_409	<-->	5cusB_B_GLN_119
+1nqlA_A_HIS_409	<-->	5cusB_B_GLN_59
+1nqlA_A_GLY_319	<-->	5cusB_B_SER_270
+1nqlA_A_LYS_322	<-->	5cusB_B_VAL_268
+1nqlA_A_HIS_409	<-->	5cusB_B_GLU_38
+1nqlA_A_ASP_323	<-->	5cusB_B_ALA_8
+1nqlA_A_ILE_318	<-->	5cusB_B_VAL_268
+1nqlA_A_LEU_325	<-->	5cusB_B_CYS_37

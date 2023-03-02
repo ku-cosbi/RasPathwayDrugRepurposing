@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ny5B_B_LYS_182	<-->	6ptsD_D_CYS_476
+3ny5B_B_LYS_182	<-->	6ptsD_D_SER_477
+3ny5B_B_ILE_191	<-->	6ptsD_D_THR_478
+3ny5B_B_LYS_182	<-->	6ptsD_D_VAL_480
+3ny5B_B_LEU_185	<-->	6ptsD_D_MET_483
+3ny5B_B_SER_150	<-->	6ptsD_D_LEU_391
+3ny5B_B_SER_150	<-->	6ptsD_D_GLN_392
+3ny5B_B_LYS_183	<-->	6ptsD_D_PHE_441
+3ny5B_B_PHE_160	<-->	6ptsD_D_VAL_434
+3ny5B_B_THR_167	<-->	6ptsD_D_THR_438
+3ny5B_B_LYS_183	<-->	6ptsD_D_PHE_472
+3ny5B_B_LYS_154	<-->	6ptsD_D_ARG_389
+3ny5B_B_LYS_183	<-->	6ptsD_D_MET_483
+3ny5B_B_ASP_179	<-->	6ptsD_D_ARG_443
+3ny5B_B_ALA_184	<-->	6ptsD_D_MET_483
+3ny5B_B_LYS_154	<-->	6ptsD_D_GLY_390
+3ny5B_B_ARG_166	<-->	6ptsD_D_LEU_436
+3ny5B_B_PRO_170	<-->	6ptsD_D_ASN_440
+3ny5B_B_VAL_168	<-->	6ptsD_D_THR_438
+3ny5B_B_LYS_183	<-->	6ptsD_D_TYR_470

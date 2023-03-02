@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ASN_764	<-->	4xwxA_A_SER_103
+3pp0B_B_LEU_790	<-->	4xwxA_A_SER_107
+3pp0B_B_LYS_716	<-->	4xwxA_A_ALA_68
+3pp0B_B_LEU_768	<-->	4xwxA_A_SER_103
+3pp0B_B_LYS_716	<-->	4xwxA_A_GLN_64
+3pp0B_B_LYS_716	<-->	4xwxA_A_ARG_67
+3pp0B_B_THR_791	<-->	4xwxA_A_SER_107
+3pp0B_B_LEU_790	<-->	4xwxA_A_LEU_63
+3pp0B_B_LEU_790	<-->	4xwxA_A_LEU_69
+3pp0B_B_SER_792	<-->	4xwxA_A_GLN_76
+3pp0B_B_LEU_715	<-->	4xwxA_A_GLN_64
+3pp0B_B_LEU_768	<-->	4xwxA_A_LEU_63
+3pp0B_B_LYS_765	<-->	4xwxA_A_SER_103
+3pp0B_B_LEU_790	<-->	4xwxA_A_LEU_110
+3pp0B_B_SER_792	<-->	4xwxA_A_SER_107
+3pp0B_B_ILE_714	<-->	4xwxA_A_GLN_64
+3pp0B_B_ILE_714	<-->	4xwxA_A_LEU_63
+3pp0B_B_LEU_790	<-->	4xwxA_A_GLN_64

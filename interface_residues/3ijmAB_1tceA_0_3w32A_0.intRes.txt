@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1tceA_A_GLN_3	<-->	3w32A_A_TYR_764
+1tceA_A_GLU_71	<-->	3w32A_A_LEU_703
+1tceA_A_LEU_4	<-->	3w32A_A_GLN_701
+1tceA_A_GLU_71	<-->	3w32A_A_ARG_776
+1tceA_A_PHE_10	<-->	3w32A_A_GLN_701
+1tceA_A_GLU_2	<-->	3w32A_A_ILE_706
+1tceA_A_SER_72	<-->	3w32A_A_LEU_703
+1tceA_A_ASN_83	<-->	3w32A_A_ARG_832
+1tceA_A_HIS_75	<-->	3w32A_A_SER_768
+1tceA_A_GLU_71	<-->	3w32A_A_SER_768
+1tceA_A_GLU_106	<-->	3w32A_A_GLN_701
+1tceA_A_HIS_75	<-->	3w32A_A_LEU_703
+1tceA_A_TYR_41	<-->	3w32A_A_GLN_701
+1tceA_A_HIS_75	<-->	3w32A_A_ARG_831
+1tceA_A_GLU_71	<-->	3w32A_A_ASP_770
+1tceA_A_GLN_3	<-->	3w32A_A_ALA_702
+1tceA_A_GLU_71	<-->	3w32A_A_VAL_769
+1tceA_A_ARG_69	<-->	3w32A_A_ASP_770
+1tceA_A_GLN_3	<-->	3w32A_A_ILE_706
+1tceA_A_GLU_71	<-->	3w32A_A_ALA_767
+1tceA_A_GLN_3	<-->	3w32A_A_LEU_704

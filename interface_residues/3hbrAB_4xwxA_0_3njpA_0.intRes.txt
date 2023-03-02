@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ARG_55	<-->	3njpA_A_GLN_533
+4xwxA_A_LYS_116	<-->	3njpA_A_GLU_521
+4xwxA_A_VAL_54	<-->	3njpA_A_LYS_569
+4xwxA_A_LYS_116	<-->	3njpA_A_PRO_522
+4xwxA_A_ARG_55	<-->	3njpA_A_PRO_536
+4xwxA_A_GLY_119	<-->	3njpA_A_GLN_533
+4xwxA_A_ALA_118	<-->	3njpA_A_PRO_522
+4xwxA_A_PRO_90	<-->	3njpA_A_ILE_532
+4xwxA_A_PRO_90	<-->	3njpA_A_GLN_533
+4xwxA_A_PRO_183	<-->	3njpA_A_LYS_569
+4xwxA_A_LEU_53	<-->	3njpA_A_LYS_569
+4xwxA_A_SER_103	<-->	3njpA_A_LYS_372
+4xwxA_A_VAL_89	<-->	3njpA_A_GLN_533
+4xwxA_A_PHE_117	<-->	3njpA_A_GLU_521
+4xwxA_A_SER_103	<-->	3njpA_A_ASN_398
+4xwxA_A_LEU_53	<-->	3njpA_A_HIS_560
+4xwxA_A_SER_103	<-->	3njpA_A_GLU_397
+4xwxA_A_PRO_121	<-->	3njpA_A_PRO_536

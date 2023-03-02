@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_LEU_790	<-->	1tceA_A_ARG_102
+3pp0B_B_LEU_790	<-->	1tceA_A_GLU_101
+3pp0B_B_LYS_765	<-->	1tceA_A_GLN_24
+3pp0B_B_ASN_758	<-->	1tceA_A_ARG_17
+3pp0B_B_PRO_761	<-->	1tceA_A_ALA_21
+3pp0B_B_LEU_790	<-->	1tceA_A_LEU_104
+3pp0B_B_PRO_761	<-->	1tceA_A_GLN_24
+3pp0B_B_ILE_714	<-->	1tceA_A_LEU_104
+3pp0B_B_ILE_714	<-->	1tceA_A_LYS_103
+3pp0B_B_ILE_714	<-->	1tceA_A_ARG_102
+3pp0B_B_SER_792	<-->	1tceA_A_GLU_18

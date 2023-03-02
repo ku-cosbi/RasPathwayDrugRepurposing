@@ -1,0 +1,12 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_PRO_753	<-->	3pp0B_B_GLU_964
+4i1zA_A_PRO_753	<-->	3pp0B_B_CYS_965
+4i1zA_A_SER_784	<-->	3pp0B_B_ILE_961
+4i1zA_A_PRO_753	<-->	3pp0B_B_ASP_962
+4i1zA_A_GLU_709	<-->	3pp0B_B_LYS_937
+4i1zA_A_LEU_704	<-->	3pp0B_B_ILE_949
+4i1zA_A_TYR_764	<-->	3pp0B_B_MET_953
+4i1zA_A_LYS_708	<-->	3pp0B_B_GLU_939
+4i1zA_A_THR_783	<-->	3pp0B_B_GLY_938

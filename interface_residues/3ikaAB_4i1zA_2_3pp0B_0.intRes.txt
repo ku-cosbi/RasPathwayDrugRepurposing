@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_TYR_764	<-->	3pp0B_B_ILE_949
+4i1zA_A_LYS_757	<-->	3pp0B_B_LYS_957
+4i1zA_A_LEU_861	<-->	3pp0B_B_ARG_978
+4i1zA_A_LYS_757	<-->	3pp0B_B_MET_953
+4i1zA_A_ILE_706	<-->	3pp0B_B_ILE_949
+4i1zA_A_LYS_757	<-->	3pp0B_B_GLU_975
+4i1zA_A_ALA_864	<-->	3pp0B_B_ARG_981
+4i1zA_A_ASP_761	<-->	3pp0B_B_ARG_985
+4i1zA_A_LEU_760	<-->	3pp0B_B_ASP_950
+4i1zA_A_GLN_701	<-->	3pp0B_B_GLN_984
+4i1zA_A_LEU_861	<-->	3pp0B_B_ARG_985
+4i1zA_A_ALA_702	<-->	3pp0B_B_GLN_984
+4i1zA_A_ALA_702	<-->	3pp0B_B_ARG_985
+4i1zA_A_ASP_761	<-->	3pp0B_B_ARG_978
+4i1zA_A_LEU_760	<-->	3pp0B_B_ILE_949
+4i1zA_A_ASP_761	<-->	3pp0B_B_ASP_950
+4i1zA_A_TYR_764	<-->	3pp0B_B_ASP_950
+4i1zA_A_VAL_765	<-->	3pp0B_B_ARG_985
+4i1zA_A_TYR_764	<-->	3pp0B_B_ARG_985

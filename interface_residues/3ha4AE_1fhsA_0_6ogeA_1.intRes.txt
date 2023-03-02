@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1fhsA_A_THR_108	<-->	6ogeA_A_THR_166
+1fhsA_A_ILE_100	<-->	6ogeA_A_HIS_193
+1fhsA_A_PHE_11	<-->	6ogeA_A_HIS_193
+1fhsA_A_THR_108	<-->	6ogeA_A_ARG_203
+1fhsA_A_GLN_105	<-->	6ogeA_A_GLY_201
+1fhsA_A_PRO_107	<-->	6ogeA_A_SER_202
+1fhsA_A_MET_22	<-->	6ogeA_A_GLU_207
+1fhsA_A_THR_108	<-->	6ogeA_A_LEU_168
+1fhsA_A_ARG_27	<-->	6ogeA_A_MET_198
+1fhsA_A_LYS_25	<-->	6ogeA_A_GLU_207
+1fhsA_A_GLN_105	<-->	6ogeA_A_SER_202
+1fhsA_A_THR_108	<-->	6ogeA_A_ASP_165
+1fhsA_A_PRO_107	<-->	6ogeA_A_THR_166
+1fhsA_A_PRO_107	<-->	6ogeA_A_ASP_165
+1fhsA_A_TYR_109	<-->	6ogeA_A_ARG_203
+1fhsA_A_THR_108	<-->	6ogeA_A_ILE_167
+1fhsA_A_TYR_109	<-->	6ogeA_A_LEU_168
+1fhsA_A_MET_22	<-->	6ogeA_A_HIS_193
+1fhsA_A_VAL_110	<-->	6ogeA_A_ARG_203

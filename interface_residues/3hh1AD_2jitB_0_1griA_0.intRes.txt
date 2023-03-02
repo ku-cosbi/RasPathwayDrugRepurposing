@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2jitB_B_GLU_928	<-->	1griA_A_ALA_68
+2jitB_B_LEU_887	<-->	1griA_A_HIS_107
+2jitB_B_GLU_922	<-->	1griA_A_ASP_104
+2jitB_B_SER_921	<-->	1griA_A_ASP_104
+2jitB_B_LEU_887	<-->	1griA_A_PHE_108
+2jitB_B_LEU_887	<-->	1griA_A_LYS_109
+2jitB_B_GLU_928	<-->	1griA_A_ARG_67
+2jitB_B_GLU_928	<-->	1griA_A_GLU_71
+2jitB_B_HIS_870	<-->	1griA_A_LEU_111
+2jitB_B_LEU_883	<-->	1griA_A_ARG_67
+2jitB_B_HIS_888	<-->	1griA_A_SER_96
+2jitB_B_ARG_889	<-->	1griA_A_TRP_121
+2jitB_B_ARG_889	<-->	1griA_A_PHE_108
+2jitB_B_ARG_889	<-->	1griA_A_LYS_109
+2jitB_B_GLU_922	<-->	1griA_A_ASN_103
+2jitB_B_HIS_888	<-->	1griA_A_ARG_67
+2jitB_B_LEU_887	<-->	1griA_A_ARG_67
+2jitB_B_GLU_884	<-->	1griA_A_ARG_67
+2jitB_B_SER_925	<-->	1griA_A_GLU_71
+2jitB_B_HIS_888	<-->	1griA_A_LYS_109
+2jitB_B_HIS_888	<-->	1griA_A_PHE_108

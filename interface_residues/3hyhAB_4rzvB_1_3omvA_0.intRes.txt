@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4rzvB_B_GLY_606	<-->	3omvA_A_ASN_553
+4rzvB_B_ILE_659	<-->	3omvA_A_LYS_378
+4rzvB_B_ILE_659	<-->	3omvA_A_VAL_379
+4rzvB_B_ASN_661	<-->	3omvA_A_LYS_378
+4rzvB_B_ILE_666	<-->	3omvA_A_PRO_505
+4rzvB_B_ASN_660	<-->	3omvA_A_ARG_354
+4rzvB_B_ASN_660	<-->	3omvA_A_LYS_378
+4rzvB_B_ILE_625	<-->	3omvA_A_PRO_505
+4rzvB_B_ASN_661	<-->	3omvA_A_SER_357
+4rzvB_B_SER_605	<-->	3omvA_A_ASN_553
+4rzvB_B_SER_605	<-->	3omvA_A_ASN_552
+4rzvB_B_HIS_608	<-->	3omvA_A_ASN_552
+4rzvB_B_PHE_610	<-->	3omvA_A_ARG_554
+4rzvB_B_GLU_667	<-->	3omvA_A_PRO_505
+4rzvB_B_ARG_603	<-->	3omvA_A_ASN_553
+4rzvB_B_ASN_661	<-->	3omvA_A_GLY_361
+4rzvB_B_SER_607	<-->	3omvA_A_ASN_553
+4rzvB_B_SER_607	<-->	3omvA_A_ASN_552
+4rzvB_B_ASP_663	<-->	3omvA_A_GLY_358
+4rzvB_B_GLU_667	<-->	3omvA_A_PHE_360
+4rzvB_B_SER_607	<-->	3omvA_A_ARG_554
+4rzvB_B_ARG_671	<-->	3omvA_A_GLU_385

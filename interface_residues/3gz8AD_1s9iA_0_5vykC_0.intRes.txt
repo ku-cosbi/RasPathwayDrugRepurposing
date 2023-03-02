@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1s9iA_A_LYS_68	<-->	5vykC_C_LYS_1051
+1s9iA_A_LEU_67	<-->	5vykC_C_LYS_1051
+1s9iA_A_GLU_66	<-->	5vykC_C_LYS_1051
+1s9iA_A_LYS_68	<-->	5vykC_C_VAL_1047
+1s9iA_A_LYS_68	<-->	5vykC_C_GLU_1096
+1s9iA_A_ASP_71	<-->	5vykC_C_TRP_1048
+1s9iA_A_PRO_93	<-->	5vykC_C_TRP_1048
+1s9iA_A_ARG_92	<-->	5vykC_C_TRP_1048
+1s9iA_A_ASP_70	<-->	5vykC_C_LEU_1100
+1s9iA_A_ASP_70	<-->	5vykC_C_LEU_1103
+1s9iA_A_ASP_70	<-->	5vykC_C_LEU_1099
+1s9iA_A_ASP_70	<-->	5vykC_C_VAL_1047
+1s9iA_A_ASP_69	<-->	5vykC_C_LEU_1100

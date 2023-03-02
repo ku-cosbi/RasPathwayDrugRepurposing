@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xdvA_A_ARG_797	<-->	5wb8A_A_SER_356
+1xdvA_A_VAL_799	<-->	5wb8A_A_PRO_361
+1xdvA_A_GLN_712	<-->	5wb8A_A_GLU_90
+1xdvA_A_GLN_800	<-->	5wb8A_A_PRO_361
+1xdvA_A_ALA_798	<-->	5wb8A_A_PRO_361
+1xdvA_A_GLN_800	<-->	5wb8A_A_THR_330
+1xdvA_A_GLN_800	<-->	5wb8A_A_HIS_359
+1xdvA_A_SER_802	<-->	5wb8A_A_THR_330
+1xdvA_A_GLN_972	<-->	5wb8A_A_HIS_359
+1xdvA_A_GLN_975	<-->	5wb8A_A_HIS_359
+1xdvA_A_TYR_702	<-->	5wb8A_A_THR_358
+1xdvA_A_GLU_803	<-->	5wb8A_A_PRO_361
+1xdvA_A_TYR_702	<-->	5wb8A_A_PHE_357
+1xdvA_A_ARG_706	<-->	5wb8A_A_ASP_323
+1xdvA_A_ASP_707	<-->	5wb8A_A_ASP_323
+1xdvA_A_ALA_708	<-->	5wb8A_A_ASP_323
+1xdvA_A_GLU_716	<-->	5wb8A_A_GLU_90
+1xdvA_A_GLU_716	<-->	5wb8A_A_ASN_91
+1xdvA_A_GLU_716	<-->	5wb8A_A_SER_92
+1xdvA_A_GLN_712	<-->	5wb8A_A_ASN_91
+1xdvA_A_GLU_715	<-->	5wb8A_A_GLU_90
+1xdvA_A_ALA_798	<-->	5wb8A_A_PRO_362
+1xdvA_A_ASN_820	<-->	5wb8A_A_PRO_361
+1xdvA_A_ASN_820	<-->	5wb8A_A_PRO_362

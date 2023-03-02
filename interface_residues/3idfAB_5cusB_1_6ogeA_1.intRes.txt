@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_GLU_460	<-->	6ogeA_A_ILE_167
+5cusB_B_GLU_460	<-->	6ogeA_A_LEU_168
+5cusB_B_THR_452	<-->	6ogeA_A_ALA_180
+5cusB_B_THR_452	<-->	6ogeA_A_THR_182
+5cusB_B_ILE_465	<-->	6ogeA_A_THR_186
+5cusB_B_PRO_458	<-->	6ogeA_A_LYS_170
+5cusB_B_ASN_450	<-->	6ogeA_A_THR_182
+5cusB_B_ASN_450	<-->	6ogeA_A_LEU_183
+5cusB_B_ASN_450	<-->	6ogeA_A_LEU_181
+5cusB_B_HIS_447	<-->	6ogeA_A_LEU_183
+5cusB_B_ARG_471	<-->	6ogeA_A_GLN_156
+5cusB_B_LYS_466	<-->	6ogeA_A_THR_186
+5cusB_B_SER_448	<-->	6ogeA_A_LEU_183
+5cusB_B_GLU_461	<-->	6ogeA_A_ASP_165
+5cusB_B_GLU_461	<-->	6ogeA_A_THR_166
+5cusB_B_HIS_447	<-->	6ogeA_A_ASP_185
+5cusB_B_ARG_471	<-->	6ogeA_A_ARG_157
+5cusB_B_PRO_458	<-->	6ogeA_A_LEU_168
+5cusB_B_SER_487	<-->	6ogeA_A_LEU_181
+5cusB_B_LYS_453	<-->	6ogeA_A_LEU_181
+5cusB_B_LEU_449	<-->	6ogeA_A_LEU_183

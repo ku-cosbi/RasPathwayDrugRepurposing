@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1m17A_A_ARG_865	<-->	1griA_A_TRP_121
+1m17A_A_LEU_859	<-->	1griA_A_ARG_67
+1m17A_A_SER_897	<-->	1griA_A_ASP_104
+1m17A_A_HIS_864	<-->	1griA_A_LYS_109
+1m17A_A_HIS_864	<-->	1griA_A_SER_96
+1m17A_A_GLU_904	<-->	1griA_A_GLU_71
+1m17A_A_ILE_929	<-->	1griA_A_ARG_67
+1m17A_A_GLU_904	<-->	1griA_A_ALA_68
+1m17A_A_SER_901	<-->	1griA_A_GLU_71
+1m17A_A_ARG_865	<-->	1griA_A_PHE_108
+1m17A_A_LEU_863	<-->	1griA_A_PHE_108
+1m17A_A_LEU_863	<-->	1griA_A_ARG_67
+1m17A_A_GLY_849	<-->	1griA_A_ARG_142
+1m17A_A_GLU_904	<-->	1griA_A_ARG_67
+1m17A_A_LEU_863	<-->	1griA_A_HIS_107
+1m17A_A_GLY_850	<-->	1griA_A_ARG_142
+1m17A_A_HIS_864	<-->	1griA_A_PHE_108

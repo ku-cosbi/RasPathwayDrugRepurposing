@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4rzvB_B_GLU_703	<-->	2n42A_A_ARG_41
+4rzvB_B_ASP_702	<-->	2n42A_A_GLN_43
+4rzvB_B_ASP_638	<-->	2n42A_A_MET_1
+4rzvB_B_ARG_709	<-->	2n42A_A_ASP_54
+4rzvB_B_ARG_709	<-->	2n42A_A_TYR_4
+4rzvB_B_ARG_709	<-->	2n42A_A_LYS_5
+4rzvB_B_ARG_709	<-->	2n42A_A_GLU_3
+4rzvB_B_PRO_705	<-->	2n42A_A_GLU_3
+4rzvB_B_PHE_707	<-->	2n42A_A_MET_1
+4rzvB_B_GLN_636	<-->	2n42A_A_THR_2
+4rzvB_B_GLN_636	<-->	2n42A_A_MET_1
+4rzvB_B_GLU_695	<-->	2n42A_A_ARG_41
+4rzvB_B_ASP_702	<-->	2n42A_A_LEU_52
+4rzvB_B_GLU_703	<-->	2n42A_A_LEU_52
+4rzvB_B_PRO_705	<-->	2n42A_A_ARG_41
+4rzvB_B_ARG_704	<-->	2n42A_A_LEU_52
+4rzvB_B_ARG_704	<-->	2n42A_A_GLU_3
+4rzvB_B_PHE_635	<-->	2n42A_A_MET_1
+4rzvB_B_HIS_568	<-->	2n42A_A_MET_1
+4rzvB_B_VAL_639	<-->	2n42A_A_MET_1
+4rzvB_B_SER_706	<-->	2n42A_A_GLU_3
+4rzvB_B_SER_706	<-->	2n42A_A_THR_2
+4rzvB_B_SER_706	<-->	2n42A_A_MET_1
