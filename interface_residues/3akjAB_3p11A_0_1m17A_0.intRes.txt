@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_MET_72	<-->	1m17A_A_GLU_712
+3p11A_A_LEU_102	<-->	1m17A_A_VAL_714
+3p11A_A_GLU_154	<-->	1m17A_A_PRO_748
+3p11A_A_GLY_16	<-->	1m17A_A_LEU_679
+3p11A_A_LYS_95	<-->	1m17A_A_ASP_746
+3p11A_A_ASN_15	<-->	1m17A_A_LEU_679
+3p11A_A_GLY_94	<-->	1m17A_A_ASP_746
+3p11A_A_ASP_93	<-->	1m17A_A_ASP_746
+3p11A_A_TYR_92	<-->	1m17A_A_ASP_746
+3p11A_A_GLN_90	<-->	1m17A_A_GLN_677
+3p11A_A_LEU_48	<-->	1m17A_A_GLU_712
+3p11A_A_LEU_48	<-->	1m17A_A_GLY_711
+3p11A_A_PHE_96	<-->	1m17A_A_ASP_746
+3p11A_A_ASN_105	<-->	1m17A_A_LYS_713
+3p11A_A_TYR_92	<-->	1m17A_A_ARG_681

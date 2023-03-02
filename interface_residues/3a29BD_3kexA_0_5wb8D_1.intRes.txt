@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_ARG_951	<-->	5wb8D_D_GLY_173
+3kexA_A_GLU_941	<-->	5wb8D_D_HIS_159
+3kexA_A_ALA_950	<-->	5wb8D_D_LYS_165
+3kexA_A_ARG_951	<-->	5wb8D_D_CYS_133
+3kexA_A_ARG_951	<-->	5wb8D_D_ASN_172
+3kexA_A_ASN_794	<-->	5wb8D_D_LYS_165
+3kexA_A_ARG_948	<-->	5wb8D_D_GLU_136
+3kexA_A_ARG_951	<-->	5wb8D_D_CYS_166
+3kexA_A_ALA_943	<-->	5wb8D_D_HIS_159
+3kexA_A_ARG_951	<-->	5wb8D_D_SER_137
+3kexA_A_ARG_951	<-->	5wb8D_D_GLU_136
+3kexA_A_LYS_940	<-->	5wb8D_D_HIS_159
+3kexA_A_ARG_951	<-->	5wb8D_D_ASN_134
+3kexA_A_LYS_801	<-->	5wb8D_D_SER_162
+3kexA_A_GLN_790	<-->	5wb8D_D_PRO_168
+3kexA_A_ASN_944	<-->	5wb8D_D_HIS_159
+3kexA_A_ASN_944	<-->	5wb8D_D_ASN_158

@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8A_A_ASN_104	<-->	3kexA_A_GLN_828
+5wb8A_A_TYR_101	<-->	3kexA_A_ALA_950
+5wb8A_A_ASP_102	<-->	3kexA_A_ASN_794
+5wb8A_A_ASN_104	<-->	3kexA_A_LEU_791
+5wb8A_A_TYR_101	<-->	3kexA_A_PRO_953
+5wb8A_A_ASN_104	<-->	3kexA_A_SER_827
+5wb8A_A_LYS_105	<-->	3kexA_A_SER_827
+5wb8A_A_LEU_69	<-->	3kexA_A_ARG_951
+5wb8A_A_ASN_104	<-->	3kexA_A_GLN_798
+5wb8A_A_ASN_128	<-->	3kexA_A_GLN_790
+5wb8A_A_ASN_104	<-->	3kexA_A_ASN_794
+5wb8A_A_TYR_101	<-->	3kexA_A_GLN_790
+5wb8A_A_SER_99	<-->	3kexA_A_ARG_951

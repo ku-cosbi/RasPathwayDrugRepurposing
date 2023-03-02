@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ptsD_D_GLY_423	<-->	1s9iA_A_LYS_187
+6ptsD_D_GLY_407	<-->	1s9iA_A_GLU_118
+6ptsD_D_LEU_402	<-->	1s9iA_A_GLU_118
+6ptsD_D_TRP_487	<-->	1s9iA_A_TYR_138
+6ptsD_D_TRP_487	<-->	1s9iA_A_LYS_68
+6ptsD_D_LYS_365	<-->	1s9iA_A_GLU_66
+6ptsD_D_GLU_404	<-->	1s9iA_A_GLN_189
+6ptsD_D_GLU_425	<-->	1s9iA_A_GLU_124
+6ptsD_D_ARG_359	<-->	1s9iA_A_GLU_124
+6ptsD_D_GLN_403	<-->	1s9iA_A_GLN_189
+6ptsD_D_ASP_486	<-->	1s9iA_A_LYS_68
+6ptsD_D_GLY_407	<-->	1s9iA_A_GLN_114
+6ptsD_D_ARG_367	<-->	1s9iA_A_HIS_123
+6ptsD_D_LEU_402	<-->	1s9iA_A_GLN_189
+6ptsD_D_LEU_401	<-->	1s9iA_A_VAL_121

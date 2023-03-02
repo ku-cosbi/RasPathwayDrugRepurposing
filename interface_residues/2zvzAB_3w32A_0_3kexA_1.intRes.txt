@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w32A_A_GLY_917	<-->	3kexA_A_SER_733
+3w32A_A_PHE_997	<-->	3kexA_A_ARG_691
+3w32A_A_VAL_717	<-->	3kexA_A_LYS_694
+3w32A_A_VAL_717	<-->	3kexA_A_VAL_695
+3w32A_A_ASN_996	<-->	3kexA_A_LYS_717
+3w32A_A_SER_921	<-->	3kexA_A_SER_729
+3w32A_A_ALA_920	<-->	3kexA_A_GLY_730
+3w32A_A_ASP_800	<-->	3kexA_A_ARG_691
+3w32A_A_LYS_875	<-->	3kexA_A_LYS_728
+3w32A_A_GLY_917	<-->	3kexA_A_GLN_735
+3w32A_A_SER_720	<-->	3kexA_A_VAL_695
+3w32A_A_PRO_919	<-->	3kexA_A_ARG_731
+3w32A_A_PRO_919	<-->	3kexA_A_GLY_730
+3w32A_A_PRO_919	<-->	3kexA_A_GLN_732
+3w32A_A_GLY_719	<-->	3kexA_A_VAL_695
+3w32A_A_GLY_917	<-->	3kexA_A_SER_762
+3w32A_A_LYS_913	<-->	3kexA_A_SER_762
+3w32A_A_ASP_916	<-->	3kexA_A_GLN_735
+3w32A_A_SER_921	<-->	3kexA_A_GLY_730
+3w32A_A_SER_921	<-->	3kexA_A_ARG_731
+3w32A_A_LEU_718	<-->	3kexA_A_LEU_693
+3w32A_A_LYS_716	<-->	3kexA_A_LYS_694
+3w32A_A_ASP_916	<-->	3kexA_A_SER_762
+3w32A_A_LEU_718	<-->	3kexA_A_LYS_694

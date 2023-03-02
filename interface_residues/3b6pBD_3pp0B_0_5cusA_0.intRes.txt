@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ARG_981	<-->	5cusA_A_ASP_482
+3pp0B_B_ARG_985	<-->	5cusA_A_PRO_493
+3pp0B_B_ASP_950	<-->	5cusA_A_HIS_388
+3pp0B_B_MET_953	<-->	5cusA_A_ARG_369
+3pp0B_B_ASP_982	<-->	5cusA_A_PRO_493
+3pp0B_B_ARG_978	<-->	5cusA_A_PRO_495
+3pp0B_B_ARG_978	<-->	5cusA_A_GLY_494
+3pp0B_B_ARG_978	<-->	5cusA_A_GLY_496
+3pp0B_B_ARG_978	<-->	5cusA_A_PRO_493
+3pp0B_B_ARG_985	<-->	5cusA_A_THR_420
+3pp0B_B_ASP_982	<-->	5cusA_A_TYR_445
+3pp0B_B_THR_948	<-->	5cusA_A_HIS_386
+3pp0B_B_ILE_949	<-->	5cusA_A_PRO_362
+3pp0B_B_ARG_985	<-->	5cusA_A_HIS_388
+3pp0B_B_PHE_986	<-->	5cusA_A_HIS_388
+3pp0B_B_ASP_982	<-->	5cusA_A_LYS_479
+3pp0B_B_THR_948	<-->	5cusA_A_HIS_388
+3pp0B_B_MET_953	<-->	5cusA_A_ASN_366
+3pp0B_B_ILE_949	<-->	5cusA_A_MET_387
+3pp0B_B_ILE_949	<-->	5cusA_A_HIS_386

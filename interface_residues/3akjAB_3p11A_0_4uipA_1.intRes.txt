@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_LEU_102	<-->	4uipA_A_ASN_91
+3p11A_A_LEU_102	<-->	4uipA_A_GLU_90
+3p11A_A_GLU_24	<-->	4uipA_A_ASN_337
+3p11A_A_TYR_129	<-->	4uipA_A_ARG_125
+3p11A_A_LEU_17	<-->	4uipA_A_LYS_13
+3p11A_A_LEU_17	<-->	4uipA_A_ASN_12
+3p11A_A_LEU_17	<-->	4uipA_A_SER_11
+3p11A_A_LYS_132	<-->	4uipA_A_TYR_93
+3p11A_A_PHE_99	<-->	4uipA_A_LEU_14
+3p11A_A_LEU_17	<-->	4uipA_A_THR_15
+3p11A_A_LEU_17	<-->	4uipA_A_LEU_14
+3p11A_A_GLY_16	<-->	4uipA_A_THR_15
+3p11A_A_GLN_28	<-->	4uipA_A_ASN_337
+3p11A_A_TYR_31	<-->	4uipA_A_LYS_333
+3p11A_A_LEU_102	<-->	4uipA_A_TYR_89
+3p11A_A_LYS_132	<-->	4uipA_A_GLU_90
+3p11A_A_ASP_22	<-->	4uipA_A_ALA_289
+3p11A_A_ASP_93	<-->	4uipA_A_LEU_14
+3p11A_A_TYR_92	<-->	4uipA_A_LEU_14
+3p11A_A_MET_101	<-->	4uipA_A_GLU_90
+3p11A_A_GLU_35	<-->	4uipA_A_LYS_333
+3p11A_A_ASN_15	<-->	4uipA_A_THR_15
+3p11A_A_TYR_104	<-->	4uipA_A_ASN_91

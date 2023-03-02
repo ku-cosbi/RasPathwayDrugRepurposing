@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3gopA_A_LYS_946	<-->	5cusB_B_GLY_494
+3gopA_A_LYS_946	<-->	5cusB_B_PRO_495
+3gopA_A_GLU_673	<-->	5cusB_B_GLU_541
+3gopA_A_ARG_949	<-->	5cusB_B_ASP_482
+3gopA_A_ILE_942	<-->	5cusB_B_PRO_495
+3gopA_A_LYS_946	<-->	5cusB_B_PRO_493
+3gopA_A_ILE_917	<-->	5cusB_B_ASN_366
+3gopA_A_ARG_953	<-->	5cusB_B_THR_420
+3gopA_A_ARG_938	<-->	5cusB_B_ARG_506
+3gopA_A_ILE_917	<-->	5cusB_B_GLU_363
+3gopA_A_MET_921	<-->	5cusB_B_ASN_366
+3gopA_A_TYR_954	<-->	5cusB_B_HIS_388
+3gopA_A_ARG_953	<-->	5cusB_B_HIS_388
+3gopA_A_ILE_942	<-->	5cusB_B_VAL_509
+3gopA_A_ASP_950	<-->	5cusB_B_TYR_445
+3gopA_A_ASP_950	<-->	5cusB_B_LYS_479
+3gopA_A_MET_921	<-->	5cusB_B_ARG_369
+3gopA_A_ARG_953	<-->	5cusB_B_ASN_418
+3gopA_A_LYS_946	<-->	5cusB_B_GLY_496
+3gopA_A_ASP_950	<-->	5cusB_B_PRO_493

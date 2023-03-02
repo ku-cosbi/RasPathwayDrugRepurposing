@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_LEU_53	<-->	3p11A_A_TRP_354
+4xwxA_A_LYS_139	<-->	3p11A_A_PRO_385
+4xwxA_A_LEU_53	<-->	3p11A_A_GLY_351
+4xwxA_A_ALA_136	<-->	3p11A_A_ILE_346
+4xwxA_A_ALA_135	<-->	3p11A_A_LEU_417
+4xwxA_A_TYR_52	<-->	3p11A_A_TRP_354
+4xwxA_A_PHE_117	<-->	3p11A_A_ARG_441
+4xwxA_A_PRO_121	<-->	3p11A_A_LYS_415
+4xwxA_A_ASP_137	<-->	3p11A_A_LEU_417
+4xwxA_A_ASP_137	<-->	3p11A_A_ASN_418
+4xwxA_A_MET_120	<-->	3p11A_A_LYS_415
+4xwxA_A_MET_120	<-->	3p11A_A_LEU_417
+4xwxA_A_PRO_121	<-->	3p11A_A_ILE_346
+4xwxA_A_ALA_136	<-->	3p11A_A_LYS_415
+4xwxA_A_LEU_53	<-->	3p11A_A_ILE_346
+4xwxA_A_LEU_53	<-->	3p11A_A_THR_347
+4xwxA_A_LEU_186	<-->	3p11A_A_TRP_354
+4xwxA_A_CYS_138	<-->	3p11A_A_ASN_350
+4xwxA_A_ASP_189	<-->	3p11A_A_TRP_354
+4xwxA_A_CYS_138	<-->	3p11A_A_PRO_385
+4xwxA_A_SER_51	<-->	3p11A_A_TRP_354
+4xwxA_A_GLN_140	<-->	3p11A_A_LEU_417
+4xwxA_A_ASP_137	<-->	3p11A_A_PRO_385

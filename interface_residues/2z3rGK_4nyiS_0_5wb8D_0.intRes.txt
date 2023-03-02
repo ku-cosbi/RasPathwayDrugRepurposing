@@ -1,0 +1,15 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiS_S_ARG_896	<-->	5wb8D_D_ASP_22
+4nyiS_S_ASN_1020	<-->	5wb8D_D_GLY_471
+4nyiS_S_ASN_1020	<-->	5wb8D_D_ASN_473
+4nyiS_S_ARG_1041	<-->	5wb8D_D_TYR_50
+4nyiS_S_ASN_1020	<-->	5wb8D_D_SER_474
+4nyiS_S_ARG_896	<-->	5wb8D_D_LEU_25
+4nyiS_S_LYS_898	<-->	5wb8D_D_LYS_465
+4nyiS_S_LYS_898	<-->	5wb8D_D_ILE_467
+4nyiS_S_ARG_1041	<-->	5wb8D_D_ASN_49
+4nyiS_S_GLU_891	<-->	5wb8D_D_ILE_467
+4nyiS_S_LYS_899	<-->	5wb8D_D_GLN_411
+4nyiS_S_GLU_891	<-->	5wb8D_D_SER_468

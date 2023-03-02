@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5j18A_A_ASP_202	<-->	6xguB_B_ILE_154
+5j18A_A_ASP_202	<-->	6xguB_B_CYS_155
+5j18A_A_LEU_232	<-->	6xguB_B_LEU_136
+5j18A_A_LEU_232	<-->	6xguB_B_MET_183
+5j18A_A_LEU_232	<-->	6xguB_B_PHE_130
+5j18A_A_VAL_230	<-->	6xguB_B_PHE_130
+5j18A_A_LYS_205	<-->	6xguB_B_PRO_181
+5j18A_A_GLU_228	<-->	6xguB_B_TRP_187
+5j18A_A_LEU_232	<-->	6xguB_B_VAL_185
+5j18A_A_ASP_202	<-->	6xguB_B_LYS_179
+5j18A_A_PRO_207	<-->	6xguB_B_GLN_92
+5j18A_A_ASN_229	<-->	6xguB_B_PRO_135
+5j18A_A_GLY_203	<-->	6xguB_B_ILE_154
+5j18A_A_GLY_203	<-->	6xguB_B_LYS_179
+5j18A_A_VAL_230	<-->	6xguB_B_GLU_94
+5j18A_A_LEU_232	<-->	6xguB_B_LEU_91
+5j18A_A_VAL_230	<-->	6xguB_B_LEU_136

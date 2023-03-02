@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_PRO_362	<-->	1m17A_A_GLN_911
+5cusA_A_ARG_369	<-->	1m17A_A_MET_921
+5cusA_A_GLU_363	<-->	1m17A_A_VAL_924
+5cusA_A_VAL_392	<-->	1m17A_A_MET_921
+5cusA_A_ASN_366	<-->	1m17A_A_MET_921
+5cusA_A_HIS_388	<-->	1m17A_A_ILE_917
+5cusA_A_MET_387	<-->	1m17A_A_ILE_917
+5cusA_A_ASN_366	<-->	1m17A_A_VAL_924
+5cusA_A_ASN_389	<-->	1m17A_A_ILE_917
+5cusA_A_TRP_383	<-->	1m17A_A_ILE_917
+5cusA_A_SER_391	<-->	1m17A_A_ILE_917
+5cusA_A_HIS_388	<-->	1m17A_A_THR_916
+5cusA_A_PRO_493	<-->	1m17A_A_ARG_953
+5cusA_A_HIS_386	<-->	1m17A_A_CYS_915
+5cusA_A_ASP_361	<-->	1m17A_A_ARG_908
+5cusA_A_HIS_386	<-->	1m17A_A_PRO_913
+5cusA_A_HIS_386	<-->	1m17A_A_PRO_912
+5cusA_A_HIS_386	<-->	1m17A_A_GLN_911

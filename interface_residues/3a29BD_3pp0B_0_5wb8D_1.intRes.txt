@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ARG_981	<-->	5wb8D_D_CYS_133
+3pp0B_B_ARG_981	<-->	5wb8D_D_GLY_173
+3pp0B_B_ARG_970	<-->	5wb8D_D_HIS_159
+3pp0B_B_ASP_982	<-->	5wb8D_D_GLY_173
+3pp0B_B_ASP_982	<-->	5wb8D_D_ASN_172
+3pp0B_B_ARG_981	<-->	5wb8D_D_GLU_136
+3pp0B_B_ARG_981	<-->	5wb8D_D_ASN_134
+3pp0B_B_ALA_980	<-->	5wb8D_D_LYS_165
+3pp0B_B_SER_974	<-->	5wb8D_D_ASN_158
+3pp0B_B_SER_974	<-->	5wb8D_D_HIS_159
+3pp0B_B_GLU_971	<-->	5wb8D_D_HIS_159
+3pp0B_B_GLN_820	<-->	5wb8D_D_CYS_166
+3pp0B_B_GLN_820	<-->	5wb8D_D_LYS_165
+3pp0B_B_GLN_820	<-->	5wb8D_D_PRO_168
+3pp0B_B_ARG_981	<-->	5wb8D_D_CYS_163
+3pp0B_B_ARG_981	<-->	5wb8D_D_LYS_165
+3pp0B_B_ARG_981	<-->	5wb8D_D_GLN_164
+3pp0B_B_ARG_981	<-->	5wb8D_D_CYS_166
+3pp0B_B_MET_827	<-->	5wb8D_D_CYS_163
+3pp0B_B_ARG_978	<-->	5wb8D_D_GLU_136
+3pp0B_B_VAL_973	<-->	5wb8D_D_HIS_159
+3pp0B_B_LYS_831	<-->	5wb8D_D_SER_162

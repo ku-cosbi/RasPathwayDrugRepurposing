@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ILE_949	<-->	5cusB_B_GLY_494
+3pp0B_B_ILE_949	<-->	5cusB_B_GLN_497
+3pp0B_B_CYS_947	<-->	5cusB_B_HIS_388
+3pp0B_B_GLN_984	<-->	5cusB_B_GLU_477
+3pp0B_B_GLN_990	<-->	5cusB_B_GLN_442
+3pp0B_B_ILE_949	<-->	5cusB_B_PRO_493
+3pp0B_B_ASN_991	<-->	5cusB_B_ASN_418
+3pp0B_B_GLN_943	<-->	5cusB_B_HIS_386
+3pp0B_B_ARG_985	<-->	5cusB_B_GLY_478
+3pp0B_B_GLN_990	<-->	5cusB_B_LYS_479
+3pp0B_B_PRO_944	<-->	5cusB_B_HIS_386
+3pp0B_B_ASN_991	<-->	5cusB_B_GLN_442
+3pp0B_B_GLN_990	<-->	5cusB_B_ARG_469
+3pp0B_B_PRO_945	<-->	5cusB_B_HIS_388
+3pp0B_B_VAL_988	<-->	5cusB_B_LYS_479
+3pp0B_B_PRO_945	<-->	5cusB_B_PRO_385
+3pp0B_B_ARG_985	<-->	5cusB_B_GLU_477
+3pp0B_B_PRO_945	<-->	5cusB_B_MET_387
+3pp0B_B_PRO_945	<-->	5cusB_B_HIS_386
+3pp0B_B_ASN_991	<-->	5cusB_B_THR_420

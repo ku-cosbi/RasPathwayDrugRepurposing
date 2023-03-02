@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiR_R_ILE_142	<-->	3ibeA_A_TRP_410
+4nyiR_R_ILE_142	<-->	3ibeA_A_ASN_411
+4nyiR_R_ASP_154	<-->	3ibeA_A_LEU_409
+4nyiR_R_ARG_161	<-->	3ibeA_A_VAL_412
+4nyiR_R_ASP_47	<-->	3ibeA_A_THR_399
+4nyiR_R_GLU_162	<-->	3ibeA_A_VAL_412
+4nyiR_R_GLN_165	<-->	3ibeA_A_GLU_415
+4nyiR_R_GLU_162	<-->	3ibeA_A_TRP_413
+4nyiR_R_ARG_161	<-->	3ibeA_A_THR_399
+4nyiR_R_ILE_139	<-->	3ibeA_A_TRP_413
+4nyiR_R_PRO_140	<-->	3ibeA_A_VAL_412
+4nyiR_R_GLN_165	<-->	3ibeA_A_LEU_414
+4nyiR_R_ASP_108	<-->	3ibeA_A_ARG_362
+4nyiR_R_PRO_140	<-->	3ibeA_A_ASN_411
+4nyiR_R_ARG_161	<-->	3ibeA_A_SER_400
+4nyiR_R_ASP_47	<-->	3ibeA_A_PRO_401
+4nyiR_R_GLY_138	<-->	3ibeA_A_TRP_413
+4nyiR_R_THR_158	<-->	3ibeA_A_TRP_410
+4nyiR_R_TYR_141	<-->	3ibeA_A_ASN_411
+4nyiR_R_THR_158	<-->	3ibeA_A_ASN_411

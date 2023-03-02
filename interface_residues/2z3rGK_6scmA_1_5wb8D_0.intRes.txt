@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6scmA_A_LYS_914	<-->	5wb8D_D_ASN_32
+6scmA_A_SER_921	<-->	5wb8D_D_PHE_54
+6scmA_A_ASN_1020	<-->	5wb8D_D_ASN_473
+6scmA_A_ARG_896	<-->	5wb8D_D_GLU_21
+6scmA_A_ASN_1020	<-->	5wb8D_D_SER_474
+6scmA_A_GLU_909	<-->	5wb8D_D_LYS_463
+6scmA_A_GLU_906	<-->	5wb8D_D_LYS_463
+6scmA_A_SER_921	<-->	5wb8D_D_SER_53
+6scmA_A_GLU_903	<-->	5wb8D_D_LEU_25
+6scmA_A_ILE_922	<-->	5wb8D_D_ASP_51
+6scmA_A_GLU_902	<-->	5wb8D_D_LYS_465
+6scmA_A_ARG_1019	<-->	5wb8D_D_ASN_473
+6scmA_A_ILE_900	<-->	5wb8D_D_LEU_25
+6scmA_A_PRO_1021	<-->	5wb8D_D_ASN_473
+6scmA_A_GLU_891	<-->	5wb8D_D_SER_468

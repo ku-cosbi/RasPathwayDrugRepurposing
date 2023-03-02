@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1oy2A_A_ARG_99	<-->	3n85A_A_GLN_119
+1oy2A_A_ARG_112	<-->	3n85A_A_GLU_188
+1oy2A_A_PRO_101	<-->	3n85A_A_SER_187
+1oy2A_A_PRO_101	<-->	3n85A_A_SER_186
+1oy2A_A_ARG_98	<-->	3n85A_A_GLU_185
+1oy2A_A_ARG_99	<-->	3n85A_A_SER_186
+1oy2A_A_ARG_99	<-->	3n85A_A_GLN_71
+1oy2A_A_ARG_99	<-->	3n85A_A_GLU_185
+1oy2A_A_ARG_98	<-->	3n85A_A_HIS_171
+1oy2A_A_LYS_116	<-->	3n85A_A_SER_50
+1oy2A_A_ARG_99	<-->	3n85A_A_GLU_117

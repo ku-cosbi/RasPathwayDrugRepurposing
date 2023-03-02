@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_ASN_547	<-->	6j71A_A_ASN_556
+5cusA_A_ASN_547	<-->	6j71A_A_ALA_557
+5cusA_A_THR_543	<-->	6j71A_A_GLU_543
+5cusA_A_PHE_251	<-->	6j71A_A_ARG_517
+5cusA_A_LEU_517	<-->	6j71A_A_LEU_547
+5cusA_A_GLY_563	<-->	6j71A_A_ARG_517
+5cusA_A_ASP_552	<-->	6j71A_A_ARG_558
+5cusA_A_ALA_525	<-->	6j71A_A_PHE_577
+5cusA_A_ASN_503	<-->	6j71A_A_VAL_585
+5cusA_A_PHE_516	<-->	6j71A_A_VAL_574
+5cusA_A_ASN_547	<-->	6j71A_A_PHE_534
+5cusA_A_ASN_547	<-->	6j71A_A_VAL_555
+5cusA_A_ARG_502	<-->	6j71A_A_VAL_585
+5cusA_A_PRO_564	<-->	6j71A_A_ASN_530
+5cusA_A_TYR_504	<-->	6j71A_A_VAL_574
+5cusA_A_TYR_504	<-->	6j71A_A_PHE_577
+5cusA_A_TYR_504	<-->	6j71A_A_CYS_576
+5cusA_A_GLU_527	<-->	6j71A_A_PHE_577
+5cusA_A_PRO_564	<-->	6j71A_A_ARG_517
+5cusA_A_ALA_528	<-->	6j71A_A_PHE_577
+5cusA_A_ASN_547	<-->	6j71A_A_ARG_558

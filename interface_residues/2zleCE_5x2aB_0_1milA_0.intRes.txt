@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5x2aB_B_ASP_830	<-->	1milA_A_MET_81
+5x2aB_B_SER_768	<-->	1milA_A_ASP_82
+5x2aB_B_ASP_770	<-->	1milA_A_ASN_83
+5x2aB_B_ASP_770	<-->	1milA_A_ASP_82
+5x2aB_B_ARG_831	<-->	1milA_A_MET_81
+5x2aB_B_ARG_832	<-->	1milA_A_PRO_99
+5x2aB_B_ARG_832	<-->	1milA_A_PHE_29
+5x2aB_B_TYR_827	<-->	1milA_A_ASP_82
+5x2aB_B_ASP_770	<-->	1milA_A_HIS_84
+5x2aB_B_TYR_827	<-->	1milA_A_HIS_84
+5x2aB_B_ARG_832	<-->	1milA_A_TRP_9
+5x2aB_B_ASN_771	<-->	1milA_A_HIS_84
+5x2aB_B_ASP_1009	<-->	1milA_A_HIS_84
+5x2aB_B_ASP_1009	<-->	1milA_A_LEU_85
+5x2aB_B_ARG_832	<-->	1milA_A_GLU_7
+5x2aB_B_ASP_830	<-->	1milA_A_GLN_97
+5x2aB_B_ASN_700	<-->	1milA_A_HIS_75

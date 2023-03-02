@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1s9iA_A_ALA_355	<-->	7m0xB_B_GLN_236
+1s9iA_A_LYS_352	<-->	7m0xB_B_GLU_348
+1s9iA_A_GLN_240	<-->	7m0xB_B_ALA_347
+1s9iA_A_GLU_356	<-->	7m0xB_B_ASN_319
+1s9iA_A_LYS_352	<-->	7m0xB_B_ASN_345
+1s9iA_A_ASN_353	<-->	7m0xB_B_VAL_318
+1s9iA_A_ALA_355	<-->	7m0xB_B_ASN_319
+1s9iA_A_GLU_356	<-->	7m0xB_B_LYS_344
+1s9iA_A_ASN_327	<-->	7m0xB_B_GLU_348
+1s9iA_A_THR_242	<-->	7m0xB_B_TYR_240
+1s9iA_A_ALA_355	<-->	7m0xB_B_VAL_318
+1s9iA_A_ASN_353	<-->	7m0xB_B_LYS_344
+1s9iA_A_GLU_356	<-->	7m0xB_B_VAL_318
+1s9iA_A_VAL_326	<-->	7m0xB_B_ALA_347
+1s9iA_A_THR_242	<-->	7m0xB_B_HIS_239
+1s9iA_A_THR_242	<-->	7m0xB_B_THR_238
+1s9iA_A_GLU_237	<-->	7m0xB_B_TYR_240
+1s9iA_A_ALA_355	<-->	7m0xB_B_PRO_232
+1s9iA_A_GLN_240	<-->	7m0xB_B_TYR_240
+1s9iA_A_GLU_237	<-->	7m0xB_B_ASN_345
+1s9iA_A_GLU_237	<-->	7m0xB_B_PRO_346

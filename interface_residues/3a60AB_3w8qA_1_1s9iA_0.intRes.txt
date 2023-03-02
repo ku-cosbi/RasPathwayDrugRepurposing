@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w8qA_A_ARG_227	<-->	1s9iA_A_ILE_107
+3w8qA_A_TYR_229	<-->	1s9iA_A_ASP_221
+3w8qA_A_MET_230	<-->	1s9iA_A_ASP_221
+3w8qA_A_ARG_227	<-->	1s9iA_A_PRO_109
+3w8qA_A_HIS_239	<-->	1s9iA_A_GLN_240
+3w8qA_A_HIS_239	<-->	1s9iA_A_GLY_241
+3w8qA_A_ALA_347	<-->	1s9iA_A_ASN_327
+3w8qA_A_ALA_347	<-->	1s9iA_A_VAL_326
+3w8qA_A_PRO_232	<-->	1s9iA_A_MET_223
+3w8qA_A_TYR_229	<-->	1s9iA_A_ILE_111
+3w8qA_A_SER_231	<-->	1s9iA_A_ASP_221
+3w8qA_A_SER_231	<-->	1s9iA_A_MET_223
+3w8qA_A_THR_238	<-->	1s9iA_A_LEU_239
+3w8qA_A_ALA_347	<-->	1s9iA_A_GLN_240
+3w8qA_A_SER_241	<-->	1s9iA_A_GLN_240
+3w8qA_A_ALA_347	<-->	1s9iA_A_PRO_236
+3w8qA_A_GLU_348	<-->	1s9iA_A_LYS_352
+3w8qA_A_TYR_229	<-->	1s9iA_A_PRO_109
+3w8qA_A_PRO_346	<-->	1s9iA_A_GLN_240
+3w8qA_A_GLN_243	<-->	1s9iA_A_GLN_240
+3w8qA_A_ASN_345	<-->	1s9iA_A_ASN_353
+3w8qA_A_TYR_229	<-->	1s9iA_A_ILE_107

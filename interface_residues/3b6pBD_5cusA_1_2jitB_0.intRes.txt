@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_GLU_363	<-->	2jitB_B_MET_952
+5cusA_A_PRO_495	<-->	2jitB_B_LYS_970
+5cusA_A_HIS_559	<-->	2jitB_B_PRO_699
+5cusA_A_VAL_509	<-->	2jitB_B_ILE_966
+5cusA_A_PRO_483	<-->	2jitB_B_ARG_973
+5cusA_A_HIS_386	<-->	2jitB_B_ILE_941
+5cusA_A_PRO_493	<-->	2jitB_B_LYS_970
+5cusA_A_ALA_558	<-->	2jitB_B_PRO_699
+5cusA_A_PRO_493	<-->	2jitB_B_TYR_978
+5cusA_A_ASP_482	<-->	2jitB_B_ARG_973
+5cusA_A_HIS_388	<-->	2jitB_B_ASP_942
+5cusA_A_PRO_535	<-->	2jitB_B_GLU_697
+5cusA_A_GLU_536	<-->	2jitB_B_ALA_698
+5cusA_A_ASN_366	<-->	2jitB_B_SER_957
+5cusA_A_HIS_388	<-->	2jitB_B_MET_945
+5cusA_A_LEU_484	<-->	2jitB_B_ARG_973
+5cusA_A_GLU_536	<-->	2jitB_B_GLU_697
+5cusA_A_GLY_494	<-->	2jitB_B_LYS_970
+5cusA_A_PRO_535	<-->	2jitB_B_ALA_698
+5cusA_A_LYS_479	<-->	2jitB_B_ARG_977
+5cusA_A_ARG_369	<-->	2jitB_B_GLU_963

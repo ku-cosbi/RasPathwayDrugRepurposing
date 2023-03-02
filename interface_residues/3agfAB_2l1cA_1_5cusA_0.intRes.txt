@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l1cA_A_TYR_52	<-->	5cusA_A_ASN_105
+2l1cA_A_GLU_184	<-->	5cusA_A_HIS_110
+2l1cA_A_GLU_184	<-->	5cusA_A_GLU_74
+2l1cA_A_ARG_55	<-->	5cusA_A_LEU_48
+2l1cA_A_CYS_138	<-->	5cusA_A_TYR_92
+2l1cA_A_ALA_136	<-->	5cusA_A_MET_72
+2l1cA_A_LEU_53	<-->	5cusA_A_GLU_74
+2l1cA_A_LEU_53	<-->	5cusA_A_ASN_73
+2l1cA_A_LEU_53	<-->	5cusA_A_MET_72
+2l1cA_A_CYS_182	<-->	5cusA_A_THR_49
+2l1cA_A_ASP_189	<-->	5cusA_A_ASN_107
+2l1cA_A_THR_123	<-->	5cusA_A_MET_72
+2l1cA_A_GLU_184	<-->	5cusA_A_SER_108
+2l1cA_A_MET_120	<-->	5cusA_A_LEU_48
+2l1cA_A_GLU_184	<-->	5cusA_A_ASN_105
+2l1cA_A_VAL_54	<-->	5cusA_A_LEU_48
+2l1cA_A_ILE_122	<-->	5cusA_A_LEU_48
+2l1cA_A_LEU_53	<-->	5cusA_A_LEU_48
+2l1cA_A_SER_51	<-->	5cusA_A_THR_106
+2l1cA_A_CYS_182	<-->	5cusA_A_GLY_50
+2l1cA_A_LYS_44	<-->	5cusA_A_THR_106
+2l1cA_A_PRO_121	<-->	5cusA_A_VAL_47
+2l1cA_A_PRO_121	<-->	5cusA_A_LEU_48
+2l1cA_A_LEU_53	<-->	5cusA_A_ASN_105

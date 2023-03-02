@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_GLU_477	<-->	1m17A_A_MET_963
+5cusB_B_ALA_476	<-->	1m17A_A_ASP_982
+5cusB_B_ASN_418	<-->	1m17A_A_PRO_913
+5cusB_B_VAL_475	<-->	1m17A_A_ASP_984
+5cusB_B_ARG_472	<-->	1m17A_A_ASP_982
+5cusB_B_PRO_385	<-->	1m17A_A_GLN_911
+5cusB_B_VAL_475	<-->	1m17A_A_MET_983
+5cusB_B_VAL_475	<-->	1m17A_A_ASP_982
+5cusB_B_GLU_477	<-->	1m17A_A_GLN_958
+5cusB_B_HIS_386	<-->	1m17A_A_TYR_920
+5cusB_B_HIS_386	<-->	1m17A_A_THR_916
+5cusB_B_HIS_386	<-->	1m17A_A_ILE_917
+5cusB_B_HIS_355	<-->	1m17A_A_LYS_905
+5cusB_B_HIS_386	<-->	1m17A_A_CYS_915
+5cusB_B_ARG_471	<-->	1m17A_A_MET_983
+5cusB_B_ARG_472	<-->	1m17A_A_MET_983
+5cusB_B_HIS_386	<-->	1m17A_A_GLN_911

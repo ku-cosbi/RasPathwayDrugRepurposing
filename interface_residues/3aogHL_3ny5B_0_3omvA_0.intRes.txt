@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ny5B_B_GLY_209	<-->	3omvA_A_LEU_609
+3ny5B_B_GLY_209	<-->	3omvA_A_LEU_608
+3ny5B_B_LEU_232	<-->	3omvA_A_ASN_576
+3ny5B_B_ASP_211	<-->	3omvA_A_LEU_608
+3ny5B_B_HIS_235	<-->	3omvA_A_LYS_575
+3ny5B_B_ASP_211	<-->	3omvA_A_SER_612
+3ny5B_B_ASP_211	<-->	3omvA_A_HIS_611
+3ny5B_B_PRO_231	<-->	3omvA_A_LYS_575
+3ny5B_B_LEU_227	<-->	3omvA_A_LYS_579
+3ny5B_B_ALA_196	<-->	3omvA_A_LYS_579
+3ny5B_B_LEU_232	<-->	3omvA_A_LYS_575
+3ny5B_B_PRO_207	<-->	3omvA_A_ALA_580
+3ny5B_B_THR_212	<-->	3omvA_A_LEU_608
+3ny5B_B_PRO_207	<-->	3omvA_A_ARG_583
+3ny5B_B_TRP_210	<-->	3omvA_A_SER_612
+3ny5B_B_LYS_205	<-->	3omvA_A_ARG_583
+3ny5B_B_VAL_230	<-->	3omvA_A_LYS_575
