@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xdvA_A_ASN_508	<-->	1oy2A_A_ALA_136
+1xdvA_A_GLY_454	<-->	1oy2A_A_GLN_140
+1xdvA_A_ILE_525	<-->	1oy2A_A_ILE_141
+1xdvA_A_VAL_453	<-->	1oy2A_A_LYS_139
+1xdvA_A_GLY_454	<-->	1oy2A_A_LYS_139
+1xdvA_A_GLU_515	<-->	1oy2A_A_ILE_141
+1xdvA_A_ASN_508	<-->	1oy2A_A_GLN_140
+1xdvA_A_LEU_322	<-->	1oy2A_A_ARG_26
+1xdvA_A_GLU_509	<-->	1oy2A_A_LYS_139
+1xdvA_A_ASN_508	<-->	1oy2A_A_LYS_139
+1xdvA_A_SER_326	<-->	1oy2A_A_ARG_26
+1xdvA_A_ASN_508	<-->	1oy2A_A_ALA_135
+1xdvA_A_GLN_325	<-->	1oy2A_A_ARG_26
+1xdvA_A_GLY_328	<-->	1oy2A_A_TRP_24
+1xdvA_A_VAL_453	<-->	1oy2A_A_GLN_140
+1xdvA_A_GLU_329	<-->	1oy2A_A_TRP_24

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1m17A_A_ALA_698	<-->	1oy2A_A_GLN_174
+1m17A_A_LYS_851	<-->	1oy2A_A_PRO_171
+1m17A_A_ALA_698	<-->	1oy2A_A_ASN_173
+1m17A_A_PRO_895	<-->	1oy2A_A_LEU_84
+1m17A_A_LYS_889	<-->	1oy2A_A_SER_108
+1m17A_A_SER_728	<-->	1oy2A_A_VAL_172
+1m17A_A_ILE_854	<-->	1oy2A_A_ARG_112
+1m17A_A_ARG_779	<-->	1oy2A_A_ARG_67
+1m17A_A_SER_897	<-->	1oy2A_A_ARG_112
+1m17A_A_ALA_726	<-->	1oy2A_A_PHE_202
+1m17A_A_PHE_699	<-->	1oy2A_A_ASN_173
+1m17A_A_LEU_723	<-->	1oy2A_A_ASN_173
+1m17A_A_PRO_895	<-->	1oy2A_A_ARG_99
+1m17A_A_LEU_775	<-->	1oy2A_A_ARG_67
+1m17A_A_ALA_896	<-->	1oy2A_A_ARG_112
+1m17A_A_ALA_896	<-->	1oy2A_A_GLY_111
+1m17A_A_ALA_698	<-->	1oy2A_A_SER_65
+1m17A_A_PHE_699	<-->	1oy2A_A_MET_66
+1m17A_A_PHE_699	<-->	1oy2A_A_SER_65
+1m17A_A_GLY_695	<-->	1oy2A_A_MET_66
+1m17A_A_GLU_898	<-->	1oy2A_A_ARG_99
+1m17A_A_SER_696	<-->	1oy2A_A_MET_66
+1m17A_A_GLY_697	<-->	1oy2A_A_SER_65
+1m17A_A_GLY_697	<-->	1oy2A_A_MET_66

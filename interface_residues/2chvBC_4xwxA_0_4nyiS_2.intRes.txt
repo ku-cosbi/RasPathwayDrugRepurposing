@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_MET_0	<-->	4nyiS_S_ILE_736
+4xwxA_A_TRP_38	<-->	4nyiS_S_GLN_738
+4xwxA_A_GLU_199	<-->	4nyiS_S_GLN_738
+4xwxA_A_TRP_38	<-->	4nyiS_S_LYS_735
+4xwxA_A_ASN_42	<-->	4nyiS_S_LYS_735
+4xwxA_A_GLN_188	<-->	4nyiS_S_ARG_739
+4xwxA_A_HIS_40	<-->	4nyiS_S_LYS_735
+4xwxA_A_MET_0	<-->	4nyiS_S_ARG_739
+4xwxA_A_GLY_37	<-->	4nyiS_S_ARG_739
+4xwxA_A_TRP_38	<-->	4nyiS_S_ARG_739
+4xwxA_A_MET_0	<-->	4nyiS_S_VAL_697
+4xwxA_A_SER_192	<-->	4nyiS_S_ILE_742
+4xwxA_A_GLY_195	<-->	4nyiS_S_ILE_742
+4xwxA_A_MET_0	<-->	4nyiS_S_LYS_740
+4xwxA_A_SER_-1	<-->	4nyiS_S_ARG_739
+4xwxA_A_PRO_41	<-->	4nyiS_S_LYS_735
+4xwxA_A_ILE_191	<-->	4nyiS_S_ILE_742
+4xwxA_A_GLY_37	<-->	4nyiS_S_LYS_735
+4xwxA_A_MET_0	<-->	4nyiS_S_GLU_698
+4xwxA_A_TRP_38	<-->	4nyiS_S_ILE_736
+4xwxA_A_GLY_37	<-->	4nyiS_S_ILE_736

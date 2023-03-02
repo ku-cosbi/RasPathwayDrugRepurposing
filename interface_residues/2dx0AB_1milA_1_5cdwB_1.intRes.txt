@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1milA_A_PRO_86	<-->	5cdwB_B_PHE_73
+1milA_A_LEU_85	<-->	5cdwB_B_TYR_82
+1milA_A_GLN_47	<-->	5cdwB_B_VAL_70
+1milA_A_SER_92	<-->	5cdwB_B_VAL_71
+1milA_A_GLU_93	<-->	5cdwB_B_VAL_71
+1milA_A_GLN_50	<-->	5cdwB_B_LEU_68
+1milA_A_ILE_88	<-->	5cdwB_B_TYR_82
+1milA_A_LYS_52	<-->	5cdwB_B_LEU_68
+1milA_A_SER_48	<-->	5cdwB_B_VAL_70
+1milA_A_GLU_20	<-->	5cdwB_B_ARG_15
+1milA_A_ILE_88	<-->	5cdwB_B_HIS_83
+1milA_A_SER_48	<-->	5cdwB_B_GLY_69
+1milA_A_GLN_50	<-->	5cdwB_B_LEU_59
+1milA_A_SER_48	<-->	5cdwB_B_LEU_59
+1milA_A_GLN_97	<-->	5cdwB_B_ASN_74
+1milA_A_ARG_16	<-->	5cdwB_B_ASP_52
+1milA_A_HIS_84	<-->	5cdwB_B_ASN_74
+1milA_A_GLN_50	<-->	5cdwB_B_LYS_57
+1milA_A_LEU_85	<-->	5cdwB_B_GLU_78
+1milA_A_THR_36	<-->	5cdwB_B_ASP_52
+1milA_A_ARG_17	<-->	5cdwB_B_ALA_16

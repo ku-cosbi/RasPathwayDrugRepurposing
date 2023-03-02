@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ny5B_B_PRO_170	<-->	6ptsD_D_SER_420
+3ny5B_B_PRO_170	<-->	6ptsD_D_ILE_422
+3ny5B_B_VAL_169	<-->	6ptsD_D_SER_420
+3ny5B_B_PRO_155	<-->	6ptsD_D_ILE_422
+3ny5B_B_ARG_172	<-->	6ptsD_D_ALA_419
+3ny5B_B_VAL_168	<-->	6ptsD_D_GLU_424
+3ny5B_B_VAL_168	<-->	6ptsD_D_LEU_401
+3ny5B_B_VAL_168	<-->	6ptsD_D_ARG_400
+3ny5B_B_ALA_171	<-->	6ptsD_D_ILE_422
+3ny5B_B_PRO_155	<-->	6ptsD_D_GLY_423
+3ny5B_B_THR_167	<-->	6ptsD_D_ARG_400
+3ny5B_B_LYS_154	<-->	6ptsD_D_PHE_361
+3ny5B_B_PRO_170	<-->	6ptsD_D_ALA_419
+3ny5B_B_GLN_153	<-->	6ptsD_D_ARG_359
+3ny5B_B_ARG_172	<-->	6ptsD_D_ASN_356
+3ny5B_B_ARG_172	<-->	6ptsD_D_ILE_422
+3ny5B_B_GLN_153	<-->	6ptsD_D_THR_357
+3ny5B_B_LYS_154	<-->	6ptsD_D_GLU_424
+3ny5B_B_LYS_154	<-->	6ptsD_D_GLU_425
+3ny5B_B_LYS_154	<-->	6ptsD_D_GLY_423
+3ny5B_B_ILE_156	<-->	6ptsD_D_ILE_422
+3ny5B_B_ILE_156	<-->	6ptsD_D_GLY_423
+3ny5B_B_ILE_156	<-->	6ptsD_D_GLU_424
+3ny5B_B_LYS_154	<-->	6ptsD_D_ARG_359

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ny5B_B_LYS_154	<-->	6xguB_B_GLY_123
+3ny5B_B_ARG_166	<-->	6xguB_B_GLU_104
+3ny5B_B_ARG_166	<-->	6xguB_B_HIS_105
+3ny5B_B_ARG_166	<-->	6xguB_B_LYS_106
+3ny5B_B_ARG_166	<-->	6xguB_B_LEU_102
+3ny5B_B_ARG_172	<-->	6xguB_B_ALA_119
+3ny5B_B_VAL_169	<-->	6xguB_B_GLU_124
+3ny5B_B_LYS_183	<-->	6xguB_B_LEU_112
+3ny5B_B_LYS_183	<-->	6xguB_B_ASP_113
+3ny5B_B_LYS_183	<-->	6xguB_B_ARG_111
+3ny5B_B_ILE_156	<-->	6xguB_B_GLU_124
+3ny5B_B_ALA_184	<-->	6xguB_B_ARG_100
+3ny5B_B_PRO_170	<-->	6xguB_B_GLU_124
+3ny5B_B_PRO_170	<-->	6xguB_B_LEU_121
+3ny5B_B_PRO_170	<-->	6xguB_B_SER_120
+3ny5B_B_VAL_175	<-->	6xguB_B_SER_120
+3ny5B_B_PRO_170	<-->	6xguB_B_ILE_122
+3ny5B_B_THR_167	<-->	6xguB_B_LEU_102
+3ny5B_B_ARG_172	<-->	6xguB_B_ILE_122
+3ny5B_B_ARG_172	<-->	6xguB_B_SER_120
+3ny5B_B_VAL_168	<-->	6xguB_B_ARG_100
+3ny5B_B_VAL_168	<-->	6xguB_B_GLU_124

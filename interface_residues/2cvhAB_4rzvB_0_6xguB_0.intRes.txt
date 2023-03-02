@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4rzvB_B_LYS_499	<-->	6xguB_B_GLU_94
+4rzvB_B_LYS_499	<-->	6xguB_B_GLN_92
+4rzvB_B_LYS_499	<-->	6xguB_B_PRO_93
+4rzvB_B_GLN_496	<-->	6xguB_B_HIS_79
+4rzvB_B_ASP_449	<-->	6xguB_B_PRO_135
+4rzvB_B_GLN_456	<-->	6xguB_B_TRP_187
+4rzvB_B_ARG_506	<-->	6xguB_B_TRP_114
+4rzvB_B_GLU_451	<-->	6xguB_B_TRP_187
+4rzvB_B_ASP_449	<-->	6xguB_B_VAL_185
+4rzvB_B_TRP_450	<-->	6xguB_B_PRO_135
+4rzvB_B_TRP_450	<-->	6xguB_B_VAL_134
+4rzvB_B_TRP_476	<-->	6xguB_B_TRP_187
+4rzvB_B_GLY_503	<-->	6xguB_B_TRP_114
+4rzvB_B_TYR_519	<-->	6xguB_B_GLU_94
+4rzvB_B_TYR_519	<-->	6xguB_B_GLN_92
+4rzvB_B_ASP_449	<-->	6xguB_B_LEU_136
+4rzvB_B_ARG_506	<-->	6xguB_B_GLU_94
+4rzvB_B_GLN_496	<-->	6xguB_B_MET_83
+4rzvB_B_PRO_453	<-->	6xguB_B_TRP_187
+4rzvB_B_ASN_500	<-->	6xguB_B_HIS_79
+4rzvB_B_VAL_502	<-->	6xguB_B_GLU_94
+4rzvB_B_PRO_492	<-->	6xguB_B_LYS_87

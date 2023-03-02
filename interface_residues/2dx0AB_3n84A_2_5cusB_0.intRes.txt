@@ -1,0 +1,15 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n84A_A_GLY_102	<-->	5cusB_B_TRP_60
+3n84A_A_PHE_101	<-->	5cusB_B_ARG_36
+3n84A_A_GLN_106	<-->	5cusB_B_SER_56
+3n84A_A_PHE_101	<-->	5cusB_B_SER_56
+3n84A_A_ASN_143	<-->	5cusB_B_PHE_57
+3n84A_A_GLN_145	<-->	5cusB_B_ARG_36
+3n84A_A_PHE_101	<-->	5cusB_B_GLN_59
+3n84A_A_PHE_101	<-->	5cusB_B_TRP_60
+3n84A_A_GLN_144	<-->	5cusB_B_PHE_57
+3n84A_A_GLN_144	<-->	5cusB_B_ARG_36
+3n84A_A_ASN_143	<-->	5cusB_B_ASP_54
+3n84A_A_ASN_103	<-->	5cusB_B_TRP_60

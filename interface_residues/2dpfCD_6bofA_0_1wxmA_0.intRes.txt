@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6bofA_A_PHE_82	<-->	1wxmA_A_LYS_55
+6bofA_A_TYR_137	<-->	1wxmA_A_LYS_55
+6bofA_A_TYR_137	<-->	1wxmA_A_ARG_57
+6bofA_A_ALA_134	<-->	1wxmA_A_LYS_55
+6bofA_A_GLY_138	<-->	1wxmA_A_GLY_56
+6bofA_A_GLY_138	<-->	1wxmA_A_LYS_55
+6bofA_A_ALA_134	<-->	1wxmA_A_GLY_56
+6bofA_A_ILE_139	<-->	1wxmA_A_GLY_56
+6bofA_A_GLY_48	<-->	1wxmA_A_PRO_83
+6bofA_A_ARG_164	<-->	1wxmA_A_PRO_83
+6bofA_A_LEU_113	<-->	1wxmA_A_LYS_55
+6bofA_A_ARG_161	<-->	1wxmA_A_LYS_58
+6bofA_A_ILE_139	<-->	1wxmA_A_ARG_57
+6bofA_A_PRO_140	<-->	1wxmA_A_ARG_57
+6bofA_A_TYR_137	<-->	1wxmA_A_GLY_56
+6bofA_A_PHE_141	<-->	1wxmA_A_LYS_58
+6bofA_A_PHE_141	<-->	1wxmA_A_THR_59
+6bofA_A_PHE_141	<-->	1wxmA_A_ARG_57
+6bofA_A_GLN_131	<-->	1wxmA_A_GLY_72
+6bofA_A_ASP_47	<-->	1wxmA_A_PRO_83
+6bofA_A_ALA_130	<-->	1wxmA_A_LYS_55

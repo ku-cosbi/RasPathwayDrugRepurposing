@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5x2aB_B_ARG_973	<-->	1milA_A_ARG_102
+5x2aB_B_LEU_815	<-->	1milA_A_LEU_104
+5x2aB_B_MET_971	<-->	1milA_A_LEU_104
+5x2aB_B_GLU_967	<-->	1milA_A_LEU_104
+5x2aB_B_LYS_970	<-->	1milA_A_ARG_102
+5x2aB_B_MET_945	<-->	1milA_A_LEU_22
+5x2aB_B_MET_971	<-->	1milA_A_ARG_102
+5x2aB_B_VAL_904	<-->	1milA_A_LEU_104
+5x2aB_B_VAL_943	<-->	1milA_A_LEU_104
+5x2aB_B_ILE_946	<-->	1milA_A_LEU_104
+5x2aB_B_MET_945	<-->	1milA_A_LYS_103
+5x2aB_B_ILE_946	<-->	1milA_A_LYS_103
+5x2aB_B_VAL_943	<-->	1milA_A_LYS_103
+5x2aB_B_TYR_978	<-->	1milA_A_ARG_102
+5x2aB_B_ASP_942	<-->	1milA_A_LYS_103
+5x2aB_B_ASP_942	<-->	1milA_A_VAL_100
+5x2aB_B_ASP_942	<-->	1milA_A_GLU_101
+5x2aB_B_GLU_967	<-->	1milA_A_LYS_103
+5x2aB_B_ASP_974	<-->	1milA_A_ARG_102
+5x2aB_B_PHE_968	<-->	1milA_A_LEU_104

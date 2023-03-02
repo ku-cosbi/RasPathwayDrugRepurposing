@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ksyA_A_SER_68	<-->	1n3hA_A_ARG_11
+3ksyA_A_SER_68	<-->	1n3hA_A_ARG_10
+3ksyA_A_GLY_454	<-->	1n3hA_A_LYS_139
+3ksyA_A_ASN_508	<-->	1n3hA_A_ALA_136
+3ksyA_A_VAL_453	<-->	1n3hA_A_LYS_139
+3ksyA_A_ASN_502	<-->	1n3hA_A_GLY_47
+3ksyA_A_ASP_506	<-->	1n3hA_A_MET_134
+3ksyA_A_LYS_504	<-->	1n3hA_A_SER_51
+3ksyA_A_LEU_322	<-->	1n3hA_A_ASP_43
+3ksyA_A_ASN_522	<-->	1n3hA_A_HIS_145
+3ksyA_A_GLN_325	<-->	1n3hA_A_GLY_47
+3ksyA_A_GLN_325	<-->	1n3hA_A_ASP_43
+3ksyA_A_ASN_522	<-->	1n3hA_A_ALA_143
+3ksyA_A_ASP_506	<-->	1n3hA_A_THR_123
+3ksyA_A_ASP_69	<-->	1n3hA_A_ARG_11
+3ksyA_A_GLY_454	<-->	1n3hA_A_GLN_140
+3ksyA_A_VAL_453	<-->	1n3hA_A_ILE_141
+3ksyA_A_VAL_453	<-->	1n3hA_A_GLN_140
+3ksyA_A_ASN_508	<-->	1n3hA_A_THR_123
+3ksyA_A_GLU_509	<-->	1n3hA_A_LYS_139
+3ksyA_A_THR_507	<-->	1n3hA_A_LEU_53
+3ksyA_A_ILE_525	<-->	1n3hA_A_ILE_141
+3ksyA_A_THR_507	<-->	1n3hA_A_THR_123

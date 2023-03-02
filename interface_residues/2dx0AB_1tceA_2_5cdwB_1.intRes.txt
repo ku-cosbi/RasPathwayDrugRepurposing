@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1tceA_A_ASN_83	<-->	5cdwB_B_ASN_74
+1tceA_A_ASP_82	<-->	5cdwB_B_ASN_74
+1tceA_A_MET_81	<-->	5cdwB_B_ASN_74
+1tceA_A_ASN_83	<-->	5cdwB_B_PHE_73
+1tceA_A_HIS_80	<-->	5cdwB_B_TYR_82
+1tceA_A_GLU_93	<-->	5cdwB_B_ARG_90
+1tceA_A_LEU_85	<-->	5cdwB_B_TYR_82
+1tceA_A_ASN_83	<-->	5cdwB_B_GLU_78
+1tceA_A_ASN_83	<-->	5cdwB_B_LEU_79
+1tceA_A_HIS_84	<-->	5cdwB_B_ASN_74
+1tceA_A_TYR_79	<-->	5cdwB_B_TYR_82
+1tceA_A_HIS_68	<-->	5cdwB_B_SER_85
+1tceA_A_HIS_84	<-->	5cdwB_B_LYS_72
+1tceA_A_ASP_82	<-->	5cdwB_B_GLU_78
+1tceA_A_GLN_50	<-->	5cdwB_B_GLN_54
+1tceA_A_GLN_50	<-->	5cdwB_B_HIS_55
+1tceA_A_ASN_83	<-->	5cdwB_B_SER_75
+1tceA_A_GLY_49	<-->	5cdwB_B_HIS_55
+1tceA_A_HIS_84	<-->	5cdwB_B_PHE_73
+1tceA_A_GLN_50	<-->	5cdwB_B_VAL_53

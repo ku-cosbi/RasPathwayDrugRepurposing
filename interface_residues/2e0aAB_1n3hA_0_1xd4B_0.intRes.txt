@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1n3hA_A_GLY_47	<-->	1xd4B_B_SER_484
+1n3hA_A_MET_46	<-->	1xd4B_B_GLY_482
+1n3hA_A_VAL_45	<-->	1xd4B_B_GLY_482
+1n3hA_A_GLY_49	<-->	1xd4B_B_SER_484
+1n3hA_A_ASN_132	<-->	1xd4B_B_LEU_480
+1n3hA_A_SER_127	<-->	1xd4B_B_GLY_482
+1n3hA_A_SER_127	<-->	1xd4B_B_ALA_483
+1n3hA_A_SER_127	<-->	1xd4B_B_PRO_481
+1n3hA_A_HIS_145	<-->	1xd4B_B_LEU_480
+1n3hA_A_PRO_48	<-->	1xd4B_B_SER_484
+1n3hA_A_THR_128	<-->	1xd4B_B_GLY_482
+1n3hA_A_THR_125	<-->	1xd4B_B_SER_484
+1n3hA_A_SER_130	<-->	1xd4B_B_LEU_480
+1n3hA_A_SER_130	<-->	1xd4B_B_PRO_481
+1n3hA_A_ILE_141	<-->	1xd4B_B_PRO_478
+1n3hA_A_LYS_139	<-->	1xd4B_B_HIS_457
+1n3hA_A_ILE_141	<-->	1xd4B_B_GLN_477
+1n3hA_A_ASN_132	<-->	1xd4B_B_PRO_478
+1n3hA_A_LEU_131	<-->	1xd4B_B_LEU_480
+1n3hA_A_MET_134	<-->	1xd4B_B_ARG_479
+1n3hA_A_THR_125	<-->	1xd4B_B_ALA_483
+1n3hA_A_MET_134	<-->	1xd4B_B_GLN_477

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3sa0A_A_LEU_252	<-->	3omvA_A_LEU_598
+3sa0A_A_LEU_265	<-->	3omvA_A_PRO_597
+3sa0A_A_LEU_265	<-->	3omvA_A_GLU_595
+3sa0A_A_ARG_261	<-->	3omvA_A_GLN_601
+3sa0A_A_SER_246	<-->	3omvA_A_GLU_594
+3sa0A_A_SER_266	<-->	3omvA_A_GLU_595
+3sa0A_A_GLN_249	<-->	3omvA_A_PHE_527
+3sa0A_A_LEU_265	<-->	3omvA_A_GLN_601
+3sa0A_A_HIS_269	<-->	3omvA_A_GLU_594
+3sa0A_A_HIS_269	<-->	3omvA_A_VAL_592
+3sa0A_A_LEU_258	<-->	3omvA_A_LEU_608
+3sa0A_A_LEU_267	<-->	3omvA_A_GLU_595
+3sa0A_A_LEU_267	<-->	3omvA_A_GLU_594
+3sa0A_A_LEU_258	<-->	3omvA_A_GLN_601
+3sa0A_A_LEU_258	<-->	3omvA_A_SER_605
+3sa0A_A_PRO_268	<-->	3omvA_A_GLU_594
+3sa0A_A_PRO_268	<-->	3omvA_A_GLU_595
+3sa0A_A_PRO_268	<-->	3omvA_A_VAL_592
+3sa0A_A_LYS_270	<-->	3omvA_A_GLU_594
+3sa0A_A_ARG_261	<-->	3omvA_A_PRO_597
+3sa0A_A_GLN_249	<-->	3omvA_A_LEU_598
+3sa0A_A_ARG_261	<-->	3omvA_A_LEU_598

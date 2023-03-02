@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8A_A_SER_418	<-->	4xwxA_A_ASN_144
+5wb8A_A_ARG_470	<-->	4xwxA_A_PRO_171
+5wb8A_A_PRO_349	<-->	4xwxA_A_SER_129
+5wb8A_A_LEU_25	<-->	4xwxA_A_CYS_138
+5wb8A_A_ILE_438	<-->	4xwxA_A_ILE_141
+5wb8A_A_ASP_22	<-->	4xwxA_A_CYS_138
+5wb8A_A_SER_440	<-->	4xwxA_A_ILE_141
+5wb8A_A_ILE_467	<-->	4xwxA_A_PHE_117
+5wb8A_A_GLN_411	<-->	4xwxA_A_LYS_139
+5wb8A_A_GLY_18	<-->	4xwxA_A_SER_51
+5wb8A_A_LYS_465	<-->	4xwxA_A_GLN_140
+5wb8A_A_LYS_443	<-->	4xwxA_A_PRO_171
+5wb8A_A_PHE_412	<-->	4xwxA_A_LYS_139
+5wb8A_A_THR_19	<-->	4xwxA_A_LEU_53
+5wb8A_A_THR_19	<-->	4xwxA_A_TYR_52
+5wb8A_A_SER_468	<-->	4xwxA_A_ALA_143
+5wb8A_A_ASN_469	<-->	4xwxA_A_PRO_171
+5wb8A_A_ILE_467	<-->	4xwxA_A_GLN_140
+5wb8A_A_ILE_467	<-->	4xwxA_A_ILE_141
+5wb8A_A_GLY_441	<-->	4xwxA_A_ASN_144
+5wb8A_A_VAL_417	<-->	4xwxA_A_ILE_141
+5wb8A_A_LYS_465	<-->	4xwxA_A_LYS_139
+5wb8A_A_ILE_438	<-->	4xwxA_A_LYS_139

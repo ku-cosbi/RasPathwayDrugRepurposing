@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_ASP_355	<-->	1n3hA_A_GLN_140
+3qwqA_A_ASP_355	<-->	1n3hA_A_CYS_138
+3qwqA_A_SER_356	<-->	1n3hA_A_MET_120
+3qwqA_A_THR_360	<-->	1n3hA_A_GLN_140
+3qwqA_A_PRO_362	<-->	1n3hA_A_GLN_140
+3qwqA_A_PRO_361	<-->	1n3hA_A_GLN_140
+3qwqA_A_SER_356	<-->	1n3hA_A_CYS_138
+3qwqA_A_PRO_361	<-->	1n3hA_A_LYS_139
+3qwqA_A_ARG_353	<-->	1n3hA_A_ILE_142
+3qwqA_A_PRO_362	<-->	1n3hA_A_ILE_141
+3qwqA_A_ARG_353	<-->	1n3hA_A_ILE_141
+3qwqA_A_GLU_388	<-->	1n3hA_A_HIS_146
+3qwqA_A_HIS_359	<-->	1n3hA_A_ASP_137
+3qwqA_A_GLY_354	<-->	1n3hA_A_GLN_140
+3qwqA_A_SER_356	<-->	1n3hA_A_GLN_140
+3qwqA_A_SER_356	<-->	1n3hA_A_ASP_137
+3qwqA_A_HIS_359	<-->	1n3hA_A_CYS_138

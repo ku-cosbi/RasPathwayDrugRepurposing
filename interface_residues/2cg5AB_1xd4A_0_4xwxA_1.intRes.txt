@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4A_A_LYS_1030	<-->	4xwxA_A_GLN_140
+1xd4A_A_GLU_841	<-->	4xwxA_A_ASP_137
+1xd4A_A_GLU_841	<-->	4xwxA_A_ALA_136
+1xd4A_A_LYS_1030	<-->	4xwxA_A_MET_120
+1xd4A_A_LEU_777	<-->	4xwxA_A_LYS_139
+1xd4A_A_VAL_851	<-->	4xwxA_A_LYS_139
+1xd4A_A_ILE_771	<-->	4xwxA_A_PRO_48
+1xd4A_A_ARG_989	<-->	4xwxA_A_PRO_48
+1xd4A_A_ASP_775	<-->	4xwxA_A_MET_134
+1xd4A_A_LEU_1035	<-->	4xwxA_A_LYS_139
+1xd4A_A_ASP_775	<-->	4xwxA_A_CYS_138
+1xd4A_A_GLU_772	<-->	4xwxA_A_ASN_132
+1xd4A_A_GLU_772	<-->	4xwxA_A_SER_130
+1xd4A_A_LYS_1030	<-->	4xwxA_A_ASP_137
+1xd4A_A_TYR_1031	<-->	4xwxA_A_GLN_140
+1xd4A_A_GLU_847	<-->	4xwxA_A_LYS_139
+1xd4A_A_THR_842	<-->	4xwxA_A_ASP_137
+1xd4A_A_ILE_771	<-->	4xwxA_A_GLY_47
+1xd4A_A_GLU_772	<-->	4xwxA_A_SER_129
+1xd4A_A_CYS_838	<-->	4xwxA_A_CYS_138
+1xd4A_A_TYR_1031	<-->	4xwxA_A_LYS_139
+1xd4A_A_GLU_772	<-->	4xwxA_A_SER_127

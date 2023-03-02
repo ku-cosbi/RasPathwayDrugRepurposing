@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1nqlA_A_LEU_149	<-->	1oy2A_A_ALA_92
+1nqlA_A_LEU_149	<-->	1oy2A_A_LYS_93
+1nqlA_A_ASN_172	<-->	1oy2A_A_PRO_158
+1nqlA_A_ILE_189	<-->	1oy2A_A_GLU_162
+1nqlA_A_CYS_191	<-->	1oy2A_A_GLU_184
+1nqlA_A_ASN_151	<-->	1oy2A_A_LYS_93
+1nqlA_A_GLN_157	<-->	1oy2A_A_LYS_100
+1nqlA_A_SER_150	<-->	1oy2A_A_GLY_91
+1nqlA_A_SER_150	<-->	1oy2A_A_ALA_92
+1nqlA_A_SER_150	<-->	1oy2A_A_LYS_93
+1nqlA_A_GLN_193	<-->	1oy2A_A_HIS_40
+1nqlA_A_GLN_193	<-->	1oy2A_A_GLY_185
+1nqlA_A_GLN_193	<-->	1oy2A_A_LEU_39
+1nqlA_A_MET_154	<-->	1oy2A_A_ARG_97
+1nqlA_A_ASP_155	<-->	1oy2A_A_ARG_97
+1nqlA_A_ARG_141	<-->	1oy2A_A_GLU_162
+1nqlA_A_CYS_195	<-->	1oy2A_A_GLU_184
+1nqlA_A_ARG_141	<-->	1oy2A_A_GLU_181
+1nqlA_A_SER_153	<-->	1oy2A_A_ARG_97
+1nqlA_A_MET_152	<-->	1oy2A_A_LYS_93
+1nqlA_A_GLN_139	<-->	1oy2A_A_ALA_161

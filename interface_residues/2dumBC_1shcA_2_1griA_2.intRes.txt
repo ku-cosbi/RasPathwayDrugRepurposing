@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_GLU_61	<-->	1griA_A_LYS_109
+1shcA_A_CYS_59	<-->	1griA_A_TRP_121
+1shcA_A_LEU_115	<-->	1griA_A_GLN_106
+1shcA_A_ARG_112	<-->	1griA_A_ARG_67
+1shcA_A_LYS_116	<-->	1griA_A_VAL_140
+1shcA_A_LYS_116	<-->	1griA_A_LEU_148
+1shcA_A_LYS_116	<-->	1griA_A_PHE_108
+1shcA_A_LYS_116	<-->	1griA_A_HIS_107
+1shcA_A_GLN_140	<-->	1griA_A_VAL_122
+1shcA_A_ILE_142	<-->	1griA_A_TRP_121
+1shcA_A_ALA_135	<-->	1griA_A_VAL_122
+1shcA_A_ASP_137	<-->	1griA_A_VAL_122
+1shcA_A_CYS_138	<-->	1griA_A_VAL_122
+1shcA_A_ARG_112	<-->	1griA_A_GLU_71
+1shcA_A_VAL_172	<-->	1griA_A_ASP_94
+1shcA_A_ASN_114	<-->	1griA_A_HIS_107
+1shcA_A_ASN_114	<-->	1griA_A_GLN_106
+1shcA_A_LYS_116	<-->	1griA_A_VAL_99
+1shcA_A_LYS_116	<-->	1griA_A_LEU_97
+1shcA_A_PHE_117	<-->	1griA_A_TRP_121
+1shcA_A_VAL_172	<-->	1griA_A_LYS_109
+1shcA_A_TYR_56	<-->	1griA_A_TRP_121
+1shcA_A_SER_113	<-->	1griA_A_GLN_106

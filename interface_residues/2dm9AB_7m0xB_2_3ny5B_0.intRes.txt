@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7m0xB_B_GLY_237	<-->	3ny5B_B_GLY_219
+7m0xB_B_ILE_216	<-->	3ny5B_B_GLN_153
+7m0xB_B_ILE_216	<-->	3ny5B_B_PRO_155
+7m0xB_B_ILE_216	<-->	3ny5B_B_LYS_154
+7m0xB_B_LEU_235	<-->	3ny5B_B_ARG_158
+7m0xB_B_TYR_229	<-->	3ny5B_B_GLN_153
+7m0xB_B_ARG_234	<-->	3ny5B_B_SER_150
+7m0xB_B_SER_231	<-->	3ny5B_B_SER_150
+7m0xB_B_TYR_229	<-->	3ny5B_B_SER_150
+7m0xB_B_ARG_189	<-->	3ny5B_B_HIS_151
+7m0xB_B_GLY_213	<-->	3ny5B_B_ARG_172
+7m0xB_B_ARG_189	<-->	3ny5B_B_GLN_153
+7m0xB_B_GLY_237	<-->	3ny5B_B_GLU_220
+7m0xB_B_GLY_237	<-->	3ny5B_B_ARG_158
+7m0xB_B_GLN_214	<-->	3ny5B_B_ARG_172
+7m0xB_B_ASP_190	<-->	3ny5B_B_GLN_153
+7m0xB_B_GLN_236	<-->	3ny5B_B_ARG_158
+7m0xB_B_ALA_220	<-->	3ny5B_B_LYS_154
+7m0xB_B_MET_230	<-->	3ny5B_B_SER_150

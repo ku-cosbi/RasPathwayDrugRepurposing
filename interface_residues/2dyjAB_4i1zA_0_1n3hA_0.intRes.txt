@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_GLN_849	<-->	1n3hA_A_ASP_137
+4i1zA_A_PRO_848	<-->	1n3hA_A_ARG_55
+4i1zA_A_THR_847	<-->	1n3hA_A_ARG_55
+4i1zA_A_GLN_849	<-->	1n3hA_A_MET_120
+4i1zA_A_GLN_849	<-->	1n3hA_A_GLY_119
+4i1zA_A_GLN_820	<-->	1n3hA_A_ASP_137
+4i1zA_A_HIS_850	<-->	1n3hA_A_ASP_137
+4i1zA_A_GLN_849	<-->	1n3hA_A_PRO_121
+4i1zA_A_GLN_812	<-->	1n3hA_A_PHE_117
+4i1zA_A_ASN_808	<-->	1n3hA_A_PRO_90
+4i1zA_A_TYR_813	<-->	1n3hA_A_ALA_118
+4i1zA_A_ASP_807	<-->	1n3hA_A_ARG_98
+4i1zA_A_PHE_795	<-->	1n3hA_A_ARG_55
+4i1zA_A_MET_987	<-->	1n3hA_A_LEU_115
+4i1zA_A_GLU_804	<-->	1n3hA_A_ARG_97
+4i1zA_A_HIS_805	<-->	1n3hA_A_ARG_97
+4i1zA_A_THR_847	<-->	1n3hA_A_PRO_121
+4i1zA_A_ARG_986	<-->	1n3hA_A_LEU_115
+4i1zA_A_HIS_805	<-->	1n3hA_A_GLY_91
