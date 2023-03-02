@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_GLY_427	<-->	4uipA_A_GLY_441
+3n85A_A_HIS_448	<-->	4uipA_A_SER_468
+3n85A_A_HIS_451	<-->	4uipA_A_SER_418
+3n85A_A_ALA_392	<-->	4uipA_A_LYS_443
+3n85A_A_PRO_356	<-->	4uipA_A_ARG_470
+3n85A_A_ASP_395	<-->	4uipA_A_GLY_441
+3n85A_A_HIS_451	<-->	4uipA_A_GLY_441
+3n85A_A_ASP_395	<-->	4uipA_A_LYS_443
+3n85A_A_THR_450	<-->	4uipA_A_SER_468
+3n85A_A_ASP_360	<-->	4uipA_A_ARG_470
+3n85A_A_ASP_395	<-->	4uipA_A_ASN_444
+3n85A_A_ASP_395	<-->	4uipA_A_LEU_419
+3n85A_A_HIS_451	<-->	4uipA_A_SER_440
+3n85A_A_PRO_356	<-->	4uipA_A_LYS_443
+3n85A_A_SER_391	<-->	4uipA_A_LYS_443
+3n85A_A_GLY_425	<-->	4uipA_A_LYS_443
+3n85A_A_GLY_425	<-->	4uipA_A_SER_468
+3n85A_A_ASP_395	<-->	4uipA_A_ASN_420
+3n85A_A_HIS_451	<-->	4uipA_A_VAL_417
+3n85A_A_THR_450	<-->	4uipA_A_ILE_467
+3n85A_A_ASP_360	<-->	4uipA_A_ASN_444

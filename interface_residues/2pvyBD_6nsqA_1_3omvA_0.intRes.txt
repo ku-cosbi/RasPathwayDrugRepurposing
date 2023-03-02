@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6nsqA_A_GLN_524	<-->	3omvA_A_ARG_554
+6nsqA_A_SER_605	<-->	3omvA_A_ASN_416
+6nsqA_A_TRP_604	<-->	3omvA_A_VAL_380
+6nsqA_A_TRP_604	<-->	3omvA_A_ASN_416
+6nsqA_A_TRP_604	<-->	3omvA_A_LYS_378
+6nsqA_A_TRP_604	<-->	3omvA_A_VAL_379
+6nsqA_A_PHE_610	<-->	3omvA_A_ARG_354
+6nsqA_A_ARG_603	<-->	3omvA_A_LYS_378
+6nsqA_A_ARG_603	<-->	3omvA_A_VAL_380
+6nsqA_A_PHE_610	<-->	3omvA_A_THR_353
+6nsqA_A_PRO_523	<-->	3omvA_A_ARG_554
+6nsqA_A_ALA_489	<-->	3omvA_A_ASP_555
+6nsqA_A_GLN_609	<-->	3omvA_A_SER_352
+6nsqA_A_GLN_609	<-->	3omvA_A_THR_353
+6nsqA_A_GLN_609	<-->	3omvA_A_TYR_364
+6nsqA_A_THR_488	<-->	3omvA_A_ASP_555
+6nsqA_A_THR_488	<-->	3omvA_A_ARG_554
+6nsqA_A_VAL_487	<-->	3omvA_A_ARG_554
+6nsqA_A_GLN_609	<-->	3omvA_A_ARG_354

@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_CYS_138	<-->	7aeiA_A_TRP_951
+4xwxA_A_CYS_138	<-->	7aeiA_A_MET_952
+4xwxA_A_CYS_138	<-->	7aeiA_A_ILE_953
+4xwxA_A_GLN_140	<-->	7aeiA_A_MET_945
+4xwxA_A_LYS_139	<-->	7aeiA_A_VAL_948
+4xwxA_A_ASP_137	<-->	7aeiA_A_MET_945
+4xwxA_A_CYS_138	<-->	7aeiA_A_ARG_932
+4xwxA_A_ASP_137	<-->	7aeiA_A_MET_952
+4xwxA_A_ALA_136	<-->	7aeiA_A_MET_952
+4xwxA_A_ASP_137	<-->	7aeiA_A_VAL_948
+4xwxA_A_ASP_137	<-->	7aeiA_A_LYS_949

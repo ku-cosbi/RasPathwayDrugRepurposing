@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_GLN_782	<-->	4i1zA_A_GLU_736
+3kexA_A_LEU_773	<-->	4i1zA_A_ILE_740
+3kexA_A_LEU_773	<-->	4i1zA_A_PRO_733
+3kexA_A_PRO_826	<-->	4i1zA_A_LEU_707
+3kexA_A_LEU_773	<-->	4i1zA_A_TRP_731
+3kexA_A_SER_827	<-->	4i1zA_A_LEU_703
+3kexA_A_ASN_794	<-->	4i1zA_A_ALA_702
+3kexA_A_GLN_782	<-->	4i1zA_A_GLY_735
+3kexA_A_GLN_798	<-->	4i1zA_A_LEU_703
+3kexA_A_LEU_773	<-->	4i1zA_A_VAL_738
+3kexA_A_HIS_751	<-->	4i1zA_A_LEU_703
+3kexA_A_HIS_783	<-->	4i1zA_A_GLU_734
+3kexA_A_HIS_783	<-->	4i1zA_A_GLY_735
+3kexA_A_HIS_783	<-->	4i1zA_A_GLU_736
+3kexA_A_PRO_826	<-->	4i1zA_A_ARG_705
+3kexA_A_PRO_772	<-->	4i1zA_A_VAL_738
+3kexA_A_PRO_772	<-->	4i1zA_A_ILE_740
+3kexA_A_LEU_791	<-->	4i1zA_A_ARG_705
+3kexA_A_PRO_826	<-->	4i1zA_A_TRP_731
+3kexA_A_GLN_828	<-->	4i1zA_A_ARG_776
+3kexA_A_SER_827	<-->	4i1zA_A_ARG_705

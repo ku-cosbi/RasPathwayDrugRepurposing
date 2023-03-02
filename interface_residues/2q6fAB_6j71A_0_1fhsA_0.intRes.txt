@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6j71A_A_ALA_390	<-->	1fhsA_A_TRP_70
+6j71A_A_GLU_401	<-->	1fhsA_A_ALA_17
+6j71A_A_PRO_420	<-->	1fhsA_A_SER_39
+6j71A_A_GLN_398	<-->	1fhsA_A_ALA_17
+6j71A_A_LEU_419	<-->	1fhsA_A_GLU_38
+6j71A_A_SER_418	<-->	1fhsA_A_ASP_43
+6j71A_A_PRO_420	<-->	1fhsA_A_GLU_38
+6j71A_A_GLN_393	<-->	1fhsA_A_HIS_56
+6j71A_A_GLU_395	<-->	1fhsA_A_HIS_56
+6j71A_A_GLN_362	<-->	1fhsA_A_ASP_53
+6j71A_A_GLN_362	<-->	1fhsA_A_ASN_52
+6j71A_A_GLU_395	<-->	1fhsA_A_SER_45
+6j71A_A_GLU_395	<-->	1fhsA_A_ARG_35
+6j71A_A_SER_418	<-->	1fhsA_A_ALA_40
+6j71A_A_GLN_396	<-->	1fhsA_A_HIS_56
+6j71A_A_GLU_395	<-->	1fhsA_A_ARG_16
+6j71A_A_GLN_398	<-->	1fhsA_A_ARG_16
+6j71A_A_GLN_393	<-->	1fhsA_A_LYS_58
+6j71A_A_GLU_401	<-->	1fhsA_A_PRO_15
+6j71A_A_GLN_398	<-->	1fhsA_A_PRO_15

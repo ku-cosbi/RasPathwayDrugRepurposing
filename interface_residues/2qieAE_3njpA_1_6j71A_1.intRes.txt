@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3njpA_A_TYR_89	<-->	6j71A_A_HIS_349
+3njpA_A_ASN_128	<-->	6j71A_A_ARG_340
+3njpA_A_LEU_98	<-->	6j71A_A_HIS_349
+3njpA_A_GLN_157	<-->	6j71A_A_ALA_339
+3njpA_A_ASP_155	<-->	6j71A_A_ARG_340
+3njpA_A_MET_152	<-->	6j71A_A_LEU_317
+3njpA_A_ARG_125	<-->	6j71A_A_HIS_349
+3njpA_A_ARG_125	<-->	6j71A_A_GLU_348
+3njpA_A_ASN_151	<-->	6j71A_A_LEU_317
+3njpA_A_GLU_90	<-->	6j71A_A_ARG_351
+3njpA_A_SER_153	<-->	6j71A_A_GLU_348
+3njpA_A_PHE_156	<-->	6j71A_A_ARG_340
+3njpA_A_TYR_93	<-->	6j71A_A_GLU_348
+3njpA_A_GLN_157	<-->	6j71A_A_ARG_340
+3njpA_A_SER_153	<-->	6j71A_A_LEU_317
+3njpA_A_SER_150	<-->	6j71A_A_LEU_317
+3njpA_A_ASP_155	<-->	6j71A_A_ALA_339
+3njpA_A_ASP_155	<-->	6j71A_A_CYS_338
+3njpA_A_ASN_129	<-->	6j71A_A_ARG_340

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_VAL_884	<-->	5wb8A_A_PRO_488
+3pp0B_B_SER_728	<-->	5wb8A_A_HIS_504
+3pp0B_B_PRO_927	<-->	5wb8A_A_LYS_476
+3pp0B_B_SER_728	<-->	5wb8A_A_HIS_503
+3pp0B_B_LEU_866	<-->	5wb8A_A_HIS_502
+3pp0B_B_PRO_885	<-->	5wb8A_A_HIS_502
+3pp0B_B_GLY_882	<-->	5wb8A_A_GLU_489
+3pp0B_B_ALA_730	<-->	5wb8A_A_SER_501
+3pp0B_B_ALA_730	<-->	5wb8A_A_HIS_503
+3pp0B_B_ALA_730	<-->	5wb8A_A_HIS_502
+3pp0B_B_ARG_929	<-->	5wb8A_A_LYS_476
+3pp0B_B_ARG_929	<-->	5wb8A_A_GLU_472
+3pp0B_B_LYS_883	<-->	5wb8A_A_GLU_489
+3pp0B_B_GLU_930	<-->	5wb8A_A_LYS_476
+3pp0B_B_LYS_883	<-->	5wb8A_A_SER_487
+3pp0B_B_ILE_886	<-->	5wb8A_A_PRO_488
+3pp0B_B_PRO_885	<-->	5wb8A_A_PRO_488
+3pp0B_B_PRO_885	<-->	5wb8A_A_SER_487
+3pp0B_B_PRO_885	<-->	5wb8A_A_CYS_486
+3pp0B_B_GLY_729	<-->	5wb8A_A_HIS_503
+3pp0B_B_GLY_729	<-->	5wb8A_A_HIS_502
+3pp0B_B_LYS_883	<-->	5wb8A_A_SER_501

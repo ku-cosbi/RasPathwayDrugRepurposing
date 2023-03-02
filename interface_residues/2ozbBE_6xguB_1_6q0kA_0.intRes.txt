@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6xguB_B_LYS_84	<-->	6q0kA_A_ARG_509
+6xguB_B_ARG_59	<-->	6q0kA_A_GLY_518
+6xguB_B_LYS_65	<-->	6q0kA_A_HIS_477
+6xguB_B_ARG_67	<-->	6q0kA_A_GLY_518
+6xguB_B_ARG_59	<-->	6q0kA_A_MET_517
+6xguB_B_VAL_70	<-->	6q0kA_A_ARG_509
+6xguB_B_ARG_67	<-->	6q0kA_A_MET_517
+6xguB_B_LYS_84	<-->	6q0kA_A_VAL_511
+6xguB_B_LYS_84	<-->	6q0kA_A_HIS_510
+6xguB_B_THR_57	<-->	6q0kA_A_TRP_450
+6xguB_B_VAL_88	<-->	6q0kA_A_VAL_511
+6xguB_B_GLY_123	<-->	6q0kA_A_ASP_449
+6xguB_B_VAL_69	<-->	6q0kA_A_PHE_516
+6xguB_B_VAL_69	<-->	6q0kA_A_MET_517
+6xguB_B_LYS_65	<-->	6q0kA_A_GLY_478
+6xguB_B_VAL_69	<-->	6q0kA_A_GLY_518
+6xguB_B_ARG_67	<-->	6q0kA_A_HIS_477
+6xguB_B_ARG_67	<-->	6q0kA_A_TRP_476
+6xguB_B_ASN_71	<-->	6q0kA_A_ARG_506
+6xguB_B_ASN_71	<-->	6q0kA_A_LYS_507
+6xguB_B_THR_57	<-->	6q0kA_A_ARG_506
+6xguB_B_ARG_67	<-->	6q0kA_A_VAL_528
+6xguB_B_ASN_71	<-->	6q0kA_A_THR_508
+6xguB_B_GLN_66	<-->	6q0kA_A_HIS_477

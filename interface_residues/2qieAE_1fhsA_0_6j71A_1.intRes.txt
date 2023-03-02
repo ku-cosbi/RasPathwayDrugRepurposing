@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1fhsA_A_LYS_58	<-->	6j71A_A_HIS_318
+1fhsA_A_ASP_53	<-->	6j71A_A_CYS_342
+1fhsA_A_SER_45	<-->	6j71A_A_HIS_318
+1fhsA_A_ALA_17	<-->	6j71A_A_GLU_348
+1fhsA_A_GLN_55	<-->	6j71A_A_ARG_340
+1fhsA_A_PHE_44	<-->	6j71A_A_HIS_318
+1fhsA_A_GLU_21	<-->	6j71A_A_HIS_349
+1fhsA_A_ARG_16	<-->	6j71A_A_LEU_317
+1fhsA_A_LYS_58	<-->	6j71A_A_CYS_334
+1fhsA_A_ASP_53	<-->	6j71A_A_ARG_340
+1fhsA_A_ARG_35	<-->	6j71A_A_LEU_317
+1fhsA_A_ARG_16	<-->	6j71A_A_TYR_343
+1fhsA_A_TRP_70	<-->	6j71A_A_PRO_337
+1fhsA_A_GLU_20	<-->	6j71A_A_GLU_348
+1fhsA_A_GLU_20	<-->	6j71A_A_HIS_349
+1fhsA_A_SER_24	<-->	6j71A_A_HIS_349
+1fhsA_A_GLU_21	<-->	6j71A_A_GLU_348
+1fhsA_A_ARG_16	<-->	6j71A_A_GLU_348
+1fhsA_A_LYS_58	<-->	6j71A_A_CYS_338
+1fhsA_A_PHE_50	<-->	6j71A_A_ARG_340

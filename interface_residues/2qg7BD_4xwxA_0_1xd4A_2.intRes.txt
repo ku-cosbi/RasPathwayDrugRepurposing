@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ALA_136	<-->	1xd4A_A_ASP_573
+4xwxA_A_ALA_136	<-->	1xd4A_A_VAL_574
+4xwxA_A_PRO_121	<-->	1xd4A_A_VAL_574
+4xwxA_A_HIS_40	<-->	1xd4A_A_GLU_716
+4xwxA_A_LEU_53	<-->	1xd4A_A_GLU_649
+4xwxA_A_ALA_95	<-->	1xd4A_A_ILE_663
+4xwxA_A_GLY_91	<-->	1xd4A_A_GLU_654
+4xwxA_A_GLY_91	<-->	1xd4A_A_PRO_655
+4xwxA_A_GLY_185	<-->	1xd4A_A_ARG_722
+4xwxA_A_LEU_39	<-->	1xd4A_A_GLU_716
+4xwxA_A_PRO_90	<-->	1xd4A_A_ARG_660
+4xwxA_A_PRO_41	<-->	1xd4A_A_GLU_716
+4xwxA_A_PRO_41	<-->	1xd4A_A_GLN_712
+4xwxA_A_LYS_93	<-->	1xd4A_A_GLU_652
+4xwxA_A_LEU_53	<-->	1xd4A_A_PRO_651
+4xwxA_A_LYS_44	<-->	1xd4A_A_GLU_716
+4xwxA_A_GLY_91	<-->	1xd4A_A_ARG_660
+4xwxA_A_PRO_90	<-->	1xd4A_A_GLU_654
+4xwxA_A_LEU_186	<-->	1xd4A_A_ARG_722
+4xwxA_A_ASP_189	<-->	1xd4A_A_ARG_722
+4xwxA_A_LEU_186	<-->	1xd4A_A_THR_720
+4xwxA_A_ASP_189	<-->	1xd4A_A_THR_720

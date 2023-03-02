@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1tceA_A_GLY_61	<-->	4uipA_A_GLN_384
+1tceA_A_PRO_59	<-->	4uipA_A_LEU_382
+1tceA_A_GLU_33	<-->	4uipA_A_LEU_325
+1tceA_A_GLY_39	<-->	4uipA_A_LEU_325
+1tceA_A_GLU_60	<-->	4uipA_A_GLN_384
+1tceA_A_LYS_13	<-->	4uipA_A_ASP_323
+1tceA_A_ARG_5	<-->	4uipA_A_PHE_357
+1tceA_A_PRO_38	<-->	4uipA_A_GLY_317
+1tceA_A_LEU_55	<-->	4uipA_A_HIS_409
+1tceA_A_GLN_3	<-->	4uipA_A_PHE_357
+1tceA_A_GLU_60	<-->	4uipA_A_ALA_415
+1tceA_A_GLU_60	<-->	4uipA_A_VAL_417
+1tceA_A_PRO_59	<-->	4uipA_A_HIS_409
+1tceA_A_PRO_59	<-->	4uipA_A_GLN_408
+1tceA_A_GLN_40	<-->	4uipA_A_HIS_409
+1tceA_A_GLU_60	<-->	4uipA_A_ILE_438
+1tceA_A_ASP_58	<-->	4uipA_A_HIS_409
+1tceA_A_GLN_40	<-->	4uipA_A_LEU_325
+1tceA_A_PRO_38	<-->	4uipA_A_LEU_325
+1tceA_A_PRO_38	<-->	4uipA_A_SER_324
+1tceA_A_HIS_107	<-->	4uipA_A_THR_358
+1tceA_A_PRO_38	<-->	4uipA_A_HIS_346

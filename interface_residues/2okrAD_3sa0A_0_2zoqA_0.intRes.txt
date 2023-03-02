@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3sa0A_A_SER_266	<-->	2zoqA_A_PRO_25
+3sa0A_A_TYR_263	<-->	2zoqA_A_VAL_24
+3sa0A_A_GLU_186	<-->	2zoqA_A_LYS_65
+3sa0A_A_PHE_183	<-->	2zoqA_A_GLN_44
+3sa0A_A_LEU_184	<-->	2zoqA_A_HIS_62
+3sa0A_A_LEU_184	<-->	2zoqA_A_TYR_60
+3sa0A_A_LEU_184	<-->	2zoqA_A_ASP_61
+3sa0A_A_PHE_183	<-->	2zoqA_A_THR_43
+3sa0A_A_TYR_233	<-->	2zoqA_A_HIS_62
+3sa0A_A_ASN_238	<-->	2zoqA_A_VAL_24
+3sa0A_A_PHE_183	<-->	2zoqA_A_TYR_60
+3sa0A_A_TYR_233	<-->	2zoqA_A_LYS_65
+3sa0A_A_PHE_183	<-->	2zoqA_A_HIS_62
+3sa0A_A_LEU_267	<-->	2zoqA_A_VAL_24
+3sa0A_A_PRO_268	<-->	2zoqA_A_VAL_24
+3sa0A_A_LYS_259	<-->	2zoqA_A_GLN_44
+3sa0A_A_PRO_268	<-->	2zoqA_A_PRO_25
+3sa0A_A_HIS_232	<-->	2zoqA_A_VAL_63

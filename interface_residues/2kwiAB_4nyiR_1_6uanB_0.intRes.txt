@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiR_R_GLY_13	<-->	6uanB_B_TYR_746
+4nyiR_R_VAL_14	<-->	6uanB_B_PHE_743
+4nyiR_R_VAL_29	<-->	6uanB_B_GLU_730
+4nyiR_R_ASP_38	<-->	6uanB_B_ARG_719
+4nyiR_R_GLY_13	<-->	6uanB_B_PHE_743
+4nyiR_R_MET_67	<-->	6uanB_B_ASP_565
+4nyiR_R_TYR_64	<-->	6uanB_B_HIS_510
+4nyiR_R_TYR_64	<-->	6uanB_B_TYR_566
+4nyiR_R_ASP_119	<-->	6uanB_B_PHE_743
+4nyiR_R_ILE_36	<-->	6uanB_B_LYS_723
+4nyiR_R_GLU_31	<-->	6uanB_B_PRO_731
+4nyiR_R_GLU_37	<-->	6uanB_B_ALA_718
+4nyiR_R_ASP_30	<-->	6uanB_B_GLU_730
+4nyiR_R_ASP_30	<-->	6uanB_B_PRO_731
+4nyiR_R_ASP_30	<-->	6uanB_B_LEU_733
+4nyiR_R_GLU_37	<-->	6uanB_B_ARG_719
+4nyiR_R_LYS_147	<-->	6uanB_B_THR_740
+4nyiR_R_TYR_64	<-->	6uanB_B_ASP_565
+4nyiR_R_GLU_37	<-->	6uanB_B_LYS_723
+4nyiR_R_GLU_37	<-->	6uanB_B_LEU_721
+4nyiR_R_GLN_70	<-->	6uanB_B_PRO_708

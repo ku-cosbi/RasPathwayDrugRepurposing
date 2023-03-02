@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5x2aB_B_ALA_1013	<-->	1n3hA_A_PRO_121
+5x2aB_B_ALA_1013	<-->	1n3hA_A_MET_120
+5x2aB_B_ALA_702	<-->	1n3hA_A_SER_51
+5x2aB_B_ALA_702	<-->	1n3hA_A_THR_125
+5x2aB_B_ALA_702	<-->	1n3hA_A_PRO_48
+5x2aB_B_GLN_701	<-->	1n3hA_A_PRO_48
+5x2aB_B_VAL_1011	<-->	1n3hA_A_CYS_138
+5x2aB_B_ASP_1009	<-->	1n3hA_A_ASP_137
+5x2aB_B_VAL_1011	<-->	1n3hA_A_ASP_137
+5x2aB_B_GLU_711	<-->	1n3hA_A_HIS_40
+5x2aB_B_GLU_736	<-->	1n3hA_A_ILE_191
+5x2aB_B_GLU_736	<-->	1n3hA_A_SER_192
+5x2aB_B_ALA_1013	<-->	1n3hA_A_GLY_119
+5x2aB_B_GLU_734	<-->	1n3hA_A_ILE_194
+5x2aB_B_GLU_734	<-->	1n3hA_A_SER_192
+5x2aB_B_LYS_708	<-->	1n3hA_A_HIS_40
+5x2aB_B_VAL_1010	<-->	1n3hA_A_ASP_137
+5x2aB_B_ASP_1014	<-->	1n3hA_A_GLY_119
+5x2aB_B_GLY_735	<-->	1n3hA_A_SER_192
+5x2aB_B_ILE_706	<-->	1n3hA_A_LYS_44

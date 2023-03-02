@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_ALA_489	<-->	4zdrA_A_LYS_3
+6q0kA_A_ALA_489	<-->	4zdrA_A_LEU_6
+6q0kA_A_VAL_487	<-->	4zdrA_A_GLN_32
+6q0kA_A_ALA_489	<-->	4zdrA_A_GLN_32
+6q0kA_A_ASN_486	<-->	4zdrA_A_ALA_-2
+6q0kA_A_LEU_525	<-->	4zdrA_A_ASP_2
+6q0kA_A_PRO_490	<-->	4zdrA_A_GLN_32
+6q0kA_A_PRO_523	<-->	4zdrA_A_ASP_2
+6q0kA_A_PRO_490	<-->	4zdrA_A_ASP_2
+6q0kA_A_ASN_486	<-->	4zdrA_A_LEU_0
+6q0kA_A_THR_488	<-->	4zdrA_A_ASP_2
+6q0kA_A_THR_488	<-->	4zdrA_A_LEU_0
+6q0kA_A_THR_488	<-->	4zdrA_A_MET_1
+6q0kA_A_THR_491	<-->	4zdrA_A_ALA_34
+6q0kA_A_THR_488	<-->	4zdrA_A_LYS_3
+6q0kA_A_THR_491	<-->	4zdrA_A_GLN_32
+6q0kA_A_THR_488	<-->	4zdrA_A_LEU_6
+6q0kA_A_ALA_489	<-->	4zdrA_A_SER_28
+6q0kA_A_ALA_489	<-->	4zdrA_A_VAL_29
+6q0kA_A_PRO_492	<-->	4zdrA_A_ALA_34
+6q0kA_A_VAL_487	<-->	4zdrA_A_LEU_0
+6q0kA_A_GLN_524	<-->	4zdrA_A_ASP_2
+6q0kA_A_PRO_490	<-->	4zdrA_A_LYS_3

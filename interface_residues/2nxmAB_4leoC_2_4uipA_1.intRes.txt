@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4leoC_C_SER_180	<-->	4uipA_A_PRO_349
+4leoC_C_PRO_81	<-->	4uipA_A_HIS_409
+4leoC_C_GLN_59	<-->	4uipA_A_GLN_411
+4leoC_C_GLY_179	<-->	4uipA_A_GLN_384
+4leoC_C_PRO_202	<-->	4uipA_A_ASN_473
+4leoC_C_ASN_82	<-->	4uipA_A_LYS_465
+4leoC_C_HIS_168	<-->	4uipA_A_PRO_349
+4leoC_C_GLU_181	<-->	4uipA_A_GLN_384
+4leoC_C_GLU_181	<-->	4uipA_A_LEU_382
+4leoC_C_GLY_179	<-->	4uipA_A_PRO_349
+4leoC_C_PRO_81	<-->	4uipA_A_GLN_411
+4leoC_C_TRP_60	<-->	4uipA_A_GLN_411
+4leoC_C_THR_185	<-->	4uipA_A_GLY_441
+4leoC_C_THR_185	<-->	4uipA_A_SER_468
+4leoC_C_GLN_59	<-->	4uipA_A_HIS_409
+4leoC_C_SER_180	<-->	4uipA_A_ALA_385
+4leoC_C_GLU_181	<-->	4uipA_A_VAL_417
+4leoC_C_ASN_82	<-->	4uipA_A_GLN_411
+4leoC_C_HIS_168	<-->	4uipA_A_ARG_353
+4leoC_C_SER_180	<-->	4uipA_A_SER_418
+4leoC_C_GLU_181	<-->	4uipA_A_SER_418
+4leoC_C_GLN_119	<-->	4uipA_A_LYS_465
+4leoC_C_SER_180	<-->	4uipA_A_GLN_384
+4leoC_C_CYS_183	<-->	4uipA_A_SER_418

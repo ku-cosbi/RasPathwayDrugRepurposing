@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w32A_A_ASN_756	<-->	3ksyA_A_ARG_885
+3w32A_A_LEU_782	<-->	3ksyA_A_ASN_1020
+3w32A_A_LYS_708	<-->	3ksyA_A_PRO_1021
+3w32A_A_GLN_787	<-->	3ksyA_A_ARG_1019
+3w32A_A_SER_784	<-->	3ksyA_A_LEU_1014
+3w32A_A_SER_784	<-->	3ksyA_A_ARG_885
+3w32A_A_GLU_749	<-->	3ksyA_A_TYR_884
+3w32A_A_THR_751	<-->	3ksyA_A_ASN_879
+3w32A_A_LEU_707	<-->	3ksyA_A_PRO_1021
+3w32A_A_GLU_709	<-->	3ksyA_A_ARG_1019
+3w32A_A_THR_783	<-->	3ksyA_A_LEU_1014
+3w32A_A_THR_783	<-->	3ksyA_A_ARG_1019
+3w32A_A_PRO_753	<-->	3ksyA_A_TYR_884
+3w32A_A_CYS_781	<-->	3ksyA_A_ARG_1019
+3w32A_A_SER_784	<-->	3ksyA_A_TYR_884
+3w32A_A_LEU_782	<-->	3ksyA_A_ARG_1019
+3w32A_A_THR_783	<-->	3ksyA_A_ARG_885
+3w32A_A_SER_784	<-->	3ksyA_A_PHE_1010
+3w32A_A_THR_785	<-->	3ksyA_A_PHE_1010
+3w32A_A_ILE_706	<-->	3ksyA_A_PRO_1021
+3w32A_A_ILE_706	<-->	3ksyA_A_ASN_1020

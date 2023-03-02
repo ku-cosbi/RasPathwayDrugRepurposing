@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_GLY_882	<-->	7aeiA_A_LYS_754
+3pp0B_B_PRO_927	<-->	7aeiA_A_ASN_756
+3pp0B_B_ARG_929	<-->	7aeiA_A_ASP_761
+3pp0B_B_ARG_929	<-->	7aeiA_A_LEU_760
+3pp0B_B_LYS_883	<-->	7aeiA_A_LYS_754
+3pp0B_B_GLY_925	<-->	7aeiA_A_THR_783
+3pp0B_B_GLY_925	<-->	7aeiA_A_LEU_782
+3pp0B_B_LYS_921	<-->	7aeiA_A_SER_784
+3pp0B_B_GLY_925	<-->	7aeiA_A_VAL_786
+3pp0B_B_ARG_929	<-->	7aeiA_A_LYS_757
+3pp0B_B_ASP_924	<-->	7aeiA_A_SER_784
+3pp0B_B_ALA_928	<-->	7aeiA_A_PRO_753
+3pp0B_B_ALA_928	<-->	7aeiA_A_LYS_757
+3pp0B_B_PRO_927	<-->	7aeiA_A_LEU_760
+3pp0B_B_LYS_887	<-->	7aeiA_A_PRO_753
+3pp0B_B_ALA_928	<-->	7aeiA_A_ASN_756
+3pp0B_B_TRP_888	<-->	7aeiA_A_PRO_753
+3pp0B_B_PRO_885	<-->	7aeiA_A_PRO_753
+3pp0B_B_PRO_927	<-->	7aeiA_A_VAL_786
+3pp0B_B_PRO_885	<-->	7aeiA_A_LYS_754
+3pp0B_B_PRO_927	<-->	7aeiA_A_LEU_782
+3pp0B_B_GLU_930	<-->	7aeiA_A_LEU_760
+3pp0B_B_ILE_886	<-->	7aeiA_A_PRO_753
+3pp0B_B_VAL_884	<-->	7aeiA_A_LYS_754

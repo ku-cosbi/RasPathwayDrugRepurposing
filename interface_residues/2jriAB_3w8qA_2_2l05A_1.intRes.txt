@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w8qA_A_GLU_233	<-->	2l05A_A_ARG_158
+3w8qA_A_GLN_236	<-->	2l05A_A_LYS_205
+3w8qA_A_GLN_236	<-->	2l05A_A_GLU_204
+3w8qA_A_GLN_236	<-->	2l05A_A_GLY_203
+3w8qA_A_PRO_346	<-->	2l05A_A_ASN_163
+3w8qA_A_GLN_236	<-->	2l05A_A_ILE_200
+3w8qA_A_SER_231	<-->	2l05A_A_GLU_221
+3w8qA_A_ALA_347	<-->	2l05A_A_PRO_162
+3w8qA_A_PRO_232	<-->	2l05A_A_ILE_200
+3w8qA_A_ALA_347	<-->	2l05A_A_VAL_226
+3w8qA_A_GLU_348	<-->	2l05A_A_PRO_231
+3w8qA_A_GLU_233	<-->	2l05A_A_ILE_200
+3w8qA_A_GLN_354	<-->	2l05A_A_ASN_229
+3w8qA_A_GLU_233	<-->	2l05A_A_HIS_223
+3w8qA_A_THR_238	<-->	2l05A_A_GLU_225
+3w8qA_A_GLU_233	<-->	2l05A_A_GLU_221
+3w8qA_A_PRO_346	<-->	2l05A_A_PRO_162
+3w8qA_A_HIS_239	<-->	2l05A_A_PHE_160
+3w8qA_A_LYS_344	<-->	2l05A_A_ASN_163

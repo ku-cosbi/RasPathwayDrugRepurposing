@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_PHE_196	<-->	6nsqA_A_LYS_522
+4zdrA_A_SER_238	<-->	6nsqA_A_PRO_490
+4zdrA_A_ARG_222	<-->	6nsqA_A_LYS_522
+4zdrA_A_SER_238	<-->	6nsqA_A_PRO_492
+4zdrA_A_LEU_203	<-->	6nsqA_A_ASP_448
+4zdrA_A_SER_238	<-->	6nsqA_A_THR_491
+4zdrA_A_LEU_216	<-->	6nsqA_A_LEU_495
+4zdrA_A_LEU_216	<-->	6nsqA_A_PRO_490
+4zdrA_A_ASP_223	<-->	6nsqA_A_LYS_522
+4zdrA_A_ASP_223	<-->	6nsqA_A_PRO_523
+4zdrA_A_ASP_223	<-->	6nsqA_A_GLN_524
+4zdrA_A_GLN_219	<-->	6nsqA_A_LEU_525
+4zdrA_A_ARG_222	<-->	6nsqA_A_PRO_523
+4zdrA_A_GLN_219	<-->	6nsqA_A_THR_521
+4zdrA_A_LEU_220	<-->	6nsqA_A_ALA_489
+4zdrA_A_LEU_203	<-->	6nsqA_A_GLU_451
+4zdrA_A_ASP_223	<-->	6nsqA_A_THR_488
+4zdrA_A_TYR_211	<-->	6nsqA_A_LYS_499
+4zdrA_A_ARG_222	<-->	6nsqA_A_ASP_454
+4zdrA_A_GLN_219	<-->	6nsqA_A_LEU_495
+4zdrA_A_GLN_219	<-->	6nsqA_A_PRO_490
+4zdrA_A_LEU_227	<-->	6nsqA_A_THR_488
+4zdrA_A_LEU_220	<-->	6nsqA_A_PRO_490

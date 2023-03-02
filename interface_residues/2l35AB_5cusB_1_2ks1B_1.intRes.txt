@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ARG_320	<-->	2ks1B_B_GLY_140
+5cusB_B_ARG_320	<-->	2ks1B_B_PRO_141
+5cusB_B_ARG_320	<-->	2ks1B_B_LYS_142
+5cusB_B_ARG_320	<-->	2ks1B_B_SER_145
+5cusB_B_ARG_320	<-->	2ks1B_B_ILE_146
+5cusB_B_PHE_332	<-->	2ks1B_B_MET_150
+5cusB_B_CYS_335	<-->	2ks1B_B_MET_150
+5cusB_B_PHE_321	<-->	2ks1B_B_ILE_143
+5cusB_B_PRO_288	<-->	2ks1B_B_LEU_157
+5cusB_B_SER_327	<-->	2ks1B_B_ILE_143
+5cusB_B_GLY_331	<-->	2ks1B_B_VAL_151
+5cusB_B_PRO_288	<-->	2ks1B_B_ALA_161
+5cusB_B_VAL_333	<-->	2ks1B_B_LEU_154
+5cusB_B_GLU_313	<-->	2ks1B_B_MET_150
+5cusB_B_VAL_283	<-->	2ks1B_B_ILE_164
+5cusB_B_LYS_310	<-->	2ks1B_B_LEU_157
+5cusB_B_GLU_313	<-->	2ks1B_B_ILE_146
+5cusB_B_ASN_334	<-->	2ks1B_B_LEU_154
+5cusB_B_CYS_312	<-->	2ks1B_B_MET_150
+5cusB_B_GLY_331	<-->	2ks1B_B_MET_150

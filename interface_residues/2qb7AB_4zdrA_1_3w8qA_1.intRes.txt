@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_GLN_219	<-->	3w8qA_A_GLN_243
+4zdrA_A_GLN_219	<-->	3w8qA_A_ALA_347
+4zdrA_A_TYR_211	<-->	3w8qA_A_LEU_355
+4zdrA_A_LEU_216	<-->	3w8qA_A_ILE_343
+4zdrA_A_TYR_211	<-->	3w8qA_A_HIS_358
+4zdrA_A_GLU_208	<-->	3w8qA_A_GLU_333
+4zdrA_A_TYR_211	<-->	3w8qA_A_GLN_354
+4zdrA_A_ASP_204	<-->	3w8qA_A_LYS_362
+4zdrA_A_GLN_219	<-->	3w8qA_A_ARG_349
+4zdrA_A_TYR_211	<-->	3w8qA_A_LYS_340
+4zdrA_A_GLN_219	<-->	3w8qA_A_GLU_348
+4zdrA_A_LEU_216	<-->	3w8qA_A_GLU_348
+4zdrA_A_ASP_223	<-->	3w8qA_A_ALA_347
+4zdrA_A_ASP_204	<-->	3w8qA_A_VAL_357
+4zdrA_A_THR_215	<-->	3w8qA_A_GLN_354
+4zdrA_A_GLU_208	<-->	3w8qA_A_ALA_359
+4zdrA_A_TYR_211	<-->	3w8qA_A_ASP_336
+4zdrA_A_LYS_212	<-->	3w8qA_A_ASP_336
+4zdrA_A_LEU_203	<-->	3w8qA_A_GLN_354
+4zdrA_A_LEU_203	<-->	3w8qA_A_VAL_357
