@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6j71A_A_PRO_39	<-->	1gk5A_A_LEU_48
+6j71A_A_ARG_157	<-->	1gk5A_A_LEU_26
+6j71A_A_HIS_470	<-->	1gk5A_A_LEU_48
+6j71A_A_GLN_156	<-->	1gk5A_A_LEU_26
+6j71A_A_LEU_35	<-->	1gk5A_A_ILE_35
+6j71A_A_LEU_35	<-->	1gk5A_A_TYR_37
+6j71A_A_LEU_35	<-->	1gk5A_A_SER_38
+6j71A_A_ARG_354	<-->	1gk5A_A_ASP_40
+6j71A_A_HIS_469	<-->	1gk5A_A_LEU_48
+6j71A_A_ARG_34	<-->	1gk5A_A_SER_38
+6j71A_A_ARG_34	<-->	1gk5A_A_GLY_39
+6j71A_A_GLN_446	<-->	1gk5A_A_LEU_48
+6j71A_A_GLN_446	<-->	1gk5A_A_LEU_47
+6j71A_A_GLN_446	<-->	1gk5A_A_ASP_46
+6j71A_A_TYR_411	<-->	1gk5A_A_ASP_46
+6j71A_A_TYR_411	<-->	1gk5A_A_HIS_44
+6j71A_A_HIS_437	<-->	1gk5A_A_HIS_44
+6j71A_A_ALA_37	<-->	1gk5A_A_LEU_48
+6j71A_A_ALA_37	<-->	1gk5A_A_ASP_46
+6j71A_A_LEU_154	<-->	1gk5A_A_LEU_26
+6j71A_A_ARG_34	<-->	1gk5A_A_ASP_40
+6j71A_A_LEU_377	<-->	1gk5A_A_HIS_44
+6j71A_A_SER_38	<-->	1gk5A_A_LEU_48

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6j71A_A_PRO_378	<-->	2kv4A_A_GLN_43
+6j71A_A_ARG_354	<-->	2kv4A_A_GLU_40
+6j71A_A_ALA_386	<-->	2kv4A_A_TYR_13
+6j71A_A_ARG_34	<-->	2kv4A_A_GLU_51
+6j71A_A_LEU_35	<-->	2kv4A_A_GLU_51
+6j71A_A_ASP_384	<-->	2kv4A_A_ARG_41
+6j71A_A_TYR_411	<-->	2kv4A_A_TYR_44
+6j71A_A_ASP_382	<-->	2kv4A_A_LEU_15
+6j71A_A_PRO_378	<-->	2kv4A_A_LEU_15
+6j71A_A_VAL_353	<-->	2kv4A_A_GLU_40
+6j71A_A_SER_387	<-->	2kv4A_A_TYR_29
+6j71A_A_ALA_386	<-->	2kv4A_A_TYR_29
+6j71A_A_LEU_35	<-->	2kv4A_A_ASP_46
+6j71A_A_ARG_34	<-->	2kv4A_A_ARG_45
+6j71A_A_ASP_384	<-->	2kv4A_A_TYR_13
+6j71A_A_LEU_35	<-->	2kv4A_A_TRP_50
+6j71A_A_SER_387	<-->	2kv4A_A_ARG_41
+6j71A_A_PRO_385	<-->	2kv4A_A_TYR_13
+6j71A_A_GLU_379	<-->	2kv4A_A_GLN_43
+6j71A_A_GLU_379	<-->	2kv4A_A_GLU_40
+6j71A_A_GLU_379	<-->	2kv4A_A_ARG_41
+6j71A_A_LEU_377	<-->	2kv4A_A_TYR_44
+6j71A_A_LEU_377	<-->	2kv4A_A_GLN_43

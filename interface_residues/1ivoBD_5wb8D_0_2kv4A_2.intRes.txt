@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8D_D_GLN_408	<-->	2kv4A_A_ARG_45
+5wb8D_D_THR_19	<-->	2kv4A_A_LYS_48
+5wb8D_D_GLY_18	<-->	2kv4A_A_LYS_48
+5wb8D_D_GLN_384	<-->	2kv4A_A_GLU_51
+5wb8D_D_ALA_103	<-->	2kv4A_A_GLU_24
+5wb8D_D_ALA_103	<-->	2kv4A_A_LEU_26
+5wb8D_D_LEU_325	<-->	2kv4A_A_TYR_44
+5wb8D_D_GLY_18	<-->	2kv4A_A_LEU_52
+5wb8D_D_LEU_348	<-->	2kv4A_A_ARG_45
+5wb8D_D_GLY_18	<-->	2kv4A_A_LEU_47
+5wb8D_D_ASP_22	<-->	2kv4A_A_LEU_52
+5wb8D_D_TYR_101	<-->	2kv4A_A_LEU_26
+5wb8D_D_HIS_409	<-->	2kv4A_A_LEU_52
+5wb8D_D_GLN_384	<-->	2kv4A_A_ARG_45
+5wb8D_D_LEU_382	<-->	2kv4A_A_ARG_45
+5wb8D_D_VAL_417	<-->	2kv4A_A_TRP_50
+5wb8D_D_ASP_102	<-->	2kv4A_A_LEU_26
+5wb8D_D_HIS_409	<-->	2kv4A_A_LEU_47
+5wb8D_D_ASP_22	<-->	2kv4A_A_ARG_53
+5wb8D_D_LEU_17	<-->	2kv4A_A_LEU_52
+5wb8D_D_HIS_346	<-->	2kv4A_A_ARG_45
