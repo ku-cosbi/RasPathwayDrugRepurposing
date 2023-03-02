@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6scmA_A_LYS_1029	<-->	1ivoC_C_GLU_24
+6scmA_A_GLU_843	<-->	1ivoC_C_GLU_24
+6scmA_A_GLU_841	<-->	1ivoC_C_ALA_25
+6scmA_A_PHE_1005	<-->	1ivoC_C_LEU_26
+6scmA_A_ILE_1016	<-->	1ivoC_C_ASP_27
+6scmA_A_VAL_840	<-->	1ivoC_C_ALA_25
+6scmA_A_PRO_1025	<-->	1ivoC_C_ASP_27
+6scmA_A_PHE_1027	<-->	1ivoC_C_ASP_27
+6scmA_A_LYS_1030	<-->	1ivoC_C_GLU_5
+6scmA_A_PRO_1028	<-->	1ivoC_C_TYR_22
+6scmA_A_LYS_1030	<-->	1ivoC_C_GLU_24
+6scmA_A_ILE_1016	<-->	1ivoC_C_LEU_26
+6scmA_A_LYS_1030	<-->	1ivoC_C_TYR_22
+6scmA_A_PRO_1028	<-->	1ivoC_C_GLU_24
+6scmA_A_GLU_841	<-->	1ivoC_C_LEU_26
+6scmA_A_TYR_1031	<-->	1ivoC_C_GLU_24
+6scmA_A_LEU_1009	<-->	1ivoC_C_LEU_26
+6scmA_A_PRO_1028	<-->	1ivoC_C_ASP_27
+6scmA_A_TYR_1008	<-->	1ivoC_C_LYS_28

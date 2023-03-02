@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2h46E_E_LYS_56	<-->	1shcA_A_ALA_143
+2h46E_E_LYS_56	<-->	1shcA_A_ILE_141
+2h46E_E_HIS_58	<-->	1shcA_A_MET_134
+2h46E_E_ASN_143	<-->	1shcA_A_GLN_188
+2h46E_E_LYS_56	<-->	1shcA_A_ASN_144
+2h46E_E_PHE_83	<-->	1shcA_A_PRO_48
+2h46E_E_SER_137	<-->	1shcA_A_SER_29
+2h46E_E_GLN_145	<-->	1shcA_A_TRP_38
+2h46E_E_PRO_57	<-->	1shcA_A_GLN_140
+2h46E_E_PRO_57	<-->	1shcA_A_ILE_141
+2h46E_E_TYR_118	<-->	1shcA_A_LEU_53
+2h46E_E_PRO_57	<-->	1shcA_A_ASN_144
+2h46E_E_ARG_142	<-->	1shcA_A_GLN_188
+2h46E_E_HIS_58	<-->	1shcA_A_ASN_144
+2h46E_E_LYS_117	<-->	1shcA_A_GLU_184
+2h46E_E_LYS_117	<-->	1shcA_A_GLY_185
+2h46E_E_LEU_120	<-->	1shcA_A_LYS_44
+2h46E_E_SER_137	<-->	1shcA_A_GLY_28
+2h46E_E_TYR_118	<-->	1shcA_A_GLU_184
+2h46E_E_HIS_58	<-->	1shcA_A_ILE_141
+2h46E_E_MET_55	<-->	1shcA_A_HIS_146
+2h46E_E_VAL_99	<-->	1shcA_A_PRO_48
+2h46E_E_MET_55	<-->	1shcA_A_ILE_142
+2h46E_E_MET_55	<-->	1shcA_A_ALA_143

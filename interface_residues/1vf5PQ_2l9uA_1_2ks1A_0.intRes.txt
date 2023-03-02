@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l9uA_A_THR_662	<-->	2ks1A_A_VAL_58
+2l9uA_A_ILE_655	<-->	2ks1A_A_VAL_65
+2l9uA_A_MET_658	<-->	2ks1A_A_VAL_58
+2l9uA_A_ILE_655	<-->	2ks1A_A_LEU_62
+2l9uA_A_TYR_665	<-->	2ks1A_A_ILE_54
+2l9uA_A_LEU_652	<-->	2ks1A_A_VAL_65
+2l9uA_A_MET_644	<-->	2ks1A_A_LYS_76
+2l9uA_A_THR_662	<-->	2ks1A_A_ILE_55
+2l9uA_A_GLY_651	<-->	2ks1A_A_VAL_65
+2l9uA_A_TRP_666	<-->	2ks1A_A_ILE_55
+2l9uA_A_THR_662	<-->	2ks1A_A_ILE_54
+2l9uA_A_VAL_648	<-->	2ks1A_A_VAL_69
+2l9uA_A_TYR_665	<-->	2ks1A_A_LEU_51
+2l9uA_A_MET_658	<-->	2ks1A_A_ILE_61
+2l9uA_A_MET_658	<-->	2ks1A_A_ALA_57
+2l9uA_A_ARG_669	<-->	2ks1A_A_LEU_51
+2l9uA_A_VAL_654	<-->	2ks1A_A_ILE_61
+2l9uA_A_ARG_670	<-->	2ks1A_A_LEU_51
+2l9uA_A_LEU_659	<-->	2ks1A_A_VAL_58
+2l9uA_A_TRP_666	<-->	2ks1A_A_LEU_51

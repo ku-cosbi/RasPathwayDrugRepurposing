@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cdwE_E_MET_3	<-->	4xwxA_A_LEU_39
+5cdwE_E_GLY_29	<-->	4xwxA_A_ALA_136
+5cdwE_E_TRP_8	<-->	4xwxA_A_TYR_52
+5cdwE_E_TRP_8	<-->	4xwxA_A_LEU_53
+5cdwE_E_GLY_29	<-->	4xwxA_A_CYS_138
+5cdwE_E_PHE_49	<-->	4xwxA_A_ASP_137
+5cdwE_E_ASN_91	<-->	4xwxA_A_PRO_171
+5cdwE_E_TRP_8	<-->	4xwxA_A_LEU_186
+5cdwE_E_PHE_31	<-->	4xwxA_A_LEU_53
+5cdwE_E_ARG_90	<-->	4xwxA_A_PRO_171
+5cdwE_E_MET_3	<-->	4xwxA_A_HIS_40
+5cdwE_E_MET_3	<-->	4xwxA_A_PRO_41
+5cdwE_E_ASP_28	<-->	4xwxA_A_ASP_137
+5cdwE_E_VAL_47	<-->	4xwxA_A_CYS_138
+5cdwE_E_ASP_28	<-->	4xwxA_A_ALA_136

@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_ILE_155	<-->	2l1cA_A_CYS_102
+6ogeA_A_ILE_184	<-->	2l1cA_A_SER_103
+6ogeA_A_GLN_164	<-->	2l1cA_A_CYS_102
+6ogeA_A_THR_186	<-->	2l1cA_A_ARG_104
+6ogeA_A_ARG_188	<-->	2l1cA_A_ARG_104
+6ogeA_A_THR_182	<-->	2l1cA_A_CYS_102
+6ogeA_A_THR_186	<-->	2l1cA_A_PRO_105
+6ogeA_A_TRP_169	<-->	2l1cA_A_PRO_101
+6ogeA_A_TRP_169	<-->	2l1cA_A_CYS_102
+6ogeA_A_THR_186	<-->	2l1cA_A_SER_103
+6ogeA_A_ASP_165	<-->	2l1cA_A_SER_103
+6ogeA_A_ASP_165	<-->	2l1cA_A_CYS_102
+6ogeA_A_ASP_165	<-->	2l1cA_A_ARG_104
+6ogeA_A_ASP_185	<-->	2l1cA_A_ARG_112
+6ogeA_A_ILE_184	<-->	2l1cA_A_PRO_101
+6ogeA_A_ASN_187	<-->	2l1cA_A_ARG_112
+6ogeA_A_LEU_183	<-->	2l1cA_A_SER_113
+6ogeA_A_ILE_184	<-->	2l1cA_A_CYS_102
+6ogeA_A_THR_182	<-->	2l1cA_A_PRO_101
+6ogeA_A_THR_182	<-->	2l1cA_A_ARG_99

@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6p8qC_C_LYS_739	<-->	1griA_A_ASP_104
+6p8qC_C_LYS_713	<-->	1griA_A_ARG_67
+6p8qC_C_LYS_737	<-->	1griA_A_ASP_104
+6p8qC_C_ILE_732	<-->	1griA_A_ASP_104
+6p8qC_C_GLU_736	<-->	1griA_A_PHE_101
+6p8qC_C_THR_710	<-->	1griA_A_PHE_108
+6p8qC_C_GLU_734	<-->	1griA_A_ARG_142
+6p8qC_C_GLY_735	<-->	1griA_A_PHE_101
+6p8qC_C_LYS_714	<-->	1griA_A_ARG_67
+6p8qC_C_LYS_713	<-->	1griA_A_GLU_71
+6p8qC_C_LYS_737	<-->	1griA_A_ASN_103
+6p8qC_C_THR_710	<-->	1griA_A_HIS_107
+6p8qC_C_GLU_734	<-->	1griA_A_GLN_106

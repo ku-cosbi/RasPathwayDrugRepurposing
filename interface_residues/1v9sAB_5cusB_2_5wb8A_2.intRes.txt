@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_CYS_164	<-->	5wb8A_A_THR_106
+5cusB_B_LEU_112	<-->	5wb8A_A_GLN_164
+5cusB_B_PRO_178	<-->	5wb8A_A_ASN_49
+5cusB_B_LYS_135	<-->	5wb8A_A_GLN_164
+5cusB_B_ASP_134	<-->	5wb8A_A_SER_162
+5cusB_B_GLY_179	<-->	5wb8A_A_ASN_49
+5cusB_B_SER_163	<-->	5wb8A_A_LEU_160
+5cusB_B_HIS_51	<-->	5wb8A_A_GLY_179
+5cusB_B_HIS_51	<-->	5wb8A_A_GLU_181
+5cusB_B_ARG_162	<-->	5wb8A_A_SER_162
+5cusB_B_ASN_103	<-->	5wb8A_A_GLN_164
+5cusB_B_SER_163	<-->	5wb8A_A_LYS_105
+5cusB_B_ASN_105	<-->	5wb8A_A_ALA_178
+5cusB_B_PRO_165	<-->	5wb8A_A_THR_106
+5cusB_B_ASN_105	<-->	5wb8A_A_LYS_165
+5cusB_B_ASN_105	<-->	5wb8A_A_GLN_164
+5cusB_B_ASN_52	<-->	5wb8A_A_GLU_181
+5cusB_B_ARG_162	<-->	5wb8A_A_GLY_161
+5cusB_B_ARG_162	<-->	5wb8A_A_LEU_160
+5cusB_B_TYR_104	<-->	5wb8A_A_GLN_164
+5cusB_B_SER_163	<-->	5wb8A_A_SER_162

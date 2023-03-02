@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_GLU_501	<-->	4xwxA_A_THR_123
+6ogeA_A_GLU_501	<-->	4xwxA_A_THR_125
+6ogeA_A_HIS_495	<-->	4xwxA_A_LEU_53
+6ogeA_A_ARG_47	<-->	4xwxA_A_GLU_184
+6ogeA_A_PRO_500	<-->	4xwxA_A_THR_125
+6ogeA_A_VAL_505	<-->	4xwxA_A_CYS_138
+6ogeA_A_VAL_505	<-->	4xwxA_A_LYS_139
+6ogeA_A_ASP_44	<-->	4xwxA_A_GLU_184
+6ogeA_A_ASP_44	<-->	4xwxA_A_GLY_185
+6ogeA_A_VAL_505	<-->	4xwxA_A_MET_134
+6ogeA_A_GLU_40	<-->	4xwxA_A_HIS_40
+6ogeA_A_ASP_502	<-->	4xwxA_A_THR_125
+6ogeA_A_PRO_500	<-->	4xwxA_A_PRO_48
+6ogeA_A_HIS_478	<-->	4xwxA_A_CYS_138
+6ogeA_A_HIS_48	<-->	4xwxA_A_GLU_184
+6ogeA_A_GLU_501	<-->	4xwxA_A_MET_134
+6ogeA_A_GLU_501	<-->	4xwxA_A_CYS_138
+6ogeA_A_ASP_502	<-->	4xwxA_A_MET_134
+6ogeA_A_GLU_40	<-->	4xwxA_A_LEU_39
+6ogeA_A_HIS_478	<-->	4xwxA_A_LEU_53
+6ogeA_A_ASP_502	<-->	4xwxA_A_ASN_132
+6ogeA_A_PRO_500	<-->	4xwxA_A_SER_51
+6ogeA_A_ALA_510	<-->	4xwxA_A_LYS_139
+6ogeA_A_GLU_501	<-->	4xwxA_A_SER_51

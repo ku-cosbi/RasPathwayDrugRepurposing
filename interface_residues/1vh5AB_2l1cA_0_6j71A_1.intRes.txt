@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l1cA_A_HIS_40	<-->	6j71A_A_HIS_470
+2l1cA_A_PRO_48	<-->	6j71A_A_PRO_500
+2l1cA_A_PRO_48	<-->	6j71A_A_GLU_503
+2l1cA_A_HIS_40	<-->	6j71A_A_THR_496
+2l1cA_A_HIS_40	<-->	6j71A_A_ALA_497
+2l1cA_A_ARG_36	<-->	6j71A_A_HIS_470
+2l1cA_A_HIS_40	<-->	6j71A_A_GLU_40
+2l1cA_A_MET_134	<-->	6j71A_A_ASP_502
+2l1cA_A_ARG_36	<-->	6j71A_A_ASP_417
+2l1cA_A_ASP_43	<-->	6j71A_A_HIS_470
+2l1cA_A_PRO_48	<-->	6j71A_A_THR_472
+2l1cA_A_HIS_40	<-->	6j71A_A_HIS_469
+2l1cA_A_GLY_49	<-->	6j71A_A_PRO_500
+2l1cA_A_SER_51	<-->	6j71A_A_PRO_500
+2l1cA_A_ASP_43	<-->	6j71A_A_THR_472
+2l1cA_A_LEU_39	<-->	6j71A_A_HIS_470
+2l1cA_A_HIS_40	<-->	6j71A_A_SER_38
+2l1cA_A_ARG_36	<-->	6j71A_A_LEU_448
+2l1cA_A_ARG_36	<-->	6j71A_A_GLY_449
+2l1cA_A_TRP_38	<-->	6j71A_A_HIS_470
+2l1cA_A_LYS_44	<-->	6j71A_A_ALA_497
+2l1cA_A_LYS_44	<-->	6j71A_A_ASN_498

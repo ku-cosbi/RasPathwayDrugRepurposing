@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1oy2A_A_PRO_105	<-->	1aweA_A_TYR_110
+1oy2A_A_LEU_63	<-->	1aweA_A_GLU_115
+1oy2A_A_SER_65	<-->	1aweA_A_GLY_54
+1oy2A_A_SER_108	<-->	1aweA_A_VAL_53
+1oy2A_A_LEU_106	<-->	1aweA_A_TYR_110
+1oy2A_A_SER_108	<-->	1aweA_A_ILE_125
+1oy2A_A_LEU_110	<-->	1aweA_A_GLU_115
+1oy2A_A_SER_108	<-->	1aweA_A_ALA_113
+1oy2A_A_SER_103	<-->	1aweA_A_TYR_110
+1oy2A_A_LEU_106	<-->	1aweA_A_GLU_109
+1oy2A_A_ARG_67	<-->	1aweA_A_LYS_111
+1oy2A_A_SER_107	<-->	1aweA_A_TYR_110
+1oy2A_A_ARG_67	<-->	1aweA_A_VAL_53
+1oy2A_A_LEU_63	<-->	1aweA_A_SER_123
+1oy2A_A_MET_66	<-->	1aweA_A_GLY_54
+1oy2A_A_LEU_63	<-->	1aweA_A_ILE_125
+1oy2A_A_LEU_63	<-->	1aweA_A_VAL_124
+1oy2A_A_ARG_67	<-->	1aweA_A_GLY_54
+1oy2A_A_ARG_67	<-->	1aweA_A_ALA_55
+1oy2A_A_GLN_64	<-->	1aweA_A_ILE_125
+1oy2A_A_GLY_111	<-->	1aweA_A_GLU_115
+1oy2A_A_ARG_67	<-->	1aweA_A_LYS_56
+1oy2A_A_MET_66	<-->	1aweA_A_ALA_55
+1oy2A_A_ARG_104	<-->	1aweA_A_TYR_110

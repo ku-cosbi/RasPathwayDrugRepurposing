@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ILE_346	<-->	4i1zA_A_ASN_816
+5cusB_B_MET_414	<-->	4i1zA_A_GLN_812
+5cusB_B_GLN_381	<-->	4i1zA_A_ARG_973
+5cusB_B_ILE_346	<-->	4i1zA_A_GLN_812
+5cusB_B_ALA_439	<-->	4i1zA_A_GLU_985
+5cusB_B_HIS_467	<-->	4i1zA_A_GLU_985
+5cusB_B_ARG_441	<-->	4i1zA_A_GLU_985
+5cusB_B_ARG_441	<-->	4i1zA_A_ARG_986
+5cusB_B_MET_414	<-->	4i1zA_A_ASP_974
+5cusB_B_LYS_415	<-->	4i1zA_A_GLU_985
+5cusB_B_LYS_415	<-->	4i1zA_A_ASP_984
+5cusB_B_ASN_379	<-->	4i1zA_A_ARG_973
+5cusB_B_ALA_439	<-->	4i1zA_A_GLN_976
+5cusB_B_TRP_354	<-->	4i1zA_A_PRO_772
+5cusB_B_MET_414	<-->	4i1zA_A_PRO_975
+5cusB_B_PRO_353	<-->	4i1zA_A_PRO_772
+5cusB_B_LEU_417	<-->	4i1zA_A_MET_987
+5cusB_B_LEU_417	<-->	4i1zA_A_GLU_985
+5cusB_B_LEU_345	<-->	4i1zA_A_ARG_973
+5cusB_B_ASN_406	<-->	4i1zA_A_ASP_974
+5cusB_B_LYS_415	<-->	4i1zA_A_GLN_976

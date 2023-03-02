@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_LYS_615	<-->	6cc9B_B_VAL_45
+3omvA_A_PRO_578	<-->	6cc9B_B_GLY_48
+3omvA_A_LYS_615	<-->	6cc9B_B_ILE_46
+3omvA_A_ASN_576	<-->	6cc9B_B_ARG_164
+3omvA_A_ASN_576	<-->	6cc9B_B_ASP_47
+3omvA_A_LYS_615	<-->	6cc9B_B_VAL_44
+3omvA_A_LYS_615	<-->	6cc9B_B_ASP_153
+3omvA_A_LEU_613	<-->	6cc9B_B_TYR_157
+3omvA_A_PRO_578	<-->	6cc9B_B_ASP_47
+3omvA_A_GLN_441	<-->	6cc9B_B_ARG_161
+3omvA_A_PRO_614	<-->	6cc9B_B_ASP_153
+3omvA_A_LYS_615	<-->	6cc9B_B_LEU_23
+3omvA_A_PRO_614	<-->	6cc9B_B_TYR_157
+3omvA_A_LEU_613	<-->	6cc9B_B_VAL_45
+3omvA_A_LYS_579	<-->	6cc9B_B_GLU_49
+3omvA_A_LYS_579	<-->	6cc9B_B_GLY_48
+3omvA_A_MET_442	<-->	6cc9B_B_TYR_157
+3omvA_A_SER_612	<-->	6cc9B_B_VAL_45
+3omvA_A_LYS_615	<-->	6cc9B_B_TYR_157
+3omvA_A_PHE_443	<-->	6cc9B_B_TYR_157
+3omvA_A_LYS_615	<-->	6cc9B_B_PHE_156

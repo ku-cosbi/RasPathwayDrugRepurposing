@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_ALA_694	<-->	4zdrA_A_LYS_122
+6q0kA_A_GLU_703	<-->	4zdrA_A_GLN_144
+6q0kA_A_GLU_703	<-->	4zdrA_A_TYR_126
+6q0kA_A_SER_679	<-->	4zdrA_A_GLN_150
+6q0kA_A_SER_679	<-->	4zdrA_A_GLU_151
+6q0kA_A_SER_679	<-->	4zdrA_A_GLU_154
+6q0kA_A_ALA_694	<-->	4zdrA_A_GLU_151
+6q0kA_A_GLU_695	<-->	4zdrA_A_GLU_102
+6q0kA_A_LYS_687	<-->	4zdrA_A_ALA_109
+6q0kA_A_LYS_687	<-->	4zdrA_A_ILE_106
+6q0kA_A_LYS_687	<-->	4zdrA_A_PRO_107
+6q0kA_A_LYS_698	<-->	4zdrA_A_GLN_144
+6q0kA_A_ARG_691	<-->	4zdrA_A_PRO_107
+6q0kA_A_LYS_700	<-->	4zdrA_A_GLN_144
+6q0kA_A_LYS_700	<-->	4zdrA_A_ILE_141
+6q0kA_A_ALA_688	<-->	4zdrA_A_PRO_107
+6q0kA_A_LYS_699	<-->	4zdrA_A_ASP_143
+6q0kA_A_ARG_691	<-->	4zdrA_A_ILE_106
+6q0kA_A_LYS_699	<-->	4zdrA_A_GLY_140
+6q0kA_A_LEU_678	<-->	4zdrA_A_GLU_151
+6q0kA_A_ARG_691	<-->	4zdrA_A_GLU_102
+6q0kA_A_LYS_699	<-->	4zdrA_A_GLN_144
