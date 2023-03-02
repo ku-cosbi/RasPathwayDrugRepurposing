@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7m0xB_B_LEU_54	<-->	6q0kA_A_GLU_703
+7m0xB_B_LEU_54	<-->	6q0kA_A_ASP_702
+7m0xB_B_LEU_54	<-->	6q0kA_A_ARG_701
+7m0xB_B_LEU_54	<-->	6q0kA_A_LYS_700
+7m0xB_B_GLN_110	<-->	6q0kA_A_TRP_604
+7m0xB_B_GLU_120	<-->	6q0kA_A_SER_634
+7m0xB_B_ARG_113	<-->	6q0kA_A_ARG_603
+7m0xB_B_LEU_40	<-->	6q0kA_A_PRO_705
+7m0xB_B_ASN_122	<-->	6q0kA_A_ASP_702
+7m0xB_B_LYS_185	<-->	6q0kA_A_ALA_569
+7m0xB_B_GLN_110	<-->	6q0kA_A_ARG_603
+7m0xB_B_ARG_113	<-->	6q0kA_A_SER_605
+7m0xB_B_ARG_113	<-->	6q0kA_A_TRP_604
+7m0xB_B_ASN_109	<-->	6q0kA_A_TRP_604
+7m0xB_B_ASN_109	<-->	6q0kA_A_SER_605
+7m0xB_B_GLU_62	<-->	6q0kA_A_LYS_630
+7m0xB_B_GLU_120	<-->	6q0kA_A_PHE_635
+7m0xB_B_LYS_183	<-->	6q0kA_A_LEU_706
+7m0xB_B_ILE_112	<-->	6q0kA_A_SER_605
+7m0xB_B_ARG_113	<-->	6q0kA_A_SER_602

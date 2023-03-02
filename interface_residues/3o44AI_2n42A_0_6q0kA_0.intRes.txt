@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_VAL_125	<-->	6q0kA_A_ARG_509
+2n42A_A_ARG_135	<-->	6q0kA_A_ASP_449
+2n42A_A_LEU_133	<-->	6q0kA_A_THR_508
+2n42A_A_LEU_133	<-->	6q0kA_A_ARG_509
+2n42A_A_ILE_139	<-->	6q0kA_A_ASP_449
+2n42A_A_ARG_135	<-->	6q0kA_A_TRP_450
+2n42A_A_GLU_91	<-->	6q0kA_A_ALA_569
+2n42A_A_VAL_125	<-->	6q0kA_A_HIS_510
+2n42A_A_VAL_125	<-->	6q0kA_A_VAL_511
+2n42A_A_LEU_133	<-->	6q0kA_A_ARG_506
+2n42A_A_LEU_133	<-->	6q0kA_A_LYS_507
+2n42A_A_SER_136	<-->	6q0kA_A_ARG_506
+2n42A_A_GLN_129	<-->	6q0kA_A_LEU_515
+2n42A_A_GLN_129	<-->	6q0kA_A_HIS_510
+2n42A_A_ASP_132	<-->	6q0kA_A_PHE_516
+2n42A_A_ASP_132	<-->	6q0kA_A_MET_517
+2n42A_A_GLN_129	<-->	6q0kA_A_ARG_509
+2n42A_A_GLN_129	<-->	6q0kA_A_THR_508
+2n42A_A_GLY_138	<-->	6q0kA_A_ASP_449

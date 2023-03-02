@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_ILE_465	<-->	6p8qC_C_ILE_890
+5cusA_A_HIS_467	<-->	6p8qC_C_LEU_887
+5cusA_A_ASN_468	<-->	6p8qC_C_LEU_887
+5cusA_A_PRO_470	<-->	6p8qC_C_SER_924
+5cusA_A_ILE_465	<-->	6p8qC_C_HIS_888
+5cusA_A_ARG_469	<-->	6p8qC_C_LEU_887
+5cusA_A_ILE_465	<-->	6p8qC_C_GLU_884
+5cusA_A_ASN_468	<-->	6p8qC_C_HIS_888
+5cusA_A_HIS_467	<-->	6p8qC_C_HIS_888
+5cusA_A_ARG_471	<-->	6p8qC_C_ILE_886
+5cusA_A_ARG_471	<-->	6p8qC_C_LEU_887
+5cusA_A_ARG_471	<-->	6p8qC_C_GLU_865
+5cusA_A_HIS_446	<-->	6p8qC_C_HIS_888
+5cusA_A_LYS_466	<-->	6p8qC_C_HIS_888
+5cusA_A_LYS_466	<-->	6p8qC_C_LEU_887
+5cusA_A_ARG_434	<-->	6p8qC_C_ASP_956
+5cusA_A_LYS_466	<-->	6p8qC_C_GLU_884
+5cusA_A_ARG_471	<-->	6p8qC_C_HIS_870
+5cusA_A_HIS_467	<-->	6p8qC_C_GLU_928
+5cusA_A_PRO_470	<-->	6p8qC_C_LEU_887
+5cusA_A_ARG_471	<-->	6p8qC_C_ARG_889

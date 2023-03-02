@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_ASN_530	<-->	7aeiA_A_SER_921
+6ogeA_A_ASN_530	<-->	7aeiA_A_ALA_920
+6ogeA_A_ALA_557	<-->	7aeiA_A_GLU_928
+6ogeA_A_THR_297	<-->	7aeiA_A_GLN_982
+6ogeA_A_ASP_326	<-->	7aeiA_A_PRO_937
+6ogeA_A_ASN_530	<-->	7aeiA_A_PRO_919
+6ogeA_A_THR_297	<-->	7aeiA_A_ASP_807
+6ogeA_A_PRO_285	<-->	7aeiA_A_GLN_982
+6ogeA_A_PRO_285	<-->	7aeiA_A_GLY_983
+6ogeA_A_ARG_487	<-->	7aeiA_A_ASP_916
+6ogeA_A_ARG_487	<-->	7aeiA_A_LYS_913
+6ogeA_A_ALA_557	<-->	7aeiA_A_SER_925
+6ogeA_A_VAL_296	<-->	7aeiA_A_ASP_807
+6ogeA_A_GLU_460	<-->	7aeiA_A_ASP_916
+6ogeA_A_ARG_459	<-->	7aeiA_A_GLY_917
+6ogeA_A_CYS_531	<-->	7aeiA_A_SER_921
+6ogeA_A_HIS_559	<-->	7aeiA_A_SER_925
+6ogeA_A_ARG_459	<-->	7aeiA_A_PRO_919
+6ogeA_A_TYR_301	<-->	7aeiA_A_ASP_916
+6ogeA_A_ALA_298	<-->	7aeiA_A_ASP_807

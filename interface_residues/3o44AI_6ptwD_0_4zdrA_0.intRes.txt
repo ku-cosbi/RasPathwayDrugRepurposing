@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ptwD_D_MET_376	<-->	4zdrA_A_VAL_241
+6ptwD_D_ASN_371	<-->	4zdrA_A_LEU_220
+6ptwD_D_VAL_370	<-->	4zdrA_A_SER_238
+6ptwD_D_ASN_374	<-->	4zdrA_A_GLU_14
+6ptwD_D_ARG_373	<-->	4zdrA_A_ASP_213
+6ptwD_D_ASN_356	<-->	4zdrA_A_LYS_212
+6ptwD_D_ASN_356	<-->	4zdrA_A_LEU_216
+6ptwD_D_LYS_384	<-->	4zdrA_A_ARG_237
+6ptwD_D_ARG_373	<-->	4zdrA_A_VAL_242
+6ptwD_D_ARG_373	<-->	4zdrA_A_PRO_243
+6ptwD_D_VAL_372	<-->	4zdrA_A_SER_238
+6ptwD_D_ARG_373	<-->	4zdrA_A_VAL_241
+6ptwD_D_VAL_372	<-->	4zdrA_A_LEU_216
+6ptwD_D_VAL_369	<-->	4zdrA_A_GLN_219
+6ptwD_D_ARG_373	<-->	4zdrA_A_TYR_244
+6ptwD_D_ASN_371	<-->	4zdrA_A_SER_238
+6ptwD_D_ASN_371	<-->	4zdrA_A_LEU_216
+6ptwD_D_THR_357	<-->	4zdrA_A_LEU_216
+6ptwD_D_GLY_375	<-->	4zdrA_A_VAL_241
+6ptwD_D_THR_357	<-->	4zdrA_A_GLN_219
+6ptwD_D_ASN_374	<-->	4zdrA_A_VAL_241
+6ptwD_D_LYS_384	<-->	4zdrA_A_SER_238

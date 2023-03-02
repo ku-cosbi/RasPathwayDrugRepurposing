@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_ALA_557	<-->	4i1zA_A_LYS_929
+6ogeA_A_ALA_557	<-->	4i1zA_A_SER_925
+6ogeA_A_ARG_487	<-->	4i1zA_A_LYS_913
+6ogeA_A_ASN_530	<-->	4i1zA_A_PRO_919
+6ogeA_A_THR_297	<-->	4i1zA_A_ASP_807
+6ogeA_A_VAL_296	<-->	4i1zA_A_ASP_807
+6ogeA_A_ARG_517	<-->	4i1zA_A_GLY_874
+6ogeA_A_ARG_517	<-->	4i1zA_A_LYS_875
+6ogeA_A_ARG_517	<-->	4i1zA_A_VAL_876
+6ogeA_A_ARG_459	<-->	4i1zA_A_GLY_917
+6ogeA_A_ARG_459	<-->	4i1zA_A_PRO_919
+6ogeA_A_ASN_530	<-->	4i1zA_A_SER_921
+6ogeA_A_ASN_530	<-->	4i1zA_A_ALA_920
+6ogeA_A_PRO_285	<-->	4i1zA_A_GLN_982
+6ogeA_A_PRO_285	<-->	4i1zA_A_GLY_983
+6ogeA_A_ARG_487	<-->	4i1zA_A_ASP_916
+6ogeA_A_GLU_286	<-->	4i1zA_A_ARG_986
+6ogeA_A_THR_23	<-->	4i1zA_A_GLU_804
+6ogeA_A_GLU_286	<-->	4i1zA_A_GLY_983
+6ogeA_A_CYS_531	<-->	4i1zA_A_SER_921
+6ogeA_A_TYR_301	<-->	4i1zA_A_ASP_916
+6ogeA_A_ALA_298	<-->	4i1zA_A_ASP_807
+6ogeA_A_GLN_484	<-->	4i1zA_A_ALA_920

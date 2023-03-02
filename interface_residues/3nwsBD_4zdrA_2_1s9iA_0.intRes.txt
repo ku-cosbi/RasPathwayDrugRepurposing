@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_ILE_106	<-->	1s9iA_A_GLN_189
+4zdrA_A_ASP_137	<-->	1s9iA_A_GLY_241
+4zdrA_A_SER_99	<-->	1s9iA_A_GLY_217
+4zdrA_A_ASN_95	<-->	1s9iA_A_GLN_218
+4zdrA_A_ILE_141	<-->	1s9iA_A_HIS_243
+4zdrA_A_ASP_92	<-->	1s9iA_A_ILE_111
+4zdrA_A_ASN_95	<-->	1s9iA_A_ASP_221
+4zdrA_A_GLU_102	<-->	1s9iA_A_GLN_189
+4zdrA_A_GLU_31	<-->	1s9iA_A_ARG_117
+4zdrA_A_GLY_140	<-->	1s9iA_A_THR_242
+4zdrA_A_SER_99	<-->	1s9iA_A_GLU_118
+4zdrA_A_PRO_107	<-->	1s9iA_A_GLN_189
+4zdrA_A_PRO_107	<-->	1s9iA_A_LYS_187
+4zdrA_A_ASP_136	<-->	1s9iA_A_GLN_240
+4zdrA_A_ASN_95	<-->	1s9iA_A_GLY_217
+4zdrA_A_LYS_103	<-->	1s9iA_A_VAL_121
+4zdrA_A_ASP_136	<-->	1s9iA_A_GLY_241
+4zdrA_A_GLY_140	<-->	1s9iA_A_HIS_243
+4zdrA_A_GLU_102	<-->	1s9iA_A_ILE_190
+4zdrA_A_PRO_107	<-->	1s9iA_A_HIS_188

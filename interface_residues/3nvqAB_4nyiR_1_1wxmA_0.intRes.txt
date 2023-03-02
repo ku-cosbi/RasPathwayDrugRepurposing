@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiR_R_ARG_128	<-->	1wxmA_A_VAL_60
+4nyiR_R_ASP_132	<-->	1wxmA_A_ILE_54
+4nyiR_R_ASP_132	<-->	1wxmA_A_ARG_52
+4nyiR_R_LEU_133	<-->	1wxmA_A_PRO_69
+4nyiR_R_GLU_91	<-->	1wxmA_A_GLY_27
+4nyiR_R_THR_124	<-->	1wxmA_A_ASP_64
+4nyiR_R_GLU_91	<-->	1wxmA_A_SER_29
+4nyiR_R_GLN_95	<-->	1wxmA_A_ASP_26
+4nyiR_R_ASP_132	<-->	1wxmA_A_THR_59
+4nyiR_R_THR_87	<-->	1wxmA_A_ASP_64
+4nyiR_R_SER_136	<-->	1wxmA_A_ARG_52
+4nyiR_R_GLN_129	<-->	1wxmA_A_PRO_69
+4nyiR_R_GLN_129	<-->	1wxmA_A_LEU_70
+4nyiR_R_GLU_91	<-->	1wxmA_A_ASP_64
+4nyiR_R_GLU_91	<-->	1wxmA_A_THR_65
+4nyiR_R_GLU_91	<-->	1wxmA_A_ALA_66
+4nyiR_R_GLN_129	<-->	1wxmA_A_ALA_62
+4nyiR_R_GLN_129	<-->	1wxmA_A_THR_61
+4nyiR_R_HIS_94	<-->	1wxmA_A_ALA_68
+4nyiR_R_GLN_129	<-->	1wxmA_A_THR_65
+4nyiR_R_HIS_94	<-->	1wxmA_A_ASP_26

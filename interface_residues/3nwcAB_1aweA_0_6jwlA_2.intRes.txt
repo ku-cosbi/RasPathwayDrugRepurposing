@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1aweA_A_LEU_150	<-->	6jwlA_A_TYR_978
+1aweA_A_TYR_146	<-->	6jwlA_A_ARG_977
+1aweA_A_GLN_145	<-->	6jwlA_A_ARG_977
+1aweA_A_ILE_142	<-->	6jwlA_A_ASP_974
+1aweA_A_LEU_150	<-->	6jwlA_A_THR_940
+1aweA_A_LEU_150	<-->	6jwlA_A_GLN_976
+1aweA_A_LEU_150	<-->	6jwlA_A_ARG_977
+1aweA_A_THR_149	<-->	6jwlA_A_ARG_977
+1aweA_A_GLU_151	<-->	6jwlA_A_VAL_980
+1aweA_A_LEU_150	<-->	6jwlA_A_VAL_980
+1aweA_A_THR_149	<-->	6jwlA_A_ASP_942
+1aweA_A_THR_149	<-->	6jwlA_A_TYR_978
+1aweA_A_THR_149	<-->	6jwlA_A_THR_940

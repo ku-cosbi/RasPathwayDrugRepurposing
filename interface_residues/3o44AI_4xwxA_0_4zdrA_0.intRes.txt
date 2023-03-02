@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ARG_79	<-->	4zdrA_A_TYR_19
+4xwxA_A_ARG_79	<-->	4zdrA_A_ASN_50
+4xwxA_A_ARG_79	<-->	4zdrA_A_GLU_17
+4xwxA_A_SER_103	<-->	4zdrA_A_LEU_220
+4xwxA_A_ARG_104	<-->	4zdrA_A_SER_238
+4xwxA_A_ARG_104	<-->	4zdrA_A_MET_239
+4xwxA_A_THR_75	<-->	4zdrA_A_GLN_15
+4xwxA_A_PRO_105	<-->	4zdrA_A_SER_238
+4xwxA_A_ASP_157	<-->	4zdrA_A_GLU_17
+4xwxA_A_ASP_159	<-->	4zdrA_A_ASN_50
+4xwxA_A_ASP_159	<-->	4zdrA_A_ARG_55
+4xwxA_A_ASP_159	<-->	4zdrA_A_ALA_54
+4xwxA_A_PRO_105	<-->	4zdrA_A_VAL_241
+4xwxA_A_ARG_79	<-->	4zdrA_A_VAL_241
+4xwxA_A_ARG_79	<-->	4zdrA_A_GLU_240
+4xwxA_A_SER_103	<-->	4zdrA_A_MET_239
+4xwxA_A_SER_103	<-->	4zdrA_A_SER_238
+4xwxA_A_LEU_84	<-->	4zdrA_A_ARG_237
+4xwxA_A_SER_83	<-->	4zdrA_A_SER_238
+4xwxA_A_SER_103	<-->	4zdrA_A_LEU_216
+4xwxA_A_LEU_84	<-->	4zdrA_A_SER_238
+4xwxA_A_PRO_158	<-->	4zdrA_A_GLU_17

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_HIS_611	<-->	6q0kA_A_LEU_716
+3omvA_A_HIS_611	<-->	6q0kA_A_ARG_719
+3omvA_A_ARG_401	<-->	6q0kA_A_LYS_570
+3omvA_A_ARG_401	<-->	6q0kA_A_THR_508
+3omvA_A_ARG_401	<-->	6q0kA_A_ARG_509
+3omvA_A_ARG_401	<-->	6q0kA_A_LYS_507
+3omvA_A_LYS_399	<-->	6q0kA_A_ARG_509
+3omvA_A_TYR_340	<-->	6q0kA_A_TRP_450
+3omvA_A_ARG_401	<-->	6q0kA_A_TYR_566
+3omvA_A_ARG_401	<-->	6q0kA_A_LEU_567
+3omvA_A_LEU_407	<-->	6q0kA_A_LYS_570
+3omvA_A_GLU_607	<-->	6q0kA_A_GLU_715
+3omvA_A_GLU_607	<-->	6q0kA_A_ARG_719
+3omvA_A_HIS_611	<-->	6q0kA_A_SER_720
+3omvA_A_LEU_608	<-->	6q0kA_A_ARG_719
+3omvA_A_ARG_450	<-->	6q0kA_A_ALA_712
+3omvA_A_TYR_341	<-->	6q0kA_A_ASP_449
+3omvA_A_LEU_407	<-->	6q0kA_A_ALA_569
+3omvA_A_VAL_403	<-->	6q0kA_A_ALA_569
+3omvA_A_ARG_401	<-->	6q0kA_A_ILE_572
+3omvA_A_TYR_458	<-->	6q0kA_A_GLN_562
+3omvA_A_LYS_462	<-->	6q0kA_A_ARG_509

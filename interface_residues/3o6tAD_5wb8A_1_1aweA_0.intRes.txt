@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8A_A_HIS_334	<-->	1aweA_A_ASN_102
+5wb8A_A_GLU_320	<-->	1aweA_A_GLN_145
+5wb8A_A_ASP_290	<-->	1aweA_A_ASN_135
+5wb8A_A_GLY_319	<-->	1aweA_A_GLN_145
+5wb8A_A_TYR_88	<-->	1aweA_A_ARG_147
+5wb8A_A_LYS_311	<-->	1aweA_A_LYS_104
+5wb8A_A_LYS_322	<-->	1aweA_A_THR_149
+5wb8A_A_ASP_290	<-->	1aweA_A_MET_138
+5wb8A_A_LYS_311	<-->	1aweA_A_ASP_103
+5wb8A_A_MET_87	<-->	1aweA_A_TYR_146
+5wb8A_A_ASN_91	<-->	1aweA_A_ARG_147
+5wb8A_A_TYR_89	<-->	1aweA_A_GLU_151
+5wb8A_A_HIS_280	<-->	1aweA_A_GLU_132
+5wb8A_A_GLU_90	<-->	1aweA_A_GLU_151
+5wb8A_A_ALA_289	<-->	1aweA_A_ASN_135
+5wb8A_A_TYR_88	<-->	1aweA_A_GLU_151
+5wb8A_A_ALA_289	<-->	1aweA_A_MET_138
+5wb8A_A_MET_87	<-->	1aweA_A_LEU_150
+5wb8A_A_MET_87	<-->	1aweA_A_GLU_151
+5wb8A_A_ASN_91	<-->	1aweA_A_GLU_151
+5wb8A_A_GLU_320	<-->	1aweA_A_GLN_100
+5wb8A_A_GLU_320	<-->	1aweA_A_ASN_102
+5wb8A_A_ASP_323	<-->	1aweA_A_THR_149

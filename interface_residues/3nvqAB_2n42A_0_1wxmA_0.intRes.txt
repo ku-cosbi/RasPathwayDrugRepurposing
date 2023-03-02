@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_VAL_125	<-->	1wxmA_A_GLN_45
+2n42A_A_GLN_129	<-->	1wxmA_A_THR_61
+2n42A_A_GLN_129	<-->	1wxmA_A_VAL_60
+2n42A_A_VAL_125	<-->	1wxmA_A_VAL_49
+2n42A_A_GLN_129	<-->	1wxmA_A_ALA_62
+2n42A_A_THR_124	<-->	1wxmA_A_GLN_45
+2n42A_A_THR_124	<-->	1wxmA_A_ASP_64
+2n42A_A_VAL_125	<-->	1wxmA_A_TRP_63
+2n42A_A_THR_124	<-->	1wxmA_A_TRP_63
+2n42A_A_GLN_129	<-->	1wxmA_A_TRP_63
+2n42A_A_VAL_125	<-->	1wxmA_A_CYS_48
+2n42A_A_ASP_132	<-->	1wxmA_A_VAL_60
+2n42A_A_ARG_128	<-->	1wxmA_A_VAL_60
+2n42A_A_PHE_90	<-->	1wxmA_A_ASP_64
+2n42A_A_ARG_128	<-->	1wxmA_A_SER_84
+2n42A_A_GLU_126	<-->	1wxmA_A_ASP_46
+2n42A_A_LEU_120	<-->	1wxmA_A_ASP_46
+2n42A_A_GLU_126	<-->	1wxmA_A_LEU_80
+2n42A_A_THR_87	<-->	1wxmA_A_ASP_64
+2n42A_A_ASN_86	<-->	1wxmA_A_ASP_64
+2n42A_A_ALA_121	<-->	1wxmA_A_ASP_46
+2n42A_A_THR_87	<-->	1wxmA_A_TRP_63
+2n42A_A_ARG_123	<-->	1wxmA_A_GLN_45
+2n42A_A_ARG_123	<-->	1wxmA_A_ASP_46

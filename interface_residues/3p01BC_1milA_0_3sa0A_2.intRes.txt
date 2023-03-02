@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1milA_A_ARG_16	<-->	3sa0A_A_ALA_327
+1milA_A_ILE_88	<-->	3sa0A_A_HIS_299
+1milA_A_THR_36	<-->	3sa0A_A_PRO_328
+1milA_A_PRO_59	<-->	3sa0A_A_HIS_178
+1milA_A_ALA_90	<-->	3sa0A_A_HIS_299
+1milA_A_THR_36	<-->	3sa0A_A_ALA_327
+1milA_A_ASP_58	<-->	3sa0A_A_HIS_178
+1milA_A_ARG_16	<-->	3sa0A_A_PRO_328
+1milA_A_ARG_64	<-->	3sa0A_A_ASP_177
+1milA_A_THR_65	<-->	3sa0A_A_ASP_177
+1milA_A_VAL_57	<-->	3sa0A_A_ASP_175
+1milA_A_VAL_57	<-->	3sa0A_A_ASP_177
+1milA_A_SER_34	<-->	3sa0A_A_LYS_330
+1milA_A_VAL_57	<-->	3sa0A_A_HIS_178
+1milA_A_GLY_91	<-->	3sa0A_A_HIS_299
+1milA_A_THR_37	<-->	3sa0A_A_PHE_331
+1milA_A_THR_37	<-->	3sa0A_A_LYS_330
+1milA_A_LEU_55	<-->	3sa0A_A_ALA_174
