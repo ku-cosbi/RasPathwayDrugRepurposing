@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5tarA_A_LEU_133	<-->	6ptwD_D_LYS_384
+5tarA_A_ASP_132	<-->	6ptwD_D_MET_383
+5tarA_A_HIS_94	<-->	6ptwD_D_VAL_370
+5tarA_A_HIS_94	<-->	6ptwD_D_ASN_371
+5tarA_A_LYS_128	<-->	6ptwD_D_VAL_388
+5tarA_A_PHE_90	<-->	6ptwD_D_VAL_370
+5tarA_A_ILE_93	<-->	6ptwD_D_ASN_371
+5tarA_A_GLU_107	<-->	6ptwD_D_ARG_373
+5tarA_A_HIS_94	<-->	6ptwD_D_VAL_369
+5tarA_A_ASP_126	<-->	6ptwD_D_VAL_388
+5tarA_A_LYS_128	<-->	6ptwD_D_LYS_387
+5tarA_A_PHE_90	<-->	6ptwD_D_THR_368
+5tarA_A_HIS_94	<-->	6ptwD_D_THR_357
+5tarA_A_ASP_108	<-->	6ptwD_D_ARG_373
+5tarA_A_GLU_91	<-->	6ptwD_D_ARG_367
+5tarA_A_ARG_97	<-->	6ptwD_D_ASN_371
+5tarA_A_GLU_98	<-->	6ptwD_D_THR_357
+5tarA_A_GLN_129	<-->	6ptwD_D_VAL_388
+5tarA_A_ASP_132	<-->	6ptwD_D_LYS_384
+5tarA_A_SER_136	<-->	6ptwD_D_MET_376
+5tarA_A_ASP_126	<-->	6ptwD_D_LYS_387

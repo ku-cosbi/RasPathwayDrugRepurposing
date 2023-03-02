@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l9uB_B_PHE_663	<-->	2m20A_A_ARG_28
+2l9uB_B_GLY_668	<-->	2m20A_A_ARG_39
+2l9uB_B_ARG_667	<-->	2m20A_A_HIS_31
+2l9uB_B_ARG_667	<-->	2m20A_A_ARG_28
+2l9uB_B_ARG_669	<-->	2m20A_A_ARG_36
+2l9uB_B_ARG_670	<-->	2m20A_A_ARG_36
+2l9uB_B_ARG_667	<-->	2m20A_A_ILE_27
+2l9uB_B_HIS_672	<-->	2m20A_A_ARG_34
+2l9uB_B_HIS_672	<-->	2m20A_A_ARG_36
+2l9uB_B_HIS_673	<-->	2m20A_A_ILE_32
+2l9uB_B_HIS_673	<-->	2m20A_A_VAL_33
+2l9uB_B_HIS_673	<-->	2m20A_A_ARG_34
+2l9uB_B_HIS_673	<-->	2m20A_A_LYS_35
+2l9uB_B_HIS_671	<-->	2m20A_A_ARG_36
+2l9uB_B_HIS_671	<-->	2m20A_A_ARG_34
+2l9uB_B_HIS_674	<-->	2m20A_A_ILE_32
+2l9uB_B_HIS_671	<-->	2m20A_A_HIS_31

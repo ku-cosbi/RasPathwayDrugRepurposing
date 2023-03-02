@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5lv6A_A_THR_638	<-->	2n2aA_A_GLU_2
+5lv6A_A_GLU_634	<-->	2n2aA_A_ALA_1
+5lv6A_A_LEU_658	<-->	2n2aA_A_VAL_23
+5lv6A_A_CYS_636	<-->	2n2aA_A_ALA_1
+5lv6A_A_LEU_658	<-->	2n2aA_A_VAL_27
+5lv6A_A_LEU_658	<-->	2n2aA_A_LEU_24
+5lv6A_A_VAL_651	<-->	2n2aA_A_LEU_20
+5lv6A_A_ARG_669	<-->	2n2aA_A_ARG_34
+5lv6A_A_PRO_641	<-->	2n2aA_A_SER_10
+5lv6A_A_ILE_643	<-->	2n2aA_A_SER_13
+5lv6A_A_LEU_654	<-->	2n2aA_A_LEU_24
+5lv6A_A_LEU_655	<-->	2n2aA_A_LEU_20
+5lv6A_A_LEU_654	<-->	2n2aA_A_LEU_20
+5lv6A_A_LEU_654	<-->	2n2aA_A_VAL_21
+5lv6A_A_PRO_637	<-->	2n2aA_A_GLU_2
+5lv6A_A_LEU_657	<-->	2n2aA_A_LEU_24
+5lv6A_A_LYS_642	<-->	2n2aA_A_ARG_4
+5lv6A_A_GLY_635	<-->	2n2aA_A_ALA_1
+5lv6A_A_LYS_642	<-->	2n2aA_A_GLN_3
+5lv6A_A_VAL_651	<-->	2n2aA_A_VAL_16
+5lv6A_A_PRO_637	<-->	2n2aA_A_ALA_1
+5lv6A_A_LEU_662	<-->	2n2aA_A_VAL_27

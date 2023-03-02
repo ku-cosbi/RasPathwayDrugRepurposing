@@ -1,0 +1,13 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n5sA_A_LEU_83	<-->	2ks1A_A_ARG_83
+2n5sA_A_LEU_88	<-->	2ks1A_A_ARG_83
+2n5sA_A_ILE_64	<-->	2ks1A_A_LEU_74
+2n5sA_A_ARG_86	<-->	2ks1A_A_ARG_83
+2n5sA_A_LEU_79	<-->	2ks1A_A_LYS_84
+2n5sA_A_VAL_89	<-->	2ks1A_A_ARG_83
+2n5sA_A_GLU_87	<-->	2ks1A_A_ARG_83
+2n5sA_A_LEU_57	<-->	2ks1A_A_LEU_67
+2n5sA_A_CYS_41	<-->	2ks1A_A_CYS_42
+2n5sA_A_ILE_43	<-->	2ks1A_A_CYS_42

@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5lv6A_A_SER_645	<-->	2ks1A_A_GLN_46
+5lv6A_A_SER_645	<-->	2ks1A_A_ALA_44
+5lv6A_A_ILE_643	<-->	2ks1A_A_SER_53
+5lv6A_A_SER_645	<-->	2ks1A_A_PRO_43
+5lv6A_A_ILE_643	<-->	2ks1A_A_GLN_46
+5lv6A_A_LEU_662	<-->	2ks1A_A_VAL_66
+5lv6A_A_VAL_651	<-->	2ks1A_A_SER_56
+5lv6A_A_LEU_658	<-->	2ks1A_A_LEU_63
+5lv6A_A_ILE_646	<-->	2ks1A_A_PRO_43
+5lv6A_A_ILE_646	<-->	2ks1A_A_CYS_42
+5lv6A_A_LEU_658	<-->	2ks1A_A_VAL_66
+5lv6A_A_PRO_644	<-->	2ks1A_A_GLN_46
+5lv6A_A_LEU_655	<-->	2ks1A_A_VAL_59
+5lv6A_A_LEU_658	<-->	2ks1A_A_LEU_62
+5lv6A_A_LEU_654	<-->	2ks1A_A_VAL_59
+5lv6A_A_LEU_654	<-->	2ks1A_A_LEU_63
+5lv6A_A_LEU_654	<-->	2ks1A_A_GLY_60
+5lv6A_A_LYS_642	<-->	2ks1A_A_ARG_47
+5lv6A_A_LYS_642	<-->	2ks1A_A_GLN_46

@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4p9zA_A_GLN_106	<-->	5wb8A_A_PRO_362
+4p9zA_A_HIS_107	<-->	5wb8A_A_PRO_361
+4p9zA_A_ASN_143	<-->	5wb8A_A_PHE_352
+4p9zA_A_ARG_142	<-->	5wb8A_A_PHE_352
+4p9zA_A_GLN_106	<-->	5wb8A_A_ARG_353
+4p9zA_A_LYS_109	<-->	5wb8A_A_PRO_361
+4p9zA_A_LYS_109	<-->	5wb8A_A_ALA_329
+4p9zA_A_ARG_67	<-->	5wb8A_A_HIS_359
+4p9zA_A_VAL_105	<-->	5wb8A_A_SER_356
+4p9zA_A_HIS_107	<-->	5wb8A_A_PRO_362
+4p9zA_A_GLU_71	<-->	5wb8A_A_HIS_359
+4p9zA_A_PHE_108	<-->	5wb8A_A_PRO_361
+4p9zA_A_PHE_108	<-->	5wb8A_A_PRO_362
+4p9zA_A_ASN_143	<-->	5wb8A_A_ARG_353
+4p9zA_A_TRP_121	<-->	5wb8A_A_PRO_365
+4p9zA_A_TRP_121	<-->	5wb8A_A_ASP_364
+4p9zA_A_ASN_143	<-->	5wb8A_A_PRO_349
+4p9zA_A_ASP_104	<-->	5wb8A_A_SER_356
+4p9zA_A_GLN_144	<-->	5wb8A_A_ARG_353
+4p9zA_A_ARG_142	<-->	5wb8A_A_PRO_365

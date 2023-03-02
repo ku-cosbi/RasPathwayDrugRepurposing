@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_LEU_115	<-->	7aeiA_A_VAL_980
+4xwxA_A_ALA_118	<-->	7aeiA_A_ARG_977
+4xwxA_A_GLY_58	<-->	7aeiA_A_ARG_977
+4xwxA_A_ALA_135	<-->	7aeiA_A_ILE_941
+4xwxA_A_LEU_115	<-->	7aeiA_A_GLN_976
+4xwxA_A_VAL_89	<-->	7aeiA_A_ARG_977
+4xwxA_A_ARG_55	<-->	7aeiA_A_ASP_1008
+4xwxA_A_MET_57	<-->	7aeiA_A_ARG_977
+4xwxA_A_PRO_121	<-->	7aeiA_A_ASP_942
+4xwxA_A_ASP_137	<-->	7aeiA_A_TYR_944
+4xwxA_A_ALA_136	<-->	7aeiA_A_MET_945
+4xwxA_A_ALA_88	<-->	7aeiA_A_ASP_974
+4xwxA_A_ALA_88	<-->	7aeiA_A_ARG_977
+4xwxA_A_ASP_137	<-->	7aeiA_A_ILE_941
+4xwxA_A_ALA_136	<-->	7aeiA_A_ILE_941
+4xwxA_A_GLY_119	<-->	7aeiA_A_ARG_977
+4xwxA_A_MET_120	<-->	7aeiA_A_ILE_941
+4xwxA_A_LYS_116	<-->	7aeiA_A_VAL_980
+4xwxA_A_PRO_121	<-->	7aeiA_A_ILE_941
+4xwxA_A_PRO_90	<-->	7aeiA_A_ASP_1008
+4xwxA_A_PRO_90	<-->	7aeiA_A_ARG_977

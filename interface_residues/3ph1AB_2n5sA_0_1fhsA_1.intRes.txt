@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n5sA_A_ILE_46	<-->	1fhsA_A_GLN_102
+2n5sA_A_LEU_58	<-->	1fhsA_A_HIS_7
+2n5sA_A_ILE_46	<-->	1fhsA_A_GLN_105
+2n5sA_A_LEU_56	<-->	1fhsA_A_GLY_12
+2n5sA_A_GLY_49	<-->	1fhsA_A_GLN_102
+2n5sA_A_LEU_56	<-->	1fhsA_A_PHE_11
+2n5sA_A_LEU_57	<-->	1fhsA_A_HIS_7
+2n5sA_A_LEU_57	<-->	1fhsA_A_PRO_6
+2n5sA_A_ALA_61	<-->	1fhsA_A_HIS_7
+2n5sA_A_LEU_54	<-->	1fhsA_A_ILE_2
+2n5sA_A_LEU_57	<-->	1fhsA_A_GLU_3
+2n5sA_A_LEU_57	<-->	1fhsA_A_GLU_101
+2n5sA_A_VAL_60	<-->	1fhsA_A_PHE_10
+2n5sA_A_ALA_53	<-->	1fhsA_A_GLU_101
+2n5sA_A_MET_50	<-->	1fhsA_A_VAL_103
+2n5sA_A_MET_50	<-->	1fhsA_A_GLN_102
+2n5sA_A_MET_50	<-->	1fhsA_A_PRO_104
+2n5sA_A_MET_50	<-->	1fhsA_A_PRO_107

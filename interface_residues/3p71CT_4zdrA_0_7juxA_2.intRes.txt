@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_THR_215	<-->	7juxA_A_ASN_708
+4zdrA_A_VAL_241	<-->	7juxA_A_LYS_850
+4zdrA_A_MET_239	<-->	7juxA_A_GLY_849
+4zdrA_A_SER_238	<-->	7juxA_A_GLU_851
+4zdrA_A_GLU_14	<-->	7juxA_A_SER_847
+4zdrA_A_TYR_211	<-->	7juxA_A_ILE_707
+4zdrA_A_GLU_17	<-->	7juxA_A_LYS_850
+4zdrA_A_THR_215	<-->	7juxA_A_ASP_706
+4zdrA_A_TYR_211	<-->	7juxA_A_LEU_705
+4zdrA_A_TYR_211	<-->	7juxA_A_SER_704
+4zdrA_A_GLU_208	<-->	7juxA_A_LEU_705
+4zdrA_A_TYR_211	<-->	7juxA_A_ASP_706
+4zdrA_A_THR_215	<-->	7juxA_A_ILE_707
+4zdrA_A_LEU_216	<-->	7juxA_A_PRO_881
+4zdrA_A_GLN_219	<-->	7juxA_A_PRO_881
+4zdrA_A_GLU_208	<-->	7juxA_A_ARG_817
+4zdrA_A_LYS_11	<-->	7juxA_A_VAL_846
+4zdrA_A_LYS_11	<-->	7juxA_A_SER_845
+4zdrA_A_LYS_11	<-->	7juxA_A_THR_844
+4zdrA_A_LEU_12	<-->	7juxA_A_THR_844
+4zdrA_A_LYS_212	<-->	7juxA_A_ILE_707

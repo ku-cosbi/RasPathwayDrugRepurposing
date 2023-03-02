@@ -1,0 +1,11 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2ks1B_B_ILE_143	<-->	5ob4A_A_ARG_7
+2ks1B_B_ILE_143	<-->	5ob4A_A_ALA_8
+2ks1B_B_LEU_154	<-->	5ob4A_A_VAL_19
+2ks1B_B_ILE_146	<-->	5ob4A_A_GLU_5
+2ks1B_B_ILE_146	<-->	5ob4A_A_ARG_7
+2ks1B_B_ILE_146	<-->	5ob4A_A_GLN_6
+2ks1B_B_ALA_147	<-->	5ob4A_A_ALA_8
+2ks1B_B_PRO_141	<-->	5ob4A_A_ARG_7

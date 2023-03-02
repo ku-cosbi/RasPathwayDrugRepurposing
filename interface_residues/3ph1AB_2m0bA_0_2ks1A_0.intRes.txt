@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2m0bA_A_ILE_673	<-->	2ks1A_A_ARG_78
+2m0bA_A_LEU_666	<-->	2ks1A_A_ARG_77
+2m0bA_A_ARG_669	<-->	2ks1A_A_GLN_80
+2m0bA_A_ARG_669	<-->	2ks1A_A_LYS_81
+2m0bA_A_ARG_669	<-->	2ks1A_A_ILE_82
+2m0bA_A_LYS_642	<-->	2ks1A_A_PRO_43
+2m0bA_A_LYS_642	<-->	2ks1A_A_GLU_45
+2m0bA_A_LYS_642	<-->	2ks1A_A_ALA_44
+2m0bA_A_ALA_661	<-->	2ks1A_A_VAL_70
+2m0bA_A_LEU_662	<-->	2ks1A_A_VAL_70
+2m0bA_A_LEU_658	<-->	2ks1A_A_VAL_66
+2m0bA_A_LEU_658	<-->	2ks1A_A_LEU_67
+2m0bA_A_PRO_644	<-->	2ks1A_A_PRO_43
+2m0bA_A_LEU_658	<-->	2ks1A_A_VAL_70
+2m0bA_A_MET_668	<-->	2ks1A_A_LEU_74
+2m0bA_A_ALA_661	<-->	2ks1A_A_LEU_74
+2m0bA_A_ILE_643	<-->	2ks1A_A_THR_52
+2m0bA_A_MET_668	<-->	2ks1A_A_ARG_78
+2m0bA_A_LEU_654	<-->	2ks1A_A_LEU_63
+2m0bA_A_ARG_669	<-->	2ks1A_A_ARG_77
+2m0bA_A_GLY_665	<-->	2ks1A_A_LEU_74
+2m0bA_A_GLY_665	<-->	2ks1A_A_ARG_77
+2m0bA_A_ILE_664	<-->	2ks1A_A_LEU_74
