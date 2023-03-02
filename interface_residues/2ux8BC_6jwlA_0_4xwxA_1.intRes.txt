@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6jwlA_A_GLU_709	<-->	4xwxA_A_LYS_169
+6jwlA_A_ILE_732	<-->	4xwxA_A_PRO_171
+6jwlA_A_THR_710	<-->	4xwxA_A_LYS_169
+6jwlA_A_PHE_712	<-->	4xwxA_A_PRO_171
+6jwlA_A_GLN_787	<-->	4xwxA_A_GLN_148
+6jwlA_A_GLU_709	<-->	4xwxA_A_SER_149
+6jwlA_A_THR_710	<-->	4xwxA_A_GLN_174
+6jwlA_A_THR_710	<-->	4xwxA_A_ARG_175
+6jwlA_A_LYS_714	<-->	4xwxA_A_HIS_146
+6jwlA_A_THR_785	<-->	4xwxA_A_GLN_148
+6jwlA_A_THR_710	<-->	4xwxA_A_ASP_170
+6jwlA_A_THR_710	<-->	4xwxA_A_PRO_171
+6jwlA_A_GLU_711	<-->	4xwxA_A_PRO_171
+6jwlA_A_TYR_727	<-->	4xwxA_A_HIS_146
+6jwlA_A_TYR_727	<-->	4xwxA_A_SER_129
+6jwlA_A_VAL_717	<-->	4xwxA_A_SER_129
+6jwlA_A_LYS_714	<-->	4xwxA_A_SER_129
+6jwlA_A_GLU_746	<-->	4xwxA_A_GLN_148
+6jwlA_A_LYS_713	<-->	4xwxA_A_VAL_172
+6jwlA_A_LYS_713	<-->	4xwxA_A_PRO_171
+6jwlA_A_LYS_714	<-->	4xwxA_A_ASN_144

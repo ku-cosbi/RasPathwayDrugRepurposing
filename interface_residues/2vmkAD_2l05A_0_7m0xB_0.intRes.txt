@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l05A_A_ARG_166	<-->	7m0xB_B_GLU_62
+2l05A_A_LYS_150	<-->	7m0xB_B_GLN_58
+2l05A_A_ARG_166	<-->	7m0xB_B_PHE_133
+2l05A_A_THR_167	<-->	7m0xB_B_LYS_64
+2l05A_A_ARG_158	<-->	7m0xB_B_GLN_116
+2l05A_A_LYS_150	<-->	7m0xB_B_VAL_60
+2l05A_A_ARG_166	<-->	7m0xB_B_LYS_64
+2l05A_A_ARG_166	<-->	7m0xB_B_LEU_63
+2l05A_A_LYS_164	<-->	7m0xB_B_ASP_136
+2l05A_A_LYS_164	<-->	7m0xB_B_SER_135
+2l05A_A_LYS_150	<-->	7m0xB_B_LYS_57
+2l05A_A_ILE_200	<-->	7m0xB_B_PRO_105
+2l05A_A_GLU_221	<-->	7m0xB_B_ASN_109
+2l05A_A_PRO_149	<-->	7m0xB_B_GLN_58
+2l05A_A_ILE_200	<-->	7m0xB_B_ALA_106
+2l05A_A_VAL_168	<-->	7m0xB_B_GLU_62
+2l05A_A_PHE_160	<-->	7m0xB_B_TYR_134
+2l05A_A_LYS_150	<-->	7m0xB_B_GLY_61
+2l05A_A_GLN_165	<-->	7m0xB_B_ASP_66
+2l05A_A_LYS_164	<-->	7m0xB_B_ASP_65

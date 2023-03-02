@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4B_B_PRO_768	<-->	1milA_A_LEU_85
+1xd4B_B_TRP_763	<-->	1milA_A_TYR_79
+1xd4B_B_ARG_767	<-->	1milA_A_ILE_88
+1xd4B_B_HIS_770	<-->	1milA_A_ARG_69
+1xd4B_B_HIS_770	<-->	1milA_A_HIS_68
+1xd4B_B_PRO_768	<-->	1milA_A_HIS_68
+1xd4B_B_ASP_986	<-->	1milA_A_GLU_71
+1xd4B_B_ARG_1046	<-->	1milA_A_GLU_93
+1xd4B_B_ASP_986	<-->	1milA_A_HIS_75
+1xd4B_B_TRP_763	<-->	1milA_A_LEU_85
+1xd4B_B_GLU_984	<-->	1milA_A_TYR_79
+1xd4B_B_ARG_767	<-->	1milA_A_PHE_70
+1xd4B_B_GLY_769	<-->	1milA_A_PHE_70
+1xd4B_B_GLY_769	<-->	1milA_A_GLU_71
+1xd4B_B_ILE_771	<-->	1milA_A_GLU_71
+1xd4B_B_ARG_989	<-->	1milA_A_HIS_75
+1xd4B_B_HIS_770	<-->	1milA_A_PHE_70
+1xd4B_B_ARG_1046	<-->	1milA_A_PRO_86
+1xd4B_B_ARG_767	<-->	1milA_A_THR_65
+1xd4B_B_ARG_767	<-->	1milA_A_HIS_68
+1xd4B_B_GLU_772	<-->	1milA_A_ARG_69
+1xd4B_B_PRO_768	<-->	1milA_A_PHE_70

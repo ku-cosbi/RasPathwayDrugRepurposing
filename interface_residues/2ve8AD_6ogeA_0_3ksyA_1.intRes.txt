@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_PRO_391	<-->	3ksyA_A_SER_985
+6ogeA_A_SER_358	<-->	3ksyA_A_GLY_769
+6ogeA_A_SER_358	<-->	3ksyA_A_PRO_768
+6ogeA_A_GLU_395	<-->	3ksyA_A_THR_760
+6ogeA_A_THR_389	<-->	3ksyA_A_GLY_769
+6ogeA_A_GLN_393	<-->	3ksyA_A_ARG_982
+6ogeA_A_PRO_391	<-->	3ksyA_A_ASP_986
+6ogeA_A_GLU_395	<-->	3ksyA_A_VAL_761
+6ogeA_A_GLU_395	<-->	3ksyA_A_PRO_759
+6ogeA_A_ALA_359	<-->	3ksyA_A_ARG_767
+6ogeA_A_ALA_390	<-->	3ksyA_A_GLY_769
+6ogeA_A_ALA_390	<-->	3ksyA_A_PRO_768
+6ogeA_A_ASN_388	<-->	3ksyA_A_ILE_771
+6ogeA_A_ALA_390	<-->	3ksyA_A_ASP_986
+6ogeA_A_ALA_359	<-->	3ksyA_A_HIS_770
+6ogeA_A_ASN_388	<-->	3ksyA_A_GLU_772
+6ogeA_A_ALA_359	<-->	3ksyA_A_PRO_768
+6ogeA_A_ASN_388	<-->	3ksyA_A_GLY_769
+6ogeA_A_GLN_396	<-->	3ksyA_A_PRO_768

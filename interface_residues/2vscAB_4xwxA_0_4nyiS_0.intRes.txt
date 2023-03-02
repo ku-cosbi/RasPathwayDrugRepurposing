@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ARG_55	<-->	4nyiS_S_GLU_1015
+4xwxA_A_PRO_183	<-->	4nyiS_S_TYR_1008
+4xwxA_A_GLU_162	<-->	4nyiS_S_ARG_1019
+4xwxA_A_LEU_53	<-->	4nyiS_S_GLU_1004
+4xwxA_A_LEU_186	<-->	4nyiS_S_LYS_1003
+4xwxA_A_LEU_53	<-->	4nyiS_S_TYR_1008
+4xwxA_A_GLY_91	<-->	4nyiS_S_PRO_1025
+4xwxA_A_CYS_182	<-->	4nyiS_S_ASN_1011
+4xwxA_A_GLY_91	<-->	4nyiS_S_PHE_1027
+4xwxA_A_PRO_183	<-->	4nyiS_S_ASP_1007
+4xwxA_A_GLY_91	<-->	4nyiS_S_GLU_1015
+4xwxA_A_LYS_93	<-->	4nyiS_S_LEU_1014
+4xwxA_A_GLU_184	<-->	4nyiS_S_ARG_1019
+4xwxA_A_LEU_186	<-->	4nyiS_S_ASP_1007
+4xwxA_A_GLU_181	<-->	4nyiS_S_ASN_1011
+4xwxA_A_PRO_90	<-->	4nyiS_S_ARG_1026
+4xwxA_A_LYS_93	<-->	4nyiS_S_ARG_1019
+4xwxA_A_PRO_183	<-->	4nyiS_S_ASN_1011
+4xwxA_A_LYS_93	<-->	4nyiS_S_PRO_1018
+4xwxA_A_ARG_55	<-->	4nyiS_S_ASN_1011

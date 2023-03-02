@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ARG_112	<-->	3gopA_A_ASP_918
+4xwxA_A_GLY_111	<-->	3gopA_A_MET_921
+4xwxA_A_ALA_88	<-->	3gopA_A_ILE_917
+4xwxA_A_LEU_63	<-->	3gopA_A_ILE_942
+4xwxA_A_ASN_114	<-->	3gopA_A_ASP_918
+4xwxA_A_LEU_84	<-->	3gopA_A_MET_921
+4xwxA_A_ILE_109	<-->	3gopA_A_MET_921
+4xwxA_A_GLU_87	<-->	3gopA_A_MET_921
+4xwxA_A_GLU_61	<-->	3gopA_A_LYS_946
+4xwxA_A_LYS_116	<-->	3gopA_A_TYR_954
+4xwxA_A_SER_113	<-->	3gopA_A_ASP_918
+4xwxA_A_LEU_110	<-->	3gopA_A_MET_928
+4xwxA_A_ASN_114	<-->	3gopA_A_TYR_954
+4xwxA_A_ASN_114	<-->	3gopA_A_THR_916
+4xwxA_A_LEU_110	<-->	3gopA_A_LYS_925
+4xwxA_A_ASN_114	<-->	3gopA_A_ARG_953
+4xwxA_A_LEU_110	<-->	3gopA_A_MET_921
+4xwxA_A_GLN_174	<-->	3gopA_A_LYS_946

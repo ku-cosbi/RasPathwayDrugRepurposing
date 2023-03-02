@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6uanB_B_ASP_449	<-->	7m0xB_B_ILE_112
+6uanB_B_GLU_451	<-->	7m0xB_B_PRO_105
+6uanB_B_TYR_519	<-->	7m0xB_B_TYR_134
+6uanB_B_GLU_451	<-->	7m0xB_B_TYR_134
+6uanB_B_PRO_453	<-->	7m0xB_B_LYS_104
+6uanB_B_ASP_449	<-->	7m0xB_B_ARG_108
+6uanB_B_ASP_449	<-->	7m0xB_B_ASN_109
+6uanB_B_LYS_499	<-->	7m0xB_B_ASP_136
+6uanB_B_PRO_453	<-->	7m0xB_B_PRO_105
+6uanB_B_TRP_450	<-->	7m0xB_B_PRO_105
+6uanB_B_ASP_454	<-->	7m0xB_B_GLU_102
+6uanB_B_ILE_452	<-->	7m0xB_B_PRO_105
+6uanB_B_LYS_522	<-->	7m0xB_B_GLU_102
+6uanB_B_ASP_449	<-->	7m0xB_B_TYR_134

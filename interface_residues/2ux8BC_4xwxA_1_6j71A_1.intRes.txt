@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_HIS_146	<-->	6j71A_A_ALA_180
+4xwxA_A_CYS_138	<-->	6j71A_A_ASN_187
+4xwxA_A_GLN_148	<-->	6j71A_A_LYS_170
+4xwxA_A_MET_46	<-->	6j71A_A_ARG_203
+4xwxA_A_HIS_146	<-->	6j71A_A_LYS_170
+4xwxA_A_MET_46	<-->	6j71A_A_LEU_168
+4xwxA_A_GLY_47	<-->	6j71A_A_ARG_203
+4xwxA_A_LYS_139	<-->	6j71A_A_ASP_185
+4xwxA_A_LYS_139	<-->	6j71A_A_ASN_187
+4xwxA_A_ARG_201	<-->	6j71A_A_THR_218
+4xwxA_A_PRO_171	<-->	6j71A_A_LEU_181
+4xwxA_A_ILE_141	<-->	6j71A_A_LEU_183
+4xwxA_A_THR_128	<-->	6j71A_A_LEU_168
+4xwxA_A_ASN_144	<-->	6j71A_A_THR_182
+4xwxA_A_ILE_141	<-->	6j71A_A_ILE_184

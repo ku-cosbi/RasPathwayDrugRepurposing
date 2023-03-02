@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ILE_738	<-->	1xdvA_A_PRO_653
+3pp0B_B_SER_1002	<-->	1xdvA_A_ARG_722
+3pp0B_B_PRO_999	<-->	1xdvA_A_GLY_719
+3pp0B_B_PRO_749	<-->	1xdvA_A_GLU_652
+3pp0B_B_LYS_736	<-->	1xdvA_A_GLU_652
+3pp0B_B_LEU_1000	<-->	1xdvA_A_GLY_719
+3pp0B_B_ASP_1001	<-->	1xdvA_A_ARG_722
+3pp0B_B_LYS_747	<-->	1xdvA_A_ALA_572
+3pp0B_B_LYS_747	<-->	1xdvA_A_PRO_653
+3pp0B_B_PRO_999	<-->	1xdvA_A_VAL_721
+3pp0B_B_PRO_999	<-->	1xdvA_A_LYS_727
+3pp0B_B_TYR_1005	<-->	1xdvA_A_ARG_722
+3pp0B_B_LEU_800	<-->	1xdvA_A_GLU_652
+3pp0B_B_TYR_803	<-->	1xdvA_A_ARG_722
+3pp0B_B_LEU_1000	<-->	1xdvA_A_ARG_722
+3pp0B_B_LEU_1000	<-->	1xdvA_A_VAL_721
+3pp0B_B_LEU_1000	<-->	1xdvA_A_THR_720
+3pp0B_B_LEU_1008	<-->	1xdvA_A_GLU_652
+3pp0B_B_LYS_747	<-->	1xdvA_A_LEU_569
+3pp0B_B_LEU_1009	<-->	1xdvA_A_GLN_686
+3pp0B_B_LEU_1009	<-->	1xdvA_A_ILE_682
+3pp0B_B_VAL_746	<-->	1xdvA_A_ALA_572

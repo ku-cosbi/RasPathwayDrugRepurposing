@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1m17A_A_ARG_908	<-->	2l1cA_A_VAL_31
+1m17A_A_GLN_911	<-->	2l1cA_A_SER_29
+1m17A_A_VAL_924	<-->	2l1cA_A_ARG_36
+1m17A_A_VAL_924	<-->	2l1cA_A_LYS_33
+1m17A_A_PRO_910	<-->	2l1cA_A_SER_29
+1m17A_A_GLN_911	<-->	2l1cA_A_PRO_48
+1m17A_A_TYR_920	<-->	2l1cA_A_VAL_31
+1m17A_A_PRO_913	<-->	2l1cA_A_HIS_27
+1m17A_A_MET_928	<-->	2l1cA_A_LYS_33
+1m17A_A_LEU_909	<-->	2l1cA_A_VAL_31
+1m17A_A_MET_921	<-->	2l1cA_A_ARG_36
+1m17A_A_GLN_958	<-->	2l1cA_A_CYS_138
+1m17A_A_GLN_911	<-->	2l1cA_A_VAL_31
+1m17A_A_ILE_917	<-->	2l1cA_A_PRO_48
+1m17A_A_GLY_906	<-->	2l1cA_A_LYS_33
+1m17A_A_GLY_906	<-->	2l1cA_A_ASN_32
+1m17A_A_ILE_917	<-->	2l1cA_A_ASP_43
+1m17A_A_ILE_917	<-->	2l1cA_A_LYS_44
+1m17A_A_ARG_908	<-->	2l1cA_A_LYS_33
+1m17A_A_PRO_910	<-->	2l1cA_A_VAL_31
+1m17A_A_TYR_920	<-->	2l1cA_A_PRO_48
+1m17A_A_GLU_907	<-->	2l1cA_A_VAL_31

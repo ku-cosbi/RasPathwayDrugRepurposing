@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4A_A_SER_985	<-->	6ogeA_A_LEU_183
+1xd4A_A_TRP_763	<-->	6ogeA_A_ASP_110
+1xd4A_A_PRO_768	<-->	6ogeA_A_ASP_110
+1xd4A_A_ILE_771	<-->	6ogeA_A_LEU_181
+1xd4A_A_SER_985	<-->	6ogeA_A_LEU_154
+1xd4A_A_ASN_751	<-->	6ogeA_A_TYR_64
+1xd4A_A_HIS_750	<-->	6ogeA_A_ASN_124
+1xd4A_A_ASP_986	<-->	6ogeA_A_LEU_181
+1xd4A_A_HIS_750	<-->	6ogeA_A_ASP_121
+1xd4A_A_GLY_769	<-->	6ogeA_A_LEU_181
+1xd4A_A_HIS_750	<-->	6ogeA_A_PRO_122
+1xd4A_A_ARG_989	<-->	6ogeA_A_LEU_183
+1xd4A_A_ARG_982	<-->	6ogeA_A_GLU_109

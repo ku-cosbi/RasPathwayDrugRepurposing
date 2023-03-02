@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1z9iA_A_ARG_9	<-->	1milA_A_HIS_75
+1z9iA_A_ILE_5	<-->	1milA_A_ASP_82
+1z9iA_A_ILE_5	<-->	1milA_A_ASN_83
+1z9iA_A_ARG_7	<-->	1milA_A_ASP_82
+1z9iA_A_ARG_13	<-->	1milA_A_ARG_69
+1z9iA_A_VAL_6	<-->	1milA_A_TYR_79
+1z9iA_A_ARG_9	<-->	1milA_A_SER_78
+1z9iA_A_ARG_1	<-->	1milA_A_ASP_82
+1z9iA_A_ARG_13	<-->	1milA_A_PHE_70
+1z9iA_A_ARG_13	<-->	1milA_A_HIS_75
+1z9iA_A_ARG_13	<-->	1milA_A_HIS_68
+1z9iA_A_GLN_16	<-->	1milA_A_GLU_71
+1z9iA_A_VAL_6	<-->	1milA_A_SER_78
+1z9iA_A_LEU_20	<-->	1milA_A_ARG_69
+1z9iA_A_HIS_4	<-->	1milA_A_HIS_84
+1z9iA_A_HIS_4	<-->	1milA_A_ASP_82
+1z9iA_A_VAL_6	<-->	1milA_A_ASN_83
+1z9iA_A_VAL_6	<-->	1milA_A_ASP_82

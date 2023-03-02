@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_ARG_92	<-->	1shcA_A_PRO_121
+6ogeA_A_PRO_134	<-->	1shcA_A_CYS_138
+6ogeA_A_PRO_134	<-->	1shcA_A_LYS_139
+6ogeA_A_ARG_92	<-->	1shcA_A_ALA_136
+6ogeA_A_ARG_92	<-->	1shcA_A_ASP_137
+6ogeA_A_HIS_193	<-->	1shcA_A_SER_51
+6ogeA_A_SER_133	<-->	1shcA_A_GLN_140
+6ogeA_A_GLY_135	<-->	1shcA_A_LYS_139
+6ogeA_A_GLY_135	<-->	1shcA_A_CYS_138
+6ogeA_A_ARG_138	<-->	1shcA_A_LYS_139
+6ogeA_A_ARG_138	<-->	1shcA_A_ALA_136
+6ogeA_A_ARG_138	<-->	1shcA_A_ASP_137
+6ogeA_A_ARG_138	<-->	1shcA_A_ALA_135
+6ogeA_A_SER_133	<-->	1shcA_A_CYS_138

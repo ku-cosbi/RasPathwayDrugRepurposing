@@ -1,0 +1,15 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n84A_A_TYR_160	<-->	3gopA_A_LEU_977
+3n84A_A_TYR_160	<-->	3gopA_A_ALA_976
+3n84A_A_GLN_156	<-->	3gopA_A_ASP_776
+3n84A_A_PRO_155	<-->	3gopA_A_ASP_776
+3n84A_A_ALA_163	<-->	3gopA_A_LYS_689
+3n84A_A_GLN_157	<-->	3gopA_A_GLU_780
+3n84A_A_ALA_163	<-->	3gopA_A_ILE_691
+3n84A_A_GLN_156	<-->	3gopA_A_GLU_780
+3n84A_A_THR_159	<-->	3gopA_A_ARG_975
+3n84A_A_GLN_156	<-->	3gopA_A_ARG_779
+3n84A_A_PRO_158	<-->	3gopA_A_ASN_972
+3n84A_A_THR_159	<-->	3gopA_A_ALA_976

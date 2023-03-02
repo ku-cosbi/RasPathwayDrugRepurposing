@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7aeiA_A_PRO_934	<-->	2l1cA_A_VAL_31
+7aeiA_A_PRO_936	<-->	2l1cA_A_SER_29
+7aeiA_A_ILE_981	<-->	2l1cA_A_HIS_27
+7aeiA_A_VAL_980	<-->	2l1cA_A_HIS_27
+7aeiA_A_GLN_982	<-->	2l1cA_A_ARG_26
+7aeiA_A_GLN_982	<-->	2l1cA_A_HIS_27
+7aeiA_A_TYR_944	<-->	2l1cA_A_VAL_31
+7aeiA_A_ILE_941	<-->	2l1cA_A_PRO_48
+7aeiA_A_PRO_937	<-->	2l1cA_A_GLY_28
+7aeiA_A_PRO_937	<-->	2l1cA_A_SER_29
+7aeiA_A_GLN_982	<-->	2l1cA_A_TRP_24
+7aeiA_A_GLN_935	<-->	2l1cA_A_SER_29
+7aeiA_A_ILE_938	<-->	2l1cA_A_HIS_27
+7aeiA_A_GLN_982	<-->	2l1cA_A_THR_25
+7aeiA_A_VAL_980	<-->	2l1cA_A_ILE_141
+7aeiA_A_GLN_935	<-->	2l1cA_A_VAL_31
+7aeiA_A_GLU_985	<-->	2l1cA_A_CYS_138
+7aeiA_A_ASP_807	<-->	2l1cA_A_GLU_23
+7aeiA_A_PRO_937	<-->	2l1cA_A_HIS_27

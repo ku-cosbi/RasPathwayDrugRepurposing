@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_TRP_60	<-->	3n84A_A_SER_137
+5cusA_A_SER_56	<-->	3n84A_A_ARG_149
+5cusA_A_PRO_11	<-->	3n84A_A_GLN_145
+5cusA_A_CYS_10	<-->	3n84A_A_GLN_145
+5cusA_A_ARG_36	<-->	3n84A_A_ARG_136
+5cusA_A_ARG_36	<-->	3n84A_A_SER_137
+5cusA_A_ARG_36	<-->	3n84A_A_THR_138
+5cusA_A_ARG_36	<-->	3n84A_A_SER_139
+5cusA_A_SER_56	<-->	3n84A_A_PHE_147
+5cusA_A_ASN_52	<-->	3n84A_A_ARG_78
+5cusA_A_ASP_54	<-->	3n84A_A_ARG_149
+5cusA_A_PHE_57	<-->	3n84A_A_ARG_149
+5cusA_A_ARG_36	<-->	3n84A_A_PHE_147
+5cusA_A_CYS_37	<-->	3n84A_A_SER_137
+5cusA_A_ASP_54	<-->	3n84A_A_HIS_79
+5cusA_A_ALA_53	<-->	3n84A_A_HIS_79
+5cusA_A_CYS_37	<-->	3n84A_A_GLN_145
+5cusA_A_PHE_57	<-->	3n84A_A_PHE_147
+5cusA_A_VAL_9	<-->	3n84A_A_GLN_145

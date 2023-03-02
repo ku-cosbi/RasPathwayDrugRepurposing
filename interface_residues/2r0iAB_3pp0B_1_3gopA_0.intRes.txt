@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ARG_756	<-->	3gopA_A_GLY_893
+3pp0B_B_ARG_756	<-->	3gopA_A_ASP_892
+3pp0B_B_GLU_936	<-->	3gopA_A_ARG_865
+3pp0B_B_ILE_894	<-->	3gopA_A_ARG_865
+3pp0B_B_PRO_932	<-->	3gopA_A_ARG_865
+3pp0B_B_ARG_929	<-->	3gopA_A_VAL_852
+3pp0B_B_ARG_897	<-->	3gopA_A_ILE_862
+3pp0B_B_ARG_897	<-->	3gopA_A_SER_901
+3pp0B_B_LYS_883	<-->	3gopA_A_SER_897
+3pp0B_B_ALA_879	<-->	3gopA_A_GLU_898
+3pp0B_B_LEU_866	<-->	3gopA_A_PRO_895
+3pp0B_B_ASP_933	<-->	3gopA_A_ARG_865
+3pp0B_B_ALA_928	<-->	3gopA_A_VAL_852
+3pp0B_B_LEU_891	<-->	3gopA_A_ARG_865
+3pp0B_B_GLY_882	<-->	3gopA_A_SER_897
+3pp0B_B_GLY_882	<-->	3gopA_A_ALA_896
+3pp0B_B_ARG_868	<-->	3gopA_A_PRO_895
+3pp0B_B_ARG_897	<-->	3gopA_A_SER_900
+3pp0B_B_PHE_731	<-->	3gopA_A_PRO_895
+3pp0B_B_ALA_879	<-->	3gopA_A_SER_897
+3pp0B_B_ARG_897	<-->	3gopA_A_GLU_904

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4leoC_C_MET_41	<-->	4xwxA_A_ASP_137
+4leoC_C_GLY_264	<-->	4xwxA_A_CYS_138
+4leoC_C_MET_41	<-->	4xwxA_A_CYS_138
+4leoC_C_HIS_229	<-->	4xwxA_A_SER_51
+4leoC_C_THR_89	<-->	4xwxA_A_ALA_136
+4leoC_C_ARG_228	<-->	4xwxA_A_VAL_50
+4leoC_C_ARG_228	<-->	4xwxA_A_SER_51
+4leoC_C_GLY_265	<-->	4xwxA_A_CYS_138
+4leoC_C_ARG_228	<-->	4xwxA_A_THR_123
+4leoC_C_GLN_600	<-->	4xwxA_A_MET_46
+4leoC_C_ARG_151	<-->	4xwxA_A_GLU_184
+4leoC_C_VAL_283	<-->	4xwxA_A_LYS_139
+4leoC_C_GLN_90	<-->	4xwxA_A_ALA_136
+4leoC_C_ARG_239	<-->	4xwxA_A_GLY_47
+4leoC_C_ASP_152	<-->	4xwxA_A_LYS_93
+4leoC_C_ARG_239	<-->	4xwxA_A_PRO_48
+4leoC_C_PRO_238	<-->	4xwxA_A_LYS_44
+4leoC_C_ARG_228	<-->	4xwxA_A_GLY_49
+4leoC_C_LEU_124	<-->	4xwxA_A_LEU_53
+4leoC_C_THR_89	<-->	4xwxA_A_PRO_121
+4leoC_C_PRO_238	<-->	4xwxA_A_PRO_48
+4leoC_C_PRO_238	<-->	4xwxA_A_GLY_49
+4leoC_C_HIS_229	<-->	4xwxA_A_THR_125

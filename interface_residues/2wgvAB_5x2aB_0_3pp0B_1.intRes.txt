@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5x2aB_B_TRP_880	<-->	3pp0B_B_GLN_709
+5x2aB_B_PRO_914	<-->	3pp0B_B_PRO_707
+5x2aB_B_PRO_919	<-->	3pp0B_B_ALA_706
+5x2aB_B_PRO_919	<-->	3pp0B_B_PRO_707
+5x2aB_B_GLU_872	<-->	3pp0B_B_ASN_708
+5x2aB_B_GLU_872	<-->	3pp0B_B_GLN_709
+5x2aB_B_ILE_918	<-->	3pp0B_B_PRO_707
+5x2aB_B_PRO_919	<-->	3pp0B_B_TYR_772
+5x2aB_B_GLU_872	<-->	3pp0B_B_PRO_707
+5x2aB_B_PRO_919	<-->	3pp0B_B_ASN_708
+5x2aB_B_LYS_879	<-->	3pp0B_B_PRO_707
+5x2aB_B_ILE_918	<-->	3pp0B_B_ASN_708
+5x2aB_B_TYR_915	<-->	3pp0B_B_ALA_706
+5x2aB_B_TYR_915	<-->	3pp0B_B_PRO_707
+5x2aB_B_ALA_920	<-->	3pp0B_B_ASN_708
+5x2aB_B_ALA_920	<-->	3pp0B_B_PRO_707
+5x2aB_B_GLU_922	<-->	3pp0B_B_ALA_706
+5x2aB_B_LYS_879	<-->	3pp0B_B_GLN_709
+5x2aB_B_ILE_918	<-->	3pp0B_B_ALA_706
+5x2aB_B_ILE_926	<-->	3pp0B_B_ALA_706

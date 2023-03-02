@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_LYS_158	<-->	3ny5B_B_ARG_188
+4zdrA_A_ALA_109	<-->	3ny5B_B_VAL_168
+4zdrA_A_PHE_104	<-->	3ny5B_B_LYS_154
+4zdrA_A_ASN_108	<-->	3ny5B_B_ILE_156
+4zdrA_A_GLU_159	<-->	3ny5B_B_ALA_184
+4zdrA_A_ASN_108	<-->	3ny5B_B_LYS_154
+4zdrA_A_PRO_107	<-->	3ny5B_B_ILE_156
+4zdrA_A_GLU_159	<-->	3ny5B_B_LYS_183
+4zdrA_A_GLN_111	<-->	3ny5B_B_LYS_183
+4zdrA_A_GLU_35	<-->	3ny5B_B_LYS_154
+4zdrA_A_SER_110	<-->	3ny5B_B_VAL_169
+4zdrA_A_ALA_34	<-->	3ny5B_B_LYS_154
+4zdrA_A_GLN_111	<-->	3ny5B_B_PRO_170
+4zdrA_A_GLY_33	<-->	3ny5B_B_LYS_154
+4zdrA_A_SER_110	<-->	3ny5B_B_PRO_170
+4zdrA_A_GLY_33	<-->	3ny5B_B_GLN_153

@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_ASN_808	<-->	1xdvA_A_ASN_240
+4i1zA_A_HIS_805	<-->	1xdvA_A_ARG_310
+4i1zA_A_MET_987	<-->	1xdvA_A_ASN_240
+4i1zA_A_LYS_846	<-->	1xdvA_A_LYS_317
+4i1zA_A_LYS_739	<-->	1xdvA_A_THR_507
+4i1zA_A_TYR_813	<-->	1xdvA_A_SER_238
+4i1zA_A_HIS_850	<-->	1xdvA_A_PRO_318
+4i1zA_A_THR_847	<-->	1xdvA_A_LYS_317
+4i1zA_A_PHE_795	<-->	1xdvA_A_LYS_317
+4i1zA_A_MET_987	<-->	1xdvA_A_ALA_239
+4i1zA_A_PRO_848	<-->	1xdvA_A_LYS_317
+4i1zA_A_VAL_738	<-->	1xdvA_A_THR_507
+4i1zA_A_THR_847	<-->	1xdvA_A_PRO_318
+4i1zA_A_LYS_846	<-->	1xdvA_A_PRO_318
+4i1zA_A_ARG_986	<-->	1xdvA_A_ALA_239
+4i1zA_A_GLN_849	<-->	1xdvA_A_LYS_235
+4i1zA_A_GLN_849	<-->	1xdvA_A_LEU_236
+4i1zA_A_GLU_804	<-->	1xdvA_A_ARG_310
+4i1zA_A_LYS_737	<-->	1xdvA_A_THR_507

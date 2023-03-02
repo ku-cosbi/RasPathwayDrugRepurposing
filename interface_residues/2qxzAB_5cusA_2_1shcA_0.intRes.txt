@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_PHE_75	<-->	1shcA_A_ASN_72
+5cusA_A_THR_77	<-->	1shcA_A_PHE_71
+5cusA_A_ASN_52	<-->	1shcA_A_THR_73
+5cusA_A_HIS_110	<-->	1shcA_A_PRO_105
+5cusA_A_PRO_79	<-->	1shcA_A_PHE_71
+5cusA_A_ASN_52	<-->	1shcA_A_ILE_109
+5cusA_A_SER_109	<-->	1shcA_A_SER_103
+5cusA_A_SER_109	<-->	1shcA_A_CYS_102
+5cusA_A_ALA_53	<-->	1shcA_A_THR_73
+5cusA_A_HIS_110	<-->	1shcA_A_SER_103
+5cusA_A_SER_56	<-->	1shcA_A_ASP_70
+5cusA_A_SER_56	<-->	1shcA_A_PHE_71
+5cusA_A_HIS_51	<-->	1shcA_A_PRO_105
+5cusA_A_ASP_54	<-->	1shcA_A_THR_73
+5cusA_A_ASP_54	<-->	1shcA_A_ASP_70
+5cusA_A_SER_108	<-->	1shcA_A_SER_103
+5cusA_A_SER_76	<-->	1shcA_A_GLN_76
+5cusA_A_SER_56	<-->	1shcA_A_LEU_69
+5cusA_A_SER_76	<-->	1shcA_A_ASN_72
+5cusA_A_THR_77	<-->	1shcA_A_ASN_72

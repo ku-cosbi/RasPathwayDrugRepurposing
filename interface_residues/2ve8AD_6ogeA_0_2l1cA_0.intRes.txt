@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_ASN_388	<-->	2l1cA_A_SER_107
+6ogeA_A_ASN_388	<-->	2l1cA_A_SER_108
+6ogeA_A_THR_389	<-->	2l1cA_A_SER_107
+6ogeA_A_THR_389	<-->	2l1cA_A_LEU_106
+6ogeA_A_ALA_390	<-->	2l1cA_A_SER_107
+6ogeA_A_ALA_390	<-->	2l1cA_A_LEU_106
+6ogeA_A_GLN_396	<-->	2l1cA_A_THR_75
+6ogeA_A_SER_358	<-->	2l1cA_A_GLN_76
+6ogeA_A_SER_358	<-->	2l1cA_A_THR_73
+6ogeA_A_PRO_385	<-->	2l1cA_A_ARG_104
+6ogeA_A_PRO_391	<-->	2l1cA_A_LEU_106
+6ogeA_A_GLN_393	<-->	2l1cA_A_GLN_76
+6ogeA_A_GLU_395	<-->	2l1cA_A_ASP_159
+6ogeA_A_GLU_395	<-->	2l1cA_A_ARG_79
+6ogeA_A_ALA_390	<-->	2l1cA_A_GLN_76
+6ogeA_A_GLN_362	<-->	2l1cA_A_ASN_72
+6ogeA_A_GLN_362	<-->	2l1cA_A_PHE_71
+6ogeA_A_GLN_362	<-->	2l1cA_A_ASP_70
+6ogeA_A_LEU_392	<-->	2l1cA_A_GLN_76
+6ogeA_A_GLN_396	<-->	2l1cA_A_ASN_72
+6ogeA_A_ALA_365	<-->	2l1cA_A_PHE_71
+6ogeA_A_ILE_361	<-->	2l1cA_A_ASN_72

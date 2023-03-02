@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6p8qC_C_ASP_761	<-->	5cusA_A_LYS_172
+6p8qC_C_TYR_891	<-->	5cusA_A_ILE_190
+6p8qC_C_THR_892	<-->	5cusA_A_ILE_190
+6p8qC_C_HIS_893	<-->	5cusA_A_PRO_202
+6p8qC_C_GLU_762	<-->	5cusA_A_ARG_174
+6p8qC_C_ARG_889	<-->	5cusA_A_ASP_152
+6p8qC_C_GLU_865	<-->	5cusA_A_ASP_152
+6p8qC_C_PRO_699	<-->	5cusA_A_LYS_172
+6p8qC_C_ASP_761	<-->	5cusA_A_GLY_173
+6p8qC_C_ALA_955	<-->	5cusA_A_PRO_193
+6p8qC_C_ASP_956	<-->	5cusA_A_PRO_193
+6p8qC_C_GLU_865	<-->	5cusA_A_ARG_151
+6p8qC_C_LYS_754	<-->	5cusA_A_ASN_160
+6p8qC_C_ASP_761	<-->	5cusA_A_ARG_174
+6p8qC_C_LYS_754	<-->	5cusA_A_VAL_157
+6p8qC_C_LYS_754	<-->	5cusA_A_LYS_158
+6p8qC_C_LYS_754	<-->	5cusA_A_ASP_159
+6p8qC_C_THR_892	<-->	5cusA_A_CYS_191
+6p8qC_C_VAL_834	<-->	5cusA_A_ILE_190
+6p8qC_C_LYS_757	<-->	5cusA_A_ASP_140
+6p8qC_C_LYS_754	<-->	5cusA_A_ASP_140

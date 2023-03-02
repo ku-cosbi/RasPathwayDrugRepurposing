@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4A_A_ARG_1026	<-->	5wb8D_D_ASN_331
+1xd4A_A_GLU_846	<-->	5wb8D_D_HIS_359
+1xd4A_A_LYS_1029	<-->	5wb8D_D_HIS_359
+1xd4A_A_GLN_892	<-->	5wb8D_D_PRO_361
+1xd4A_A_GLN_892	<-->	5wb8D_D_PRO_362
+1xd4A_A_PRO_1023	<-->	5wb8D_D_ILE_332
+1xd4A_A_LEU_1024	<-->	5wb8D_D_ALA_329
+1xd4A_A_PRO_1023	<-->	5wb8D_D_GLU_367
+1xd4A_A_LEU_1024	<-->	5wb8D_D_LYS_333
+1xd4A_A_PRO_1023	<-->	5wb8D_D_LYS_333
+1xd4A_A_HIS_888	<-->	5wb8D_D_PRO_362
+1xd4A_A_HIS_888	<-->	5wb8D_D_PRO_361
+1xd4A_A_ARG_1026	<-->	5wb8D_D_THR_330
+1xd4A_A_PRO_1023	<-->	5wb8D_D_LYS_336
+1xd4A_A_LEU_1024	<-->	5wb8D_D_GLU_367
+1xd4A_A_LYS_1022	<-->	5wb8D_D_GLU_367
+1xd4A_A_ARG_1026	<-->	5wb8D_D_HIS_334
+1xd4A_A_PRO_1021	<-->	5wb8D_D_ILE_370
+1xd4A_A_PRO_1025	<-->	5wb8D_D_LYS_333
+1xd4A_A_LEU_845	<-->	5wb8D_D_PRO_361

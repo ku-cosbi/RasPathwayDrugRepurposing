@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_GLU_804	<-->	1xdvA_A_LYS_727
+4i1zA_A_GLN_849	<-->	1xdvA_A_THR_720
+4i1zA_A_HIS_805	<-->	1xdvA_A_ARG_722
+4i1zA_A_GLU_804	<-->	1xdvA_A_LYS_724
+4i1zA_A_ASN_808	<-->	1xdvA_A_LYS_727
+4i1zA_A_ARG_986	<-->	1xdvA_A_THR_734
+4i1zA_A_HIS_805	<-->	1xdvA_A_LYS_727
+4i1zA_A_PRO_848	<-->	1xdvA_A_THR_720
+4i1zA_A_GLN_849	<-->	1xdvA_A_GLU_716
+4i1zA_A_TYR_801	<-->	1xdvA_A_GLY_719
+4i1zA_A_GLU_985	<-->	1xdvA_A_GLN_738
+4i1zA_A_GLN_849	<-->	1xdvA_A_PHE_717
+4i1zA_A_ASN_816	<-->	1xdvA_A_GLU_716
+4i1zA_A_TYR_813	<-->	1xdvA_A_GLU_716
+4i1zA_A_PRO_848	<-->	1xdvA_A_ARG_722
+4i1zA_A_TYR_813	<-->	1xdvA_A_GLU_715
+4i1zA_A_THR_847	<-->	1xdvA_A_GLU_649
+4i1zA_A_MET_987	<-->	1xdvA_A_THR_734
+4i1zA_A_TYR_813	<-->	1xdvA_A_GLY_719
+4i1zA_A_PHE_795	<-->	1xdvA_A_ARG_722
