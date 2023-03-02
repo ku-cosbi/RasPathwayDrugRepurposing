@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1m17A_A_MET_921	<-->	3pp0B_B_VAL_956
+1m17A_A_LYS_925	<-->	3pp0B_B_LYS_957
+1m17A_A_MET_928	<-->	3pp0B_B_ASP_950
+1m17A_A_ILE_942	<-->	3pp0B_B_ASP_962
+1m17A_A_ILE_942	<-->	3pp0B_B_GLU_964
+1m17A_A_LYS_946	<-->	3pp0B_B_ASP_962
+1m17A_A_ARG_953	<-->	3pp0B_B_GLU_936
+1m17A_A_SER_933	<-->	3pp0B_B_GLU_975
+1m17A_A_ILE_922	<-->	3pp0B_B_MET_960
+1m17A_A_VAL_924	<-->	3pp0B_B_ILE_949
+1m17A_A_GLU_943	<-->	3pp0B_B_CYS_965
+1m17A_A_GLU_943	<-->	3pp0B_B_MET_960
+1m17A_A_TYR_954	<-->	3pp0B_B_ILE_961
+1m17A_A_VAL_924	<-->	3pp0B_B_MET_953
+1m17A_A_MET_921	<-->	3pp0B_B_MET_953

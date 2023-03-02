@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n2aA_A_VAL_22	<-->	1xdvA_A_GLU_443
+2n2aA_A_LYS_33	<-->	1xdvA_A_THR_549
+2n2aA_A_LEU_24	<-->	1xdvA_A_ARG_217
+2n2aA_A_LEU_24	<-->	1xdvA_A_GLN_214
+2n2aA_A_LEU_24	<-->	1xdvA_A_GLU_218
+2n2aA_A_VAL_21	<-->	1xdvA_A_GLN_214
+2n2aA_A_VAL_27	<-->	1xdvA_A_PHE_226
+2n2aA_A_GLY_29	<-->	1xdvA_A_THR_549
+2n2aA_A_ILE_30	<-->	1xdvA_A_TYR_546
+2n2aA_A_ILE_30	<-->	1xdvA_A_ALA_334
+2n2aA_A_LEU_31	<-->	1xdvA_A_VAL_225
+2n2aA_A_VAL_27	<-->	1xdvA_A_LEU_221
+2n2aA_A_ARG_34	<-->	1xdvA_A_ILE_327
+2n2aA_A_VAL_27	<-->	1xdvA_A_LEU_342
+2n2aA_A_LEU_19	<-->	1xdvA_A_SER_403
+2n2aA_A_ARG_34	<-->	1xdvA_A_VAL_225
+2n2aA_A_VAL_16	<-->	1xdvA_A_ALA_404
+2n2aA_A_VAL_26	<-->	1xdvA_A_SER_543
+2n2aA_A_LEU_20	<-->	1xdvA_A_TYR_348
+2n2aA_A_LEU_24	<-->	1xdvA_A_LEU_221
+2n2aA_A_LEU_19	<-->	1xdvA_A_ALA_404
+2n2aA_A_ILE_18	<-->	1xdvA_A_GLU_443
+2n2aA_A_ARG_34	<-->	1xdvA_A_PHE_331
+2n2aA_A_PHE_28	<-->	1xdvA_A_LEU_221

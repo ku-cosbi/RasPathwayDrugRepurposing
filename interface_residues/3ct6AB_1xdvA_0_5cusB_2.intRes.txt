@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xdvA_A_THR_378	<-->	5cusB_B_THR_347
+1xdvA_A_THR_378	<-->	5cusB_B_ILE_346
+1xdvA_A_THR_378	<-->	5cusB_B_LEU_345
+1xdvA_A_LEU_381	<-->	5cusB_B_ILE_346
+1xdvA_A_GLU_371	<-->	5cusB_B_GLN_322
+1xdvA_A_LYS_724	<-->	5cusB_B_ARG_407
+1xdvA_A_LYS_358	<-->	5cusB_B_TRP_354
+1xdvA_A_GLU_362	<-->	5cusB_B_TRP_354
+1xdvA_A_GLU_289	<-->	5cusB_B_LYS_415
+1xdvA_A_GLU_361	<-->	5cusB_B_TRP_354
+1xdvA_A_LYS_358	<-->	5cusB_B_PRO_353
+1xdvA_A_GLU_288	<-->	5cusB_B_LYS_415
+1xdvA_A_LEU_381	<-->	5cusB_B_ASN_350
+1xdvA_A_ILE_377	<-->	5cusB_B_THR_347
+1xdvA_A_LEU_290	<-->	5cusB_B_LYS_415
+1xdvA_A_ILE_377	<-->	5cusB_B_PRO_353

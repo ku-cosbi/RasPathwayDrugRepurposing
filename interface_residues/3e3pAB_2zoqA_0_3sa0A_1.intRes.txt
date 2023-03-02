@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2zoqA_A_HIS_249	<-->	3sa0A_A_PHE_183
+2zoqA_A_LEU_251	<-->	3sa0A_A_HIS_232
+2zoqA_A_LEU_251	<-->	3sa0A_A_ASP_235
+2zoqA_A_LEU_251	<-->	3sa0A_A_LEU_234
+2zoqA_A_HIS_249	<-->	3sa0A_A_LEU_184
+2zoqA_A_HIS_249	<-->	3sa0A_A_LEU_234
+2zoqA_A_LYS_357	<-->	3sa0A_A_VAL_14
+2zoqA_A_LYS_248	<-->	3sa0A_A_LYS_259
+2zoqA_A_LYS_357	<-->	3sa0A_A_MET_13
+2zoqA_A_LYS_276	<-->	3sa0A_A_ASP_235
+2zoqA_A_LEU_355	<-->	3sa0A_A_MET_13
+2zoqA_A_LEU_201	<-->	3sa0A_A_LYS_231
+2zoqA_A_LEU_201	<-->	3sa0A_A_HIS_232
+2zoqA_A_PRO_356	<-->	3sa0A_A_MET_13
+2zoqA_A_LEU_201	<-->	3sa0A_A_ASP_235
+2zoqA_A_HIS_78	<-->	3sa0A_A_HIS_61
+2zoqA_A_GLU_203	<-->	3sa0A_A_LYS_231
+2zoqA_A_GLN_79	<-->	3sa0A_A_MET_13
+2zoqA_A_LYS_248	<-->	3sa0A_A_LEU_184
+2zoqA_A_GLU_203	<-->	3sa0A_A_ARG_191
+2zoqA_A_TYR_250	<-->	3sa0A_A_HIS_232

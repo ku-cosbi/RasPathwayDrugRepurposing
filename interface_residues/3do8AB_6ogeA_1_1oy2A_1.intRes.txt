@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_THR_186	<-->	1oy2A_A_HIS_145
+6ogeA_A_LEU_123	<-->	1oy2A_A_MET_120
+6ogeA_A_LEU_123	<-->	1oy2A_A_PHE_117
+6ogeA_A_SER_189	<-->	1oy2A_A_GLN_140
+6ogeA_A_PRO_159	<-->	1oy2A_A_ILE_142
+6ogeA_A_ASP_185	<-->	1oy2A_A_HIS_145
+6ogeA_A_ASP_185	<-->	1oy2A_A_ASN_144
+6ogeA_A_LEU_123	<-->	1oy2A_A_ILE_142
+6ogeA_A_ASN_187	<-->	1oy2A_A_ALA_143
+6ogeA_A_LEU_183	<-->	1oy2A_A_HIS_146
+6ogeA_A_PRO_122	<-->	1oy2A_A_PHE_117
+6ogeA_A_ASN_187	<-->	1oy2A_A_ASN_144
+6ogeA_A_ASP_185	<-->	1oy2A_A_HIS_146
+6ogeA_A_ARG_157	<-->	1oy2A_A_ASN_144
+6ogeA_A_ASN_187	<-->	1oy2A_A_HIS_145
+6ogeA_A_SER_189	<-->	1oy2A_A_ILE_141
+6ogeA_A_ARG_157	<-->	1oy2A_A_ILE_142
+6ogeA_A_ARG_157	<-->	1oy2A_A_ALA_143

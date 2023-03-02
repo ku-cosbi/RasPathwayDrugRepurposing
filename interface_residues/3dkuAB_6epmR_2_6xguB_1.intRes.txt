@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6epmR_R_ARG_41	<-->	6xguB_B_ARG_67
+6epmR_R_TYR_4	<-->	6xguB_B_ARG_59
+6epmR_R_LEU_52	<-->	6xguB_B_GLU_125
+6epmR_R_LYS_5	<-->	6xguB_B_ARG_59
+6epmR_R_GLU_37	<-->	6xguB_B_LYS_65
+6epmR_R_ARG_41	<-->	6xguB_B_PHE_61
+6epmR_R_ARG_41	<-->	6xguB_B_GLU_125
+6epmR_R_MET_1	<-->	6xguB_B_GLU_124
+6epmR_R_MET_1	<-->	6xguB_B_GLU_125
+6epmR_R_GLU_3	<-->	6xguB_B_GLU_125
+6epmR_R_MET_1	<-->	6xguB_B_HIS_103
+6epmR_R_ASP_54	<-->	6xguB_B_ARG_67
+6epmR_R_MET_1	<-->	6xguB_B_LEU_101
+6epmR_R_GLU_76	<-->	6xguB_B_ARG_59
+6epmR_R_THR_50	<-->	6xguB_B_HIS_103
+6epmR_R_LYS_5	<-->	6xguB_B_ARG_67
+6epmR_R_GLU_3	<-->	6xguB_B_ARG_59
+6epmR_R_TYR_40	<-->	6xguB_B_ARG_67

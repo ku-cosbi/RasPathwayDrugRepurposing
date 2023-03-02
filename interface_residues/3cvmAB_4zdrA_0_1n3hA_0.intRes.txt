@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_GLU_73	<-->	1n3hA_A_ARG_79
+4zdrA_A_ARG_80	<-->	1n3hA_A_ALA_161
+4zdrA_A_GLU_66	<-->	1n3hA_A_ALA_161
+4zdrA_A_ALA_134	<-->	1n3hA_A_PRO_183
+4zdrA_A_GLY_135	<-->	1n3hA_A_PRO_183
+4zdrA_A_ARG_80	<-->	1n3hA_A_ILE_191
+4zdrA_A_ALA_134	<-->	1n3hA_A_GLU_184
+4zdrA_A_GLN_77	<-->	1n3hA_A_ASP_157
+4zdrA_A_GLN_67	<-->	1n3hA_A_GLU_162
+4zdrA_A_ARG_83	<-->	1n3hA_A_GLU_162
+4zdrA_A_ASP_136	<-->	1n3hA_A_PRO_183
+4zdrA_A_ASP_136	<-->	1n3hA_A_LEU_53
+4zdrA_A_ARG_91	<-->	1n3hA_A_GLU_184
+4zdrA_A_GLN_76	<-->	1n3hA_A_THR_160

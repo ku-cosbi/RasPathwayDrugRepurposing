@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiR_R_GLU_126	<-->	6scmA_A_PRO_1018
+4nyiR_R_GLU_126	<-->	6scmA_A_ARG_1019
+4nyiR_R_THR_124	<-->	6scmA_A_GLU_891
+4nyiR_R_GLU_91	<-->	6scmA_A_GLN_892
+4nyiR_R_PHE_90	<-->	6scmA_A_LEU_845
+4nyiR_R_ARG_128	<-->	6scmA_A_PRO_1023
+4nyiR_R_PHE_90	<-->	6scmA_A_HIS_888
+4nyiR_R_ARG_128	<-->	6scmA_A_LEU_1024
+4nyiR_R_THR_87	<-->	6scmA_A_HIS_888
+4nyiR_R_ARG_128	<-->	6scmA_A_PRO_1025
+4nyiR_R_GLU_126	<-->	6scmA_A_PRO_1023
+4nyiR_R_GLU_126	<-->	6scmA_A_LYS_1022
+4nyiR_R_GLU_126	<-->	6scmA_A_ASN_1020
+4nyiR_R_GLU_126	<-->	6scmA_A_LEU_1024
+4nyiR_R_GLN_129	<-->	6scmA_A_LEU_1024
+4nyiR_R_GLN_129	<-->	6scmA_A_ARG_1026
+4nyiR_R_THR_124	<-->	6scmA_A_HIS_888
+4nyiR_R_THR_124	<-->	6scmA_A_ASP_887
+4nyiR_R_ASP_132	<-->	6scmA_A_PRO_1025
+4nyiR_R_ASP_132	<-->	6scmA_A_ARG_1026
+4nyiR_R_GLN_129	<-->	6scmA_A_LEU_845
+4nyiR_R_THR_87	<-->	6scmA_A_GLN_892
+4nyiR_R_THR_87	<-->	6scmA_A_GLU_891
+4nyiR_R_VAL_125	<-->	6scmA_A_HIS_888

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1tceA_A_HIS_53	<-->	5cusB_B_TRP_354
+1tceA_A_GLY_49	<-->	5cusB_B_ASN_350
+1tceA_A_HIS_53	<-->	5cusB_B_PRO_353
+1tceA_A_ARG_17	<-->	5cusB_B_THR_347
+1tceA_A_THR_44	<-->	5cusB_B_PRO_353
+1tceA_A_ARG_17	<-->	5cusB_B_LEU_345
+1tceA_A_GLU_20	<-->	5cusB_B_PRO_353
+1tceA_A_GLU_20	<-->	5cusB_B_ASP_352
+1tceA_A_GLU_20	<-->	5cusB_B_GLY_351
+1tceA_A_GLY_49	<-->	5cusB_B_ALA_359
+1tceA_A_ALA_21	<-->	5cusB_B_ILE_346
+1tceA_A_LYS_52	<-->	5cusB_B_HIS_355
+1tceA_A_GLN_50	<-->	5cusB_B_PRO_358
+1tceA_A_ARG_16	<-->	5cusB_B_THR_347
+1tceA_A_LEU_23	<-->	5cusB_B_ASN_350
+1tceA_A_GLU_20	<-->	5cusB_B_THR_347
+1tceA_A_GLN_50	<-->	5cusB_B_HIS_355
+1tceA_A_GLN_50	<-->	5cusB_B_ILE_357
+1tceA_A_PRO_51	<-->	5cusB_B_HIS_355
+1tceA_A_PRO_51	<-->	5cusB_B_PRO_353
+1tceA_A_PRO_51	<-->	5cusB_B_ASP_352
+1tceA_A_PRO_51	<-->	5cusB_B_GLY_351
+1tceA_A_PRO_51	<-->	5cusB_B_ASN_350
+1tceA_A_ARG_17	<-->	5cusB_B_GLN_322

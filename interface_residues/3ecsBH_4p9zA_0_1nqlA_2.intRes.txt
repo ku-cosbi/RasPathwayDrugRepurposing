@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4p9zA_A_GLY_114	<-->	1nqlA_A_GLU_320
+4p9zA_A_ALA_68	<-->	1nqlA_A_LEU_14
+4p9zA_A_TYR_118	<-->	1nqlA_A_LYS_333
+4p9zA_A_ASN_103	<-->	1nqlA_A_ALA_103
+4p9zA_A_ASN_103	<-->	1nqlA_A_ASP_102
+4p9zA_A_GLU_72	<-->	1nqlA_A_TYR_101
+4p9zA_A_ARG_112	<-->	1nqlA_A_HIS_334
+4p9zA_A_PHE_95	<-->	1nqlA_A_LYS_333
+4p9zA_A_ALA_115	<-->	1nqlA_A_ASN_331
+4p9zA_A_ALA_115	<-->	1nqlA_A_THR_330
+4p9zA_A_ASP_113	<-->	1nqlA_A_GLU_320
+4p9zA_A_ALA_115	<-->	1nqlA_A_HIS_334
+4p9zA_A_GLY_114	<-->	1nqlA_A_HIS_334
+4p9zA_A_GLU_72	<-->	1nqlA_A_SER_99
+4p9zA_A_VAL_105	<-->	1nqlA_A_TYR_45
+4p9zA_A_ASN_143	<-->	1nqlA_A_THR_19
+4p9zA_A_GLY_116	<-->	1nqlA_A_THR_330
+4p9zA_A_ASP_104	<-->	1nqlA_A_TYR_45
+4p9zA_A_ARG_67	<-->	1nqlA_A_LEU_14
+4p9zA_A_GLY_116	<-->	1nqlA_A_HIS_334
+4p9zA_A_GLU_71	<-->	1nqlA_A_LEU_69
+4p9zA_A_SER_75	<-->	1nqlA_A_TYR_101
+4p9zA_A_GLY_93	<-->	1nqlA_A_LYS_333
+4p9zA_A_GLU_72	<-->	1nqlA_A_ASN_128

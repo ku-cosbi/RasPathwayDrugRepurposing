@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1aweA_A_SER_123	<-->	6j71A_A_PRO_489
+1aweA_A_ILE_125	<-->	6j71A_A_THR_23
+1aweA_A_ILE_125	<-->	6j71A_A_SER_22
+1aweA_A_GLU_121	<-->	6j71A_A_LEU_493
+1aweA_A_GLY_54	<-->	6j71A_A_GLN_24
+1aweA_A_GLU_121	<-->	6j71A_A_PHE_486
+1aweA_A_THR_149	<-->	6j71A_A_ARG_517
+1aweA_A_GLY_54	<-->	6j71A_A_GLN_54
+1aweA_A_GLY_54	<-->	6j71A_A_THR_23
+1aweA_A_GLU_121	<-->	6j71A_A_TRP_482
+1aweA_A_ALA_55	<-->	6j71A_A_GLN_54
+1aweA_A_ILE_117	<-->	6j71A_A_ASP_483
+1aweA_A_ASN_122	<-->	6j71A_A_GLN_491
+1aweA_A_ALA_55	<-->	6j71A_A_GLN_24
+1aweA_A_ASP_120	<-->	6j71A_A_ALA_492
+1aweA_A_ASN_122	<-->	6j71A_A_HIS_48
+1aweA_A_GLU_121	<-->	6j71A_A_ALA_492
+1aweA_A_GLN_100	<-->	6j71A_A_ASP_483
+1aweA_A_ASP_120	<-->	6j71A_A_HIS_48
+1aweA_A_GLU_121	<-->	6j71A_A_GLN_491

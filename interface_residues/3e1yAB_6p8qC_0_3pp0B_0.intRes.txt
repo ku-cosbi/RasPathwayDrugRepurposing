@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6p8qC_C_ARG_948	<-->	3pp0B_B_MET_953
+6p8qC_C_LYS_949	<-->	3pp0B_B_MET_953
+6p8qC_C_ASP_974	<-->	3pp0B_B_GLU_964
+6p8qC_C_GLU_963	<-->	3pp0B_B_ARG_978
+6p8qC_C_ARG_977	<-->	3pp0B_B_ASP_962
+6p8qC_C_TYR_978	<-->	3pp0B_B_CYS_965
+6p8qC_C_ASP_942	<-->	3pp0B_B_LYS_957
+6p8qC_C_ILE_941	<-->	3pp0B_B_LYS_957
+6p8qC_C_ASP_954	<-->	3pp0B_B_ARG_985
+6p8qC_C_ASP_942	<-->	3pp0B_B_CYS_965
+6p8qC_C_LYS_970	<-->	3pp0B_B_GLU_971
+6p8qC_C_MET_945	<-->	3pp0B_B_ILE_954
+6p8qC_C_TYR_978	<-->	3pp0B_B_GLU_964
+6p8qC_C_MET_945	<-->	3pp0B_B_LYS_957
+6p8qC_C_ILE_941	<-->	3pp0B_B_MET_960
+6p8qC_C_ILE_941	<-->	3pp0B_B_VAL_956
+6p8qC_C_MET_945	<-->	3pp0B_B_MET_953
+6p8qC_C_MET_952	<-->	3pp0B_B_ILE_949
+6p8qC_C_LYS_949	<-->	3pp0B_B_GLU_975
+6p8qC_C_ARG_948	<-->	3pp0B_B_ILE_949

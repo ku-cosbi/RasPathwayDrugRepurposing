@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n2aB_B_LEU_108	<-->	2n5sA_A_LEU_79
+2n2aB_B_GLY_129	<-->	2n5sA_A_MET_50
+2n2aB_B_ILE_111	<-->	2n5sA_A_HIS_72
+2n2aB_B_SER_113	<-->	2n5sA_A_MET_68
+2n2aB_B_SER_110	<-->	2n5sA_A_MET_68
+2n2aB_B_SER_110	<-->	2n5sA_A_HIS_72
+2n2aB_B_ILE_118	<-->	2n5sA_A_ALA_61
+2n2aB_B_ALA_114	<-->	2n5sA_A_MET_68
+2n2aB_B_PRO_107	<-->	2n5sA_A_HIS_72
+2n2aB_B_ALA_114	<-->	2n5sA_A_ILE_64
+2n2aB_B_PRO_107	<-->	2n5sA_A_LYS_76
+2n2aB_B_ILE_132	<-->	2n5sA_A_ILE_46
+2n2aB_B_PRO_107	<-->	2n5sA_A_VAL_74
+2n2aB_B_LEU_108	<-->	2n5sA_A_LEU_83
+2n2aB_B_ALA_105	<-->	2n5sA_A_VAL_74
+2n2aB_B_PHE_128	<-->	2n5sA_A_MET_50
+2n2aB_B_VAL_121	<-->	2n5sA_A_LEU_57
+2n2aB_B_ILE_132	<-->	2n5sA_A_MET_50
+2n2aB_B_ALA_105	<-->	2n5sA_A_ARG_71
+2n2aB_B_GLN_103	<-->	2n5sA_A_ARG_71
