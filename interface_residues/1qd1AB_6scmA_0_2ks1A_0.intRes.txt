@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6scmA_A_TYR_575	<-->	2ks1A_A_VAL_66
+6scmA_A_VAL_574	<-->	2ks1A_A_LEU_62
+6scmA_A_GLU_646	<-->	2ks1A_A_VAL_69
+6scmA_A_VAL_574	<-->	2ks1A_A_VAL_66
+6scmA_A_ILE_956	<-->	2ks1A_A_ARG_83
+6scmA_A_GLU_646	<-->	2ks1A_A_VAL_65
+6scmA_A_VAL_606	<-->	2ks1A_A_ARG_83
+6scmA_A_ILE_956	<-->	2ks1A_A_LYS_84
+6scmA_A_GLU_954	<-->	2ks1A_A_LYS_81
+6scmA_A_ILE_607	<-->	2ks1A_A_VAL_69
+6scmA_A_VAL_947	<-->	2ks1A_A_ARG_83
+6scmA_A_VAL_947	<-->	2ks1A_A_LYS_81
+6scmA_A_ARG_961	<-->	2ks1A_A_LYS_84
+6scmA_A_ILE_663	<-->	2ks1A_A_LEU_51
+6scmA_A_PHE_634	<-->	2ks1A_A_LYS_84
+6scmA_A_PRO_651	<-->	2ks1A_A_LEU_62
+6scmA_A_ALA_572	<-->	2ks1A_A_VAL_66
+6scmA_A_VAL_947	<-->	2ks1A_A_LYS_84
+6scmA_A_SER_633	<-->	2ks1A_A_LYS_84
+6scmA_A_GLU_946	<-->	2ks1A_A_LYS_84
+6scmA_A_PHE_634	<-->	2ks1A_A_ILE_82
+6scmA_A_ASP_573	<-->	2ks1A_A_VAL_66

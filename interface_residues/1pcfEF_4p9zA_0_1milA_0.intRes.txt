@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4p9zA_A_VAL_132	<-->	1milA_A_SER_2
+4p9zA_A_TRP_60	<-->	1milA_A_SER_2
+4p9zA_A_LYS_56	<-->	1milA_A_GLY_61
+4p9zA_A_LYS_56	<-->	1milA_A_GLU_60
+4p9zA_A_PRO_57	<-->	1milA_A_VAL_62
+4p9zA_A_PRO_57	<-->	1milA_A_GLY_61
+4p9zA_A_ILE_85	<-->	1milA_A_GLY_1
+4p9zA_A_ILE_85	<-->	1milA_A_SER_2
+4p9zA_A_PHE_95	<-->	1milA_A_ARG_5
+4p9zA_A_MET_55	<-->	1milA_A_GLY_61
+4p9zA_A_MET_55	<-->	1milA_A_VAL_62
+4p9zA_A_ASN_129	<-->	1milA_A_SER_2
+4p9zA_A_HIS_58	<-->	1milA_A_SER_2
+4p9zA_A_HIS_58	<-->	1milA_A_GLN_3
+4p9zA_A_PHE_61	<-->	1milA_A_SER_2
+4p9zA_A_PHE_61	<-->	1milA_A_GLN_3
+4p9zA_A_PHE_61	<-->	1milA_A_GLY_1
+4p9zA_A_PHE_61	<-->	1milA_A_LEU_4
+4p9zA_A_PHE_61	<-->	1milA_A_ARG_5
+4p9zA_A_GLU_54	<-->	1milA_A_GLU_60
+4p9zA_A_LEU_128	<-->	1milA_A_GLY_1
+4p9zA_A_LYS_56	<-->	1milA_A_GLU_71
+4p9zA_A_LEU_128	<-->	1milA_A_SER_2
+4p9zA_A_MET_55	<-->	1milA_A_GLU_71

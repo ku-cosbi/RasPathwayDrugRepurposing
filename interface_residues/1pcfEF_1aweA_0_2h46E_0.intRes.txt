@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1aweA_A_ASN_28	<-->	2h46E_E_PHE_62
+1aweA_A_THR_49	<-->	2h46E_E_LYS_64
+1aweA_A_SER_130	<-->	2h46E_E_GLU_89
+1aweA_A_GLU_24	<-->	2h46E_E_PHE_61
+1aweA_A_HIS_60	<-->	2h46E_E_ILE_65
+1aweA_A_ASN_85	<-->	2h46E_E_PHE_62
+1aweA_A_GLN_26	<-->	2h46E_E_PRO_57
+1aweA_A_HIS_60	<-->	2h46E_E_LYS_64
+1aweA_A_LYS_27	<-->	2h46E_E_PRO_57
+1aweA_A_ASN_23	<-->	2h46E_E_HIS_58
+1aweA_A_TYR_88	<-->	2h46E_E_ILE_65
+1aweA_A_GLU_47	<-->	2h46E_E_LYS_64
+1aweA_A_GLU_87	<-->	2h46E_E_PHE_62
+1aweA_A_GLU_132	<-->	2h46E_E_PRO_92
+1aweA_A_GLY_48	<-->	2h46E_E_LYS_64
+1aweA_A_ASN_23	<-->	2h46E_E_PRO_57
+1aweA_A_LYS_27	<-->	2h46E_E_HIS_58
+1aweA_A_LYS_27	<-->	2h46E_E_PRO_59

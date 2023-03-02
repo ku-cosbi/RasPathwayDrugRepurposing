@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6xguB_B_VAL_70	<-->	4dstA_A_GLN_70
+6xguB_B_VAL_88	<-->	4dstA_A_ALA_66
+6xguB_B_ASN_71	<-->	4dstA_A_ASP_54
+6xguB_B_ARG_67	<-->	4dstA_A_GLU_63
+6xguB_B_ARG_67	<-->	4dstA_A_MET_67
+6xguB_B_LYS_65	<-->	4dstA_A_TYR_64
+6xguB_B_SER_55	<-->	4dstA_A_ARG_41
+6xguB_B_ASN_64	<-->	4dstA_A_TYR_64
+6xguB_B_GLN_66	<-->	4dstA_A_TYR_64
+6xguB_B_VAL_88	<-->	4dstA_A_ASP_69
+6xguB_B_ARG_59	<-->	4dstA_A_GLU_37
+6xguB_B_SER_55	<-->	4dstA_A_ASP_54
+6xguB_B_ALA_85	<-->	4dstA_A_GLN_70
+6xguB_B_VAL_69	<-->	4dstA_A_GLU_37
+6xguB_B_ARG_67	<-->	4dstA_A_ILE_36
+6xguB_B_VAL_69	<-->	4dstA_A_SER_39
+6xguB_B_ARG_89	<-->	4dstA_A_MET_67
+6xguB_B_ARG_89	<-->	4dstA_A_ALA_66
+6xguB_B_LYS_84	<-->	4dstA_A_ARG_73
+6xguB_B_THR_68	<-->	4dstA_A_GLN_70

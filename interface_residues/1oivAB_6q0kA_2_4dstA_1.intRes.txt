@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_LYS_547	<-->	4dstA_A_GLU_37
+6q0kA_A_HIS_725	<-->	4dstA_A_GLU_3
+6q0kA_A_ASN_684	<-->	4dstA_A_TYR_40
+6q0kA_A_ILE_724	<-->	4dstA_A_GLU_3
+6q0kA_A_ASN_684	<-->	4dstA_A_ASP_38
+6q0kA_A_GLY_652	<-->	4dstA_A_ILE_36
+6q0kA_A_ILE_544	<-->	4dstA_A_TYR_64
+6q0kA_A_ASN_684	<-->	4dstA_A_SER_39
+6q0kA_A_ILE_544	<-->	4dstA_A_GLU_63
+6q0kA_A_GLU_549	<-->	4dstA_A_SER_39
+6q0kA_A_THR_546	<-->	4dstA_A_GLU_37
+6q0kA_A_THR_546	<-->	4dstA_A_ILE_36
+6q0kA_A_ILE_724	<-->	4dstA_A_ASP_54
+6q0kA_A_PRO_722	<-->	4dstA_A_ARG_41
+6q0kA_A_LYS_723	<-->	4dstA_A_ARG_41
+6q0kA_A_MET_550	<-->	4dstA_A_SER_39
+6q0kA_A_LEU_541	<-->	4dstA_A_ILE_36
+6q0kA_A_SER_683	<-->	4dstA_A_ILE_21
+6q0kA_A_PHE_548	<-->	4dstA_A_GLU_37
+6q0kA_A_GLU_545	<-->	4dstA_A_ILE_36

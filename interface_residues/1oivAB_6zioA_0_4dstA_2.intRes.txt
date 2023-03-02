@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6zioA_A_GLN_43	<-->	4dstA_A_TYR_64
+6zioA_A_LYS_42	<-->	4dstA_A_TYR_64
+6zioA_A_TYR_64	<-->	4dstA_A_ARG_41
+6zioA_A_TYR_71	<-->	4dstA_A_GLN_70
+6zioA_A_GLU_37	<-->	4dstA_A_SER_39
+6zioA_A_GLU_37	<-->	4dstA_A_ASP_38
+6zioA_A_GLU_37	<-->	4dstA_A_GLU_37
+6zioA_A_SER_65	<-->	4dstA_A_SER_39
+6zioA_A_ARG_41	<-->	4dstA_A_MET_67
+6zioA_A_ARG_41	<-->	4dstA_A_TYR_64
+6zioA_A_TYR_40	<-->	4dstA_A_MET_67
+6zioA_A_ASP_38	<-->	4dstA_A_ILE_36
+6zioA_A_ASP_38	<-->	4dstA_A_GLU_37
+6zioA_A_SER_39	<-->	4dstA_A_GLU_37
+6zioA_A_SER_39	<-->	4dstA_A_ILE_36
+6zioA_A_TYR_64	<-->	4dstA_A_TYR_40
+6zioA_A_TYR_40	<-->	4dstA_A_ILE_36
+6zioA_A_MET_67	<-->	4dstA_A_SER_39
+6zioA_A_LEU_52	<-->	4dstA_A_ALA_66
+6zioA_A_LEU_52	<-->	4dstA_A_TYR_64
+6zioA_A_ALA_66	<-->	4dstA_A_ASP_54
+6zioA_A_MET_67	<-->	4dstA_A_LEU_56
+6zioA_A_SER_39	<-->	4dstA_A_MET_67

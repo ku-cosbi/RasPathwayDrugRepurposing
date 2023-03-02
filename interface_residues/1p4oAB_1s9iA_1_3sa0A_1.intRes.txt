@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1s9iA_A_ASN_113	<-->	3sa0A_A_LYS_203
+1s9iA_A_PRO_109	<-->	3sa0A_A_THR_185
+1s9iA_A_VAL_121	<-->	3sa0A_A_ASP_337
+1s9iA_A_PRO_109	<-->	3sa0A_A_THR_181
+1s9iA_A_GLU_118	<-->	3sa0A_A_ASP_336
+1s9iA_A_GLU_118	<-->	3sa0A_A_ASP_337
+1s9iA_A_ARG_117	<-->	3sa0A_A_GLU_334
+1s9iA_A_ARG_117	<-->	3sa0A_A_ASP_332
+1s9iA_A_ALA_110	<-->	3sa0A_A_THR_185
+1s9iA_A_ALA_110	<-->	3sa0A_A_THR_181
+1s9iA_A_ALA_110	<-->	3sa0A_A_LYS_203
+1s9iA_A_GLN_189	<-->	3sa0A_A_GLU_341
+1s9iA_A_GLN_189	<-->	3sa0A_A_PRO_339
+1s9iA_A_GLN_189	<-->	3sa0A_A_LYS_342

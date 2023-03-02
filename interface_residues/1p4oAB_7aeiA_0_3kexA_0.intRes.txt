@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7aeiA_A_TYR_869	<-->	3kexA_A_ASP_739
+7aeiA_A_LYS_754	<-->	3kexA_A_PRO_842
+7aeiA_A_GLU_697	<-->	3kexA_A_LYS_679
+7aeiA_A_THR_751	<-->	3kexA_A_PHE_866
+7aeiA_A_ASN_756	<-->	3kexA_A_LYS_868
+7aeiA_A_LEU_782	<-->	3kexA_A_LYS_868
+7aeiA_A_ASN_756	<-->	3kexA_A_PHE_866
+7aeiA_A_ALA_864	<-->	3kexA_A_LYS_679
+7aeiA_A_PRO_753	<-->	3kexA_A_ASP_844
+7aeiA_A_GLU_872	<-->	3kexA_A_SER_733
+7aeiA_A_PRO_753	<-->	3kexA_A_TYR_869
+7aeiA_A_ALA_871	<-->	3kexA_A_ALA_736
+7aeiA_A_HIS_870	<-->	3kexA_A_VAL_737
+7aeiA_A_PRO_753	<-->	3kexA_A_GLY_867
+7aeiA_A_LYS_757	<-->	3kexA_A_ASP_838
+7aeiA_A_GLU_872	<-->	3kexA_A_ALA_736
+7aeiA_A_GLU_865	<-->	3kexA_A_LYS_679
+7aeiA_A_GLU_866	<-->	3kexA_A_LEU_742
+7aeiA_A_GLY_873	<-->	3kexA_A_GLN_732
+7aeiA_A_SER_784	<-->	3kexA_A_PHE_866
+7aeiA_A_GLU_866	<-->	3kexA_A_VAL_680
+7aeiA_A_SER_752	<-->	3kexA_A_GLY_867

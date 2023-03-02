@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7juxA_A_ASP_649	<-->	1s9iA_A_GLY_241
+7juxA_A_ASP_649	<-->	1s9iA_A_HIS_243
+7juxA_A_ASP_649	<-->	1s9iA_A_THR_242
+7juxA_A_ALA_801	<-->	1s9iA_A_PRO_109
+7juxA_A_LYS_652	<-->	1s9iA_A_HIS_243
+7juxA_A_SER_799	<-->	1s9iA_A_ILE_107
+7juxA_A_SER_799	<-->	1s9iA_A_PRO_109
+7juxA_A_ASN_647	<-->	1s9iA_A_THR_242
+7juxA_A_LYS_800	<-->	1s9iA_A_PRO_109
+7juxA_A_LYS_800	<-->	1s9iA_A_ALA_110
+7juxA_A_LEU_864	<-->	1s9iA_A_ILE_107
+7juxA_A_GLN_648	<-->	1s9iA_A_THR_242
+7juxA_A_GLN_648	<-->	1s9iA_A_GLN_240
+7juxA_A_GLN_648	<-->	1s9iA_A_GLY_241
+7juxA_A_LYS_800	<-->	1s9iA_A_ILE_111
+7juxA_A_VAL_730	<-->	1s9iA_A_ILE_111
+7juxA_A_GLY_728	<-->	1s9iA_A_GLN_114
+7juxA_A_LEU_864	<-->	1s9iA_A_PRO_109
+7juxA_A_LEU_864	<-->	1s9iA_A_LYS_108
+7juxA_A_GLN_865	<-->	1s9iA_A_LYS_108

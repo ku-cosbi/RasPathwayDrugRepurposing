@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_VAL_89	<-->	2h46E_E_LYS_56
+1shcA_A_GLY_91	<-->	2h46E_E_MET_55
+1shcA_A_VAL_172	<-->	2h46E_E_LYS_117
+1shcA_A_GLY_119	<-->	2h46E_E_MET_55
+1shcA_A_GLY_119	<-->	2h46E_E_PRO_57
+1shcA_A_CYS_138	<-->	2h46E_E_GLY_63
+1shcA_A_CYS_138	<-->	2h46E_E_PHE_62
+1shcA_A_CYS_138	<-->	2h46E_E_PHE_61
+1shcA_A_ARG_55	<-->	2h46E_E_MET_55
+1shcA_A_PRO_90	<-->	2h46E_E_LYS_56
+1shcA_A_PRO_171	<-->	2h46E_E_LYS_117
+1shcA_A_PRO_171	<-->	2h46E_E_ALA_115
+1shcA_A_PRO_90	<-->	2h46E_E_MET_55
+1shcA_A_ALA_118	<-->	2h46E_E_LYS_56
+1shcA_A_ALA_118	<-->	2h46E_E_PRO_57

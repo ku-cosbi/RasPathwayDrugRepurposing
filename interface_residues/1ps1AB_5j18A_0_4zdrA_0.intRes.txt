@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5j18A_A_MET_186	<-->	4zdrA_A_TYR_82
+5j18A_A_VAL_175	<-->	4zdrA_A_LYS_75
+5j18A_A_VAL_175	<-->	4zdrA_A_LYS_74
+5j18A_A_ASP_179	<-->	4zdrA_A_LYS_75
+5j18A_A_VAL_175	<-->	4zdrA_A_MET_78
+5j18A_A_MET_186	<-->	4zdrA_A_SER_58
+5j18A_A_LYS_183	<-->	4zdrA_A_TYR_82
+5j18A_A_GLY_174	<-->	4zdrA_A_LYS_74
+5j18A_A_GLY_174	<-->	4zdrA_A_LYS_75
+5j18A_A_CYS_173	<-->	4zdrA_A_LYS_74
+5j18A_A_SER_180	<-->	4zdrA_A_MET_78
+5j18A_A_ARG_172	<-->	4zdrA_A_MET_78
+5j18A_A_THR_176	<-->	4zdrA_A_LYS_75
+5j18A_A_LYS_182	<-->	4zdrA_A_ILE_65
+5j18A_A_ASP_179	<-->	4zdrA_A_MET_78

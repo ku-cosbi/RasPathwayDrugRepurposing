@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_GLU_186	<-->	3omvA_A_LEU_570
+4zdrA_A_THR_229	<-->	3omvA_A_LYS_579
+4zdrA_A_THR_229	<-->	3omvA_A_LYS_582
+4zdrA_A_ASP_197	<-->	3omvA_A_ARG_583
+4zdrA_A_THR_226	<-->	3omvA_A_LYS_579
+4zdrA_A_TRP_228	<-->	3omvA_A_LYS_582
+4zdrA_A_PRO_185	<-->	3omvA_A_SER_571
+4zdrA_A_SER_230	<-->	3omvA_A_LYS_575
+4zdrA_A_LEU_225	<-->	3omvA_A_LYS_579
+4zdrA_A_CYS_189	<-->	3omvA_A_LYS_582
+4zdrA_A_SER_190	<-->	3omvA_A_ARG_583
+4zdrA_A_LYS_193	<-->	3omvA_A_ARG_583
+4zdrA_A_LYS_193	<-->	3omvA_A_LYS_579
+4zdrA_A_PRO_185	<-->	3omvA_A_LYS_582
+4zdrA_A_THR_194	<-->	3omvA_A_ARG_583
+4zdrA_A_SER_190	<-->	3omvA_A_ALA_586

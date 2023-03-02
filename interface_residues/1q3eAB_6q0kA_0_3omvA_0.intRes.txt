@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_ALA_694	<-->	3omvA_A_LYS_579
+6q0kA_A_MET_693	<-->	3omvA_A_LYS_579
+6q0kA_A_TYR_673	<-->	3omvA_A_SER_612
+6q0kA_A_ASP_677	<-->	3omvA_A_LYS_575
+6q0kA_A_TYR_673	<-->	3omvA_A_LYS_615
+6q0kA_A_LYS_690	<-->	3omvA_A_LEU_570
+6q0kA_A_GLU_695	<-->	3omvA_A_ARG_583
+6q0kA_A_LEU_678	<-->	3omvA_A_LYS_582
+6q0kA_A_PRO_676	<-->	3omvA_A_LYS_579
+6q0kA_A_VAL_681	<-->	3omvA_A_LYS_582
+6q0kA_A_ALA_694	<-->	3omvA_A_ARG_583
+6q0kA_A_LEU_697	<-->	3omvA_A_LYS_579
+6q0kA_A_LYS_690	<-->	3omvA_A_LYS_582
+6q0kA_A_ARG_691	<-->	3omvA_A_ARG_583
+6q0kA_A_SER_683	<-->	3omvA_A_SER_571
+6q0kA_A_ARG_691	<-->	3omvA_A_ALA_586
+6q0kA_A_LEU_678	<-->	3omvA_A_LEU_573
+6q0kA_A_GLY_672	<-->	3omvA_A_SER_612
+6q0kA_A_SER_679	<-->	3omvA_A_LEU_573
+6q0kA_A_SER_679	<-->	3omvA_A_TYR_574
+6q0kA_A_SER_679	<-->	3omvA_A_LYS_575
+6q0kA_A_LEU_678	<-->	3omvA_A_LYS_579

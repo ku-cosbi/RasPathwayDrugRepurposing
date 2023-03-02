@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3gopA_A_LYS_730	<-->	3pp0B_B_HIS_901
+3gopA_A_LYS_730	<-->	3pp0B_B_GLN_902
+3gopA_A_GLU_738	<-->	3pp0B_B_ASP_873
+3gopA_A_ALA_731	<-->	3pp0B_B_HIS_901
+3gopA_A_GLU_738	<-->	3pp0B_B_ILE_872
+3gopA_A_ALA_731	<-->	3pp0B_B_LEU_870
+3gopA_A_LYS_733	<-->	3pp0B_B_GLU_837
+3gopA_A_GLY_833	<-->	3pp0B_B_ASP_873
+3gopA_A_VAL_741	<-->	3pp0B_B_ILE_872
+3gopA_A_ALA_731	<-->	3pp0B_B_THR_875
+3gopA_A_ASP_737	<-->	3pp0B_B_ILE_872
+3gopA_A_ILE_735	<-->	3pp0B_B_THR_875
+3gopA_A_ASP_737	<-->	3pp0B_B_ARG_840
+3gopA_A_GLU_734	<-->	3pp0B_B_GLU_874
+3gopA_A_GLU_734	<-->	3pp0B_B_THR_875
+3gopA_A_ASN_732	<-->	3pp0B_B_ARG_968
+3gopA_A_LYS_730	<-->	3pp0B_B_GLU_837
+3gopA_A_LYS_730	<-->	3pp0B_B_ARG_968
+3gopA_A_MET_742	<-->	3pp0B_B_ASP_873
+3gopA_A_GLU_734	<-->	3pp0B_B_LEU_870

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_PHE_117	<-->	4p9zA_A_PRO_57
+1shcA_A_VAL_89	<-->	4p9zA_A_MET_55
+1shcA_A_LYS_139	<-->	4p9zA_A_ILE_65
+1shcA_A_PRO_171	<-->	4p9zA_A_GLY_93
+1shcA_A_GLY_119	<-->	4p9zA_A_PRO_57
+1shcA_A_CYS_138	<-->	4p9zA_A_PRO_59
+1shcA_A_LYS_116	<-->	4p9zA_A_ASN_129
+1shcA_A_CYS_138	<-->	4p9zA_A_PHE_62
+1shcA_A_ASN_144	<-->	4p9zA_A_LYS_64
+1shcA_A_PHE_117	<-->	4p9zA_A_HIS_58
+1shcA_A_ASP_170	<-->	4p9zA_A_GLY_93
+1shcA_A_LYS_116	<-->	4p9zA_A_HIS_58
+1shcA_A_HIS_145	<-->	4p9zA_A_LYS_64
+1shcA_A_ILE_141	<-->	4p9zA_A_LYS_64
+1shcA_A_ALA_143	<-->	4p9zA_A_LYS_64
+1shcA_A_ILE_142	<-->	4p9zA_A_LYS_64
+1shcA_A_GLN_140	<-->	4p9zA_A_ILE_65
+1shcA_A_GLN_140	<-->	4p9zA_A_PHE_62
+1shcA_A_PRO_90	<-->	4p9zA_A_MET_55
+1shcA_A_ILE_141	<-->	4p9zA_A_ILE_65
+1shcA_A_ALA_118	<-->	4p9zA_A_PRO_57

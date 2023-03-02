@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1oy2A_A_SER_103	<-->	1griA_A_ILE_24
+1oy2A_A_ARG_104	<-->	1griA_A_PHE_19
+1oy2A_A_ARG_104	<-->	1griA_A_SER_18
+1oy2A_A_ALA_68	<-->	1griA_A_ARG_78
+1oy2A_A_SER_103	<-->	1griA_A_LEU_41
+1oy2A_A_CYS_102	<-->	1griA_A_LYS_26
+1oy2A_A_SER_108	<-->	1griA_A_HIS_79
+1oy2A_A_SER_108	<-->	1griA_A_ARG_78
+1oy2A_A_LEU_106	<-->	1griA_A_LYS_20
+1oy2A_A_LEU_106	<-->	1griA_A_ASP_23
+1oy2A_A_ALA_95	<-->	1griA_A_ASN_42
+1oy2A_A_GLY_111	<-->	1griA_A_ARG_149
+1oy2A_A_LEU_69	<-->	1griA_A_ARG_78
+1oy2A_A_ARG_79	<-->	1griA_A_LEU_41
+1oy2A_A_ARG_79	<-->	1griA_A_ASN_42
+1oy2A_A_ARG_104	<-->	1griA_A_ASP_23
+1oy2A_A_ARG_104	<-->	1griA_A_LYS_20
+1oy2A_A_ARG_104	<-->	1griA_A_LEU_41
+1oy2A_A_ARG_67	<-->	1griA_A_ARG_78
+1oy2A_A_LEU_110	<-->	1griA_A_ARG_149
+1oy2A_A_SER_107	<-->	1griA_A_ARG_78
+1oy2A_A_LYS_100	<-->	1griA_A_GLU_2

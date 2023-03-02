@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l05A_A_PRO_170	<-->	4dstA_A_ASP_33
+2l05A_A_GLY_174	<-->	4dstA_A_SER_39
+2l05A_A_ASP_179	<-->	4dstA_A_GLU_37
+2l05A_A_ARG_172	<-->	4dstA_A_GLN_25
+2l05A_A_LYS_183	<-->	4dstA_A_ILE_36
+2l05A_A_ASP_179	<-->	4dstA_A_ILE_36
+2l05A_A_ARG_172	<-->	4dstA_A_ASP_33
+2l05A_A_CYS_173	<-->	4dstA_A_TYR_40
+2l05A_A_CYS_173	<-->	4dstA_A_GLN_25
+2l05A_A_LYS_182	<-->	4dstA_A_ILE_36
+2l05A_A_VAL_175	<-->	4dstA_A_ASP_38
+2l05A_A_LYS_154	<-->	4dstA_A_ASP_30
+2l05A_A_LYS_154	<-->	4dstA_A_GLU_31
+2l05A_A_SER_151	<-->	4dstA_A_ASP_30
+2l05A_A_LYS_154	<-->	4dstA_A_VAL_29
+2l05A_A_LYS_154	<-->	4dstA_A_PHE_28

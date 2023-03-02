@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1aweA_A_GLU_58	<-->	2l1cA_A_ARG_175
+1aweA_A_SER_130	<-->	2l1cA_A_ARG_112
+1aweA_A_SER_130	<-->	2l1cA_A_GLU_61
+1aweA_A_SER_130	<-->	2l1cA_A_GLY_111
+1aweA_A_ASN_28	<-->	2l1cA_A_ALA_68
+1aweA_A_LYS_129	<-->	2l1cA_A_GLU_61
+1aweA_A_LYS_129	<-->	2l1cA_A_VAL_172
+1aweA_A_LYS_129	<-->	2l1cA_A_ASN_173
+1aweA_A_GLU_133	<-->	2l1cA_A_GLY_111
+1aweA_A_GLU_87	<-->	2l1cA_A_ARG_67
+1aweA_A_TYR_88	<-->	2l1cA_A_ALA_68
+1aweA_A_GLU_133	<-->	2l1cA_A_ARG_112
+1aweA_A_HIS_60	<-->	2l1cA_A_GLN_64
+1aweA_A_ALA_131	<-->	2l1cA_A_ARG_112
+1aweA_A_GLU_47	<-->	2l1cA_A_SER_107
+1aweA_A_GLU_133	<-->	2l1cA_A_LEU_110
+1aweA_A_GLU_132	<-->	2l1cA_A_ARG_112
+1aweA_A_ASN_85	<-->	2l1cA_A_ARG_67
+1aweA_A_THR_49	<-->	2l1cA_A_GLN_64
+1aweA_A_THR_49	<-->	2l1cA_A_LEU_63
+1aweA_A_GLU_47	<-->	2l1cA_A_SER_108

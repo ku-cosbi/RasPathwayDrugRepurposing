@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n2aA_A_LYS_33	<-->	2h46E_E_PHE_101
+2n2aA_A_LYS_33	<-->	2h46E_E_GLN_106
+2n2aA_A_ARG_34	<-->	2h46E_E_GLN_106
+2n2aA_A_ARG_34	<-->	2h46E_E_PHE_108
+2n2aA_A_ARG_40	<-->	2h46E_E_PHE_125
+2n2aA_A_TYR_42	<-->	2h46E_E_SER_137
+2n2aA_A_ARG_40	<-->	2h46E_E_TYR_134
+2n2aA_A_ILE_30	<-->	2h46E_E_GLN_106
+2n2aA_A_LYS_38	<-->	2h46E_E_TRP_121
+2n2aA_A_VAL_26	<-->	2h46E_E_VAL_105
+2n2aA_A_ILE_30	<-->	2h46E_E_VAL_105
+2n2aA_A_ILE_30	<-->	2h46E_E_ASP_104
+2n2aA_A_GLY_29	<-->	2h46E_E_ASP_104
+2n2aA_A_ARG_34	<-->	2h46E_E_LEU_120
