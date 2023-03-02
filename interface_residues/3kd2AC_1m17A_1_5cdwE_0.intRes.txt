@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1m17A_A_LYS_936	<-->	5cdwE_E_ARG_26
+1m17A_A_ILE_917	<-->	5cdwE_E_PHE_10
+1m17A_A_GLY_906	<-->	5cdwE_E_PRO_5
+1m17A_A_GLY_906	<-->	5cdwE_E_LYS_4
+1m17A_A_ASP_918	<-->	5cdwE_E_PRO_14
+1m17A_A_MET_928	<-->	5cdwE_E_PRO_7
+1m17A_A_ASP_918	<-->	5cdwE_E_LYS_17
+1m17A_A_LYS_946	<-->	5cdwE_E_GLU_20
+1m17A_A_ASP_918	<-->	5cdwE_E_ILE_13
+1m17A_A_MET_921	<-->	5cdwE_E_PHE_10
+1m17A_A_GLU_939	<-->	5cdwE_E_LYS_24
+1m17A_A_LYS_925	<-->	5cdwE_E_GLN_25
+1m17A_A_LYS_925	<-->	5cdwE_E_PHE_10
+1m17A_A_ILE_917	<-->	5cdwE_E_ILE_13
+1m17A_A_ILE_917	<-->	5cdwE_E_LYS_12
+1m17A_A_ILE_917	<-->	5cdwE_E_GLY_11
+1m17A_A_LYS_905	<-->	5cdwE_E_MET_3
+1m17A_A_LYS_905	<-->	5cdwE_E_LYS_4
+1m17A_A_LYS_905	<-->	5cdwE_E_PRO_5
+1m17A_A_GLU_943	<-->	5cdwE_E_GLU_20
+1m17A_A_MET_921	<-->	5cdwE_E_ILE_13

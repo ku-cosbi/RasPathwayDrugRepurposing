@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2jitB_B_GLU_709	<-->	5cdwE_E_PRO_7
+2jitB_B_GLU_709	<-->	5cdwE_E_LYS_4
+2jitB_B_GLU_709	<-->	5cdwE_E_PRO_5
+2jitB_B_GLN_787	<-->	5cdwE_E_PRO_5
+2jitB_B_LEU_782	<-->	5cdwE_E_PHE_10
+2jitB_B_THR_783	<-->	5cdwE_E_PHE_9
+2jitB_B_LEU_782	<-->	5cdwE_E_PHE_9
+2jitB_B_SER_784	<-->	5cdwE_E_PHE_9
+2jitB_B_THR_783	<-->	5cdwE_E_HIS_6
+2jitB_B_THR_785	<-->	5cdwE_E_PRO_5
+2jitB_B_SER_784	<-->	5cdwE_E_HIS_6
+2jitB_B_LEU_782	<-->	5cdwE_E_PRO_7
+2jitB_B_THR_783	<-->	5cdwE_E_PRO_5
+2jitB_B_GLU_746	<-->	5cdwE_E_PRO_5
+2jitB_B_THR_783	<-->	5cdwE_E_PRO_7

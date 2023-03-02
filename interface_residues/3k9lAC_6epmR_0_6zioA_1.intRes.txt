@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6epmR_R_ASP_30	<-->	6zioA_A_ARG_149
+6epmR_R_ASP_30	<-->	6zioA_A_THR_148
+6epmR_R_LYS_147	<-->	6zioA_A_ARG_149
+6epmR_R_PHE_28	<-->	6zioA_A_LEU_23
+6epmR_R_THR_148	<-->	6zioA_A_ARG_149
+6epmR_R_PHE_28	<-->	6zioA_A_ARG_149
+6epmR_R_ASP_30	<-->	6zioA_A_GLN_150
+6epmR_R_ARG_149	<-->	6zioA_A_ARG_149
+6epmR_R_VAL_29	<-->	6zioA_A_GLN_150
+6epmR_R_VAL_29	<-->	6zioA_A_GLY_151
+6epmR_R_PHE_28	<-->	6zioA_A_GLY_151
+6epmR_R_PHE_28	<-->	6zioA_A_GLN_150
+6epmR_R_PHE_28	<-->	6zioA_A_GLU_153
+6epmR_R_PHE_28	<-->	6zioA_A_VAL_152
+6epmR_R_VAL_29	<-->	6zioA_A_ARG_149
+6epmR_R_PHE_28	<-->	6zioA_A_ASN_26
+6epmR_R_PHE_28	<-->	6zioA_A_GLN_22
+6epmR_R_HIS_27	<-->	6zioA_A_GLU_153

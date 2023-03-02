@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6p8qC_C_PRO_934	<-->	3kexA_A_PRO_965
+6p8qC_C_PRO_934	<-->	3kexA_A_ILE_967
+6p8qC_C_PRO_934	<-->	3kexA_A_GLY_966
+6p8qC_C_PRO_934	<-->	3kexA_A_ALA_968
+6p8qC_C_TYR_944	<-->	3kexA_A_PRO_971
+6p8qC_C_TRP_905	<-->	3kexA_A_PRO_965
+6p8qC_C_MET_945	<-->	3kexA_A_GLU_972
+6p8qC_C_LEU_933	<-->	3kexA_A_ALA_968
+6p8qC_C_ASP_916	<-->	3kexA_A_SER_963
+6p8qC_C_ASP_916	<-->	3kexA_A_GLU_962
+6p8qC_C_ARG_932	<-->	3kexA_A_ALA_968
+6p8qC_C_ARG_948	<-->	3kexA_A_PRO_971
+6p8qC_C_MET_945	<-->	3kexA_A_PRO_973
+6p8qC_C_ARG_948	<-->	3kexA_A_PRO_973
+6p8qC_C_MET_945	<-->	3kexA_A_PRO_971
+6p8qC_C_LYS_949	<-->	3kexA_A_PRO_973
+6p8qC_C_TYR_944	<-->	3kexA_A_ALA_968
+6p8qC_C_GLU_931	<-->	3kexA_A_ILE_967
+6p8qC_C_ARG_948	<-->	3kexA_A_GLY_970
+6p8qC_C_GLY_917	<-->	3kexA_A_GLU_962
+6p8qC_C_GLY_917	<-->	3kexA_A_ARG_961
+6p8qC_C_ARG_932	<-->	3kexA_A_ILE_967
+6p8qC_C_GLY_930	<-->	3kexA_A_GLY_970
+6p8qC_C_GLU_931	<-->	3kexA_A_ALA_968

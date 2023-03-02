@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ASN_418	<-->	5cdwE_E_PHE_9
+5cusB_B_LEU_417	<-->	5cdwE_E_PRO_5
+5cusB_B_GLN_442	<-->	5cdwE_E_PHE_9
+5cusB_B_GLU_477	<-->	5cdwE_E_GLN_25
+5cusB_B_ARG_469	<-->	5cdwE_E_PRO_7
+5cusB_B_LEU_417	<-->	5cdwE_E_MET_3
+5cusB_B_THR_420	<-->	5cdwE_E_PHE_10
+5cusB_B_THR_420	<-->	5cdwE_E_GLY_11
+5cusB_B_ARG_441	<-->	5cdwE_E_PRO_5
+5cusB_B_GLU_477	<-->	5cdwE_E_LEU_22
+5cusB_B_GLN_442	<-->	5cdwE_E_HIS_6
+5cusB_B_HIS_388	<-->	5cdwE_E_GLY_11
+5cusB_B_ALA_476	<-->	5cdwE_E_GLN_25
+5cusB_B_HIS_388	<-->	5cdwE_E_ILE_13
+5cusB_B_HIS_388	<-->	5cdwE_E_LYS_12
+5cusB_B_HIS_386	<-->	5cdwE_E_GLU_35
+5cusB_B_GLU_477	<-->	5cdwE_E_MET_21
+5cusB_B_LYS_479	<-->	5cdwE_E_ILE_13
+5cusB_B_LYS_479	<-->	5cdwE_E_PHE_10
+5cusB_B_PRO_385	<-->	5cdwE_E_PHE_9
