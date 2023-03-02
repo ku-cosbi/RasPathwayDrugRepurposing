@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w32A_A_MET_952	<-->	3pp0B_B_ILE_949
+3w32A_A_MET_945	<-->	3pp0B_B_TYR_952
+3w32A_A_LYS_949	<-->	3pp0B_B_ASP_950
+3w32A_A_ILE_941	<-->	3pp0B_B_LYS_957
+3w32A_A_ASP_942	<-->	3pp0B_B_MET_953
+3w32A_A_MET_945	<-->	3pp0B_B_VAL_956
+3w32A_A_ILE_941	<-->	3pp0B_B_MET_953
+3w32A_A_ILE_941	<-->	3pp0B_B_MET_960
+3w32A_A_ILE_941	<-->	3pp0B_B_VAL_956
+3w32A_A_MET_945	<-->	3pp0B_B_MET_953
+3w32A_A_MET_945	<-->	3pp0B_B_ILE_949
+3w32A_A_VAL_948	<-->	3pp0B_B_ILE_949
+3w32A_A_LYS_949	<-->	3pp0B_B_ILE_949

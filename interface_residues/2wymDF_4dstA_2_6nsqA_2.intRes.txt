@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4dstA_A_GLU_63	<-->	6nsqA_A_MET_550
+4dstA_A_GLU_63	<-->	6nsqA_A_LYS_547
+4dstA_A_ILE_36	<-->	6nsqA_A_LYS_547
+4dstA_A_GLN_61	<-->	6nsqA_A_MET_550
+4dstA_A_ILE_36	<-->	6nsqA_A_THR_546
+4dstA_A_GLU_63	<-->	6nsqA_A_PHE_548
+4dstA_A_GLN_61	<-->	6nsqA_A_GLU_549
+4dstA_A_GLU_62	<-->	6nsqA_A_ASN_684
+4dstA_A_GLU_63	<-->	6nsqA_A_ARG_682
+4dstA_A_GLU_63	<-->	6nsqA_A_ASN_684
+4dstA_A_GLU_62	<-->	6nsqA_A_MET_550

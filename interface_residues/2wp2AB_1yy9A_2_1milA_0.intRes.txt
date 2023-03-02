@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1yy9A_A_ASP_147	<-->	1milA_A_CYS_95
+1yy9A_A_TYR_602	<-->	1milA_A_GLN_40
+1yy9A_A_SER_145	<-->	1milA_A_HIS_84
+1yy9A_A_MET_576	<-->	1milA_A_SER_2
+1yy9A_A_THR_601	<-->	1milA_A_ASP_58
+1yy9A_A_LYS_229	<-->	1milA_A_SER_78
+1yy9A_A_ASP_238	<-->	1milA_A_HIS_75
+1yy9A_A_PHE_148	<-->	1milA_A_HIS_84
+1yy9A_A_MET_576	<-->	1milA_A_GLN_3
+1yy9A_A_LEU_120	<-->	1milA_A_ASP_82
+1yy9A_A_MET_244	<-->	1milA_A_SER_2
+1yy9A_A_TYR_602	<-->	1milA_A_GLY_39
+1yy9A_A_ASP_147	<-->	1milA_A_HIS_84
+1yy9A_A_GLY_122	<-->	1milA_A_HIS_84
+1yy9A_A_TYR_602	<-->	1milA_A_VAL_57
+1yy9A_A_HIS_121	<-->	1milA_A_HIS_84
+1yy9A_A_HIS_121	<-->	1milA_A_ASP_82
+1yy9A_A_HIS_121	<-->	1milA_A_MET_81
+1yy9A_A_LEU_120	<-->	1milA_A_HIS_84
+1yy9A_A_ARG_228	<-->	1milA_A_TYR_79
+1yy9A_A_MET_253	<-->	1milA_A_SER_2
+1yy9A_A_ARG_228	<-->	1milA_A_ASP_82

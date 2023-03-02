@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w8qA_A_ALA_309	<-->	5j18A_A_ILE_156
+3w8qA_A_ALA_309	<-->	5j18A_A_LYS_154
+3w8qA_A_ALA_309	<-->	5j18A_A_PRO_155
+3w8qA_A_LEU_101	<-->	5j18A_A_LYS_164
+3w8qA_A_ALA_76	<-->	5j18A_A_ILE_200
+3w8qA_A_GLN_153	<-->	5j18A_A_GLY_203
+3w8qA_A_LYS_156	<-->	5j18A_A_ASP_202
+3w8qA_A_LEU_74	<-->	5j18A_A_GLY_203
+3w8qA_A_GLU_73	<-->	5j18A_A_LYS_205
+3w8qA_A_GLU_73	<-->	5j18A_A_GLU_204
+3w8qA_A_GLY_75	<-->	5j18A_A_GLY_203
+3w8qA_A_GLU_73	<-->	5j18A_A_GLY_203
+3w8qA_A_ILE_99	<-->	5j18A_A_LYS_164
+3w8qA_A_ARG_305	<-->	5j18A_A_GLN_153
+3w8qA_A_GLY_79	<-->	5j18A_A_LYS_164
+3w8qA_A_ILE_310	<-->	5j18A_A_ARG_158
+3w8qA_A_GLN_153	<-->	5j18A_A_ASP_202
+3w8qA_A_HIS_100	<-->	5j18A_A_LYS_164
+3w8qA_A_ILE_310	<-->	5j18A_A_ILE_156

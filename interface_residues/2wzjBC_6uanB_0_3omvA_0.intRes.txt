@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6uanB_B_TYR_656	<-->	3omvA_A_GLU_385
+6uanB_B_VAL_624	<-->	3omvA_A_ILE_558
+6uanB_B_GLN_628	<-->	3omvA_A_ARG_563
+6uanB_B_PRO_655	<-->	3omvA_A_PRO_505
+6uanB_B_ARG_626	<-->	3omvA_A_ARG_518
+6uanB_B_ARG_626	<-->	3omvA_A_MET_519
+6uanB_B_ASN_631	<-->	3omvA_A_GLN_556
+6uanB_B_LEU_654	<-->	3omvA_A_PRO_505
+6uanB_B_GLN_493	<-->	3omvA_A_ASN_552
+6uanB_B_PRO_632	<-->	3omvA_A_PHE_559
+6uanB_B_ASN_631	<-->	3omvA_A_PHE_559
+6uanB_B_ARG_626	<-->	3omvA_A_ILE_517
+6uanB_B_MET_627	<-->	3omvA_A_PHE_559
+6uanB_B_MET_627	<-->	3omvA_A_ILE_558
+6uanB_B_MET_627	<-->	3omvA_A_ILE_517
+6uanB_B_TYR_633	<-->	3omvA_A_ASP_555
+6uanB_B_TYR_633	<-->	3omvA_A_GLN_556
+6uanB_B_ILE_625	<-->	3omvA_A_MET_519
+6uanB_B_ILE_625	<-->	3omvA_A_ARG_518
+6uanB_B_GLN_628	<-->	3omvA_A_PHE_559
+6uanB_B_ILE_625	<-->	3omvA_A_ILE_517
+6uanB_B_MET_627	<-->	3omvA_A_GLY_562
+6uanB_B_MET_627	<-->	3omvA_A_ARG_563

@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1m17A_A_GLY_893	<-->	3kexA_A_GLY_895
+1m17A_A_GLY_893	<-->	3kexA_A_ALA_894
+1m17A_A_GLY_906	<-->	3kexA_A_ARG_897
+1m17A_A_GLU_907	<-->	3kexA_A_ARG_897
+1m17A_A_GLU_907	<-->	3kexA_A_GLU_900
+1m17A_A_ARG_908	<-->	3kexA_A_ARG_897
+1m17A_A_ILE_894	<-->	3kexA_A_ALA_894
+1m17A_A_ILE_894	<-->	3kexA_A_GLY_895
+1m17A_A_ILE_894	<-->	3kexA_A_LEU_896
+1m17A_A_ASP_892	<-->	3kexA_A_GLY_895
+1m17A_A_PRO_910	<-->	3kexA_A_ARG_897
+1m17A_A_ILE_902	<-->	3kexA_A_LEU_896
+1m17A_A_LYS_905	<-->	3kexA_A_GLU_909
+1m17A_A_GLU_907	<-->	3kexA_A_LEU_896
+1m17A_A_TYR_891	<-->	3kexA_A_GLY_895
+1m17A_A_LYS_905	<-->	3kexA_A_GLU_900
+1m17A_A_LYS_905	<-->	3kexA_A_LEU_904

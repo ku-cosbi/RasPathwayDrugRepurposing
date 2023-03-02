@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_SER_187	<-->	3njpA_A_PRO_494
+3n85A_A_SER_174	<-->	3njpA_A_PRO_494
+3n85A_A_LEU_231	<-->	3njpA_A_GLN_366
+3n85A_A_GLU_188	<-->	3njpA_A_ARG_497
+3n85A_A_MET_176	<-->	3njpA_A_THR_422
+3n85A_A_MET_176	<-->	3njpA_A_SER_423
+3n85A_A_PRO_175	<-->	3njpA_A_TYR_447
+3n85A_A_SER_186	<-->	3njpA_A_GLU_495
+3n85A_A_ARG_70	<-->	3njpA_A_GLU_521
+3n85A_A_MET_176	<-->	3njpA_A_GLY_493
+3n85A_A_PRO_175	<-->	3njpA_A_GLN_480
+3n85A_A_MET_176	<-->	3njpA_A_CYS_446
+3n85A_A_MET_176	<-->	3njpA_A_TYR_447
+3n85A_A_THR_223	<-->	3njpA_A_GLN_366
+3n85A_A_THR_223	<-->	3njpA_A_ASP_364
+3n85A_A_THR_223	<-->	3njpA_A_PRO_365
+3n85A_A_PRO_175	<-->	3njpA_A_GLY_479
+3n85A_A_VAL_483	<-->	3njpA_A_TYR_602
+3n85A_A_LYS_206	<-->	3njpA_A_ASN_389
+3n85A_A_MET_176	<-->	3njpA_A_PRO_494
+3n85A_A_THR_45	<-->	3njpA_A_GLU_521
+3n85A_A_ARG_78	<-->	3njpA_A_GLN_366
+3n85A_A_PRO_175	<-->	3njpA_A_PRO_494

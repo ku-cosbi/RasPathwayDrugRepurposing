@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiS_S_TYR_709	<-->	6p8qC_C_LYS_949
+4nyiS_S_ILE_816	<-->	6p8qC_C_VAL_980
+4nyiS_S_ARG_706	<-->	6p8qC_C_ASP_942
+4nyiS_S_ILE_816	<-->	6p8qC_C_ARG_977
+4nyiS_S_ALA_708	<-->	6p8qC_C_ILE_966
+4nyiS_S_ALA_708	<-->	6p8qC_C_GLU_967
+4nyiS_S_ILE_816	<-->	6p8qC_C_GLN_976
+4nyiS_S_ARG_706	<-->	6p8qC_C_TYR_978
+4nyiS_S_GLU_705	<-->	6p8qC_C_LYS_970
+4nyiS_S_LYS_636	<-->	6p8qC_C_MET_945
+4nyiS_S_TYR_709	<-->	6p8qC_C_GLU_967
+4nyiS_S_LYS_636	<-->	6p8qC_C_ILE_941
+4nyiS_S_ASP_813	<-->	6p8qC_C_VAL_980
+4nyiS_S_GLU_705	<-->	6p8qC_C_TYR_978
+4nyiS_S_GLN_712	<-->	6p8qC_C_GLU_963
+4nyiS_S_GLN_712	<-->	6p8qC_C_ILE_966

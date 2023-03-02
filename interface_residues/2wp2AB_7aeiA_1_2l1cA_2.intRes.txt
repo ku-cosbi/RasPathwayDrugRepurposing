@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7aeiA_A_ASP_956	<-->	2l1cA_A_GLN_196
+7aeiA_A_GLU_697	<-->	2l1cA_A_ASP_157
+7aeiA_A_ARG_832	<-->	2l1cA_A_ASP_157
+7aeiA_A_GLU_697	<-->	2l1cA_A_PRO_158
+7aeiA_A_GLU_697	<-->	2l1cA_A_ASP_159
+7aeiA_A_GLU_865	<-->	2l1cA_A_ARG_79
+7aeiA_A_GLU_868	<-->	2l1cA_A_ARG_207
+7aeiA_A_GLU_865	<-->	2l1cA_A_THR_75
+7aeiA_A_LYS_867	<-->	2l1cA_A_ILE_191
+7aeiA_A_ALA_864	<-->	2l1cA_A_PRO_158
+7aeiA_A_LYS_867	<-->	2l1cA_A_ALA_153
+7aeiA_A_ILE_890	<-->	2l1cA_A_ARG_207
+7aeiA_A_ALA_864	<-->	2l1cA_A_ASP_159
+7aeiA_A_LYS_867	<-->	2l1cA_A_GLY_156
+7aeiA_A_LYS_867	<-->	2l1cA_A_GLY_155
+7aeiA_A_LYS_867	<-->	2l1cA_A_SER_154
+7aeiA_A_LEU_887	<-->	2l1cA_A_GLN_204
+7aeiA_A_HIS_888	<-->	2l1cA_A_GLN_204
+7aeiA_A_HIS_888	<-->	2l1cA_A_LEU_206
+7aeiA_A_HIS_888	<-->	2l1cA_A_ARG_207
+7aeiA_A_ASP_954	<-->	2l1cA_A_GLN_196
+7aeiA_A_HIS_870	<-->	2l1cA_A_ARG_207

@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_MET_668	<-->	3omvA_A_MET_560
+6q0kA_A_TYR_673	<-->	3omvA_A_GLN_556
+6q0kA_A_ASN_660	<-->	3omvA_A_HIS_550
+6q0kA_A_ASP_663	<-->	3omvA_A_ASP_569
+6q0kA_A_PHE_667	<-->	3omvA_A_MET_560
+6q0kA_A_PHE_667	<-->	3omvA_A_TYR_565
+6q0kA_A_ARG_671	<-->	3omvA_A_TYR_565
+6q0kA_A_ILE_659	<-->	3omvA_A_HIS_550
+6q0kA_A_ARG_671	<-->	3omvA_A_MET_560
+6q0kA_A_TYR_673	<-->	3omvA_A_MET_560
+6q0kA_A_ASN_661	<-->	3omvA_A_HIS_550

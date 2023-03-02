@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_MET_519	<-->	6q0kA_A_PHE_667
+3omvA_A_MET_519	<-->	6q0kA_A_ILE_666
+3omvA_A_ASN_552	<-->	6q0kA_A_THR_470
+3omvA_A_MET_519	<-->	6q0kA_A_ASP_663
+3omvA_A_GLU_385	<-->	6q0kA_A_ASN_658
+3omvA_A_GLN_556	<-->	6q0kA_A_GLY_469
+3omvA_A_TYR_565	<-->	6q0kA_A_GLN_612
+3omvA_A_PRO_505	<-->	6q0kA_A_ASN_660
+3omvA_A_ASN_552	<-->	6q0kA_A_GLY_464
+3omvA_A_PRO_505	<-->	6q0kA_A_ILE_659
+3omvA_A_ARG_563	<-->	6q0kA_A_GLN_612
+3omvA_A_ARG_563	<-->	6q0kA_A_LEU_613
+3omvA_A_PHE_525	<-->	6q0kA_A_ASP_663
+3omvA_A_PRO_524	<-->	6q0kA_A_ASP_663
+3omvA_A_PHE_559	<-->	6q0kA_A_SER_614
+3omvA_A_PHE_559	<-->	6q0kA_A_GLN_612
+3omvA_A_PRO_505	<-->	6q0kA_A_SER_657
+3omvA_A_PHE_559	<-->	6q0kA_A_LEU_613
+3omvA_A_VAL_516	<-->	6q0kA_A_ASP_663

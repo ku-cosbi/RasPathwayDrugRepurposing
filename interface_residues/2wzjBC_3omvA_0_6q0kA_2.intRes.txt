@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_ARG_354	<-->	6q0kA_A_GLU_545
+3omvA_A_LYS_378	<-->	6q0kA_A_HIS_542
+3omvA_A_ARG_354	<-->	6q0kA_A_ILE_543
+3omvA_A_ARG_354	<-->	6q0kA_A_HIS_542
+3omvA_A_ASP_555	<-->	6q0kA_A_SER_614
+3omvA_A_PHE_360	<-->	6q0kA_A_ASN_660
+3omvA_A_GLY_507	<-->	6q0kA_A_ARG_662
+3omvA_A_PRO_505	<-->	6q0kA_A_TYR_656
+3omvA_A_LEU_489	<-->	6q0kA_A_ASN_660
+3omvA_A_PRO_505	<-->	6q0kA_A_ILE_659
+3omvA_A_PHE_360	<-->	6q0kA_A_SER_657
+3omvA_A_GLN_386	<-->	6q0kA_A_ASN_658
+3omvA_A_PRO_505	<-->	6q0kA_A_PRO_655
+3omvA_A_ASP_555	<-->	6q0kA_A_LEU_613
+3omvA_A_GLN_386	<-->	6q0kA_A_SER_657
+3omvA_A_PHE_360	<-->	6q0kA_A_ASN_658
+3omvA_A_PHE_360	<-->	6q0kA_A_ILE_659
+3omvA_A_ASP_381	<-->	6q0kA_A_LYS_680
+3omvA_A_GLU_385	<-->	6q0kA_A_ASN_658

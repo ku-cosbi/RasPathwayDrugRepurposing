@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2jitB_B_LYS_714	<-->	3ksyA_A_LEU_1014
+2jitB_B_LYS_714	<-->	3ksyA_A_ASN_1011
+2jitB_B_TYR_727	<-->	3ksyA_A_LEU_1014
+2jitB_B_TYR_727	<-->	3ksyA_A_PHE_1010
+2jitB_B_GLU_709	<-->	3ksyA_A_ARG_1019
+2jitB_B_GLN_787	<-->	3ksyA_A_ARG_1019
+2jitB_B_VAL_717	<-->	3ksyA_A_ASP_1007
+2jitB_B_LYS_716	<-->	3ksyA_A_LYS_1003
+2jitB_B_VAL_717	<-->	3ksyA_A_LYS_1003
+2jitB_B_LYS_716	<-->	3ksyA_A_ASP_1007
+2jitB_B_ARG_748	<-->	3ksyA_A_TYR_884
+2jitB_B_THR_783	<-->	3ksyA_A_ARG_1019
+2jitB_B_GLU_746	<-->	3ksyA_A_ARG_1019
+2jitB_B_ARG_748	<-->	3ksyA_A_ASN_879
+2jitB_B_LEU_718	<-->	3ksyA_A_LYS_1003
+2jitB_B_GLU_709	<-->	3ksyA_A_PRO_1021
+2jitB_B_GLU_709	<-->	3ksyA_A_LYS_1022
+2jitB_B_THR_783	<-->	3ksyA_A_ASN_1020
+2jitB_B_THR_783	<-->	3ksyA_A_PRO_1021
+2jitB_B_VAL_717	<-->	3ksyA_A_PHE_1010
+2jitB_B_THR_710	<-->	3ksyA_A_LYS_1022
+2jitB_B_GLU_749	<-->	3ksyA_A_TYR_884
+2jitB_B_SER_784	<-->	3ksyA_A_ASN_1020

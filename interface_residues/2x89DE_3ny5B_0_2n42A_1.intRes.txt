@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ny5B_B_PRO_207	<-->	2n42A_A_ASP_108
+3ny5B_B_GLU_228	<-->	2n42A_A_GLN_165
+3ny5B_B_VAL_230	<-->	2n42A_A_ARG_164
+3ny5B_B_VAL_230	<-->	2n42A_A_GLN_165
+3ny5B_B_GLU_228	<-->	2n42A_A_ARG_164
+3ny5B_B_VAL_230	<-->	2n42A_A_ASP_47
+3ny5B_B_PRO_207	<-->	2n42A_A_SER_106
+3ny5B_B_PRO_207	<-->	2n42A_A_ASP_107
+3ny5B_B_LEU_227	<-->	2n42A_A_GLN_165
+3ny5B_B_LEU_227	<-->	2n42A_A_HIS_166
+3ny5B_B_VAL_230	<-->	2n42A_A_ARG_161
+3ny5B_B_LEU_232	<-->	2n42A_A_ARG_161
+3ny5B_B_THR_233	<-->	2n42A_A_ARG_161

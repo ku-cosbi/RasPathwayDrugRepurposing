@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1aweA_A_ASP_30	<-->	2l9uB_B_ARG_639
+1aweA_A_ARG_79	<-->	2l9uB_B_GLY_638
+1aweA_A_ALA_83	<-->	2l9uB_B_MET_637
+1aweA_A_GLU_121	<-->	2l9uB_B_MET_658
+1aweA_A_LEU_90	<-->	2l9uB_B_LEU_646
+1aweA_A_GLU_33	<-->	2l9uB_B_THR_643
+1aweA_A_ASP_120	<-->	2l9uB_B_MET_658
+1aweA_A_GLU_92	<-->	2l9uB_B_VAL_654
+1aweA_A_ILE_29	<-->	2l9uB_B_ARG_639
+1aweA_A_LYS_93	<-->	2l9uB_B_MET_657
+1aweA_A_SER_84	<-->	2l9uB_B_ARG_639
+1aweA_A_GLU_33	<-->	2l9uB_B_THR_647
+1aweA_A_ASP_30	<-->	2l9uB_B_LEU_646
+1aweA_A_GLU_33	<-->	2l9uB_B_LEU_646
+1aweA_A_ASP_30	<-->	2l9uB_B_LEU_642
+1aweA_A_GLU_121	<-->	2l9uB_B_TYR_665
+1aweA_A_GLU_121	<-->	2l9uB_B_THR_662
+1aweA_A_ASN_122	<-->	2l9uB_B_MET_657
+1aweA_A_GLY_82	<-->	2l9uB_B_MET_637
+1aweA_A_GLY_31	<-->	2l9uB_B_LEU_646
+1aweA_A_GLY_31	<-->	2l9uB_B_THR_643
+1aweA_A_GLN_26	<-->	2l9uB_B_ARG_639

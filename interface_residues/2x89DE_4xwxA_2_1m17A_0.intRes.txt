@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_PRO_171	<-->	1m17A_A_LEU_679
+4xwxA_A_GLN_140	<-->	1m17A_A_LYS_684
+4xwxA_A_GLN_140	<-->	1m17A_A_LEU_683
+4xwxA_A_PRO_171	<-->	1m17A_A_GLN_677
+4xwxA_A_LYS_116	<-->	1m17A_A_LEU_754
+4xwxA_A_ALA_118	<-->	1m17A_A_GLY_711
+4xwxA_A_GLY_119	<-->	1m17A_A_GLY_711
+4xwxA_A_ASN_173	<-->	1m17A_A_ARG_681
+4xwxA_A_PRO_121	<-->	1m17A_A_GLU_710
+4xwxA_A_VAL_172	<-->	1m17A_A_LEU_679
+4xwxA_A_MET_120	<-->	1m17A_A_GLU_710
+4xwxA_A_ILE_141	<-->	1m17A_A_LEU_680
+4xwxA_A_VAL_172	<-->	1m17A_A_ARG_681
+4xwxA_A_ILE_142	<-->	1m17A_A_ARG_681
+4xwxA_A_ILE_142	<-->	1m17A_A_LEU_680
+4xwxA_A_LYS_116	<-->	1m17A_A_ARG_681
+4xwxA_A_LYS_116	<-->	1m17A_A_ILE_682
+4xwxA_A_PHE_117	<-->	1m17A_A_ILE_682
+4xwxA_A_PHE_117	<-->	1m17A_A_ARG_681
+4xwxA_A_LYS_116	<-->	1m17A_A_TRP_707
+4xwxA_A_LEU_115	<-->	1m17A_A_GLU_712
+4xwxA_A_PRO_90	<-->	1m17A_A_GLY_711
+4xwxA_A_PRO_90	<-->	1m17A_A_GLU_712
+4xwxA_A_PRO_90	<-->	1m17A_A_LYS_713

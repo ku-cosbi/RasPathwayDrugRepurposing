@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1wxmA_A_PRO_83	<-->	4dstA_A_ILE_84
+1wxmA_A_GLY_86	<-->	4dstA_A_PHE_82
+1wxmA_A_VAL_60	<-->	4dstA_A_ASP_154
+1wxmA_A_GLY_86	<-->	4dstA_A_ILE_84
+1wxmA_A_SER_84	<-->	4dstA_A_CYS_118
+1wxmA_A_LEU_80	<-->	4dstA_A_GLU_143
+1wxmA_A_VAL_49	<-->	4dstA_A_GLN_150
+1wxmA_A_SER_85	<-->	4dstA_A_GLY_115
+1wxmA_A_PRO_83	<-->	4dstA_A_ARG_123
+1wxmA_A_PRO_83	<-->	4dstA_A_SER_122
+1wxmA_A_PRO_83	<-->	4dstA_A_PRO_121
+1wxmA_A_PRO_83	<-->	4dstA_A_LEU_120
+1wxmA_A_TYR_51	<-->	4dstA_A_GLN_150
+1wxmA_A_GLY_82	<-->	4dstA_A_ARG_123
+1wxmA_A_SER_84	<-->	4dstA_A_ARG_123
+1wxmA_A_SER_85	<-->	4dstA_A_GLU_143
+1wxmA_A_SER_84	<-->	4dstA_A_GLU_143
+1wxmA_A_GLY_86	<-->	4dstA_A_VAL_125
+1wxmA_A_SER_85	<-->	4dstA_A_VAL_125
+1wxmA_A_SER_85	<-->	4dstA_A_THR_127
+1wxmA_A_SER_84	<-->	4dstA_A_ILE_84
+1wxmA_A_SER_85	<-->	4dstA_A_ARG_123
+1wxmA_A_SER_85	<-->	4dstA_A_PHE_82
+1wxmA_A_SER_85	<-->	4dstA_A_ILE_84

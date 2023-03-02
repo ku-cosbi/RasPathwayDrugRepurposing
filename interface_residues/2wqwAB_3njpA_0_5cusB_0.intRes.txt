@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3njpA_A_VAL_6	<-->	5cusB_B_TRP_354
+3njpA_A_LYS_5	<-->	5cusB_B_THR_347
+3njpA_A_LYS_5	<-->	5cusB_B_PRO_353
+3njpA_A_SER_460	<-->	5cusB_B_HIS_355
+3njpA_A_SER_460	<-->	5cusB_B_LYS_356
+3njpA_A_SER_460	<-->	5cusB_B_ILE_357
+3njpA_A_THR_459	<-->	5cusB_B_LYS_356
+3njpA_A_LYS_407	<-->	5cusB_B_HIS_355
+3njpA_A_GLY_461	<-->	5cusB_B_PRO_358
+3njpA_A_GLY_410	<-->	5cusB_B_HIS_355
+3njpA_A_SER_460	<-->	5cusB_B_PRO_358
+3njpA_A_GLY_461	<-->	5cusB_B_ILE_357
+3njpA_A_LEU_38	<-->	5cusB_B_TRP_354

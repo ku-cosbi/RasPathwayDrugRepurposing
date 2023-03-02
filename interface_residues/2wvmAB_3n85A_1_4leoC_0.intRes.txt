@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_PRO_175	<-->	4leoC_C_GLY_478
+3n85A_A_PRO_175	<-->	4leoC_C_LYS_479
+3n85A_A_MET_176	<-->	4leoC_C_THR_420
+3n85A_A_MET_176	<-->	4leoC_C_SER_421
+3n85A_A_SER_187	<-->	4leoC_C_PRO_493
+3n85A_A_GLU_188	<-->	4leoC_C_SER_391
+3n85A_A_PRO_175	<-->	4leoC_C_TYR_445
+3n85A_A_MET_176	<-->	4leoC_C_CYS_444
+3n85A_A_ARG_76	<-->	4leoC_C_ASN_366
+3n85A_A_ARG_76	<-->	4leoC_C_GLU_363
+3n85A_A_GLU_188	<-->	4leoC_C_ASN_389
+3n85A_A_SER_111	<-->	4leoC_C_GLU_520
+3n85A_A_MET_176	<-->	4leoC_C_PRO_493
+3n85A_A_SER_174	<-->	4leoC_C_PRO_493
+3n85A_A_MET_176	<-->	4leoC_C_LYS_479
+3n85A_A_PRO_175	<-->	4leoC_C_PRO_493
+3n85A_A_SER_111	<-->	4leoC_C_GLY_519
+3n85A_A_MET_176	<-->	4leoC_C_TYR_445

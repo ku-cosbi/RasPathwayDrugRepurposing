@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_LYS_378	<-->	6uanB_B_ILE_543
+3omvA_A_LYS_378	<-->	6uanB_B_HIS_542
+3omvA_A_ARG_354	<-->	6uanB_B_ILE_543
+3omvA_A_ARG_554	<-->	6uanB_B_SER_467
+3omvA_A_GLU_385	<-->	6uanB_B_TYR_656
+3omvA_A_ASN_552	<-->	6uanB_B_LEU_485
+3omvA_A_VAL_435	<-->	6uanB_B_ARG_462
+3omvA_A_ASN_552	<-->	6uanB_B_SER_467
+3omvA_A_HIS_434	<-->	6uanB_B_ARG_462
+3omvA_A_HIS_550	<-->	6uanB_B_VAL_487
+3omvA_A_HIS_550	<-->	6uanB_B_THR_488
+3omvA_A_PRO_384	<-->	6uanB_B_SER_675
+3omvA_A_SER_549	<-->	6uanB_B_VAL_487
+3omvA_A_THR_383	<-->	6uanB_B_SER_675
+3omvA_A_VAL_379	<-->	6uanB_B_GLN_653
+3omvA_A_PRO_505	<-->	6uanB_B_LEU_654

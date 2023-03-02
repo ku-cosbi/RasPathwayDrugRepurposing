@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_GLN_441	<-->	3w8qA_A_ASP_351
+3omvA_A_PHE_443	<-->	3w8qA_A_VAL_242
+3omvA_A_GLN_441	<-->	3w8qA_A_GLN_354
+3omvA_A_ARG_450	<-->	3w8qA_A_THR_238
+3omvA_A_PRO_614	<-->	3w8qA_A_THR_178
+3omvA_A_MET_442	<-->	3w8qA_A_LYS_353
+3omvA_A_LYS_615	<-->	3w8qA_A_THR_178
+3omvA_A_LYS_615	<-->	3w8qA_A_LYS_175
+3omvA_A_SER_612	<-->	3w8qA_A_GLU_182
+3omvA_A_HIS_611	<-->	3w8qA_A_GLU_182
+3omvA_A_HIS_611	<-->	3w8qA_A_ARG_181
+3omvA_A_LYS_615	<-->	3w8qA_A_LEU_40
+3omvA_A_PRO_614	<-->	3w8qA_A_ARG_181
+3omvA_A_PRO_614	<-->	3w8qA_A_GLU_182
+3omvA_A_GLY_479	<-->	3w8qA_A_ALA_347
+3omvA_A_LYS_615	<-->	3w8qA_A_LYS_353
+3omvA_A_GLN_444	<-->	3w8qA_A_ASP_351
+3omvA_A_PRO_614	<-->	3w8qA_A_LYS_353
+3omvA_A_PRO_614	<-->	3w8qA_A_LEU_352
+3omvA_A_LEU_480	<-->	3w8qA_A_ALA_347
+3omvA_A_LYS_615	<-->	3w8qA_A_GLU_39
+3omvA_A_PHE_443	<-->	3w8qA_A_LYS_353
+3omvA_A_PHE_443	<-->	3w8qA_A_LEU_352
+3omvA_A_PHE_443	<-->	3w8qA_A_ASP_351
