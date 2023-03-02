@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_ALA_497	<-->	1milA_A_VAL_57
+6ogeA_A_HIS_495	<-->	1milA_A_PRO_38
+6ogeA_A_HIS_495	<-->	1milA_A_GLY_39
+6ogeA_A_ASN_498	<-->	1milA_A_LEU_55
+6ogeA_A_GLU_40	<-->	1milA_A_GLY_61
+6ogeA_A_GLU_40	<-->	1milA_A_GLN_40
+6ogeA_A_CYS_504	<-->	1milA_A_THR_36
+6ogeA_A_ALA_497	<-->	1milA_A_GLN_40
+6ogeA_A_PRO_39	<-->	1milA_A_GLU_60
+6ogeA_A_THR_496	<-->	1milA_A_GLN_40
+6ogeA_A_ASP_502	<-->	1milA_A_SER_15
+6ogeA_A_ASP_502	<-->	1milA_A_ARG_16
+6ogeA_A_ASP_502	<-->	1milA_A_THR_35
+6ogeA_A_ASP_502	<-->	1milA_A_ARG_32
+6ogeA_A_GLU_40	<-->	1milA_A_VAL_57
+6ogeA_A_GLU_501	<-->	1milA_A_SER_34
+6ogeA_A_GLU_501	<-->	1milA_A_THR_35
+6ogeA_A_GLU_501	<-->	1milA_A_THR_36
+6ogeA_A_GLU_501	<-->	1milA_A_THR_37
+6ogeA_A_GLU_40	<-->	1milA_A_ASP_58
+6ogeA_A_PRO_500	<-->	1milA_A_LEU_55
+6ogeA_A_PRO_39	<-->	1milA_A_GLY_61
+6ogeA_A_HIS_478	<-->	1milA_A_THR_37
+6ogeA_A_HIS_478	<-->	1milA_A_THR_36

@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4rzvB_B_ALA_712	<-->	4zdrA_A_ASP_204
+4rzvB_B_PRO_708	<-->	4zdrA_A_TYR_211
+4rzvB_B_ARG_709	<-->	4zdrA_A_TYR_211
+4rzvB_B_PRO_708	<-->	4zdrA_A_THR_215
+4rzvB_B_ALA_712	<-->	4zdrA_A_THR_205
+4rzvB_B_ARG_709	<-->	4zdrA_A_GLU_208
+4rzvB_B_ALA_712	<-->	4zdrA_A_LEU_203
+4rzvB_B_ALA_712	<-->	4zdrA_A_LEU_206
+4rzvB_B_ALA_569	<-->	4zdrA_A_ILE_200
+4rzvB_B_GLU_715	<-->	4zdrA_A_ASP_204
+4rzvB_B_LEU_711	<-->	4zdrA_A_ASP_204
+4rzvB_B_ASP_565	<-->	4zdrA_A_ILE_200
+4rzvB_B_LEU_711	<-->	4zdrA_A_LEU_203
+4rzvB_B_PRO_708	<-->	4zdrA_A_LEU_203
+4rzvB_B_TYR_566	<-->	4zdrA_A_ILE_200
+4rzvB_B_ALA_712	<-->	4zdrA_A_TYR_211
+4rzvB_B_ASP_565	<-->	4zdrA_A_LEU_203
+4rzvB_B_ALA_569	<-->	4zdrA_A_ARG_222
+4rzvB_B_PRO_708	<-->	4zdrA_A_LEU_206

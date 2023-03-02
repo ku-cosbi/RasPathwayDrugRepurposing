@@ -1,0 +1,10 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ALA_928	<-->	7aeiA_A_SER_921
+3pp0B_B_GLU_930	<-->	7aeiA_A_LYS_875
+3pp0B_B_ARG_929	<-->	7aeiA_A_VAL_876
+3pp0B_B_ARG_929	<-->	7aeiA_A_ILE_878
+3pp0B_B_ARG_929	<-->	7aeiA_A_SER_921
+3pp0B_B_ARG_929	<-->	7aeiA_A_ALA_920
+3pp0B_B_PRO_927	<-->	7aeiA_A_ALA_920

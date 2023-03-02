@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2w96A_A_PRO_134	<-->	2w99B_B_SER_189
+2w96A_A_GLU_135	<-->	2w99B_B_PRO_239
+2w96A_A_GLU_122	<-->	2w99B_B_SER_189
+2w96A_A_LEU_138	<-->	2w99B_B_GLN_188
+2w96A_A_GLU_135	<-->	2w99B_B_GLN_188
+2w96A_A_GLU_122	<-->	2w99B_B_TYR_191
+2w96A_A_PRO_134	<-->	2w99B_B_THR_190
+2w96A_A_GLU_135	<-->	2w99B_B_THR_190
+2w96A_A_ASP_129	<-->	2w99B_B_ARG_163
+2w96A_A_ARG_133	<-->	2w99B_B_THR_190
+2w96A_A_ARG_133	<-->	2w99B_B_ALA_192
+2w96A_A_LEU_138	<-->	2w99B_B_ARG_240
+2w96A_A_ASN_130	<-->	2w99B_B_TYR_191

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_GLN_454	<-->	6nsqA_A_ARG_562
+3omvA_A_HIS_369	<-->	6nsqA_A_ASP_479
+3omvA_A_ARG_401	<-->	6nsqA_A_ASN_588
+3omvA_A_HIS_369	<-->	6nsqA_A_GLU_533
+3omvA_A_HIS_369	<-->	6nsqA_A_TRP_531
+3omvA_A_VAL_403	<-->	6nsqA_A_GLN_559
+3omvA_A_THR_481	<-->	6nsqA_A_VAL_511
+3omvA_A_VAL_403	<-->	6nsqA_A_ASN_512
+3omvA_A_MET_409	<-->	6nsqA_A_GLU_586
+3omvA_A_ALA_461	<-->	6nsqA_A_SER_722
+3omvA_A_LEU_480	<-->	6nsqA_A_ARG_509
+3omvA_A_GLN_454	<-->	6nsqA_A_ARG_558
+3omvA_A_LEU_407	<-->	6nsqA_A_ASN_588
+3omvA_A_LEU_407	<-->	6nsqA_A_THR_589
+3omvA_A_GLN_454	<-->	6nsqA_A_GLU_715
+3omvA_A_GLY_370	<-->	6nsqA_A_ASP_479
+3omvA_A_ASP_371	<-->	6nsqA_A_GLY_478
+3omvA_A_ASP_371	<-->	6nsqA_A_HIS_477
+3omvA_A_PRO_600	<-->	6nsqA_A_ARG_719
+3omvA_A_VAL_403	<-->	6nsqA_A_ARG_562
+3omvA_A_PHE_599	<-->	6nsqA_A_ARG_719
+3omvA_A_ASP_457	<-->	6nsqA_A_ARG_719
+3omvA_A_LEU_603	<-->	6nsqA_A_ARG_719

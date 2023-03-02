@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_ALA_702	<-->	1milA_A_LYS_66
+4i1zA_A_PRO_772	<-->	1milA_A_GLY_39
+4i1zA_A_ALA_702	<-->	1milA_A_THR_65
+4i1zA_A_LEU_703	<-->	1milA_A_ARG_64
+4i1zA_A_PRO_772	<-->	1milA_A_THR_37
+4i1zA_A_VAL_769	<-->	1milA_A_GLN_40
+4i1zA_A_ASP_770	<-->	1milA_A_GLN_40
+4i1zA_A_GLN_701	<-->	1milA_A_LEU_54
+4i1zA_A_GLN_701	<-->	1milA_A_LEU_55
+4i1zA_A_LYS_823	<-->	1milA_A_THR_37
+4i1zA_A_ASN_771	<-->	1milA_A_THR_37
+4i1zA_A_LEU_703	<-->	1milA_A_VAL_57
+4i1zA_A_LEU_703	<-->	1milA_A_ASP_58
+4i1zA_A_LEU_703	<-->	1milA_A_PRO_59
+4i1zA_A_SER_768	<-->	1milA_A_VAL_57
+4i1zA_A_ASP_770	<-->	1milA_A_SER_34
+4i1zA_A_ASN_771	<-->	1milA_A_GLY_39
+4i1zA_A_ARG_831	<-->	1milA_A_LEU_55
+4i1zA_A_PRO_772	<-->	1milA_A_PRO_38
+4i1zA_A_ASP_770	<-->	1milA_A_GLY_39
+4i1zA_A_ASN_826	<-->	1milA_A_THR_36
+4i1zA_A_GLN_701	<-->	1milA_A_THR_65
+4i1zA_A_GLN_701	<-->	1milA_A_ARG_64

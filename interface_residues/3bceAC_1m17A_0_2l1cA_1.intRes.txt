@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1m17A_A_SER_897	<-->	2l1cA_A_ARG_74
+1m17A_A_ILE_854	<-->	2l1cA_A_LEU_69
+1m17A_A_GLY_893	<-->	2l1cA_A_LEU_206
+1m17A_A_GLY_893	<-->	2l1cA_A_ARG_207
+1m17A_A_SER_897	<-->	2l1cA_A_ASP_70
+1m17A_A_SER_897	<-->	2l1cA_A_PHE_71
+1m17A_A_ALA_896	<-->	2l1cA_A_ARG_67
+1m17A_A_SER_900	<-->	2l1cA_A_PHE_71
+1m17A_A_PRO_910	<-->	2l1cA_A_GLN_204
+1m17A_A_ALA_896	<-->	2l1cA_A_LEU_69
+1m17A_A_PRO_910	<-->	2l1cA_A_TYR_205
+1m17A_A_ILE_854	<-->	2l1cA_A_ASP_70
+1m17A_A_LEU_863	<-->	2l1cA_A_PHE_71
+1m17A_A_PRO_895	<-->	2l1cA_A_ARG_67
+1m17A_A_ASP_892	<-->	2l1cA_A_LEU_206
+1m17A_A_ALA_896	<-->	2l1cA_A_MET_66
+1m17A_A_ILE_862	<-->	2l1cA_A_PHE_71
+1m17A_A_PRO_913	<-->	2l1cA_A_TYR_205
+1m17A_A_SER_897	<-->	2l1cA_A_MET_66
+1m17A_A_ILE_894	<-->	2l1cA_A_ARG_207
+1m17A_A_PRO_895	<-->	2l1cA_A_MET_66

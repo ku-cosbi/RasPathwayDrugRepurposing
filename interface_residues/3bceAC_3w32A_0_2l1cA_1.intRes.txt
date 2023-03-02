@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w32A_A_GLU_922	<-->	2l1cA_A_ARG_207
+3w32A_A_ILE_926	<-->	2l1cA_A_ARG_207
+3w32A_A_PRO_919	<-->	2l1cA_A_ARG_67
+3w32A_A_GLU_922	<-->	2l1cA_A_MET_66
+3w32A_A_ALA_920	<-->	2l1cA_A_PHE_71
+3w32A_A_ILE_923	<-->	2l1cA_A_PHE_71
+3w32A_A_PRO_919	<-->	2l1cA_A_MET_66
+3w32A_A_ASP_916	<-->	2l1cA_A_ARG_207
+3w32A_A_SER_921	<-->	2l1cA_A_PHE_152
+3w32A_A_SER_924	<-->	2l1cA_A_PHE_71
+3w32A_A_LYS_929	<-->	2l1cA_A_SER_192
+3w32A_A_ILE_918	<-->	2l1cA_A_ARG_207
+3w32A_A_LYS_929	<-->	2l1cA_A_ILE_191
+3w32A_A_PRO_934	<-->	2l1cA_A_GLN_204
+3w32A_A_SER_921	<-->	2l1cA_A_MET_66
+3w32A_A_PRO_937	<-->	2l1cA_A_TYR_205
+3w32A_A_TYR_915	<-->	2l1cA_A_ARG_207
+3w32A_A_ILE_886	<-->	2l1cA_A_PHE_71
+3w32A_A_ILE_878	<-->	2l1cA_A_PHE_71
+3w32A_A_SER_921	<-->	2l1cA_A_ARG_74
+3w32A_A_SER_921	<-->	2l1cA_A_PHE_71

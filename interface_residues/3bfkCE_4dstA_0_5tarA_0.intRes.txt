@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4dstA_A_PHE_141	<-->	5tarA_A_SER_39
+4dstA_A_GLU_143	<-->	5tarA_A_ARG_41
+4dstA_A_PRO_140	<-->	5tarA_A_ASP_38
+4dstA_A_ASP_47	<-->	5tarA_A_GLU_63
+4dstA_A_ARG_135	<-->	5tarA_A_TYR_40
+4dstA_A_ASP_47	<-->	5tarA_A_TYR_64
+4dstA_A_ASP_47	<-->	5tarA_A_ALA_66
+4dstA_A_TYR_157	<-->	5tarA_A_ALA_66
+4dstA_A_TYR_157	<-->	5tarA_A_MET_67
+4dstA_A_ASP_154	<-->	5tarA_A_GLN_70
+4dstA_A_GLN_131	<-->	5tarA_A_TYR_40
+4dstA_A_ARG_161	<-->	5tarA_A_ASP_38
+4dstA_A_ARG_161	<-->	5tarA_A_GLN_61
+4dstA_A_ARG_161	<-->	5tarA_A_MET_67
+4dstA_A_GLY_48	<-->	5tarA_A_SER_65
+4dstA_A_ARG_164	<-->	5tarA_A_TYR_64
+4dstA_A_THR_158	<-->	5tarA_A_MET_67
+4dstA_A_ARG_135	<-->	5tarA_A_THR_35
+4dstA_A_ASP_154	<-->	5tarA_A_MET_67
+4dstA_A_ILE_46	<-->	5tarA_A_ALA_66
+4dstA_A_THR_127	<-->	5tarA_A_ARG_41
+4dstA_A_ASP_47	<-->	5tarA_A_SER_65
+4dstA_A_GLN_131	<-->	5tarA_A_SER_39
+4dstA_A_ASP_153	<-->	5tarA_A_ARG_73

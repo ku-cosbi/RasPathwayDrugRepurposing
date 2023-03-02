@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6j71A_A_HIS_473	<-->	3qwqA_A_LYS_465
+6j71A_A_LEU_35	<-->	3qwqA_A_ARG_353
+6j71A_A_GLY_449	<-->	3qwqA_A_LYS_465
+6j71A_A_ASP_382	<-->	3qwqA_A_GLY_410
+6j71A_A_THR_472	<-->	3qwqA_A_LYS_465
+6j71A_A_THR_472	<-->	3qwqA_A_ILE_467
+6j71A_A_THR_472	<-->	3qwqA_A_ILE_466
+6j71A_A_ARG_157	<-->	3qwqA_A_SER_356
+6j71A_A_LEU_33	<-->	3qwqA_A_ARG_353
+6j71A_A_HIS_88	<-->	3qwqA_A_ARG_353
+6j71A_A_TYR_64	<-->	3qwqA_A_ARG_353
+6j71A_A_ASN_124	<-->	3qwqA_A_ASP_364
+6j71A_A_LEU_35	<-->	3qwqA_A_PRO_349
+6j71A_A_ASP_382	<-->	3qwqA_A_HIS_409
+6j71A_A_PRO_39	<-->	3qwqA_A_SER_418
+6j71A_A_ASN_124	<-->	3qwqA_A_PRO_365
+6j71A_A_ASN_498	<-->	3qwqA_A_ILE_467
+6j71A_A_THR_126	<-->	3qwqA_A_ASN_389
+6j71A_A_HIS_470	<-->	3qwqA_A_GLY_441
+6j71A_A_HIS_470	<-->	3qwqA_A_SER_440
+6j71A_A_ALA_497	<-->	3qwqA_A_ILE_467
+6j71A_A_ALA_497	<-->	3qwqA_A_SER_468
+6j71A_A_PRO_378	<-->	3qwqA_A_HIS_409
+6j71A_A_ASN_471	<-->	3qwqA_A_ILE_467

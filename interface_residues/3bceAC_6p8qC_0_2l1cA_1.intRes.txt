@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6p8qC_C_GLY_917	<-->	2l1cA_A_ARG_207
+6p8qC_C_GLU_922	<-->	2l1cA_A_PHE_71
+6p8qC_C_GLU_922	<-->	2l1cA_A_MET_66
+6p8qC_C_ALA_920	<-->	2l1cA_A_PHE_71
+6p8qC_C_ILE_923	<-->	2l1cA_A_PHE_71
+6p8qC_C_PRO_919	<-->	2l1cA_A_MET_66
+6p8qC_C_ASP_916	<-->	2l1cA_A_ARG_207
+6p8qC_C_SER_924	<-->	2l1cA_A_PHE_71
+6p8qC_C_ILE_918	<-->	2l1cA_A_ARG_207
+6p8qC_C_PRO_934	<-->	2l1cA_A_GLN_204
+6p8qC_C_PRO_934	<-->	2l1cA_A_TYR_205
+6p8qC_C_TYR_915	<-->	2l1cA_A_ARG_207
+6p8qC_C_ILE_886	<-->	2l1cA_A_PHE_71
+6p8qC_C_ILE_878	<-->	2l1cA_A_PHE_71
+6p8qC_C_SER_921	<-->	2l1cA_A_ARG_74
+6p8qC_C_SER_921	<-->	2l1cA_A_ASP_70
+6p8qC_C_SER_921	<-->	2l1cA_A_PHE_71

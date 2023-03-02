@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3gopA_A_SER_897	<-->	2l1cA_A_ARG_74
+3gopA_A_GLU_907	<-->	2l1cA_A_GLN_204
+3gopA_A_GLU_907	<-->	2l1cA_A_PHE_202
+3gopA_A_SER_897	<-->	2l1cA_A_PHE_71
+3gopA_A_SER_900	<-->	2l1cA_A_PHE_71
+3gopA_A_GLU_898	<-->	2l1cA_A_ARG_207
+3gopA_A_PRO_910	<-->	2l1cA_A_TYR_205
+3gopA_A_ILE_894	<-->	2l1cA_A_ARG_207
+3gopA_A_LEU_863	<-->	2l1cA_A_PHE_71
+3gopA_A_ILE_902	<-->	2l1cA_A_ARG_207
+3gopA_A_ARG_908	<-->	2l1cA_A_GLN_204
+3gopA_A_TYR_891	<-->	2l1cA_A_ARG_207
+3gopA_A_ILE_862	<-->	2l1cA_A_PHE_71
+3gopA_A_ALA_896	<-->	2l1cA_A_PHE_71
+3gopA_A_PRO_910	<-->	2l1cA_A_GLN_204
+3gopA_A_PRO_895	<-->	2l1cA_A_ARG_67
+3gopA_A_PRO_895	<-->	2l1cA_A_MET_66

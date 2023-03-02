@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1griA_A_ARG_215	<-->	5x2aB_B_LEU_989
+1griA_A_ASN_216	<-->	5x2aB_B_LEU_989
+1griA_A_ARG_215	<-->	5x2aB_B_MET_987
+1griA_A_VAL_213	<-->	5x2aB_B_LEU_989
+1griA_A_VAL_213	<-->	5x2aB_B_MET_987
+1griA_A_THR_159	<-->	5x2aB_B_ARG_986
+1griA_A_PRO_212	<-->	5x2aB_B_ASP_984
+1griA_A_VAL_217	<-->	5x2aB_B_LEU_989
+1griA_A_ASN_214	<-->	5x2aB_B_MET_987
+1griA_A_ASN_214	<-->	5x2aB_B_TYR_813
+1griA_A_ASN_214	<-->	5x2aB_B_GLY_810
+1griA_A_ASN_214	<-->	5x2aB_B_LEU_989
+1griA_A_VAL_161	<-->	5x2aB_B_GLU_985
+1griA_A_THR_211	<-->	5x2aB_B_GLU_985
+1griA_A_PRO_212	<-->	5x2aB_B_GLU_985
+1griA_A_VAL_213	<-->	5x2aB_B_PRO_990
+1griA_A_VAL_210	<-->	5x2aB_B_GLU_985
+1griA_A_ASN_214	<-->	5x2aB_B_PRO_990
+1griA_A_ARG_215	<-->	5x2aB_B_ASN_808
+1griA_A_ASN_214	<-->	5x2aB_B_ILE_809
+1griA_A_ASN_214	<-->	5x2aB_B_ASN_808
+1griA_A_VAL_217	<-->	5x2aB_B_ASP_994

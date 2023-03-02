@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_ASN_523	<-->	6q0kA_A_LEU_733
+3omvA_A_ASP_371	<-->	6q0kA_A_GLY_478
+3omvA_A_LEU_480	<-->	6q0kA_A_ARG_509
+3omvA_A_ASN_522	<-->	6q0kA_A_ALA_736
+3omvA_A_MET_409	<-->	6q0kA_A_GLU_586
+3omvA_A_LEU_407	<-->	6q0kA_A_THR_589
+3omvA_A_HIS_369	<-->	6q0kA_A_CYS_532
+3omvA_A_HIS_369	<-->	6q0kA_A_GLU_533
+3omvA_A_VAL_492	<-->	6q0kA_A_PRO_731
+3omvA_A_HIS_369	<-->	6q0kA_A_TRP_531
+3omvA_A_GLY_370	<-->	6q0kA_A_TRP_531
+3omvA_A_TRP_368	<-->	6q0kA_A_GLU_533
+3omvA_A_VAL_403	<-->	6q0kA_A_VAL_511
+3omvA_A_LYS_367	<-->	6q0kA_A_ASP_479
+3omvA_A_ASP_371	<-->	6q0kA_A_HIS_477
+3omvA_A_ASP_371	<-->	6q0kA_A_ASP_479
+3omvA_A_ASN_522	<-->	6q0kA_A_ARG_735
+3omvA_A_GLY_370	<-->	6q0kA_A_ASP_479
+3omvA_A_ASP_521	<-->	6q0kA_A_ARG_735
+3omvA_A_MET_409	<-->	6q0kA_A_GLU_533
+3omvA_A_ASN_523	<-->	6q0kA_A_ARG_735

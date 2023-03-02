@@ -1,0 +1,13 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ASN_745	<-->	2jitB_B_LYS_737
+3pp0B_B_PRO_999	<-->	2jitB_B_PRO_699
+3pp0B_B_ASN_745	<-->	2jitB_B_VAL_738
+3pp0B_B_PRO_749	<-->	2jitB_B_ILE_1018
+3pp0B_B_TYR_1005	<-->	2jitB_B_LEU_703
+3pp0B_B_LYS_747	<-->	2jitB_B_GLU_736
+3pp0B_B_ASN_745	<-->	2jitB_B_VAL_1011
+3pp0B_B_ASN_745	<-->	2jitB_B_VAL_1010
+3pp0B_B_VAL_746	<-->	2jitB_B_VAL_1011
+3pp0B_B_VAL_746	<-->	2jitB_B_GLU_1015

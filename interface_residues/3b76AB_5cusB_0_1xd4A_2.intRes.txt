@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_SER_500	<-->	1xd4A_A_PRO_1021
+5cusB_B_SER_500	<-->	1xd4A_A_ASN_1020
+5cusB_B_LYS_453	<-->	1xd4A_A_LYS_1022
+5cusB_B_LYS_453	<-->	1xd4A_A_ASN_1020
+5cusB_B_LYS_453	<-->	1xd4A_A_PRO_1021
+5cusB_B_ARG_502	<-->	1xd4A_A_PHE_890
+5cusB_B_ARG_502	<-->	1xd4A_A_GLU_891
+5cusB_B_GLY_488	<-->	1xd4A_A_ARG_1019
+5cusB_B_VAL_454	<-->	1xd4A_A_PRO_1021
+5cusB_B_ASN_450	<-->	1xd4A_A_ARG_1019
+5cusB_B_SER_487	<-->	1xd4A_A_ASN_1020
+5cusB_B_SER_487	<-->	1xd4A_A_ASP_887
+5cusB_B_SER_487	<-->	1xd4A_A_ARG_885
+5cusB_B_GLY_489	<-->	1xd4A_A_ASN_1020
+5cusB_B_SER_486	<-->	1xd4A_A_ASN_1020
+5cusB_B_ASN_503	<-->	1xd4A_A_GLU_891
+5cusB_B_LYS_453	<-->	1xd4A_A_ARG_1019
+5cusB_B_GLY_488	<-->	1xd4A_A_ASN_1020
+5cusB_B_ARG_502	<-->	1xd4A_A_ASP_887
+5cusB_B_ARG_502	<-->	1xd4A_A_HIS_888
+5cusB_B_CYS_501	<-->	1xd4A_A_HIS_888
+5cusB_B_LEU_499	<-->	1xd4A_A_ASN_1020
+5cusB_B_LEU_499	<-->	1xd4A_A_PRO_1021
+5cusB_B_SER_486	<-->	1xd4A_A_ASP_887

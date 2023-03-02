@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7aeiA_A_ALA_920	<-->	2l1cA_A_THR_75
+7aeiA_A_GLY_917	<-->	2l1cA_A_MET_66
+7aeiA_A_LYS_879	<-->	2l1cA_A_PHE_71
+7aeiA_A_ALA_920	<-->	2l1cA_A_PHE_71
+7aeiA_A_ILE_923	<-->	2l1cA_A_PHE_71
+7aeiA_A_PRO_919	<-->	2l1cA_A_MET_66
+7aeiA_A_PRO_877	<-->	2l1cA_A_ASN_72
+7aeiA_A_GLY_917	<-->	2l1cA_A_ARG_67
+7aeiA_A_ILE_918	<-->	2l1cA_A_MET_66
+7aeiA_A_LYS_913	<-->	2l1cA_A_ASP_70
+7aeiA_A_ILE_878	<-->	2l1cA_A_ASN_72
+7aeiA_A_ILE_878	<-->	2l1cA_A_PHE_71
+7aeiA_A_LYS_913	<-->	2l1cA_A_LEU_69
