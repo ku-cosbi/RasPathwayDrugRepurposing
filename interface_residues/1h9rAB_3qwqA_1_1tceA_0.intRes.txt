@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_VAL_481	<-->	1tceA_A_ARG_17
+3qwqA_A_VAL_481	<-->	1tceA_A_ARG_16
+3qwqA_A_ASP_513	<-->	1tceA_A_ALA_90
+3qwqA_A_ALA_484	<-->	1tceA_A_THR_44
+3qwqA_A_ALA_484	<-->	1tceA_A_HIS_53
+3qwqA_A_LYS_476	<-->	1tceA_A_ARG_17
+3qwqA_A_LEU_518	<-->	1tceA_A_ARG_64
+3qwqA_A_GLU_519	<-->	1tceA_A_ASP_58
+3qwqA_A_LYS_514	<-->	1tceA_A_ALA_90
+3qwqA_A_ASN_504	<-->	1tceA_A_SER_92
+3qwqA_A_ASP_513	<-->	1tceA_A_SER_89
+3qwqA_A_VAL_505	<-->	1tceA_A_ALA_90
+3qwqA_A_GLU_472	<-->	1tceA_A_ARG_17
+3qwqA_A_LEU_485	<-->	1tceA_A_HIS_53
+3qwqA_A_ALA_484	<-->	1tceA_A_ARG_16
+3qwqA_A_GLU_519	<-->	1tceA_A_VAL_62
+3qwqA_A_ASP_513	<-->	1tceA_A_LEU_55
+3qwqA_A_ASP_513	<-->	1tceA_A_LEU_54
+3qwqA_A_ASP_513	<-->	1tceA_A_HIS_53
+3qwqA_A_CYS_482	<-->	1tceA_A_ARG_16
+3qwqA_A_HIS_483	<-->	1tceA_A_ARG_16
+3qwqA_A_GLU_519	<-->	1tceA_A_GLU_60
+3qwqA_A_LYS_514	<-->	1tceA_A_SER_89
+3qwqA_A_GLU_519	<-->	1tceA_A_ARG_64

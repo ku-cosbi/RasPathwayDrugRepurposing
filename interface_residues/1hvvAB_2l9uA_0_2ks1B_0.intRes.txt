@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l9uA_A_ILE_649	<-->	2ks1B_B_VAL_159
+2l9uA_A_ARG_667	<-->	2ks1B_B_HIS_172
+2l9uA_A_ARG_667	<-->	2ks1B_B_ARG_171
+2l9uA_A_ARG_667	<-->	2ks1B_B_ARG_170
+2l9uA_A_PHE_663	<-->	2ks1B_B_ARG_170
+2l9uA_A_GLY_660	<-->	2ks1B_B_LEU_166
+2l9uA_A_ILE_649	<-->	2ks1B_B_LEU_155
+2l9uA_A_GLY_660	<-->	2ks1B_B_ARG_170
+2l9uA_A_LEU_664	<-->	2ks1B_B_HIS_172
+2l9uA_A_LEU_664	<-->	2ks1B_B_ARG_170
+2l9uA_A_LEU_664	<-->	2ks1B_B_ARG_171
+2l9uA_A_PHE_663	<-->	2ks1B_B_ARG_171
+2l9uA_A_MET_657	<-->	2ks1B_B_LEU_166
+2l9uA_A_LEU_664	<-->	2ks1B_B_ARG_169
+2l9uA_A_VAL_653	<-->	2ks1B_B_LEU_162
+2l9uA_A_PHE_656	<-->	2ks1B_B_LEU_166
+2l9uA_A_VAL_653	<-->	2ks1B_B_VAL_159
+2l9uA_A_MET_657	<-->	2ks1B_B_LEU_162
+2l9uA_A_LEU_659	<-->	2ks1B_B_ARG_170
+2l9uA_A_PHE_656	<-->	2ks1B_B_GLY_163

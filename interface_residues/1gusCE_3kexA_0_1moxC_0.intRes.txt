@@ -1,0 +1,15 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_PRO_760	<-->	1moxC_C_SER_36
+3kexA_A_LYS_692	<-->	1moxC_C_THR_20
+3kexA_A_GLU_726	<-->	1moxC_C_ARG_22
+3kexA_A_CYS_759	<-->	1moxC_C_SER_36
+3kexA_A_SER_698	<-->	1moxC_C_VAL_2
+3kexA_A_HIS_705	<-->	1moxC_C_THR_20
+3kexA_A_GLY_761	<-->	1moxC_C_SER_36
+3kexA_A_LEU_848	<-->	1moxC_C_SER_3
+3kexA_A_VAL_724	<-->	1moxC_C_VAL_33
+3kexA_A_GLU_687	<-->	1moxC_C_HIS_35
+3kexA_A_GLU_687	<-->	1moxC_C_SER_36
+3kexA_A_LYS_692	<-->	1moxC_C_HIS_35

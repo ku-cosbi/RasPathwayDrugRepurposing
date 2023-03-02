@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6nsqA_A_TRP_450	<-->	4zdrA_A_MET_218
+6nsqA_A_TRP_450	<-->	4zdrA_A_THR_215
+6nsqA_A_TRP_450	<-->	4zdrA_A_ILE_200
+6nsqA_A_TRP_450	<-->	4zdrA_A_LEU_203
+6nsqA_A_ASP_449	<-->	4zdrA_A_TYR_211
+6nsqA_A_PRO_453	<-->	4zdrA_A_THR_226
+6nsqA_A_ASP_449	<-->	4zdrA_A_THR_215
+6nsqA_A_GLN_456	<-->	4zdrA_A_THR_226
+6nsqA_A_ARG_509	<-->	4zdrA_A_ALA_201
+6nsqA_A_ARG_509	<-->	4zdrA_A_GLU_202
+6nsqA_A_TYR_566	<-->	4zdrA_A_ASP_204
+6nsqA_A_ARG_509	<-->	4zdrA_A_ASP_204
+6nsqA_A_TRP_450	<-->	4zdrA_A_ARG_222

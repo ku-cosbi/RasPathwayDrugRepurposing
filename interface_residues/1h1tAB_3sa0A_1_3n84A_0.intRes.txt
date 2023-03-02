@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3sa0A_A_ARG_194	<-->	3n84A_A_SER_90
+3sa0A_A_ARG_194	<-->	3n84A_A_PRO_92
+3sa0A_A_LYS_231	<-->	3n84A_A_ARG_112
+3sa0A_A_LYS_231	<-->	3n84A_A_ASP_113
+3sa0A_A_ASP_235	<-->	3n84A_A_LEU_111
+3sa0A_A_LYS_231	<-->	3n84A_A_LEU_111
+3sa0A_A_ARG_191	<-->	3n84A_A_ALA_91
+3sa0A_A_ARG_191	<-->	3n84A_A_PRO_92
+3sa0A_A_ARG_191	<-->	3n84A_A_ASP_94
+3sa0A_A_LEU_234	<-->	3n84A_A_LYS_109
+3sa0A_A_TYR_233	<-->	3n84A_A_SER_90
+3sa0A_A_TYR_233	<-->	3n84A_A_ALA_91
+3sa0A_A_HIS_232	<-->	3n84A_A_LEU_111
+3sa0A_A_LYS_231	<-->	3n84A_A_ASP_94
+3sa0A_A_HIS_232	<-->	3n84A_A_LYS_109
+3sa0A_A_HIS_232	<-->	3n84A_A_ASP_94
+3sa0A_A_HIS_232	<-->	3n84A_A_ALA_91

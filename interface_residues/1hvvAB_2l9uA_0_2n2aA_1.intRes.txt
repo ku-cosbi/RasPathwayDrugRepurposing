@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l9uA_A_MET_637	<-->	2n2aA_A_ILE_12
+2l9uA_A_GLY_638	<-->	2n2aA_A_VAL_15
+2l9uA_A_VAL_653	<-->	2n2aA_A_VAL_26
+2l9uA_A_GLY_638	<-->	2n2aA_A_ILE_11
+2l9uA_A_GLY_638	<-->	2n2aA_A_ILE_12
+2l9uA_A_HIS_641	<-->	2n2aA_A_VAL_15
+2l9uA_A_PHE_656	<-->	2n2aA_A_GLY_29
+2l9uA_A_ALA_645	<-->	2n2aA_A_LEU_19
+2l9uA_A_PHE_656	<-->	2n2aA_A_ILE_30
+2l9uA_A_HIS_641	<-->	2n2aA_A_ILE_12
+2l9uA_A_PHE_656	<-->	2n2aA_A_LYS_33
+2l9uA_A_LEU_642	<-->	2n2aA_A_VAL_15
+2l9uA_A_HIS_641	<-->	2n2aA_A_LEU_19
+2l9uA_A_ARG_639	<-->	2n2aA_A_ILE_11
+2l9uA_A_ILE_649	<-->	2n2aA_A_VAL_26
+2l9uA_A_ILE_649	<-->	2n2aA_A_VAL_23
+2l9uA_A_ILE_649	<-->	2n2aA_A_LEU_19
+2l9uA_A_ARG_639	<-->	2n2aA_A_VAL_15
+2l9uA_A_ILE_649	<-->	2n2aA_A_VAL_22
+2l9uA_A_LEU_642	<-->	2n2aA_A_LEU_19

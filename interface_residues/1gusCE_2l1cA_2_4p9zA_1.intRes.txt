@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l1cA_A_TYR_56	<-->	4p9zA_A_ARG_142
+2l1cA_A_GLU_61	<-->	4p9zA_A_TRP_121
+2l1cA_A_CYS_102	<-->	4p9zA_A_ALA_91
+2l1cA_A_CYS_102	<-->	4p9zA_A_SER_90
+2l1cA_A_CYS_102	<-->	4p9zA_A_PRO_92
+2l1cA_A_ASN_173	<-->	4p9zA_A_VAL_122
+2l1cA_A_ASN_114	<-->	4p9zA_A_LEU_111
+2l1cA_A_TRP_24	<-->	4p9zA_A_GLN_145
+2l1cA_A_LYS_116	<-->	4p9zA_A_TRP_121
+2l1cA_A_PRO_171	<-->	4p9zA_A_ARG_142
+2l1cA_A_ARG_112	<-->	4p9zA_A_VAL_110
+2l1cA_A_ARG_112	<-->	4p9zA_A_LEU_111
+2l1cA_A_GLU_61	<-->	4p9zA_A_PHE_119
+2l1cA_A_ASP_170	<-->	4p9zA_A_ARG_142
+2l1cA_A_PRO_101	<-->	4p9zA_A_SER_90
+2l1cA_A_PRO_101	<-->	4p9zA_A_ALA_91
+2l1cA_A_PHE_117	<-->	4p9zA_A_TRP_121
+2l1cA_A_VAL_172	<-->	4p9zA_A_VAL_122
+2l1cA_A_VAL_172	<-->	4p9zA_A_TRP_121
+2l1cA_A_ARG_112	<-->	4p9zA_A_LYS_109
+2l1cA_A_LYS_139	<-->	4p9zA_A_ASN_143
+2l1cA_A_LYS_139	<-->	4p9zA_A_GLN_144
+2l1cA_A_ARG_112	<-->	4p9zA_A_ASP_94

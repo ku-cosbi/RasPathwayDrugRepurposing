@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l9uA_A_VAL_653	<-->	1xdvA_A_GLU_264
+2l9uA_A_ALA_650	<-->	1xdvA_A_GLU_264
+2l9uA_A_TYR_665	<-->	1xdvA_A_PHE_677
+2l9uA_A_PHE_663	<-->	1xdvA_A_LYS_224
+2l9uA_A_LEU_646	<-->	1xdvA_A_VAL_267
+2l9uA_A_MET_658	<-->	1xdvA_A_MET_617
+2l9uA_A_THR_640	<-->	1xdvA_A_ASN_923
+2l9uA_A_LEU_652	<-->	1xdvA_A_ARG_213
+2l9uA_A_VAL_654	<-->	1xdvA_A_MET_617
+2l9uA_A_THR_647	<-->	1xdvA_A_PRO_621
+2l9uA_A_ARG_639	<-->	1xdvA_A_GLU_272
+2l9uA_A_VAL_654	<-->	1xdvA_A_GLU_264
+2l9uA_A_MET_637	<-->	1xdvA_A_SER_921
+2l9uA_A_MET_637	<-->	1xdvA_A_ASN_923
+2l9uA_A_ARG_667	<-->	1xdvA_A_LYS_224
+2l9uA_A_LEU_664	<-->	1xdvA_A_HIS_253
+2l9uA_A_MET_657	<-->	1xdvA_A_GLY_261
+2l9uA_A_LEU_646	<-->	1xdvA_A_TYR_202
+2l9uA_A_ILE_649	<-->	1xdvA_A_LYS_206
+2l9uA_A_MET_657	<-->	1xdvA_A_GLU_264
+2l9uA_A_PHE_656	<-->	1xdvA_A_ARG_213

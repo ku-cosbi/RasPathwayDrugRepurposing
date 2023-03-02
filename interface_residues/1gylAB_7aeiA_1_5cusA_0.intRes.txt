@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7aeiA_A_PRO_937	<-->	5cusA_A_TRP_144
+7aeiA_A_ASP_916	<-->	5cusA_A_ASP_152
+7aeiA_A_PRO_937	<-->	5cusA_A_ILE_142
+7aeiA_A_GLN_982	<-->	5cusA_A_LYS_172
+7aeiA_A_GLN_982	<-->	5cusA_A_CYS_171
+7aeiA_A_GLN_982	<-->	5cusA_A_ARG_174
+7aeiA_A_VAL_980	<-->	5cusA_A_THR_141
+7aeiA_A_TYR_915	<-->	5cusA_A_ASP_152
+7aeiA_A_ILE_941	<-->	5cusA_A_LYS_158
+7aeiA_A_LYS_913	<-->	5cusA_A_ARG_151
+7aeiA_A_PRO_937	<-->	5cusA_A_ARG_145
+7aeiA_A_GLN_935	<-->	5cusA_A_VAL_157
+7aeiA_A_PRO_937	<-->	5cusA_A_ASP_143
+7aeiA_A_GLN_935	<-->	5cusA_A_ILE_155
+7aeiA_A_ASP_916	<-->	5cusA_A_ARG_151
+7aeiA_A_ILE_918	<-->	5cusA_A_ASP_152
+7aeiA_A_GLY_983	<-->	5cusA_A_LYS_172
+7aeiA_A_PRO_934	<-->	5cusA_A_ALA_153
+7aeiA_A_PRO_934	<-->	5cusA_A_GLU_154
+7aeiA_A_PRO_934	<-->	5cusA_A_ILE_155
+7aeiA_A_GLN_982	<-->	5cusA_A_LEU_186
+7aeiA_A_LYS_806	<-->	5cusA_A_ILE_190

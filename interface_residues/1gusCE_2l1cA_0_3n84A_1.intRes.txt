@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l1cA_A_PRO_41	<-->	3n84A_A_ASN_103
+2l1cA_A_PRO_41	<-->	3n84A_A_GLY_102
+2l1cA_A_PRO_41	<-->	3n84A_A_PHE_101
+2l1cA_A_PRO_41	<-->	3n84A_A_ASP_104
+2l1cA_A_ASP_189	<-->	3n84A_A_ARG_67
+2l1cA_A_ASN_42	<-->	3n84A_A_ASN_103
+2l1cA_A_HIS_40	<-->	3n84A_A_PHE_101
+2l1cA_A_HIS_40	<-->	3n84A_A_GLY_102
+2l1cA_A_HIS_40	<-->	3n84A_A_ASP_104
+2l1cA_A_LEU_39	<-->	3n84A_A_GLY_102
+2l1cA_A_LEU_39	<-->	3n84A_A_ASN_103

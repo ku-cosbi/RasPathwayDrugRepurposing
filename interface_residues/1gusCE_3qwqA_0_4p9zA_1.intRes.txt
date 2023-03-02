@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_HIS_359	<-->	4p9zA_A_GLN_157
+3qwqA_A_HIS_359	<-->	4p9zA_A_GLN_156
+3qwqA_A_GLU_90	<-->	4p9zA_A_ASN_103
+3qwqA_A_ASP_102	<-->	4p9zA_A_ARG_142
+3qwqA_A_SER_99	<-->	4p9zA_A_ASN_143
+3qwqA_A_PHE_20	<-->	4p9zA_A_TRP_121
+3qwqA_A_TYR_45	<-->	4p9zA_A_GLN_106
+3qwqA_A_SER_356	<-->	4p9zA_A_VAL_161
+3qwqA_A_SER_356	<-->	4p9zA_A_TYR_160
+3qwqA_A_LEU_14	<-->	4p9zA_A_PHE_101
+3qwqA_A_LEU_69	<-->	4p9zA_A_GLN_106
+3qwqA_A_LEU_14	<-->	4p9zA_A_ASP_104
+3qwqA_A_TYR_45	<-->	4p9zA_A_ASN_143
+3qwqA_A_LEU_69	<-->	4p9zA_A_ASN_143
+3qwqA_A_LEU_69	<-->	4p9zA_A_GLN_144
+3qwqA_A_PHE_357	<-->	4p9zA_A_VAL_161
+3qwqA_A_TYR_101	<-->	4p9zA_A_ASN_143
+3qwqA_A_TYR_101	<-->	4p9zA_A_ARG_142
+3qwqA_A_THR_19	<-->	4p9zA_A_LYS_109
+3qwqA_A_GLN_16	<-->	4p9zA_A_ARG_67
+3qwqA_A_THR_15	<-->	4p9zA_A_ARG_67
+3qwqA_A_SER_356	<-->	4p9zA_A_THR_159

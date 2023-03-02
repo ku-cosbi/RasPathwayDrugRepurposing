@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1yy9A_A_THR_19	<-->	4p9zA_A_LEU_111
+1yy9A_A_PHE_20	<-->	4p9zA_A_ARG_142
+1yy9A_A_LEU_14	<-->	4p9zA_A_ASP_104
+1yy9A_A_TYR_45	<-->	4p9zA_A_ASN_143
+1yy9A_A_ASP_22	<-->	4p9zA_A_LYS_109
+1yy9A_A_LEU_69	<-->	4p9zA_A_ASN_143
+1yy9A_A_THR_19	<-->	4p9zA_A_LYS_109
+1yy9A_A_ASP_102	<-->	4p9zA_A_ARG_142
+1yy9A_A_TYR_101	<-->	4p9zA_A_GLN_144
+1yy9A_A_TYR_101	<-->	4p9zA_A_ASN_143
+1yy9A_A_SER_99	<-->	4p9zA_A_GLN_144
+1yy9A_A_ALA_103	<-->	4p9zA_A_ASN_143
+1yy9A_A_ASP_102	<-->	4p9zA_A_ASN_143
+1yy9A_A_THR_15	<-->	4p9zA_A_HIS_107
+1yy9A_A_GLN_47	<-->	4p9zA_A_ASN_143
+1yy9A_A_ALA_103	<-->	4p9zA_A_ARG_142
+1yy9A_A_GLY_18	<-->	4p9zA_A_LYS_109
+1yy9A_A_LEU_17	<-->	4p9zA_A_ARG_67
+1yy9A_A_THR_15	<-->	4p9zA_A_ARG_67

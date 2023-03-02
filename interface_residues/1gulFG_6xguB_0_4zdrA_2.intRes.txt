@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6xguB_B_ALA_85	<-->	4zdrA_A_LEU_12
+6xguB_B_ARG_89	<-->	4zdrA_A_GLN_15
+6xguB_B_THR_68	<-->	4zdrA_A_LYS_11
+6xguB_B_VAL_69	<-->	4zdrA_A_GLN_8
+6xguB_B_ASN_71	<-->	4zdrA_A_ASN_4
+6xguB_B_ARG_67	<-->	4zdrA_A_VAL_241
+6xguB_B_LEU_62	<-->	4zdrA_A_GLN_15
+6xguB_B_VAL_69	<-->	4zdrA_A_LYS_11
+6xguB_B_GLN_66	<-->	4zdrA_A_GLN_15
+6xguB_B_GLN_66	<-->	4zdrA_A_GLU_14
+6xguB_B_ARG_67	<-->	4zdrA_A_GLU_14
+6xguB_B_ARG_59	<-->	4zdrA_A_LYS_11
+6xguB_B_ARG_59	<-->	4zdrA_A_GLU_39

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l1cA_A_HIS_40	<-->	5wb8A_A_THR_44
+2l1cA_A_HIS_40	<-->	5wb8A_A_TYR_45
+2l1cA_A_LEU_39	<-->	5wb8A_A_LEU_14
+2l1cA_A_GLN_196	<-->	5wb8A_A_ASN_128
+2l1cA_A_ASP_189	<-->	5wb8A_A_TYR_101
+2l1cA_A_PRO_41	<-->	5wb8A_A_SER_99
+2l1cA_A_ARG_36	<-->	5wb8A_A_LEU_325
+2l1cA_A_HIS_40	<-->	5wb8A_A_LEU_69
+2l1cA_A_LYS_33	<-->	5wb8A_A_THR_358
+2l1cA_A_VAL_31	<-->	5wb8A_A_PHE_357
+2l1cA_A_HIS_40	<-->	5wb8A_A_LEU_14
+2l1cA_A_GLN_188	<-->	5wb8A_A_ASN_104
+2l1cA_A_ASP_157	<-->	5wb8A_A_HIS_159
+2l1cA_A_GLN_188	<-->	5wb8A_A_LYS_105
+2l1cA_A_PRO_41	<-->	5wb8A_A_LEU_69
+2l1cA_A_LEU_39	<-->	5wb8A_A_LEU_98
+2l1cA_A_GLY_185	<-->	5wb8A_A_ASN_104
+2l1cA_A_SER_192	<-->	5wb8A_A_ASN_128
+2l1cA_A_SER_29	<-->	5wb8A_A_PHE_357
+2l1cA_A_GLU_184	<-->	5wb8A_A_ASN_104
+2l1cA_A_LEU_39	<-->	5wb8A_A_GLU_90

@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l9uA_A_ILE_649	<-->	2ks1A_A_LEU_63
+2l9uA_A_LEU_652	<-->	2ks1A_A_LEU_67
+2l9uA_A_ILE_649	<-->	2ks1A_A_VAL_66
+2l9uA_A_LEU_652	<-->	2ks1A_A_LEU_74
+2l9uA_A_PHE_663	<-->	2ks1A_A_ARG_77
+2l9uA_A_VAL_653	<-->	2ks1A_A_VAL_70
+2l9uA_A_ILE_649	<-->	2ks1A_A_LEU_67
+2l9uA_A_LEU_659	<-->	2ks1A_A_ARG_77
+2l9uA_A_LEU_652	<-->	2ks1A_A_VAL_70
+2l9uA_A_LEU_664	<-->	2ks1A_A_LYS_81
+2l9uA_A_LEU_664	<-->	2ks1A_A_ARG_83
+2l9uA_A_ILE_655	<-->	2ks1A_A_LEU_74
+2l9uA_A_PHE_656	<-->	2ks1A_A_LEU_74
+2l9uA_A_PHE_656	<-->	2ks1A_A_ILE_73
+2l9uA_A_LEU_642	<-->	2ks1A_A_VAL_59
+2l9uA_A_ARG_667	<-->	2ks1A_A_LYS_81
