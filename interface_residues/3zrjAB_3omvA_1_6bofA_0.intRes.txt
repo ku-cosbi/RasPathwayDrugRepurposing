@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_LYS_615	<-->	6bofA_A_VAL_44
+3omvA_A_PRO_614	<-->	6bofA_A_PHE_28
+3omvA_A_ARG_583	<-->	6bofA_A_TYR_71
+3omvA_A_ASP_587	<-->	6bofA_A_GLN_61
+3omvA_A_GLN_441	<-->	6bofA_A_ASP_38
+3omvA_A_LYS_615	<-->	6bofA_A_CYS_51
+3omvA_A_PHE_443	<-->	6bofA_A_LYS_42
+3omvA_A_LEU_608	<-->	6bofA_A_ILE_21
+3omvA_A_HIS_611	<-->	6bofA_A_ILE_21
+3omvA_A_PRO_614	<-->	6bofA_A_LYS_42
+3omvA_A_HIS_611	<-->	6bofA_A_ILE_24
+3omvA_A_LYS_579	<-->	6bofA_A_ASP_54
+3omvA_A_LYS_615	<-->	6bofA_A_ILE_24
+3omvA_A_LYS_615	<-->	6bofA_A_LEU_52
+3omvA_A_LEU_608	<-->	6bofA_A_SER_17
+3omvA_A_PRO_614	<-->	6bofA_A_GLN_43
+3omvA_A_ARG_583	<-->	6bofA_A_GLU_62
+3omvA_A_ARG_583	<-->	6bofA_A_SER_65
+3omvA_A_ARG_583	<-->	6bofA_A_MET_67
+3omvA_A_LYS_615	<-->	6bofA_A_LEU_53

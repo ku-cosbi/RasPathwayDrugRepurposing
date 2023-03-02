@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ARG_462	<-->	6scmA_A_LEU_711
+5cusB_B_THR_452	<-->	6scmA_A_GLN_738
+5cusB_B_GLU_461	<-->	6scmA_A_ALA_708
+5cusB_B_GLU_460	<-->	6scmA_A_LEU_711
+5cusB_B_GLU_460	<-->	6scmA_A_GLU_705
+5cusB_B_THR_459	<-->	6scmA_A_LEU_711
+5cusB_B_GLU_461	<-->	6scmA_A_PHE_704
+5cusB_B_GLU_461	<-->	6scmA_A_GLU_705
+5cusB_B_PRO_458	<-->	6scmA_A_ILE_737
+5cusB_B_GLY_457	<-->	6scmA_A_GLU_715
+5cusB_B_PRO_458	<-->	6scmA_A_GLU_715
+5cusB_B_GLY_457	<-->	6scmA_A_ILE_737
+5cusB_B_ARG_456	<-->	6scmA_A_GLU_715
+5cusB_B_THR_459	<-->	6scmA_A_ILE_737
+5cusB_B_ARG_434	<-->	6scmA_A_ALA_708
+5cusB_B_PRO_458	<-->	6scmA_A_LEU_711
+5cusB_B_LEU_404	<-->	6scmA_A_GLN_712
+5cusB_B_GLU_460	<-->	6scmA_A_PHE_704
+5cusB_B_ARG_434	<-->	6scmA_A_GLN_712
+5cusB_B_GLY_408	<-->	6scmA_A_GLN_712

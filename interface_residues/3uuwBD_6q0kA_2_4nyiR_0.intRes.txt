@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_ASP_449	<-->	4nyiR_R_PRO_110
+6q0kA_A_GLY_503	<-->	4nyiR_R_LYS_101
+6q0kA_A_THR_508	<-->	4nyiR_R_SER_136
+6q0kA_A_ARG_506	<-->	4nyiR_R_TYR_137
+6q0kA_A_ARG_506	<-->	4nyiR_R_SER_136
+6q0kA_A_LYS_507	<-->	4nyiR_R_HIS_94
+6q0kA_A_LYS_507	<-->	4nyiR_R_SER_136
+6q0kA_A_LYS_507	<-->	4nyiR_R_TYR_137
+6q0kA_A_VAL_502	<-->	4nyiR_R_LYS_101
+6q0kA_A_ASP_449	<-->	4nyiR_R_ASP_108
+6q0kA_A_ASP_449	<-->	4nyiR_R_VAL_109
+6q0kA_A_VAL_502	<-->	4nyiR_R_ASP_107
+6q0kA_A_ASP_449	<-->	4nyiR_R_HIS_166
+6q0kA_A_ARG_506	<-->	4nyiR_R_ASP_107
+6q0kA_A_ARG_506	<-->	4nyiR_R_LYS_101
+6q0kA_A_TYR_519	<-->	4nyiR_R_ASP_107
+6q0kA_A_ARG_506	<-->	4nyiR_R_ARG_97
+6q0kA_A_ARG_509	<-->	4nyiR_R_SER_136
+6q0kA_A_ARG_509	<-->	4nyiR_R_ARG_135
+6q0kA_A_VAL_600	<-->	4nyiR_R_HIS_94
+6q0kA_A_TRP_450	<-->	4nyiR_R_ASP_107
+6q0kA_A_GLY_503	<-->	4nyiR_R_GLU_98
+6q0kA_A_TRP_450	<-->	4nyiR_R_ASP_108

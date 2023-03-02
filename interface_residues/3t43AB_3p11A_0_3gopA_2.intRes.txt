@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_PRO_11	<-->	3gopA_A_GLU_666
+3p11A_A_ASP_54	<-->	3gopA_A_LEU_680
+3p11A_A_PRO_81	<-->	3gopA_A_LYS_733
+3p11A_A_ARG_116	<-->	3gopA_A_LYS_730
+3p11A_A_ARG_116	<-->	3gopA_A_LYS_733
+3p11A_A_CYS_286	<-->	3gopA_A_LEU_655
+3p11A_A_ASN_274	<-->	3gopA_A_LEU_668
+3p11A_A_PHE_275	<-->	3gopA_A_PRO_667
+3p11A_A_HIS_273	<-->	3gopA_A_LEU_668
+3p11A_A_HIS_273	<-->	3gopA_A_THR_669
+3p11A_A_PRO_272	<-->	3gopA_A_THR_669
+3p11A_A_HIS_273	<-->	3gopA_A_PRO_670
+3p11A_A_ALA_285	<-->	3gopA_A_LEU_655
+3p11A_A_ASN_274	<-->	3gopA_A_PRO_667
+3p11A_A_ASP_182	<-->	3gopA_A_LYS_730
+3p11A_A_ARG_284	<-->	3gopA_A_ARG_662

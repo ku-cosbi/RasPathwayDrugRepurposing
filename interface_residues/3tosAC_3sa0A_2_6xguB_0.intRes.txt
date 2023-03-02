@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3sa0A_A_SER_266	<-->	6xguB_B_HIS_103
+3sa0A_A_HIS_269	<-->	6xguB_B_GLY_123
+3sa0A_A_PRO_268	<-->	6xguB_B_GLU_104
+3sa0A_A_GLN_249	<-->	6xguB_B_ARG_59
+3sa0A_A_GLU_250	<-->	6xguB_B_ARG_59
+3sa0A_A_SER_246	<-->	6xguB_B_GLY_123
+3sa0A_A_GLN_249	<-->	6xguB_B_GLU_125
+3sa0A_A_LYS_270	<-->	6xguB_B_GLY_123
+3sa0A_A_SER_266	<-->	6xguB_B_GLU_104
+3sa0A_A_SER_248	<-->	6xguB_B_GLU_125
+3sa0A_A_LEU_267	<-->	6xguB_B_HIS_103
+3sa0A_A_LEU_252	<-->	6xguB_B_GLU_125
+3sa0A_A_HIS_269	<-->	6xguB_B_GLU_124
+3sa0A_A_SER_248	<-->	6xguB_B_ARG_59
+3sa0A_A_GLN_249	<-->	6xguB_B_ARG_67
+3sa0A_A_GLN_249	<-->	6xguB_B_PHE_61
+3sa0A_A_LYS_300	<-->	6xguB_B_ARG_59
+3sa0A_A_LEU_265	<-->	6xguB_B_HIS_103
+3sa0A_A_ASN_271	<-->	6xguB_B_ILE_122
+3sa0A_A_GLU_250	<-->	6xguB_B_ARG_67

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_SER_508	<-->	6nybA_A_ASN_661
+3omvA_A_THR_506	<-->	6nybA_A_ARG_662
+3omvA_A_THR_506	<-->	6nybA_A_ASN_661
+3omvA_A_VAL_516	<-->	6nybA_A_ARG_671
+3omvA_A_LEU_489	<-->	6nybA_A_ASN_660
+3omvA_A_MET_512	<-->	6nybA_A_ASP_663
+3omvA_A_ARG_518	<-->	6nybA_A_ARG_671
+3omvA_A_MET_512	<-->	6nybA_A_PHE_667
+3omvA_A_ILE_558	<-->	6nybA_A_PHE_667
+3omvA_A_GLY_507	<-->	6nybA_A_ASN_661
+3omvA_A_GLY_507	<-->	6nybA_A_ARG_662
+3omvA_A_GLY_507	<-->	6nybA_A_ASP_663
+3omvA_A_ASN_522	<-->	6nybA_A_TYR_673
+3omvA_A_MET_519	<-->	6nybA_A_ARG_671
+3omvA_A_MET_519	<-->	6nybA_A_TYR_673
+3omvA_A_PHE_360	<-->	6nybA_A_ASN_660
+3omvA_A_ILE_517	<-->	6nybA_A_ARG_671
+3omvA_A_VAL_509	<-->	6nybA_A_ASP_663
+3omvA_A_PHE_559	<-->	6nybA_A_GLN_628
+3omvA_A_PRO_505	<-->	6nybA_A_ARG_662
+3omvA_A_PRO_505	<-->	6nybA_A_ASN_660
+3omvA_A_PRO_505	<-->	6nybA_A_ASN_661
+3omvA_A_VAL_509	<-->	6nybA_A_PHE_667

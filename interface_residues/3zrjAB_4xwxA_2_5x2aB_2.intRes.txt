@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_PRO_171	<-->	5x2aB_B_GLU_963
+4xwxA_A_PRO_171	<-->	5x2aB_B_PRO_959
+4xwxA_A_PRO_171	<-->	5x2aB_B_ARG_958
+4xwxA_A_VAL_172	<-->	5x2aB_B_ASP_956
+4xwxA_A_ASN_144	<-->	5x2aB_B_MET_952
+4xwxA_A_ASP_170	<-->	5x2aB_B_LYS_949
+4xwxA_A_ILE_141	<-->	5x2aB_B_ASP_954
+4xwxA_A_SER_129	<-->	5x2aB_B_ARG_948
+4xwxA_A_ILE_141	<-->	5x2aB_B_SER_957
+4xwxA_A_PRO_171	<-->	5x2aB_B_LYS_949
+4xwxA_A_GLN_174	<-->	5x2aB_B_GLU_963
+4xwxA_A_GLN_140	<-->	5x2aB_B_ASP_954
+4xwxA_A_SER_149	<-->	5x2aB_B_MET_945
+4xwxA_A_HIS_146	<-->	5x2aB_B_ILE_941
+4xwxA_A_GLN_148	<-->	5x2aB_B_ILE_941
+4xwxA_A_HIS_146	<-->	5x2aB_B_MET_945

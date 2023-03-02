@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4dstA_A_LYS_178	<-->	6cc9B_B_LYS_165
+4dstA_A_ARG_73	<-->	6cc9B_B_GLY_48
+4dstA_A_MET_170	<-->	6cc9B_B_ASP_47
+4dstA_A_ARG_73	<-->	6cc9B_B_VAL_45
+4dstA_A_THR_50	<-->	6cc9B_B_LYS_184
+4dstA_A_VAL_103	<-->	6cc9B_B_VAL_45
+4dstA_A_ASP_173	<-->	6cc9B_B_LYS_165
+4dstA_A_LYS_176	<-->	6cc9B_B_THR_158
+4dstA_A_LYS_177	<-->	6cc9B_B_LYS_165
+4dstA_A_GLU_168	<-->	6cc9B_B_LYS_172
+4dstA_A_LYS_177	<-->	6cc9B_B_GLU_162
+4dstA_A_GLY_48	<-->	6cc9B_B_THR_183
+4dstA_A_LYS_176	<-->	6cc9B_B_LYS_165
+4dstA_A_LYS_104	<-->	6cc9B_B_GLY_48
+4dstA_A_LYS_176	<-->	6cc9B_B_GLU_162
+4dstA_A_LYS_172	<-->	6cc9B_B_LYS_165
+4dstA_A_LYS_104	<-->	6cc9B_B_VAL_45
+4dstA_A_SER_1	<-->	6cc9B_B_LYS_184
+4dstA_A_LYS_176	<-->	6cc9B_B_PRO_140
+4dstA_A_SER_171	<-->	6cc9B_B_GLU_168
+4dstA_A_MET_170	<-->	6cc9B_B_LYS_165
+4dstA_A_MET_170	<-->	6cc9B_B_ARG_164
+4dstA_A_ASP_105	<-->	6cc9B_B_TYR_157
+4dstA_A_SER_171	<-->	6cc9B_B_LYS_165

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ARG_201	<-->	2jitB_B_GLU_1015
+4xwxA_A_HIS_146	<-->	2jitB_B_TYR_1016
+4xwxA_A_HIS_146	<-->	2jitB_B_LEU_1017
+4xwxA_A_ARG_201	<-->	2jitB_B_VAL_1011
+4xwxA_A_SER_149	<-->	2jitB_B_TYR_1016
+4xwxA_A_HIS_146	<-->	2jitB_B_ARG_705
+4xwxA_A_ARG_67	<-->	2jitB_B_GLU_734
+4xwxA_A_ARG_67	<-->	2jitB_B_GLY_735
+4xwxA_A_ARG_67	<-->	2jitB_B_GLU_736
+4xwxA_A_GLN_148	<-->	2jitB_B_ILE_740
+4xwxA_A_GLN_148	<-->	2jitB_B_TYR_1016
+4xwxA_A_PRO_171	<-->	2jitB_B_LEU_703
+4xwxA_A_SER_130	<-->	2jitB_B_ILE_1018
+4xwxA_A_MET_147	<-->	2jitB_B_TYR_1016
+4xwxA_A_PHE_198	<-->	2jitB_B_GLU_736
+4xwxA_A_ARG_201	<-->	2jitB_B_VAL_738
+4xwxA_A_ARG_201	<-->	2jitB_B_GLU_736
+4xwxA_A_SER_129	<-->	2jitB_B_GLU_1015
+4xwxA_A_SER_129	<-->	2jitB_B_LEU_1017
+4xwxA_A_GLN_148	<-->	2jitB_B_VAL_738
+4xwxA_A_GLN_148	<-->	2jitB_B_GLU_736
+4xwxA_A_GLN_148	<-->	2jitB_B_PRO_733
+4xwxA_A_SER_129	<-->	2jitB_B_ILE_1018
+4xwxA_A_GLN_148	<-->	2jitB_B_TRP_731

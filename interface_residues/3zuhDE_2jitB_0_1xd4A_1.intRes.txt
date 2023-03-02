@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2jitB_B_ALA_702	<-->	1xd4A_A_GLU_654
+2jitB_B_TYR_764	<-->	1xd4A_A_PRO_655
+2jitB_B_ASN_700	<-->	1xd4A_A_ARG_660
+2jitB_B_ALA_698	<-->	1xd4A_A_ARG_660
+2jitB_B_LEU_861	<-->	1xd4A_A_GLN_668
+2jitB_B_LYS_708	<-->	1xd4A_A_ARG_722
+2jitB_B_LEU_861	<-->	1xd4A_A_GLY_666
+2jitB_B_ASP_761	<-->	1xd4A_A_GLN_668
+2jitB_B_ARG_831	<-->	1xd4A_A_GLY_666
+2jitB_B_TYR_764	<-->	1xd4A_A_ASP_659
+2jitB_B_LEU_861	<-->	1xd4A_A_ASP_667
+2jitB_B_TYR_764	<-->	1xd4A_A_PRO_669
+2jitB_B_GLN_701	<-->	1xd4A_A_GLU_654
+2jitB_B_GLU_709	<-->	1xd4A_A_ARG_722
+2jitB_B_THR_710	<-->	1xd4A_A_ARG_722
+2jitB_B_GLU_697	<-->	1xd4A_A_ARG_660
+2jitB_B_TYR_764	<-->	1xd4A_A_ILE_663
+2jitB_B_THR_783	<-->	1xd4A_A_ARG_722
+2jitB_B_ASN_700	<-->	1xd4A_A_GLU_654
+2jitB_B_ASN_700	<-->	1xd4A_A_PRO_655

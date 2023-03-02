@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_LYS_139	<-->	1yy9A_A_THR_614
+1shcA_A_ALA_143	<-->	1yy9A_A_TYR_602
+1shcA_A_ILE_141	<-->	1yy9A_A_PRO_613
+1shcA_A_GLN_204	<-->	1yy9A_A_LYS_569
+1shcA_A_ARG_112	<-->	1yy9A_A_PHE_148
+1shcA_A_ARG_67	<-->	1yy9A_A_HIS_280
+1shcA_A_ARG_201	<-->	1yy9A_A_TYR_561
+1shcA_A_ARG_112	<-->	1yy9A_A_ASP_147
+1shcA_A_ILE_141	<-->	1yy9A_A_THR_614
+1shcA_A_ARG_201	<-->	1yy9A_A_HIS_560
+1shcA_A_ARG_112	<-->	1yy9A_A_HIS_121
+1shcA_A_SER_108	<-->	1yy9A_A_MET_87
+1shcA_A_ILE_141	<-->	1yy9A_A_TYR_602
+1shcA_A_GLN_148	<-->	1yy9A_A_ALA_573
+1shcA_A_ARG_201	<-->	1yy9A_A_LYS_569
+1shcA_A_PRO_171	<-->	1yy9A_A_MET_576
+1shcA_A_ASN_144	<-->	1yy9A_A_TYR_602
+1shcA_A_GLN_140	<-->	1yy9A_A_THR_614
+1shcA_A_ARG_207	<-->	1yy9A_A_LYS_304
+1shcA_A_ARG_201	<-->	1yy9A_A_THR_570

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4rzvB_B_ASP_587	<-->	3omvA_A_GLY_564
+4rzvB_B_VAL_511	<-->	3omvA_A_GLU_515
+4rzvB_B_LEU_515	<-->	3omvA_A_ARG_518
+4rzvB_B_THR_589	<-->	3omvA_A_VAL_592
+4rzvB_B_THR_589	<-->	3omvA_A_LYS_591
+4rzvB_B_HIS_510	<-->	3omvA_A_GLU_594
+4rzvB_B_ARG_562	<-->	3omvA_A_GLU_594
+4rzvB_B_HIS_509	<-->	3omvA_A_ASP_521
+4rzvB_B_HIS_509	<-->	3omvA_A_GLN_520
+4rzvB_B_HIS_585	<-->	3omvA_A_ARG_563
+4rzvB_B_GLU_586	<-->	3omvA_A_ARG_563
+4rzvB_B_GLU_586	<-->	3omvA_A_GLY_564
+4rzvB_B_GLU_586	<-->	3omvA_A_TYR_565
+4rzvB_B_ASP_479	<-->	3omvA_A_ARG_563
+4rzvB_B_GLN_559	<-->	3omvA_A_VAL_592
+4rzvB_B_ASP_587	<-->	3omvA_A_ARG_563
+4rzvB_B_MET_517	<-->	3omvA_A_ARG_518
+4rzvB_B_ASP_555	<-->	3omvA_A_GLU_595
+4rzvB_B_VAL_511	<-->	3omvA_A_LYS_593
+4rzvB_B_ASP_587	<-->	3omvA_A_LYS_591
+4rzvB_B_HIS_510	<-->	3omvA_A_GLN_520

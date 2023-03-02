@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7m0xB_B_HIS_239	<-->	3omvA_A_GLN_556
+7m0xB_B_ALA_220	<-->	3omvA_A_ARG_554
+7m0xB_B_PHE_311	<-->	3omvA_A_ILE_558
+7m0xB_B_ASN_221	<-->	3omvA_A_SER_549
+7m0xB_B_ASN_221	<-->	3omvA_A_ASN_552
+7m0xB_B_ASN_221	<-->	3omvA_A_ILE_551
+7m0xB_B_ILE_310	<-->	3omvA_A_MET_519
+7m0xB_B_ASP_217	<-->	3omvA_A_ASN_552
+7m0xB_B_PHE_311	<-->	3omvA_A_VAL_509
+7m0xB_B_LEU_235	<-->	3omvA_A_ILE_558
+7m0xB_B_THR_226	<-->	3omvA_A_THR_506
+7m0xB_B_MET_230	<-->	3omvA_A_ASP_555
+7m0xB_B_PHE_311	<-->	3omvA_A_MET_519
+7m0xB_B_ALA_220	<-->	3omvA_A_ASN_552
+7m0xB_B_ALA_220	<-->	3omvA_A_ASN_553
+7m0xB_B_GLN_236	<-->	3omvA_A_PHE_559
+7m0xB_B_GLY_237	<-->	3omvA_A_PHE_559
+7m0xB_B_THR_226	<-->	3omvA_A_PRO_505
+7m0xB_B_ALA_218	<-->	3omvA_A_ASN_552
+7m0xB_B_LEU_235	<-->	3omvA_A_ASP_555

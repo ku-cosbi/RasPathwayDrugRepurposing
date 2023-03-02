@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ASP_43	<-->	3sa0A_A_LYS_270
+4xwxA_A_LYS_44	<-->	3sa0A_A_HIS_269
+4xwxA_A_MET_46	<-->	3sa0A_A_PRO_274
+4xwxA_A_LEU_133	<-->	3sa0A_A_GLU_250
+4xwxA_A_MET_46	<-->	3sa0A_A_ASN_271
+4xwxA_A_MET_46	<-->	3sa0A_A_LYS_272
+4xwxA_A_ILE_141	<-->	3sa0A_A_GLU_250
+4xwxA_A_SER_51	<-->	3sa0A_A_GLN_249
+4xwxA_A_ASN_42	<-->	3sa0A_A_ASN_271
+4xwxA_A_ASP_43	<-->	3sa0A_A_ASN_271
+4xwxA_A_MET_134	<-->	3sa0A_A_GLU_250
+4xwxA_A_PRO_48	<-->	3sa0A_A_SER_248
+4xwxA_A_PRO_48	<-->	3sa0A_A_HIS_269
+4xwxA_A_PRO_48	<-->	3sa0A_A_SER_246
+4xwxA_A_GLY_47	<-->	3sa0A_A_LYS_272
+4xwxA_A_GLY_47	<-->	3sa0A_A_ASN_271
+4xwxA_A_GLY_47	<-->	3sa0A_A_LYS_270
+4xwxA_A_PRO_48	<-->	3sa0A_A_PRO_247
+4xwxA_A_THR_125	<-->	3sa0A_A_SER_248
+4xwxA_A_ASN_132	<-->	3sa0A_A_GLU_250
+4xwxA_A_PRO_48	<-->	3sa0A_A_LYS_270
+4xwxA_A_GLY_47	<-->	3sa0A_A_SER_246
+4xwxA_A_GLY_47	<-->	3sa0A_A_GLY_245

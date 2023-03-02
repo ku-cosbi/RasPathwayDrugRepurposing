@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ASN_144	<-->	3gopA_A_LEU_679
+4xwxA_A_ASN_144	<-->	3gopA_A_ARG_681
+4xwxA_A_GLN_140	<-->	3gopA_A_GLN_677
+4xwxA_A_SER_129	<-->	3gopA_A_ILE_994
+4xwxA_A_GLN_140	<-->	3gopA_A_PRO_675
+4xwxA_A_ILE_142	<-->	3gopA_A_GLN_677
+4xwxA_A_ALA_143	<-->	3gopA_A_LEU_679
+4xwxA_A_PRO_171	<-->	3gopA_A_ILE_682
+4xwxA_A_PRO_171	<-->	3gopA_A_LEU_680
+4xwxA_A_PRO_171	<-->	3gopA_A_ARG_681
+4xwxA_A_HIS_146	<-->	3gopA_A_LEU_993
+4xwxA_A_HIS_146	<-->	3gopA_A_ARG_681
+4xwxA_A_PHE_117	<-->	3gopA_A_GLN_677
+4xwxA_A_ILE_141	<-->	3gopA_A_GLN_677
+4xwxA_A_ILE_142	<-->	3gopA_A_LEU_679

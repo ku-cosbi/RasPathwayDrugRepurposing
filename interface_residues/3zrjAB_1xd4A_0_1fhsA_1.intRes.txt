@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4A_A_GLN_359	<-->	1fhsA_A_TYR_83
+1xd4A_A_GLU_198	<-->	1fhsA_A_ASN_75
+1xd4A_A_LYS_358	<-->	1fhsA_A_TYR_83
+1xd4A_A_GLN_199	<-->	1fhsA_A_ASN_75
+1xd4A_A_GLN_359	<-->	1fhsA_A_VAL_72
+1xd4A_A_GLU_355	<-->	1fhsA_A_VAL_71
+1xd4A_A_GLU_362	<-->	1fhsA_A_TYR_83
+1xd4A_A_GLU_355	<-->	1fhsA_A_VAL_72
+1xd4A_A_GLU_362	<-->	1fhsA_A_SER_86
+1xd4A_A_LYS_363	<-->	1fhsA_A_GLU_79
+1xd4A_A_GLU_198	<-->	1fhsA_A_LYS_66
