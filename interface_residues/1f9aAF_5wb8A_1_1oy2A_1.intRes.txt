@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8A_A_LEU_52	<-->	1oy2A_A_ARG_104
+5wb8A_A_THR_106	<-->	1oy2A_A_ASP_70
+5wb8A_A_ASN_49	<-->	1oy2A_A_PRO_105
+5wb8A_A_ASN_49	<-->	1oy2A_A_ARG_104
+5wb8A_A_ARG_74	<-->	1oy2A_A_ARG_104
+5wb8A_A_GLU_21	<-->	1oy2A_A_ALA_161
+5wb8A_A_GLU_21	<-->	1oy2A_A_THR_160
+5wb8A_A_TYR_50	<-->	1oy2A_A_ARG_104
+5wb8A_A_ASN_49	<-->	1oy2A_A_ARG_79
+5wb8A_A_GLU_73	<-->	1oy2A_A_LEU_106
+5wb8A_A_PRO_76	<-->	1oy2A_A_ARG_104
+5wb8A_A_ASP_51	<-->	1oy2A_A_SER_103
+5wb8A_A_GLU_21	<-->	1oy2A_A_PRO_158
+5wb8A_A_ARG_48	<-->	1oy2A_A_THR_75
+5wb8A_A_ARG_48	<-->	1oy2A_A_GLN_76
+5wb8A_A_ILE_75	<-->	1oy2A_A_ARG_104
+5wb8A_A_THR_106	<-->	1oy2A_A_LEU_69
+5wb8A_A_ASP_51	<-->	1oy2A_A_ARG_104
+5wb8A_A_TYR_50	<-->	1oy2A_A_ARG_79
+5wb8A_A_ASP_51	<-->	1oy2A_A_CYS_102
+5wb8A_A_VAL_72	<-->	1oy2A_A_ARG_104
+5wb8A_A_ASN_49	<-->	1oy2A_A_GLN_76
+5wb8A_A_SER_53	<-->	1oy2A_A_SER_103
+5wb8A_A_SER_53	<-->	1oy2A_A_ARG_104

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_PRO_826	<-->	5wb8A_A_SER_162
+3kexA_A_PRO_772	<-->	5wb8A_A_THR_71
+3kexA_A_TYR_770	<-->	5wb8A_A_ARG_48
+3kexA_A_HIS_783	<-->	5wb8A_A_GLN_164
+3kexA_A_LYS_706	<-->	5wb8A_A_ASP_102
+3kexA_A_LYS_694	<-->	5wb8A_A_TYR_45
+3kexA_A_LYS_694	<-->	5wb8A_A_PHE_20
+3kexA_A_LYS_694	<-->	5wb8A_A_GLN_47
+3kexA_A_PRO_719	<-->	5wb8A_A_ASP_102
+3kexA_A_LEU_773	<-->	5wb8A_A_THR_106
+3kexA_A_VAL_695	<-->	5wb8A_A_PHE_20
+3kexA_A_LEU_696	<-->	5wb8A_A_TYR_50
+3kexA_A_GLN_782	<-->	5wb8A_A_ARG_74
+3kexA_A_LYS_706	<-->	5wb8A_A_GLN_47
+3kexA_A_TYR_770	<-->	5wb8A_A_THR_71
+3kexA_A_PRO_772	<-->	5wb8A_A_THR_106
+3kexA_A_LYS_706	<-->	5wb8A_A_THR_71
+3kexA_A_GLY_697	<-->	5wb8A_A_GLU_21
+3kexA_A_VAL_695	<-->	5wb8A_A_TYR_50
+3kexA_A_GLN_782	<-->	5wb8A_A_GLU_110
+3kexA_A_LEU_696	<-->	5wb8A_A_ASN_49
+3kexA_A_LEU_696	<-->	5wb8A_A_ARG_48
+3kexA_A_TYR_770	<-->	5wb8A_A_ASP_102

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l1cA_A_ASP_157	<-->	2jitB_B_GLN_935
+2l1cA_A_ASP_157	<-->	2jitB_B_PRO_937
+2l1cA_A_ASP_159	<-->	2jitB_B_PRO_936
+2l1cA_A_ARG_207	<-->	2jitB_B_LYS_929
+2l1cA_A_PHE_71	<-->	2jitB_B_MET_952
+2l1cA_A_PRO_158	<-->	2jitB_B_GLN_935
+2l1cA_A_PRO_158	<-->	2jitB_B_PRO_936
+2l1cA_A_PRO_158	<-->	2jitB_B_PRO_937
+2l1cA_A_GLN_76	<-->	2jitB_B_ILE_941
+2l1cA_A_ARG_79	<-->	2jitB_B_ILE_941
+2l1cA_A_PHE_202	<-->	2jitB_B_LYS_929
+2l1cA_A_ASP_159	<-->	2jitB_B_PRO_937
+2l1cA_A_PHE_71	<-->	2jitB_B_MET_945
+2l1cA_A_ASP_159	<-->	2jitB_B_CYS_939
+2l1cA_A_GLN_204	<-->	2jitB_B_LYS_929
+2l1cA_A_GLN_204	<-->	2jitB_B_GLU_928
+2l1cA_A_GLN_204	<-->	2jitB_B_SER_925
+2l1cA_A_LYS_203	<-->	2jitB_B_LYS_929
+2l1cA_A_ASN_72	<-->	2jitB_B_MET_945
+2l1cA_A_ASN_72	<-->	2jitB_B_ILE_941
+2l1cA_A_THR_75	<-->	2jitB_B_ILE_941
+2l1cA_A_THR_75	<-->	2jitB_B_MET_945

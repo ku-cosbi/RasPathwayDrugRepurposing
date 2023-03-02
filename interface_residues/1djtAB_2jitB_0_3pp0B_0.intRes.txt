@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2jitB_B_THR_909	<-->	3pp0B_B_PRO_927
+2jitB_B_MET_908	<-->	3pp0B_B_ARG_929
+2jitB_B_PRO_937	<-->	3pp0B_B_ARG_929
+2jitB_B_THR_909	<-->	3pp0B_B_GLU_930
+2jitB_B_PRO_937	<-->	3pp0B_B_ASP_933
+2jitB_B_PRO_934	<-->	3pp0B_B_GLU_930
+2jitB_B_PRO_937	<-->	3pp0B_B_GLU_930
+2jitB_B_THR_909	<-->	3pp0B_B_ARG_929
+2jitB_B_TYR_915	<-->	3pp0B_B_GLY_925
+2jitB_B_PHE_910	<-->	3pp0B_B_ARG_929
+2jitB_B_PRO_934	<-->	3pp0B_B_ILE_926
+2jitB_B_ASP_916	<-->	3pp0B_B_GLY_925
+2jitB_B_TRP_905	<-->	3pp0B_B_GLU_930
+2jitB_B_PRO_936	<-->	3pp0B_B_ARG_929
+2jitB_B_SER_912	<-->	3pp0B_B_PRO_927
+2jitB_B_TRP_905	<-->	3pp0B_B_PRO_927
+2jitB_B_PRO_936	<-->	3pp0B_B_GLU_930
+2jitB_B_ILE_918	<-->	3pp0B_B_ASP_924
+2jitB_B_GLY_917	<-->	3pp0B_B_LYS_921
+2jitB_B_GLN_935	<-->	3pp0B_B_LYS_937

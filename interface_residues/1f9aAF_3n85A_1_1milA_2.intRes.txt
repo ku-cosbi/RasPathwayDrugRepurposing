@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_ARG_25	<-->	1milA_A_CYS_95
+3n85A_A_GLU_18	<-->	1milA_A_ASN_26
+3n85A_A_ARG_25	<-->	1milA_A_GLU_93
+3n85A_A_SER_48	<-->	1milA_A_GLN_97
+3n85A_A_LEU_471	<-->	1milA_A_SER_48
+3n85A_A_THR_19	<-->	1milA_A_ASN_26
+3n85A_A_LEU_21	<-->	1milA_A_GLN_97
+3n85A_A_HIS_473	<-->	1milA_A_GLY_49
+3n85A_A_HIS_473	<-->	1milA_A_SER_48
+3n85A_A_ASP_480	<-->	1milA_A_ARG_17
+3n85A_A_THR_19	<-->	1milA_A_GLY_49
+3n85A_A_ARG_25	<-->	1milA_A_GLN_47
+3n85A_A_ASP_22	<-->	1milA_A_ASN_26
+3n85A_A_ASN_46	<-->	1milA_A_GLN_98
+3n85A_A_ASP_22	<-->	1milA_A_SER_48
+3n85A_A_ASP_22	<-->	1milA_A_GLN_47
+3n85A_A_HIS_26	<-->	1milA_A_SER_48
+3n85A_A_SER_48	<-->	1milA_A_HIS_84
+3n85A_A_HIS_26	<-->	1milA_A_GLN_47
+3n85A_A_GLU_18	<-->	1milA_A_LEU_25
+3n85A_A_GLU_18	<-->	1milA_A_GLN_24
+3n85A_A_PRO_17	<-->	1milA_A_LEU_25
+3n85A_A_SER_50	<-->	1milA_A_HIS_84
+3n85A_A_LEU_472	<-->	1milA_A_SER_48

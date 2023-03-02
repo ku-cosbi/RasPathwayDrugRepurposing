@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_GLN_59	<-->	3w32A_A_VAL_948
+5cusB_B_PRO_81	<-->	3w32A_A_GLN_935
+5cusB_B_ASP_54	<-->	3w32A_A_GLY_930
+5cusB_B_GLU_181	<-->	3w32A_A_PRO_936
+5cusB_B_GLU_181	<-->	3w32A_A_PRO_937
+5cusB_B_SER_76	<-->	3w32A_A_LYS_929
+5cusB_B_GLU_181	<-->	3w32A_A_GLN_935
+5cusB_B_ASP_54	<-->	3w32A_A_GLU_928
+5cusB_B_THR_118	<-->	3w32A_A_GLN_935
+5cusB_B_GLN_119	<-->	3w32A_A_ILE_941
+5cusB_B_CYS_183	<-->	3w32A_A_PRO_937
+5cusB_B_SER_180	<-->	3w32A_A_PRO_937
+5cusB_B_PRO_81	<-->	3w32A_A_TYR_944
+5cusB_B_SER_180	<-->	3w32A_A_SER_912
+5cusB_B_GLU_181	<-->	3w32A_A_THR_909
+5cusB_B_VAL_170	<-->	3w32A_A_LYS_806
+5cusB_B_ARG_84	<-->	3w32A_A_ILE_941
+5cusB_B_GLN_119	<-->	3w32A_A_GLN_935
+5cusB_B_ASP_54	<-->	3w32A_A_LYS_929
+5cusB_B_ALA_53	<-->	3w32A_A_LYS_929
+5cusB_B_TRP_60	<-->	3w32A_A_VAL_948
+5cusB_B_TRP_60	<-->	3w32A_A_LYS_949
+5cusB_B_TRP_60	<-->	3w32A_A_MET_945

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6zioA_A_GLN_150	<-->	6cc9B_B_GLU_143
+6zioA_A_THR_127	<-->	6cc9B_B_THR_158
+6zioA_A_THR_158	<-->	6cc9B_B_THR_127
+6zioA_A_ARG_123	<-->	6cc9B_B_ASP_154
+6zioA_A_THR_148	<-->	6cc9B_B_GLN_150
+6zioA_A_GLU_153	<-->	6cc9B_B_ARG_123
+6zioA_A_ASP_154	<-->	6cc9B_B_THR_127
+6zioA_A_ASP_154	<-->	6cc9B_B_GLU_143
+6zioA_A_ARG_161	<-->	6cc9B_B_LYS_128
+6zioA_A_ARG_161	<-->	6cc9B_B_THR_127
+6zioA_A_ARG_161	<-->	6cc9B_B_ASP_126
+6zioA_A_SER_145	<-->	6cc9B_B_GLN_150
+6zioA_A_GLN_150	<-->	6cc9B_B_GLN_150
+6zioA_A_ASP_126	<-->	6cc9B_B_ASP_47
+6zioA_A_HIS_131	<-->	6cc9B_B_PRO_140
+6zioA_A_ASP_126	<-->	6cc9B_B_ARG_161
+6zioA_A_ILE_142	<-->	6cc9B_B_GLN_131
+6zioA_A_PRO_140	<-->	6cc9B_B_GLN_131
+6zioA_A_LYS_128	<-->	6cc9B_B_LYS_165
+6zioA_A_GLN_165	<-->	6cc9B_B_LYS_128
+6zioA_A_LYS_128	<-->	6cc9B_B_ARG_161
+6zioA_A_GLY_138	<-->	6cc9B_B_ARG_135

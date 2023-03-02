@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_GLY_917	<-->	3pp0B_B_TRP_913
+4i1zA_A_PRO_919	<-->	3pp0B_B_ASP_924
+4i1zA_A_GLU_922	<-->	3pp0B_B_THR_917
+4i1zA_A_GLY_917	<-->	3pp0B_B_LYS_921
+4i1zA_A_PRO_919	<-->	3pp0B_B_ALA_920
+4i1zA_A_SER_925	<-->	3pp0B_B_ASN_991
+4i1zA_A_ILE_926	<-->	3pp0B_B_PRO_945
+4i1zA_A_GLU_922	<-->	3pp0B_B_ARG_814
+4i1zA_A_SER_921	<-->	3pp0B_B_ARG_814
+4i1zA_A_ILE_918	<-->	3pp0B_B_ASP_924
+4i1zA_A_SER_925	<-->	3pp0B_B_GLU_992
+4i1zA_A_ILE_918	<-->	3pp0B_B_PRO_942
+4i1zA_A_LYS_929	<-->	3pp0B_B_PRO_945
+4i1zA_A_ASP_916	<-->	3pp0B_B_ILE_926
+4i1zA_A_GLU_922	<-->	3pp0B_B_PRO_945
+4i1zA_A_LYS_913	<-->	3pp0B_B_ILE_926
+4i1zA_A_GLY_917	<-->	3pp0B_B_TYR_923
+4i1zA_A_LYS_913	<-->	3pp0B_B_ASP_924
+4i1zA_A_LYS_913	<-->	3pp0B_B_GLY_925
+4i1zA_A_LYS_929	<-->	3pp0B_B_ASN_991
+4i1zA_A_GLY_917	<-->	3pp0B_B_ASP_924

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ASP_159	<-->	2jitB_B_ILE_941
+4xwxA_A_ASP_159	<-->	2jitB_B_TYR_944
+4xwxA_A_ASP_159	<-->	2jitB_B_MET_945
+4xwxA_A_ASP_159	<-->	2jitB_B_VAL_948
+4xwxA_A_PRO_158	<-->	2jitB_B_PRO_934
+4xwxA_A_PRO_158	<-->	2jitB_B_GLN_935
+4xwxA_A_PRO_158	<-->	2jitB_B_ARG_932
+4xwxA_A_PRO_158	<-->	2jitB_B_LEU_933
+4xwxA_A_TYR_163	<-->	2jitB_B_ILE_941
+4xwxA_A_ALA_161	<-->	2jitB_B_ILE_941
+4xwxA_A_LYS_93	<-->	2jitB_B_ILE_941
+4xwxA_A_LYS_93	<-->	2jitB_B_ASP_942
+4xwxA_A_GLU_162	<-->	2jitB_B_ILE_941
+4xwxA_A_ARG_79	<-->	2jitB_B_GLY_930
+4xwxA_A_PRO_158	<-->	2jitB_B_VAL_948
+4xwxA_A_PRO_158	<-->	2jitB_B_TYR_944
+4xwxA_A_GLU_184	<-->	2jitB_B_PRO_937
+4xwxA_A_GLY_94	<-->	2jitB_B_MET_945
+4xwxA_A_THR_160	<-->	2jitB_B_MET_945
+4xwxA_A_GLY_94	<-->	2jitB_B_ILE_941
+4xwxA_A_ALA_161	<-->	2jitB_B_GLN_935
+4xwxA_A_THR_160	<-->	2jitB_B_ILE_941

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1griA_A_ASN_51	<-->	1milA_A_THR_37
+1griA_A_ASN_51	<-->	1milA_A_THR_36
+1griA_A_ASP_181	<-->	1milA_A_GLY_1
+1griA_A_ARG_179	<-->	1milA_A_SER_2
+1griA_A_ASN_216	<-->	1milA_A_LEU_104
+1griA_A_ASN_216	<-->	1milA_A_ARG_102
+1griA_A_ASN_216	<-->	1milA_A_LYS_103
+1griA_A_LYS_6	<-->	1milA_A_LYS_13
+1griA_A_GLN_157	<-->	1milA_A_LEU_14
+1griA_A_GLN_157	<-->	1milA_A_LYS_13
+1griA_A_GLN_157	<-->	1milA_A_HIS_11
+1griA_A_VAL_217	<-->	1milA_A_HIS_11
+1griA_A_VAL_217	<-->	1milA_A_LEU_14
+1griA_A_GLN_162	<-->	1milA_A_SER_2
+1griA_A_GLN_162	<-->	1milA_A_GLY_1
+1griA_A_GLY_180	<-->	1milA_A_SER_2
+1griA_A_GLY_180	<-->	1milA_A_GLY_1
+1griA_A_PHE_182	<-->	1milA_A_ARG_5
+1griA_A_PHE_182	<-->	1milA_A_GLY_1
+1griA_A_TYR_160	<-->	1milA_A_LYS_13
+1griA_A_TYR_160	<-->	1milA_A_GLY_12
+1griA_A_PRO_158	<-->	1milA_A_LYS_13
+1griA_A_TYR_160	<-->	1milA_A_GLU_33

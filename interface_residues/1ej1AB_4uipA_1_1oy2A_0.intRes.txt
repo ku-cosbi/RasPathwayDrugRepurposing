@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4uipA_A_ASN_49	<-->	1oy2A_A_ILE_109
+4uipA_A_ASN_49	<-->	1oy2A_A_SER_108
+4uipA_A_GLN_164	<-->	1oy2A_A_ALA_88
+4uipA_A_GLU_181	<-->	1oy2A_A_ARG_99
+4uipA_A_GLN_164	<-->	1oy2A_A_GLU_87
+4uipA_A_ALA_178	<-->	1oy2A_A_ARG_99
+4uipA_A_GLU_73	<-->	1oy2A_A_GLY_111
+4uipA_A_GLU_110	<-->	1oy2A_A_ARG_99
+4uipA_A_ASP_167	<-->	1oy2A_A_ARG_98
+4uipA_A_GLU_73	<-->	1oy2A_A_ARG_112
+4uipA_A_GLU_180	<-->	1oy2A_A_ARG_98
+4uipA_A_ALA_178	<-->	1oy2A_A_ARG_98
+4uipA_A_ARG_74	<-->	1oy2A_A_ARG_99
+4uipA_A_ASN_49	<-->	1oy2A_A_LEU_110
+4uipA_A_ARG_74	<-->	1oy2A_A_PRO_101
+4uipA_A_ARG_48	<-->	1oy2A_A_LEU_63
+4uipA_A_SER_162	<-->	1oy2A_A_LEU_115
+4uipA_A_GLY_179	<-->	1oy2A_A_ARG_98

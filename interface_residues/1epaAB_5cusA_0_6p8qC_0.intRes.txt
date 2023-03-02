@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_SER_448	<-->	6p8qC_C_LYS_757
+5cusA_A_PRO_470	<-->	6p8qC_C_ASN_700
+5cusA_A_PRO_470	<-->	6p8qC_C_GLN_701
+5cusA_A_GLU_461	<-->	6p8qC_C_LYS_708
+5cusA_A_GLU_461	<-->	6p8qC_C_GLU_709
+5cusA_A_THR_452	<-->	6p8qC_C_PRO_753
+5cusA_A_SER_487	<-->	6p8qC_C_LYS_757
+5cusA_A_HIS_447	<-->	6p8qC_C_GLN_701
+5cusA_A_GLY_488	<-->	6p8qC_C_LYS_757
+5cusA_A_ARG_472	<-->	6p8qC_C_ASN_700
+5cusA_A_ARG_434	<-->	6p8qC_C_LYS_708
+5cusA_A_ARG_472	<-->	6p8qC_C_PRO_699
+5cusA_A_ASN_450	<-->	6p8qC_C_LYS_757
+5cusA_A_GLU_461	<-->	6p8qC_C_CYS_781
+5cusA_A_ARG_471	<-->	6p8qC_C_GLN_701
+5cusA_A_ARG_471	<-->	6p8qC_C_ASN_700
+5cusA_A_ARG_471	<-->	6p8qC_C_PRO_699
+5cusA_A_ASP_464	<-->	6p8qC_C_LYS_708

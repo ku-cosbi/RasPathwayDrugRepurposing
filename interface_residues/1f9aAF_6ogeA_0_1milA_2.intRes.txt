@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_SER_70	<-->	1milA_A_GLN_97
+6ogeA_A_HIS_48	<-->	1milA_A_GLN_47
+6ogeA_A_HIS_495	<-->	1milA_A_GLN_50
+6ogeA_A_SER_70	<-->	1milA_A_HIS_84
+6ogeA_A_SER_72	<-->	1milA_A_HIS_84
+6ogeA_A_ARG_47	<-->	1milA_A_GLN_47
+6ogeA_A_PRO_66	<-->	1milA_A_LEU_25
+6ogeA_A_ASP_44	<-->	1milA_A_ASN_26
+6ogeA_A_HIS_478	<-->	1milA_A_GLN_50
+6ogeA_A_ASP_502	<-->	1milA_A_ARG_17
+6ogeA_A_HIS_495	<-->	1milA_A_GLY_49
+6ogeA_A_HIS_495	<-->	1milA_A_SER_48
+6ogeA_A_ASN_68	<-->	1milA_A_GLN_97
+6ogeA_A_ASN_68	<-->	1milA_A_GLN_98
+6ogeA_A_ASP_44	<-->	1milA_A_SER_48
+6ogeA_A_ARG_47	<-->	1milA_A_CYS_95
+6ogeA_A_ARG_47	<-->	1milA_A_GLN_97
+6ogeA_A_LEU_493	<-->	1milA_A_SER_48
