@@ -1,0 +1,13 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n2aA_A_ILE_18	<-->	2ks1B_B_ARG_170
+2n2aA_A_ALA_14	<-->	2ks1B_B_ARG_170
+2n2aA_A_PRO_7	<-->	2ks1B_B_VAL_159
+2n2aA_A_ILE_11	<-->	2ks1B_B_LEU_166
+2n2aA_A_ILE_11	<-->	2ks1B_B_LEU_162
+2n2aA_A_ALA_5	<-->	2ks1B_B_LEU_156
+2n2aA_A_VAL_21	<-->	2ks1B_B_ARG_170
+2n2aA_A_GLU_2	<-->	2ks1B_B_LEU_156
+2n2aA_A_GLY_17	<-->	2ks1B_B_ARG_170
+2n2aA_A_SER_6	<-->	2ks1B_B_VAL_159

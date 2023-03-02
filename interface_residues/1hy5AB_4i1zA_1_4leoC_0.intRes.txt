@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_GLU_736	<-->	4leoC_C_LYS_364
+4i1zA_A_THR_710	<-->	4leoC_C_SER_327
+4i1zA_A_GLY_735	<-->	4leoC_C_SER_326
+4i1zA_A_ILE_732	<-->	4leoC_C_LYS_364
+4i1zA_A_LYS_708	<-->	4leoC_C_SER_327
+4i1zA_A_GLU_734	<-->	4leoC_C_SER_327
+4i1zA_A_GLU_734	<-->	4leoC_C_SER_326
+4i1zA_A_GLY_917	<-->	4leoC_C_LEU_17
+4i1zA_A_GLU_709	<-->	4leoC_C_ARG_320
+4i1zA_A_ILE_918	<-->	4leoC_C_LEU_17
+4i1zA_A_LYS_713	<-->	4leoC_C_VAL_333
+4i1zA_A_LYS_737	<-->	4leoC_C_GLU_363
+4i1zA_A_PRO_919	<-->	4leoC_C_LEU_17
+4i1zA_A_LYS_737	<-->	4leoC_C_LYS_364
+4i1zA_A_GLY_735	<-->	4leoC_C_ALA_359
+4i1zA_A_GLY_735	<-->	4leoC_C_PRO_358
+4i1zA_A_LYS_737	<-->	4leoC_C_ASP_361
+4i1zA_A_GLU_734	<-->	4leoC_C_LYS_356
+4i1zA_A_GLU_734	<-->	4leoC_C_ILE_357
+4i1zA_A_LYS_708	<-->	4leoC_C_ILE_357
+4i1zA_A_GLU_734	<-->	4leoC_C_PRO_358
+4i1zA_A_ILE_732	<-->	4leoC_C_ASP_330

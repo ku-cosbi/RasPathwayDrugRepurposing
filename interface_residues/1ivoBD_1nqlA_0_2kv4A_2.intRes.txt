@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1nqlA_A_SER_468	<-->	2kv4A_A_TRP_50
+1nqlA_A_GLN_384	<-->	2kv4A_A_ARG_45
+1nqlA_A_LEU_382	<-->	2kv4A_A_ARG_45
+1nqlA_A_PRO_349	<-->	2kv4A_A_TYR_37
+1nqlA_A_ILE_438	<-->	2kv4A_A_GLU_51
+1nqlA_A_ILE_438	<-->	2kv4A_A_TRP_50
+1nqlA_A_SER_440	<-->	2kv4A_A_TRP_50
+1nqlA_A_LEU_325	<-->	2kv4A_A_GLN_43
+1nqlA_A_ARG_353	<-->	2kv4A_A_HIS_16
+1nqlA_A_GLN_408	<-->	2kv4A_A_ARG_45
+1nqlA_A_GLN_408	<-->	2kv4A_A_TYR_44
+1nqlA_A_PRO_349	<-->	2kv4A_A_HIS_16
+1nqlA_A_ALA_415	<-->	2kv4A_A_ARG_45
+1nqlA_A_LYS_465	<-->	2kv4A_A_TRP_50
+1nqlA_A_HIS_409	<-->	2kv4A_A_TYR_44
+1nqlA_A_HIS_409	<-->	2kv4A_A_ARG_45
+1nqlA_A_HIS_409	<-->	2kv4A_A_LEU_47
+1nqlA_A_ILE_467	<-->	2kv4A_A_TRP_50

@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n2aA_A_ILE_12	<-->	1xdvA_A_GLU_680
+2n2aA_A_LEU_8	<-->	1xdvA_A_VAL_257
+2n2aA_A_VAL_16	<-->	1xdvA_A_PHE_677
+2n2aA_A_ILE_11	<-->	1xdvA_A_VAL_257
+2n2aA_A_PRO_7	<-->	1xdvA_A_ARG_213
+2n2aA_A_VAL_15	<-->	1xdvA_A_VAL_257
+2n2aA_A_ILE_18	<-->	1xdvA_A_LYS_224
+2n2aA_A_SER_6	<-->	1xdvA_A_ARG_213
+2n2aA_A_ALA_5	<-->	1xdvA_A_ARG_213
+2n2aA_A_SER_10	<-->	1xdvA_A_ARG_213
+2n2aA_A_VAL_15	<-->	1xdvA_A_HIS_253
+2n2aA_A_LEU_8	<-->	1xdvA_A_GLU_264
+2n2aA_A_ILE_11	<-->	1xdvA_A_ILE_216
+2n2aA_A_LEU_8	<-->	1xdvA_A_LEU_260
+2n2aA_A_LEU_8	<-->	1xdvA_A_GLY_261

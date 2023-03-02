@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1nqlA_A_LYS_465	<-->	1p9jA_A_LYS_50
+1nqlA_A_SER_468	<-->	1p9jA_A_LEU_49
+1nqlA_A_PRO_349	<-->	1p9jA_A_GLN_45
+1nqlA_A_GLN_384	<-->	1p9jA_A_TYR_46
+1nqlA_A_LEU_348	<-->	1p9jA_A_GLN_45
+1nqlA_A_LEU_348	<-->	1p9jA_A_GLU_42
+1nqlA_A_PHE_357	<-->	1p9jA_A_TYR_15
+1nqlA_A_GLN_408	<-->	1p9jA_A_TYR_46
+1nqlA_A_SER_324	<-->	1p9jA_A_ARG_43
+1nqlA_A_HIS_409	<-->	1p9jA_A_TYR_46
+1nqlA_A_HIS_409	<-->	1p9jA_A_ILE_40
+1nqlA_A_HIS_409	<-->	1p9jA_A_GLY_41
+1nqlA_A_ILE_467	<-->	1p9jA_A_LYS_50
+1nqlA_A_HIS_346	<-->	1p9jA_A_GLU_42
+1nqlA_A_SER_468	<-->	1p9jA_A_GLU_53
+1nqlA_A_LEU_325	<-->	1p9jA_A_GLN_45
+1nqlA_A_LEU_325	<-->	1p9jA_A_ARG_43
+1nqlA_A_LEU_325	<-->	1p9jA_A_GLU_42
+1nqlA_A_ASP_323	<-->	1p9jA_A_ARG_43
+1nqlA_A_ASP_355	<-->	1p9jA_A_TYR_15
+1nqlA_A_ASP_355	<-->	1p9jA_A_GLY_14
+1nqlA_A_GLY_441	<-->	1p9jA_A_LEU_49
+1nqlA_A_SER_440	<-->	1p9jA_A_LEU_49
+1nqlA_A_THR_358	<-->	1p9jA_A_TYR_15

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1yy9A_A_SER_468	<-->	1gk5A_A_ALA_49
+1yy9A_A_VAL_417	<-->	1gk5A_A_ALA_45
+1yy9A_A_VAL_417	<-->	1gk5A_A_LEU_47
+1yy9A_A_ILE_467	<-->	1gk5A_A_LEU_48
+1yy9A_A_GLN_384	<-->	1gk5A_A_HIS_44
+1yy9A_A_GLN_384	<-->	1gk5A_A_ALA_45
+1yy9A_A_ILE_467	<-->	1gk5A_A_ALA_49
+1yy9A_A_LEU_348	<-->	1gk5A_A_GLU_43
+1yy9A_A_GLN_408	<-->	1gk5A_A_HIS_44
+1yy9A_A_HIS_409	<-->	1gk5A_A_HIS_44
+1yy9A_A_SER_356	<-->	1gk5A_A_ASP_11
+1yy9A_A_PHE_357	<-->	1gk5A_A_ASP_11
+1yy9A_A_PHE_357	<-->	1gk5A_A_TYR_10
+1yy9A_A_LEU_325	<-->	1gk5A_A_GLU_43
+1yy9A_A_VAL_350	<-->	1gk5A_A_GLU_43
+1yy9A_A_LEU_382	<-->	1gk5A_A_HIS_44
+1yy9A_A_HIS_409	<-->	1gk5A_A_GLY_39
+1yy9A_A_HIS_409	<-->	1gk5A_A_SER_38
+1yy9A_A_PHE_412	<-->	1gk5A_A_ASP_46
+1yy9A_A_SER_440	<-->	1gk5A_A_LEU_47
+1yy9A_A_LEU_325	<-->	1gk5A_A_LEU_15
+1yy9A_A_SER_440	<-->	1gk5A_A_ALA_49
