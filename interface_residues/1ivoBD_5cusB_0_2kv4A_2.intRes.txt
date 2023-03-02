@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ARG_407	<-->	2kv4A_A_GLU_51
+5cusB_B_TYR_405	<-->	2kv4A_A_GLN_43
+5cusB_B_TYR_405	<-->	2kv4A_A_TYR_44
+5cusB_B_GLN_322	<-->	2kv4A_A_TYR_44
+5cusB_B_ARG_407	<-->	2kv4A_A_TRP_50
+5cusB_B_ASN_406	<-->	2kv4A_A_ARG_45
+5cusB_B_PRO_353	<-->	2kv4A_A_TYR_13
+5cusB_B_MET_414	<-->	2kv4A_A_TYR_37
+5cusB_B_LEU_345	<-->	2kv4A_A_GLN_43
+5cusB_B_GLN_322	<-->	2kv4A_A_GLN_43
+5cusB_B_GLN_322	<-->	2kv4A_A_GLU_40
+5cusB_B_ILE_346	<-->	2kv4A_A_HIS_16
+5cusB_B_ILE_346	<-->	2kv4A_A_LEU_15
+5cusB_B_THR_347	<-->	2kv4A_A_ARG_41
+5cusB_B_TRP_354	<-->	2kv4A_A_GLU_40

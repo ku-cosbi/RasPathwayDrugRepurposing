@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_ARG_434	<-->	5wb7E_E_VAL_48
+5cusA_A_LEU_345	<-->	5wb7E_E_HIS_43
+5cusA_A_TYR_405	<-->	5wb7E_E_HIS_43
+5cusA_A_MET_414	<-->	5wb7E_E_PHE_44
+5cusA_A_PRO_353	<-->	5wb7E_E_ARG_40
+5cusA_A_ASP_464	<-->	5wb7E_E_THR_47
+5cusA_A_PRO_353	<-->	5wb7E_E_GLY_12
+5cusA_A_ASP_464	<-->	5wb7E_E_VAL_48
+5cusA_A_GLN_381	<-->	5wb7E_E_HIS_43
+5cusA_A_GLN_322	<-->	5wb7E_E_GLU_42
+5cusA_A_LEU_345	<-->	5wb7E_E_GLU_42
+5cusA_A_LEU_412	<-->	5wb7E_E_LEU_46
+5cusA_A_THR_347	<-->	5wb7E_E_LEU_15
+5cusA_A_ARG_407	<-->	5wb7E_E_LEU_46
+5cusA_A_TRP_354	<-->	5wb7E_E_TYR_13
+5cusA_A_ASN_406	<-->	5wb7E_E_PHE_45
+5cusA_A_ASN_406	<-->	5wb7E_E_PHE_44
+5cusA_A_MET_414	<-->	5wb7E_E_LEU_46
+5cusA_A_PHE_409	<-->	5wb7E_E_LEU_46
+5cusA_A_TYR_436	<-->	5wb7E_E_LEU_46
+5cusA_A_ASN_406	<-->	5wb7E_E_LEU_46

@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_TRP_354	<-->	1jl9B_B_PRO_7
+5cusB_B_ASN_406	<-->	1jl9B_B_ARG_45
+5cusB_B_ASN_406	<-->	1jl9B_B_ASP_46
+5cusB_B_ARG_407	<-->	1jl9B_B_LEU_47
+5cusB_B_PRO_353	<-->	1jl9B_B_TYR_13
+5cusB_B_PRO_353	<-->	1jl9B_B_GLY_12
+5cusB_B_MET_414	<-->	1jl9B_B_TYR_37
+5cusB_B_LEU_345	<-->	1jl9B_B_GLN_43
+5cusB_B_MET_414	<-->	1jl9B_B_ARG_45
+5cusB_B_THR_347	<-->	1jl9B_B_LEU_15
+5cusB_B_ASN_406	<-->	1jl9B_B_LEU_47
+5cusB_B_ILE_346	<-->	1jl9B_B_HIS_16
+5cusB_B_TRP_354	<-->	1jl9B_B_HIS_10
+5cusB_B_LEU_412	<-->	1jl9B_B_LEU_47
+5cusB_B_TYR_436	<-->	1jl9B_B_TRP_50
+5cusB_B_ARG_407	<-->	1jl9B_B_LYS_48
+5cusB_B_PHE_409	<-->	1jl9B_B_LEU_47
+5cusB_B_TYR_436	<-->	1jl9B_B_LEU_47
+5cusB_B_TRP_354	<-->	1jl9B_B_TYR_13
