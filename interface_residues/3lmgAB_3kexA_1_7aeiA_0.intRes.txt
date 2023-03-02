@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_GLY_730	<-->	7aeiA_A_THR_710
+3kexA_A_ARG_731	<-->	7aeiA_A_THR_710
+3kexA_A_GLY_697	<-->	7aeiA_A_VAL_717
+3kexA_A_THR_703	<-->	7aeiA_A_TYR_727
+3kexA_A_VAL_695	<-->	7aeiA_A_VAL_717
+3kexA_A_SER_762	<-->	7aeiA_A_SER_784
+3kexA_A_SER_729	<-->	7aeiA_A_THR_710
+3kexA_A_VAL_695	<-->	7aeiA_A_GLY_719
+3kexA_A_LYS_692	<-->	7aeiA_A_ALA_750
+3kexA_A_GLY_730	<-->	7aeiA_A_GLU_709
+3kexA_A_SER_698	<-->	7aeiA_A_VAL_717
+3kexA_A_GLU_687	<-->	7aeiA_A_THR_751
+3kexA_A_GLU_687	<-->	7aeiA_A_ALA_750
+3kexA_A_LYS_694	<-->	7aeiA_A_SER_720
+3kexA_A_LYS_694	<-->	7aeiA_A_GLY_721
+3kexA_A_VAL_695	<-->	7aeiA_A_THR_725
+3kexA_A_VAL_695	<-->	7aeiA_A_SER_720
+3kexA_A_ARG_691	<-->	7aeiA_A_ALA_750
+3kexA_A_HIS_705	<-->	7aeiA_A_THR_725
+3kexA_A_THR_703	<-->	7aeiA_A_VAL_717
+3kexA_A_HIS_705	<-->	7aeiA_A_TYR_727
+3kexA_A_LEU_693	<-->	7aeiA_A_GLY_721
+3kexA_A_LYS_692	<-->	7aeiA_A_LEU_747

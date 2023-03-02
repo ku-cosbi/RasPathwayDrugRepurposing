@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2jitB_B_LEU_703	<-->	1xd4A_A_LEU_381
+2jitB_B_THR_783	<-->	1xd4A_A_LYS_370
+2jitB_B_ALA_750	<-->	1xd4A_A_LYS_370
+2jitB_B_ASN_756	<-->	1xd4A_A_GLU_362
+2jitB_B_LEU_782	<-->	1xd4A_A_LYS_370
+2jitB_B_GLU_709	<-->	1xd4A_A_LYS_374
+2jitB_B_THR_783	<-->	1xd4A_A_LYS_374
+2jitB_B_LEU_782	<-->	1xd4A_A_GLU_361
+2jitB_B_ILE_706	<-->	1xd4A_A_THR_378
+2jitB_B_LEU_704	<-->	1xd4A_A_LYS_358
+2jitB_B_LYS_757	<-->	1xd4A_A_GLU_362
+2jitB_B_SER_784	<-->	1xd4A_A_GLN_367
+2jitB_B_LEU_782	<-->	1xd4A_A_ILE_377
+2jitB_B_LEU_782	<-->	1xd4A_A_LYS_374
+2jitB_B_ILE_706	<-->	1xd4A_A_ILE_377
+2jitB_B_SER_784	<-->	1xd4A_A_LYS_370
+2jitB_B_LEU_760	<-->	1xd4A_A_GLU_362
+2jitB_B_ILE_706	<-->	1xd4A_A_LYS_374

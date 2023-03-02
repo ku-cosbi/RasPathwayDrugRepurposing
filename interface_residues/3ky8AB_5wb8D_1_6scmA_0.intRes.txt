@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8D_D_PHE_156	<-->	6scmA_A_LEU_1024
+5wb8D_D_ILE_190	<-->	6scmA_A_ARG_896
+5wb8D_D_GLN_139	<-->	6scmA_A_PRO_894
+5wb8D_D_GLN_139	<-->	6scmA_A_GLN_892
+5wb8D_D_GLN_139	<-->	6scmA_A_ILE_893
+5wb8D_D_GLN_139	<-->	6scmA_A_GLU_891
+5wb8D_D_ASN_172	<-->	6scmA_A_LYS_898
+5wb8D_D_ASN_172	<-->	6scmA_A_ILE_893
+5wb8D_D_ASN_172	<-->	6scmA_A_GLU_891
+5wb8D_D_ASN_172	<-->	6scmA_A_PHE_890
+5wb8D_D_ASN_172	<-->	6scmA_A_SER_895
+5wb8D_D_ASN_172	<-->	6scmA_A_PRO_894
+5wb8D_D_GLU_136	<-->	6scmA_A_HIS_888
+5wb8D_D_SER_174	<-->	6scmA_A_GLU_891
+5wb8D_D_SER_137	<-->	6scmA_A_GLU_891
+5wb8D_D_ILE_190	<-->	6scmA_A_SER_895
+5wb8D_D_HIS_159	<-->	6scmA_A_PRO_1021
+5wb8D_D_HIS_159	<-->	6scmA_A_ASN_1020
+5wb8D_D_ILE_189	<-->	6scmA_A_PRO_894
+5wb8D_D_PRO_171	<-->	6scmA_A_SER_895
+5wb8D_D_GLN_157	<-->	6scmA_A_PRO_1023
+5wb8D_D_GLU_136	<-->	6scmA_A_GLU_891
+5wb8D_D_GLN_157	<-->	6scmA_A_LEU_1024
+5wb8D_D_LEU_186	<-->	6scmA_A_SER_895

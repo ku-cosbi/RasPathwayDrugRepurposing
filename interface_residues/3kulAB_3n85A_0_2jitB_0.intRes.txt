@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_ASN_338	<-->	2jitB_B_LYS_949
+3n85A_A_THR_367	<-->	2jitB_B_LYS_970
+3n85A_A_ASN_366	<-->	2jitB_B_LYS_970
+3n85A_A_PRO_315	<-->	2jitB_B_GLU_928
+3n85A_A_PRO_315	<-->	2jitB_B_LYS_929
+3n85A_A_ARG_318	<-->	2jitB_B_ASP_954
+3n85A_A_ALA_337	<-->	2jitB_B_LYS_949
+3n85A_A_PRO_315	<-->	2jitB_B_SER_925
+3n85A_A_ALA_364	<-->	2jitB_B_ARG_977
+3n85A_A_ARG_318	<-->	2jitB_B_ILE_953
+3n85A_A_GLN_340	<-->	2jitB_B_SER_957
+3n85A_A_GLN_340	<-->	2jitB_B_GLU_963
+3n85A_A_SER_365	<-->	2jitB_B_ARG_977
+3n85A_A_ASN_366	<-->	2jitB_B_TYR_978
+3n85A_A_ALA_368	<-->	2jitB_B_LYS_970
+3n85A_A_ASN_366	<-->	2jitB_B_MET_971
+3n85A_A_ALA_343	<-->	2jitB_B_SER_957
+3n85A_A_HIS_327	<-->	2jitB_B_MET_945
+3n85A_A_GLU_341	<-->	2jitB_B_SER_957
+3n85A_A_ALA_343	<-->	2jitB_B_ASP_956
+3n85A_A_CYS_316	<-->	2jitB_B_GLU_928

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6scmA_A_GLY_719	<-->	4nyiR_R_GLN_70
+6scmA_A_GLU_649	<-->	4nyiR_R_GLN_61
+6scmA_A_ARG_722	<-->	4nyiR_R_MET_67
+6scmA_A_GLN_638	<-->	4nyiR_R_GLU_37
+6scmA_A_TYR_709	<-->	4nyiR_R_TYR_40
+6scmA_A_ARG_722	<-->	4nyiR_R_TYR_64
+6scmA_A_THR_720	<-->	4nyiR_R_MET_67
+6scmA_A_GLU_716	<-->	4nyiR_R_THR_74
+6scmA_A_GLN_686	<-->	4nyiR_R_TYR_64
+6scmA_A_THR_720	<-->	4nyiR_R_TYR_71
+6scmA_A_THR_720	<-->	4nyiR_R_GLN_70
+6scmA_A_GLU_716	<-->	4nyiR_R_TYR_71
+6scmA_A_GLU_716	<-->	4nyiR_R_LEU_56
+6scmA_A_GLU_639	<-->	4nyiR_R_GLU_37
+6scmA_A_ARG_722	<-->	4nyiR_R_SER_65
+6scmA_A_ARG_722	<-->	4nyiR_R_ALA_66
+6scmA_A_SER_642	<-->	4nyiR_R_THR_35
+6scmA_A_ARG_576	<-->	4nyiR_R_PRO_34
+6scmA_A_ARG_576	<-->	4nyiR_R_THR_35
+6scmA_A_ARG_576	<-->	4nyiR_R_TYR_32
+6scmA_A_ARG_576	<-->	4nyiR_R_ASP_33

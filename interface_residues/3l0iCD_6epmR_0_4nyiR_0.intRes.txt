@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6epmR_R_TYR_137	<-->	4nyiR_R_PRO_34
+6epmR_R_GLY_138	<-->	4nyiR_R_PRO_34
+6epmR_R_LYS_101	<-->	4nyiR_R_GLU_37
+6epmR_R_PHE_90	<-->	4nyiR_R_TYR_64
+6epmR_R_ARG_97	<-->	4nyiR_R_GLU_37
+6epmR_R_GLY_138	<-->	4nyiR_R_THR_35
+6epmR_R_GLU_107	<-->	4nyiR_R_ILE_36
+6epmR_R_GLU_107	<-->	4nyiR_R_GLU_37
+6epmR_R_ASP_108	<-->	4nyiR_R_THR_35
+6epmR_R_ILE_139	<-->	4nyiR_R_THR_35
+6epmR_R_TYR_137	<-->	4nyiR_R_THR_35
+6epmR_R_ASP_108	<-->	4nyiR_R_ILE_36
+6epmR_R_HIS_94	<-->	4nyiR_R_GLN_61
+6epmR_R_ASP_132	<-->	4nyiR_R_GLY_60
+6epmR_R_ASP_108	<-->	4nyiR_R_ASP_33
+6epmR_R_LEU_133	<-->	4nyiR_R_GLN_61
+6epmR_R_SER_106	<-->	4nyiR_R_GLU_37
+6epmR_R_GLN_129	<-->	4nyiR_R_TYR_64
+6epmR_R_GLU_91	<-->	4nyiR_R_MET_67

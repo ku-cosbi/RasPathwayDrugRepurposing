@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_GLN_129	<-->	6q0kA_A_GLU_695
+2n42A_A_GLN_129	<-->	6q0kA_A_ALA_694
+2n42A_A_GLU_91	<-->	6q0kA_A_LYS_687
+2n42A_A_GLN_129	<-->	6q0kA_A_GLU_703
+2n42A_A_GLN_95	<-->	6q0kA_A_LYS_687
+2n42A_A_LEU_133	<-->	6q0kA_A_ARG_691
+2n42A_A_GLU_91	<-->	6q0kA_A_ALA_688
+2n42A_A_LEU_133	<-->	6q0kA_A_ALA_694
+2n42A_A_GLN_129	<-->	6q0kA_A_LYS_698
+2n42A_A_ARG_128	<-->	6q0kA_A_LYS_700
+2n42A_A_VAL_125	<-->	6q0kA_A_GLU_703
+2n42A_A_LEU_133	<-->	6q0kA_A_GLU_695
+2n42A_A_ARG_128	<-->	6q0kA_A_GLU_703
+2n42A_A_ASP_132	<-->	6q0kA_A_LYS_699
+2n42A_A_ASP_132	<-->	6q0kA_A_LYS_698
+2n42A_A_LYS_101	<-->	6q0kA_A_SER_679
+2n42A_A_ASP_132	<-->	6q0kA_A_LYS_700
+2n42A_A_HIS_94	<-->	6q0kA_A_ARG_691
+2n42A_A_VAL_125	<-->	6q0kA_A_PRO_705

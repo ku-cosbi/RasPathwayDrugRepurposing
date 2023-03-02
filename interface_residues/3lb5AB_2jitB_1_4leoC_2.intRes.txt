@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2jitB_B_GLU_711	<-->	4leoC_C_ASN_52
+2jitB_B_ARG_705	<-->	4leoC_C_HIS_110
+2jitB_B_GLY_735	<-->	4leoC_C_THR_77
+2jitB_B_ARG_705	<-->	4leoC_C_ASN_52
+2jitB_B_GLY_735	<-->	4leoC_C_GLN_114
+2jitB_B_GLU_736	<-->	4leoC_C_ARG_113
+2jitB_B_GLU_734	<-->	4leoC_C_SER_76
+2jitB_B_GLU_734	<-->	4leoC_C_THR_77
+2jitB_B_TYR_1016	<-->	4leoC_C_SER_109
+2jitB_B_LEU_707	<-->	4leoC_C_ASN_52
+2jitB_B_LYS_708	<-->	4leoC_C_ASP_54
+2jitB_B_GLY_735	<-->	4leoC_C_ARG_113
+2jitB_B_LYS_708	<-->	4leoC_C_HIS_51
+2jitB_B_ARG_705	<-->	4leoC_C_HIS_51
+2jitB_B_LYS_708	<-->	4leoC_C_ALA_53
+2jitB_B_LYS_708	<-->	4leoC_C_ASN_52
+2jitB_B_ILE_706	<-->	4leoC_C_ASN_52
+2jitB_B_GLY_735	<-->	4leoC_C_SER_76

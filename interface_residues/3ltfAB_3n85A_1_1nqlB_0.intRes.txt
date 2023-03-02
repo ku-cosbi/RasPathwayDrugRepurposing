@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_LEU_13	<-->	1nqlB_B_LYS_48
+3n85A_A_ALA_15	<-->	1nqlB_B_LEU_47
+3n85A_A_GLU_330	<-->	1nqlB_B_HIS_10
+3n85A_A_PRO_356	<-->	1nqlB_B_ARG_45
+3n85A_A_ARG_332	<-->	1nqlB_B_GLN_43
+3n85A_A_ARG_332	<-->	1nqlB_B_TYR_44
+3n85A_A_GLU_357	<-->	1nqlB_B_LEU_15
+3n85A_A_ARG_12	<-->	1nqlB_B_ILE_38
+3n85A_A_LEU_13	<-->	1nqlB_B_LEU_47
+3n85A_A_PRO_14	<-->	1nqlB_B_LEU_47
+3n85A_A_GLU_357	<-->	1nqlB_B_GLN_43
+3n85A_A_ASP_362	<-->	1nqlB_B_TYR_13
+3n85A_A_ASP_362	<-->	1nqlB_B_LEU_15
+3n85A_A_ARG_12	<-->	1nqlB_B_LEU_47
+3n85A_A_ALA_364	<-->	1nqlB_B_TYR_13
+3n85A_A_LEU_355	<-->	1nqlB_B_TYR_44
+3n85A_A_ALA_364	<-->	1nqlB_B_SER_4
+3n85A_A_ALA_364	<-->	1nqlB_B_ASP_3
+3n85A_A_SER_365	<-->	1nqlB_B_TYR_13
+3n85A_A_PRO_14	<-->	1nqlB_B_LYS_48

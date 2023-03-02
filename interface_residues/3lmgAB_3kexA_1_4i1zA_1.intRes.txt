@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_GLY_730	<-->	4i1zA_A_THR_710
+3kexA_A_THR_703	<-->	4i1zA_A_TYR_727
+3kexA_A_SER_729	<-->	4i1zA_A_LYS_713
+3kexA_A_SER_762	<-->	4i1zA_A_GLU_709
+3kexA_A_ARG_691	<-->	4i1zA_A_GLU_749
+3kexA_A_GLU_726	<-->	4i1zA_A_LYS_714
+3kexA_A_LYS_694	<-->	4i1zA_A_ARG_748
+3kexA_A_SER_698	<-->	4i1zA_A_VAL_717
+3kexA_A_VAL_695	<-->	4i1zA_A_ARG_748
+3kexA_A_HIS_705	<-->	4i1zA_A_ARG_748
+3kexA_A_LYS_694	<-->	4i1zA_A_GLY_721
+3kexA_A_VAL_695	<-->	4i1zA_A_THR_725
+3kexA_A_VAL_695	<-->	4i1zA_A_SER_720
+3kexA_A_LYS_728	<-->	4i1zA_A_LYS_714
+3kexA_A_LYS_728	<-->	4i1zA_A_LYS_713
+3kexA_A_LYS_728	<-->	4i1zA_A_PHE_712
+3kexA_A_HIS_705	<-->	4i1zA_A_THR_725
+3kexA_A_THR_703	<-->	4i1zA_A_VAL_717
+3kexA_A_LEU_693	<-->	4i1zA_A_ARG_748
+3kexA_A_LYS_692	<-->	4i1zA_A_ARG_748
+3kexA_A_LYS_692	<-->	4i1zA_A_GLU_749
+3kexA_A_LEU_693	<-->	4i1zA_A_ALA_722

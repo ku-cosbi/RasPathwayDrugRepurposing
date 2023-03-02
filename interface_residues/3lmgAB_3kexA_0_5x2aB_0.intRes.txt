@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_GLY_730	<-->	5x2aB_B_THR_710
+3kexA_A_ARG_731	<-->	5x2aB_B_THR_710
+3kexA_A_GLY_697	<-->	5x2aB_B_VAL_717
+3kexA_A_THR_703	<-->	5x2aB_B_TYR_727
+3kexA_A_VAL_695	<-->	5x2aB_B_VAL_717
+3kexA_A_SER_762	<-->	5x2aB_B_THR_783
+3kexA_A_SER_762	<-->	5x2aB_B_SER_784
+3kexA_A_SER_729	<-->	5x2aB_B_THR_710
+3kexA_A_VAL_695	<-->	5x2aB_B_GLY_719
+3kexA_A_ARG_691	<-->	5x2aB_B_GLU_749
+3kexA_A_GLU_726	<-->	5x2aB_B_LYS_714
+3kexA_A_GLY_730	<-->	5x2aB_B_GLU_709
+3kexA_A_LYS_694	<-->	5x2aB_B_ARG_748
+3kexA_A_ARG_691	<-->	5x2aB_B_LYS_875
+3kexA_A_SER_698	<-->	5x2aB_B_LYS_716
+3kexA_A_SER_698	<-->	5x2aB_B_VAL_717
+3kexA_A_LYS_694	<-->	5x2aB_B_SER_720
+3kexA_A_VAL_695	<-->	5x2aB_B_THR_725
+3kexA_A_VAL_695	<-->	5x2aB_B_SER_720
+3kexA_A_LYS_728	<-->	5x2aB_B_LYS_713
+3kexA_A_HIS_705	<-->	5x2aB_B_THR_725
+3kexA_A_THR_703	<-->	5x2aB_B_VAL_717
+3kexA_A_LEU_693	<-->	5x2aB_B_ARG_748
+3kexA_A_LYS_692	<-->	5x2aB_B_ARG_748

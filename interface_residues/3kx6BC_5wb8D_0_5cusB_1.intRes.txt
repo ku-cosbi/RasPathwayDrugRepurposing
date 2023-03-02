@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8D_D_LEU_186	<-->	5cusB_B_ARG_145
+5wb8D_D_SER_150	<-->	5cusB_B_THR_141
+5wb8D_D_LYS_202	<-->	5cusB_B_PRO_202
+5wb8D_D_SER_150	<-->	5cusB_B_CYS_167
+5wb8D_D_SER_150	<-->	5cusB_B_PRO_166
+5wb8D_D_GLN_157	<-->	5cusB_B_ASP_159
+5wb8D_D_SER_146	<-->	5cusB_B_GLY_173
+5wb8D_D_SER_146	<-->	5cusB_B_LYS_172
+5wb8D_D_ASN_172	<-->	5cusB_B_ARG_151
+5wb8D_D_LEU_149	<-->	5cusB_B_GLY_173
+5wb8D_D_SER_174	<-->	5cusB_B_ARG_145
+5wb8D_D_ASP_155	<-->	5cusB_B_ASP_159
+5wb8D_D_ASP_155	<-->	5cusB_B_LYS_158
+5wb8D_D_MET_152	<-->	5cusB_B_ASP_140
+5wb8D_D_GLN_184	<-->	5cusB_B_ARG_145
+5wb8D_D_ILE_189	<-->	5cusB_B_ARG_145
+5wb8D_D_LEU_149	<-->	5cusB_B_THR_141
+5wb8D_D_GLY_173	<-->	5cusB_B_ARG_151
+5wb8D_D_MET_154	<-->	5cusB_B_ASP_159
+5wb8D_D_ASN_172	<-->	5cusB_B_ARG_145
+5wb8D_D_PHE_156	<-->	5cusB_B_LYS_158
+5wb8D_D_GLN_139	<-->	5cusB_B_ILE_142
+5wb8D_D_GLN_139	<-->	5cusB_B_ASP_143
+5wb8D_D_GLN_139	<-->	5cusB_B_ARG_145

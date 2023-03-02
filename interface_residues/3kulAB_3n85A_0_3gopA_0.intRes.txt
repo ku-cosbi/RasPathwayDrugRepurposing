@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_GLN_340	<-->	3gopA_A_SER_933
+3n85A_A_ALA_337	<-->	3gopA_A_MET_921
+3n85A_A_ALA_337	<-->	3gopA_A_LYS_925
+3n85A_A_VAL_331	<-->	3gopA_A_ILE_917
+3n85A_A_GLU_341	<-->	3gopA_A_MET_928
+3n85A_A_HIS_327	<-->	3gopA_A_TYR_920
+3n85A_A_CYS_316	<-->	3gopA_A_LYS_905
+3n85A_A_ASN_338	<-->	3gopA_A_MET_921
+3n85A_A_ASN_366	<-->	3gopA_A_TYR_954
+3n85A_A_ALA_364	<-->	3gopA_A_TYR_954
+3n85A_A_ALA_364	<-->	3gopA_A_ARG_953
+3n85A_A_PRO_315	<-->	3gopA_A_SER_901
+3n85A_A_GLN_340	<-->	3gopA_A_MET_928
+3n85A_A_ALA_317	<-->	3gopA_A_GLU_904
+3n85A_A_ALA_317	<-->	3gopA_A_LYS_905
+3n85A_A_SER_365	<-->	3gopA_A_TYR_954
+3n85A_A_ALA_343	<-->	3gopA_A_SER_933
+3n85A_A_ALA_343	<-->	3gopA_A_ASP_930
+3n85A_A_ARG_318	<-->	3gopA_A_GLU_904
+3n85A_A_ASN_366	<-->	3gopA_A_GLU_943
+3n85A_A_ASN_366	<-->	3gopA_A_LYS_946
+3n85A_A_SER_365	<-->	3gopA_A_ASP_918

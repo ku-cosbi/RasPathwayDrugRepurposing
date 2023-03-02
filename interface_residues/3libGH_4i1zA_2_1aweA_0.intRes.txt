@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_TYR_944	<-->	1aweA_A_GLU_43
+4i1zA_A_ILE_953	<-->	1aweA_A_GLN_39
+4i1zA_A_ARG_948	<-->	1aweA_A_CYS_41
+4i1zA_A_ARG_948	<-->	1aweA_A_GLU_43
+4i1zA_A_ARG_948	<-->	1aweA_A_GLY_38
+4i1zA_A_ARG_932	<-->	1aweA_A_GLY_38
+4i1zA_A_MET_952	<-->	1aweA_A_GLN_39
+4i1zA_A_MET_952	<-->	1aweA_A_CYS_41
+4i1zA_A_MET_952	<-->	1aweA_A_CYS_40
+4i1zA_A_ASP_954	<-->	1aweA_A_GLN_39
+4i1zA_A_GLY_930	<-->	1aweA_A_ASN_23
+4i1zA_A_LYS_929	<-->	1aweA_A_ASN_23
+4i1zA_A_LYS_929	<-->	1aweA_A_MET_22
+4i1zA_A_GLU_931	<-->	1aweA_A_ASN_23

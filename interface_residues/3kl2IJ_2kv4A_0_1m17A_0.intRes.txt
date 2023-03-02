@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2kv4A_A_ASP_27	<-->	1m17A_A_SER_888
+2kv4A_A_ASP_27	<-->	1m17A_A_PHE_886
+2kv4A_A_ASP_27	<-->	1m17A_A_GLY_887
+2kv4A_A_TYR_44	<-->	1m17A_A_LYS_692
+2kv4A_A_GLN_43	<-->	1m17A_A_VAL_693
+2kv4A_A_GLY_12	<-->	1m17A_A_GLY_697
+2kv4A_A_CYS_14	<-->	1m17A_A_GLY_697
+2kv4A_A_CYS_14	<-->	1m17A_A_SER_696
+2kv4A_A_GLY_12	<-->	1m17A_A_PHE_699
+2kv4A_A_GLN_43	<-->	1m17A_A_LYS_692
+2kv4A_A_CYS_14	<-->	1m17A_A_GLY_695
+2kv4A_A_ARG_41	<-->	1m17A_A_VAL_693
+2kv4A_A_ARG_41	<-->	1m17A_A_GLY_695
+2kv4A_A_ARG_41	<-->	1m17A_A_LEU_694
+2kv4A_A_LEU_8	<-->	1m17A_A_ALA_698
+2kv4A_A_ASP_27	<-->	1m17A_A_ARG_779
+2kv4A_A_ASP_11	<-->	1m17A_A_ALA_698
+2kv4A_A_ASP_11	<-->	1m17A_A_SER_696
+2kv4A_A_ASP_11	<-->	1m17A_A_GLY_697
+2kv4A_A_LEU_15	<-->	1m17A_A_SER_696
+2kv4A_A_LEU_15	<-->	1m17A_A_LEU_694
+2kv4A_A_LEU_15	<-->	1m17A_A_GLY_695
+2kv4A_A_LEU_15	<-->	1m17A_A_VAL_693

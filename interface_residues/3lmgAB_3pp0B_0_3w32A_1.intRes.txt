@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ARG_721	<-->	3w32A_A_ARG_748
+3pp0B_B_SER_728	<-->	3w32A_A_VAL_717
+3pp0B_B_VAL_725	<-->	3w32A_A_SER_720
+3pp0B_B_ARG_721	<-->	3w32A_A_GLU_872
+3pp0B_B_VAL_725	<-->	3w32A_A_THR_725
+3pp0B_B_TYR_735	<-->	3w32A_A_THR_725
+3pp0B_B_TYR_735	<-->	3w32A_A_TYR_727
+3pp0B_B_ARG_721	<-->	3w32A_A_THR_751
+3pp0B_B_LYS_724	<-->	3w32A_A_SER_720
+3pp0B_B_GLU_757	<-->	3w32A_A_GLN_787
+3pp0B_B_VAL_725	<-->	3w32A_A_VAL_717
+3pp0B_B_VAL_723	<-->	3w32A_A_GLY_721
+3pp0B_B_VAL_725	<-->	3w32A_A_GLY_719
+3pp0B_B_THR_791	<-->	3w32A_A_SER_784
+3pp0B_B_THR_733	<-->	3w32A_A_TYR_727
+3pp0B_B_GLU_757	<-->	3w32A_A_LYS_714
+3pp0B_B_LYS_722	<-->	3w32A_A_ARG_748
+3pp0B_B_THR_718	<-->	3w32A_A_ALA_750
+3pp0B_B_THR_718	<-->	3w32A_A_THR_751
+3pp0B_B_GLU_717	<-->	3w32A_A_GLU_749
+3pp0B_B_VAL_723	<-->	3w32A_A_ARG_748
