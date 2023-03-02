@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2kv4A_A_TRP_49	<-->	1n3hA_A_ARG_201
+2kv4A_A_TRP_49	<-->	1n3hA_A_PHE_202
+2kv4A_A_GLU_24	<-->	1n3hA_A_GLN_188
+2kv4A_A_GLU_24	<-->	1n3hA_A_TYR_52
+2kv4A_A_SER_2	<-->	1n3hA_A_LEU_39
+2kv4A_A_VAL_19	<-->	1n3hA_A_PRO_48
+2kv4A_A_VAL_19	<-->	1n3hA_A_GLY_47
+2kv4A_A_MET_21	<-->	1n3hA_A_VAL_50
+2kv4A_A_LYS_48	<-->	1n3hA_A_MET_46
+2kv4A_A_LEU_52	<-->	1n3hA_A_TYR_205
+2kv4A_A_ARG_53	<-->	1n3hA_A_LEU_200
+2kv4A_A_ARG_53	<-->	1n3hA_A_TYR_205
+2kv4A_A_ARG_53	<-->	1n3hA_A_GLN_204
+2kv4A_A_SER_4	<-->	1n3hA_A_LYS_44
+2kv4A_A_SER_2	<-->	1n3hA_A_HIS_40
+2kv4A_A_ASN_32	<-->	1n3hA_A_PRO_48
+2kv4A_A_ASN_1	<-->	1n3hA_A_GLN_188
+2kv4A_A_ASN_32	<-->	1n3hA_A_GLY_47
+2kv4A_A_LEU_52	<-->	1n3hA_A_HIS_145
+2kv4A_A_MET_21	<-->	1n3hA_A_LYS_44
+2kv4A_A_MET_21	<-->	1n3hA_A_GLY_49
+2kv4A_A_ARG_53	<-->	1n3hA_A_SER_129
+2kv4A_A_TYR_22	<-->	1n3hA_A_SER_51
+2kv4A_A_MET_21	<-->	1n3hA_A_PRO_48

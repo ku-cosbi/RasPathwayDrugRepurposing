@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6bofA_A_HIS_95	<-->	6ptsD_D_TRP_414
+6bofA_A_HIS_95	<-->	6ptsD_D_ASN_415
+6bofA_A_ARG_102	<-->	6ptsD_D_ASP_413
+6bofA_A_ARG_102	<-->	6ptsD_D_ASN_415
+6bofA_A_ARG_102	<-->	6ptsD_D_THR_416
+6bofA_A_HIS_94	<-->	6ptsD_D_TRP_414
+6bofA_A_TYR_96	<-->	6ptsD_D_ASN_415
+6bofA_A_GLU_63	<-->	6ptsD_D_ASN_374
+6bofA_A_GLU_63	<-->	6ptsD_D_GLY_375
+6bofA_A_HIS_95	<-->	6ptsD_D_HIS_379
+6bofA_A_GLU_98	<-->	6ptsD_D_ASP_413
+6bofA_A_GLU_91	<-->	6ptsD_D_MET_383
+6bofA_A_TYR_64	<-->	6ptsD_D_ASN_374
+6bofA_A_GLU_91	<-->	6ptsD_D_LEU_386
+6bofA_A_GLN_99	<-->	6ptsD_D_ASN_415

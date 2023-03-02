@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ptsD_D_PRO_393	<-->	5vykC_C_THR_100
+6ptsD_D_PRO_393	<-->	5vykC_C_PRO_101
+6ptsD_D_TRP_414	<-->	5vykC_C_LEU_38
+6ptsD_D_LEU_386	<-->	5vykC_C_SER_35
+6ptsD_D_LEU_386	<-->	5vykC_C_ALA_34
+6ptsD_D_ASP_380	<-->	5vykC_C_GLN_39
+6ptsD_D_GLU_394	<-->	5vykC_C_GLU_98
+6ptsD_D_GLU_394	<-->	5vykC_C_THR_100
+6ptsD_D_MET_383	<-->	5vykC_C_GLN_39
+6ptsD_D_MET_383	<-->	5vykC_C_SER_35
+6ptsD_D_MET_383	<-->	5vykC_C_ARG_36
+6ptsD_D_ASN_415	<-->	5vykC_C_TYR_106
+6ptsD_D_HIS_379	<-->	5vykC_C_GLN_39
+6ptsD_D_HIS_379	<-->	5vykC_C_LEU_38
+6ptsD_D_GLN_392	<-->	5vykC_C_GLU_98
+6ptsD_D_TRP_414	<-->	5vykC_C_TYR_106
+6ptsD_D_TRP_414	<-->	5vykC_C_GLU_102
+6ptsD_D_TRP_414	<-->	5vykC_C_LEU_103
+6ptsD_D_CYS_395	<-->	5vykC_C_GLU_98
+6ptsD_D_HIS_379	<-->	5vykC_C_GLY_42
+6ptsD_D_GLU_394	<-->	5vykC_C_PRO_101
+6ptsD_D_GLU_394	<-->	5vykC_C_ARG_99

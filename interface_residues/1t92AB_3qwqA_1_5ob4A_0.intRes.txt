@@ -1,0 +1,13 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_GLN_411	<-->	5ob4A_A_LYS_36
+3qwqA_A_ARG_353	<-->	5ob4A_A_VAL_18
+3qwqA_A_ARG_353	<-->	5ob4A_A_ILE_14
+3qwqA_A_HIS_409	<-->	5ob4A_A_VAL_29
+3qwqA_A_GLN_384	<-->	5ob4A_A_VAL_25
+3qwqA_A_SER_418	<-->	5ob4A_A_ILE_21
+3qwqA_A_HIS_409	<-->	5ob4A_A_ILE_33
+3qwqA_A_HIS_409	<-->	5ob4A_A_GLY_32
+3qwqA_A_PRO_349	<-->	5ob4A_A_VAL_18
+3qwqA_A_HIS_409	<-->	5ob4A_A_LYS_36

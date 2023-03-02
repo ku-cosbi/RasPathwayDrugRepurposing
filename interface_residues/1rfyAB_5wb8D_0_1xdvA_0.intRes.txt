@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8D_D_GLY_441	<-->	1xdvA_A_SER_548
+5wb8D_D_HIS_503	<-->	1xdvA_A_PRO_580
+5wb8D_D_HIS_483	<-->	1xdvA_A_MET_617
+5wb8D_D_ASN_473	<-->	1xdvA_A_ARG_213
+5wb8D_D_ASN_473	<-->	1xdvA_A_ARG_217
+5wb8D_D_ASN_473	<-->	1xdvA_A_ILE_216
+5wb8D_D_ALA_477	<-->	1xdvA_A_ARG_213
+5wb8D_D_SER_468	<-->	1xdvA_A_THR_549
+5wb8D_D_SER_468	<-->	1xdvA_A_SER_548
+5wb8D_D_LEU_25	<-->	1xdvA_A_LEU_322
+5wb8D_D_LEU_25	<-->	1xdvA_A_GLN_325
+5wb8D_D_LEU_25	<-->	1xdvA_A_SER_326
+5wb8D_D_PRO_488	<-->	1xdvA_A_PHE_677
+5wb8D_D_ALA_484	<-->	1xdvA_A_MET_617
+5wb8D_D_SER_474	<-->	1xdvA_A_ARG_217
+5wb8D_D_HIS_504	<-->	1xdvA_A_PRO_580
+5wb8D_D_LYS_443	<-->	1xdvA_A_SER_548
+5wb8D_D_ILE_467	<-->	1xdvA_A_VAL_225
+5wb8D_D_ASN_473	<-->	1xdvA_A_ASN_220
+5wb8D_D_CYS_482	<-->	1xdvA_A_MET_617
+5wb8D_D_LYS_465	<-->	1xdvA_A_ILE_327
+5wb8D_D_LEU_485	<-->	1xdvA_A_ASP_581
+5wb8D_D_HIS_504	<-->	1xdvA_A_ALA_578
+5wb8D_D_HIS_505	<-->	1xdvA_A_PRO_580

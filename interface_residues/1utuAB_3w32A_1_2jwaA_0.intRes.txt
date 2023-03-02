@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w32A_A_ASP_770	<-->	2jwaA_A_VAL_69
+3w32A_A_LEU_1017	<-->	2jwaA_A_ILE_73
+3w32A_A_ILE_966	<-->	2jwaA_A_ILE_54
+3w32A_A_TYR_1016	<-->	2jwaA_A_LYS_76
+3w32A_A_ARG_705	<-->	2jwaA_A_ARG_77
+3w32A_A_LEU_1017	<-->	2jwaA_A_GLY_72
+3w32A_A_LEU_703	<-->	2jwaA_A_ARG_77
+3w32A_A_SER_969	<-->	2jwaA_A_ILE_54
+3w32A_A_LEU_1017	<-->	2jwaA_A_LYS_76
+3w32A_A_LEU_704	<-->	2jwaA_A_ARG_77
+3w32A_A_ARG_973	<-->	2jwaA_A_ILE_54
+3w32A_A_ILE_966	<-->	2jwaA_A_ILE_55
+3w32A_A_ARG_776	<-->	2jwaA_A_ILE_73
+3w32A_A_ARG_776	<-->	2jwaA_A_VAL_69
+3w32A_A_ILE_966	<-->	2jwaA_A_LEU_51
+3w32A_A_ASN_771	<-->	2jwaA_A_VAL_65
+3w32A_A_TRP_731	<-->	2jwaA_A_LYS_76
+3w32A_A_ASP_770	<-->	2jwaA_A_VAL_70
+3w32A_A_LYS_823	<-->	2jwaA_A_VAL_58
+3w32A_A_PRO_772	<-->	2jwaA_A_VAL_65
+3w32A_A_ASP_770	<-->	2jwaA_A_VAL_66

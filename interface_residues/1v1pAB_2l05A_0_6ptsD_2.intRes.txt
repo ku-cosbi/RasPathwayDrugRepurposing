@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l05A_A_GLU_204	<-->	6ptsD_D_VAL_369
+2l05A_A_GLY_203	<-->	6ptsD_D_VAL_370
+2l05A_A_ILE_200	<-->	6ptsD_D_VAL_369
+2l05A_A_LEU_232	<-->	6ptsD_D_CYS_484
+2l05A_A_GLY_203	<-->	6ptsD_D_THR_357
+2l05A_A_GLY_203	<-->	6ptsD_D_ASN_356
+2l05A_A_LEU_232	<-->	6ptsD_D_GLY_469
+2l05A_A_LEU_232	<-->	6ptsD_D_CYS_468
+2l05A_A_GLU_225	<-->	6ptsD_D_LYS_365
+2l05A_A_GLU_225	<-->	6ptsD_D_GLN_366
+2l05A_A_ASP_202	<-->	6ptsD_D_ASN_371
+2l05A_A_ILE_200	<-->	6ptsD_D_ARG_359
+2l05A_A_GLU_204	<-->	6ptsD_D_ASN_371
+2l05A_A_GLY_203	<-->	6ptsD_D_VAL_369
+2l05A_A_ILE_200	<-->	6ptsD_D_THR_357
+2l05A_A_GLU_228	<-->	6ptsD_D_THR_467
+2l05A_A_PRO_231	<-->	6ptsD_D_ASP_486
+2l05A_A_LEU_232	<-->	6ptsD_D_TYR_470
+2l05A_A_LYS_205	<-->	6ptsD_D_VAL_369
+2l05A_A_GLU_228	<-->	6ptsD_D_CYS_468
+2l05A_A_GLU_228	<-->	6ptsD_D_GLY_469
+2l05A_A_VAL_230	<-->	6ptsD_D_ASP_486
+2l05A_A_ASN_163	<-->	6ptsD_D_LYS_365
+2l05A_A_ASN_229	<-->	6ptsD_D_ASP_486

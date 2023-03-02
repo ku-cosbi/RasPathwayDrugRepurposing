@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5x2aB_B_PRO_992	<-->	5ob4A_A_ARG_38
+5x2aB_B_PRO_992	<-->	5ob4A_A_GLN_39
+5x2aB_B_PRO_1019	<-->	5ob4A_A_LEU_34
+5x2aB_B_PRO_1019	<-->	5ob4A_A_ILE_35
+5x2aB_B_ILE_1018	<-->	5ob4A_A_ARG_38
+5x2aB_B_ASP_1009	<-->	5ob4A_A_VAL_26
+5x2aB_B_MET_1007	<-->	5ob4A_A_ARG_37
+5x2aB_B_SER_995	<-->	5ob4A_A_ARG_37
+5x2aB_B_THR_993	<-->	5ob4A_A_GLN_40
+5x2aB_B_ASP_1008	<-->	5ob4A_A_VAL_30
+5x2aB_B_GLN_1021	<-->	5ob4A_A_ILE_35
+5x2aB_B_ASN_996	<-->	5ob4A_A_ARG_38
+5x2aB_B_ASP_1008	<-->	5ob4A_A_LEU_34
+5x2aB_B_LEU_1017	<-->	5ob4A_A_LEU_34
+5x2aB_B_ASP_1009	<-->	5ob4A_A_VAL_30
+5x2aB_B_PRO_992	<-->	5ob4A_A_GLN_40
+5x2aB_B_GLY_1022	<-->	5ob4A_A_LYS_41
+5x2aB_B_GLY_1022	<-->	5ob4A_A_ILE_42
+5x2aB_B_ASN_996	<-->	5ob4A_A_GLN_40
+5x2aB_B_ARG_999	<-->	5ob4A_A_LEU_34
+5x2aB_B_LYS_823	<-->	5ob4A_A_VAL_29
+5x2aB_B_TYR_1016	<-->	5ob4A_A_LEU_34

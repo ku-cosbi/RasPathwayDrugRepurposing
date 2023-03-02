@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3njpA_A_TRP_386	<-->	3n84A_A_GLN_162
+3njpA_A_SER_418	<-->	3n84A_A_TYR_160
+3njpA_A_PHE_357	<-->	3n84A_A_PRO_57
+3njpA_A_ARG_353	<-->	3n84A_A_LYS_64
+3njpA_A_ARG_353	<-->	3n84A_A_VAL_161
+3njpA_A_ARG_353	<-->	3n84A_A_ALA_163
+3njpA_A_GLU_388	<-->	3n84A_A_GLN_162
+3njpA_A_GLN_384	<-->	3n84A_A_TYR_160
+3njpA_A_PRO_349	<-->	3n84A_A_VAL_161
+3njpA_A_PRO_349	<-->	3n84A_A_TYR_160
+3njpA_A_ASN_420	<-->	3n84A_A_GLN_162
+3njpA_A_LEU_17	<-->	3n84A_A_PRO_155
+3njpA_A_PHE_352	<-->	3n84A_A_ALA_163
+3njpA_A_GLY_18	<-->	3n84A_A_GLN_153
+3njpA_A_ALA_385	<-->	3n84A_A_TYR_160
+3njpA_A_GLY_18	<-->	3n84A_A_VAL_154
+3njpA_A_THR_19	<-->	3n84A_A_GLU_152

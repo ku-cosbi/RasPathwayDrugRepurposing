@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_ARG_831	<-->	5ob4A_A_ILE_14
+4i1zA_A_PRO_975	<-->	5ob4A_A_LYS_36
+4i1zA_A_ASP_974	<-->	5ob4A_A_GLN_39
+4i1zA_A_ASP_974	<-->	5ob4A_A_LYS_36
+4i1zA_A_ILE_965	<-->	5ob4A_A_VAL_24
+4i1zA_A_ARG_977	<-->	5ob4A_A_ILE_42
+4i1zA_A_ARG_973	<-->	5ob4A_A_LYS_36
+4i1zA_A_ARG_973	<-->	5ob4A_A_ILE_35
+4i1zA_A_GLN_701	<-->	5ob4A_A_PRO_10
+4i1zA_A_ARG_973	<-->	5ob4A_A_GLY_32
+4i1zA_A_ARG_973	<-->	5ob4A_A_PHE_31
+4i1zA_A_ALA_972	<-->	5ob4A_A_GLY_32
+4i1zA_A_ASN_826	<-->	5ob4A_A_ILE_21
+4i1zA_A_GLN_812	<-->	5ob4A_A_LYS_36
+4i1zA_A_ASP_830	<-->	5ob4A_A_ILE_21
+4i1zA_A_ASP_770	<-->	5ob4A_A_VAL_18
+4i1zA_A_SER_969	<-->	5ob4A_A_GLY_28
+4i1zA_A_GLN_701	<-->	5ob4A_A_LEU_11
+4i1zA_A_TYR_827	<-->	5ob4A_A_VAL_18
+4i1zA_A_LYS_823	<-->	5ob4A_A_LEU_22
+4i1zA_A_LYS_823	<-->	5ob4A_A_ILE_21
+4i1zA_A_LYS_823	<-->	5ob4A_A_VAL_25

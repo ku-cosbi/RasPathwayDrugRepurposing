@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_GLN_388	<-->	7m0xB_B_LYS_344
+3omvA_A_GLN_388	<-->	7m0xB_B_PRO_322
+3omvA_A_GLN_388	<-->	7m0xB_B_GLU_320
+3omvA_A_GLN_388	<-->	7m0xB_B_PRO_321
+3omvA_A_THR_491	<-->	7m0xB_B_ILE_343
+3omvA_A_TYR_340	<-->	7m0xB_B_ALA_268
+3omvA_A_TYR_341	<-->	7m0xB_B_ALA_268
+3omvA_A_ALA_395	<-->	7m0xB_B_LYS_324
+3omvA_A_VAL_492	<-->	7m0xB_B_ILE_343
+3omvA_A_VAL_492	<-->	7m0xB_B_LYS_340
+3omvA_A_ALA_461	<-->	7m0xB_B_LEU_332
+3omvA_A_ASN_463	<-->	7m0xB_B_ASN_339
+3omvA_A_LYS_462	<-->	7m0xB_B_LEU_332
+3omvA_A_ASN_463	<-->	7m0xB_B_LEU_332
+3omvA_A_ARG_467	<-->	7m0xB_B_GLU_348
+3omvA_A_ASN_463	<-->	7m0xB_B_ASP_336
+3omvA_A_ASN_463	<-->	7m0xB_B_GLN_335
+3omvA_A_ASN_523	<-->	7m0xB_B_ASP_351
+3omvA_A_ARG_391	<-->	7m0xB_B_GLU_320
+3omvA_A_ARG_391	<-->	7m0xB_B_PRO_321
+3omvA_A_VAL_492	<-->	7m0xB_B_ASN_339
+3omvA_A_VAL_492	<-->	7m0xB_B_ASP_336
+3omvA_A_LYS_399	<-->	7m0xB_B_LYS_324

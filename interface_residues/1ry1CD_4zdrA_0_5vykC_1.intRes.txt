@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_THR_226	<-->	5vykC_C_ILE_1054
+4zdrA_A_LEU_216	<-->	5vykC_C_LEU_1065
+4zdrA_A_SER_230	<-->	5vykC_C_LYS_1051
+4zdrA_A_LEU_216	<-->	5vykC_C_GLU_1062
+4zdrA_A_TYR_211	<-->	5vykC_C_GLY_1069
+4zdrA_A_LYS_212	<-->	5vykC_C_GLY_1069
+4zdrA_A_ARG_222	<-->	5vykC_C_ILE_1061
+4zdrA_A_TYR_211	<-->	5vykC_C_LEU_1065
+4zdrA_A_SER_230	<-->	5vykC_C_GLU_1096
+4zdrA_A_SER_238	<-->	5vykC_C_GLU_1062
+4zdrA_A_GLN_219	<-->	5vykC_C_GLU_1062
+4zdrA_A_GLN_219	<-->	5vykC_C_ILE_1061
+4zdrA_A_SER_230	<-->	5vykC_C_LEU_1100
+4zdrA_A_ASP_223	<-->	5vykC_C_GLN_1058
+4zdrA_A_ARG_222	<-->	5vykC_C_GLN_1093
+4zdrA_A_GLN_219	<-->	5vykC_C_GLN_1058
+4zdrA_A_ARG_222	<-->	5vykC_C_GLN_1058
+4zdrA_A_TYR_211	<-->	5vykC_C_GLY_1070
+4zdrA_A_TYR_211	<-->	5vykC_C_TYR_1078
+4zdrA_A_THR_215	<-->	5vykC_C_LEU_1065
+4zdrA_A_GLU_208	<-->	5vykC_C_HIS_1072
+4zdrA_A_GLU_208	<-->	5vykC_C_GLU_1071
+4zdrA_A_GLU_208	<-->	5vykC_C_GLY_1070
+4zdrA_A_ARG_222	<-->	5vykC_C_LEU_1089

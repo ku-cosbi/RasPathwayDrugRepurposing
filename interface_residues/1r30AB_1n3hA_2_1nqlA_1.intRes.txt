@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1n3hA_A_ARG_67	<-->	1nqlA_A_SER_356
+1n3hA_A_ARG_67	<-->	1nqlA_A_PHE_357
+1n3hA_A_ASN_173	<-->	1nqlA_A_ASP_344
+1n3hA_A_ASN_173	<-->	1nqlA_A_HIS_346
+1n3hA_A_ALA_176	<-->	1nqlA_A_HIS_409
+1n3hA_A_VAL_172	<-->	1nqlA_A_LEU_325
+1n3hA_A_VAL_172	<-->	1nqlA_A_SER_324
+1n3hA_A_VAL_172	<-->	1nqlA_A_PHE_321
+1n3hA_A_VAL_172	<-->	1nqlA_A_ASP_323
+1n3hA_A_VAL_172	<-->	1nqlA_A_LYS_322
+1n3hA_A_SER_65	<-->	1nqlA_A_VAL_350
+1n3hA_A_SER_65	<-->	1nqlA_A_ARG_353
+1n3hA_A_GLU_61	<-->	1nqlA_A_HIS_409
+1n3hA_A_MET_66	<-->	1nqlA_A_PHE_357
+1n3hA_A_ASN_173	<-->	1nqlA_A_GLY_317
+1n3hA_A_ASN_173	<-->	1nqlA_A_ILE_316
+1n3hA_A_LEU_63	<-->	1nqlA_A_GLN_384
+1n3hA_A_SER_108	<-->	1nqlA_A_ARG_353
+1n3hA_A_VAL_172	<-->	1nqlA_A_ILE_316
+1n3hA_A_VAL_172	<-->	1nqlA_A_GLY_317
+1n3hA_A_GLN_174	<-->	1nqlA_A_GLN_408
+1n3hA_A_GLN_174	<-->	1nqlA_A_HIS_409
+1n3hA_A_ARG_175	<-->	1nqlA_A_LEU_325

@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ny5B_B_ASN_163	<-->	6ptwD_D_LYS_406
+3ny5B_B_ASN_163	<-->	6ptwD_D_GLY_407
+3ny5B_B_ASN_163	<-->	6ptwD_D_HIS_405
+3ny5B_B_ASN_163	<-->	6ptwD_D_LEU_402
+3ny5B_B_VAL_230	<-->	6ptwD_D_ARG_367
+3ny5B_B_ASN_229	<-->	6ptwD_D_PHE_361
+3ny5B_B_ASN_229	<-->	6ptwD_D_GLU_425
+3ny5B_B_ASN_229	<-->	6ptwD_D_ARG_367
+3ny5B_B_GLU_228	<-->	6ptwD_D_GLU_425
+3ny5B_B_HIS_235	<-->	6ptwD_D_LYS_365
+3ny5B_B_PRO_231	<-->	6ptwD_D_ARG_367
+3ny5B_B_GLU_228	<-->	6ptwD_D_ARG_359
+3ny5B_B_PRO_162	<-->	6ptwD_D_LEU_402

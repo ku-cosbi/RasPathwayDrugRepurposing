@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1n3hA_A_GLN_174	<-->	1aweA_A_LYS_104
+1n3hA_A_VAL_172	<-->	1aweA_A_TYR_110
+1n3hA_A_LEU_63	<-->	1aweA_A_ASP_106
+1n3hA_A_ARG_175	<-->	1aweA_A_LYS_104
+1n3hA_A_GLU_61	<-->	1aweA_A_LYS_104
+1n3hA_A_ARG_175	<-->	1aweA_A_ASP_106
+1n3hA_A_ARG_175	<-->	1aweA_A_TYR_110
+1n3hA_A_ARG_112	<-->	1aweA_A_ILE_101
+1n3hA_A_ARG_112	<-->	1aweA_A_ASP_103
+1n3hA_A_ARG_112	<-->	1aweA_A_ASN_102
+1n3hA_A_LEU_63	<-->	1aweA_A_ASP_105
+1n3hA_A_ARG_112	<-->	1aweA_A_GLN_100
+1n3hA_A_LEU_63	<-->	1aweA_A_ASP_103
+1n3hA_A_ALA_176	<-->	1aweA_A_LYS_104
+1n3hA_A_ASN_173	<-->	1aweA_A_TYR_110
+1n3hA_A_GLN_174	<-->	1aweA_A_TYR_110

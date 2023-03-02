@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4rzvB_B_ASP_449	<-->	6ptwD_D_VAL_398
+4rzvB_B_ARG_506	<-->	6ptwD_D_GLN_392
+4rzvB_B_VAL_502	<-->	6ptwD_D_GLU_394
+4rzvB_B_ASP_449	<-->	6ptwD_D_PRO_393
+4rzvB_B_ARG_506	<-->	6ptwD_D_GLU_394
+4rzvB_B_TRP_450	<-->	6ptwD_D_PRO_393
+4rzvB_B_GLU_451	<-->	6ptwD_D_TRP_414
+4rzvB_B_TRP_476	<-->	6ptwD_D_HIS_379
+4rzvB_B_PHE_516	<-->	6ptwD_D_GLN_392
+4rzvB_B_MET_517	<-->	6ptwD_D_GLU_394
+4rzvB_B_TRP_450	<-->	6ptwD_D_GLU_394
+4rzvB_B_GLY_503	<-->	6ptwD_D_ASP_432
+4rzvB_B_ASP_449	<-->	6ptwD_D_LEU_382
+4rzvB_B_ASP_449	<-->	6ptwD_D_TRP_414
+4rzvB_B_HIS_477	<-->	6ptwD_D_MET_383
+4rzvB_B_ARG_506	<-->	6ptwD_D_CYS_395
+4rzvB_B_TRP_476	<-->	6ptwD_D_MET_383
+4rzvB_B_ASP_454	<-->	6ptwD_D_TRP_414
+4rzvB_B_PRO_453	<-->	6ptwD_D_HIS_379
+4rzvB_B_MET_517	<-->	6ptwD_D_PRO_393
+4rzvB_B_PRO_453	<-->	6ptwD_D_ASN_415
+4rzvB_B_PRO_453	<-->	6ptwD_D_TRP_414
+4rzvB_B_GLU_451	<-->	6ptwD_D_HIS_379

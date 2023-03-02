@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n84A_A_SER_137	<-->	1xd4A_A_ALA_379
+3n84A_A_MET_55	<-->	1xd4A_A_GLN_367
+3n84A_A_SER_137	<-->	1xd4A_A_LEU_290
+3n84A_A_GLU_130	<-->	1xd4A_A_THR_378
+3n84A_A_ASP_133	<-->	1xd4A_A_THR_378
+3n84A_A_ARG_136	<-->	1xd4A_A_GLU_288
+3n84A_A_ASP_133	<-->	1xd4A_A_GLN_375
+3n84A_A_SER_137	<-->	1xd4A_A_GLU_288
+3n84A_A_TYR_134	<-->	1xd4A_A_ASN_382
+3n84A_A_VAL_123	<-->	1xd4A_A_LEU_381
+3n84A_A_MET_55	<-->	1xd4A_A_GLU_368
+3n84A_A_THR_138	<-->	1xd4A_A_ASN_382
+3n84A_A_TYR_134	<-->	1xd4A_A_THR_378
+3n84A_A_TYR_134	<-->	1xd4A_A_ALA_379
+3n84A_A_TYR_134	<-->	1xd4A_A_LEU_381
+3n84A_A_PHE_125	<-->	1xd4A_A_LEU_381
+3n84A_A_PHE_147	<-->	1xd4A_A_LEU_290
+3n84A_A_MET_55	<-->	1xd4A_A_GLU_371
+3n84A_A_SER_137	<-->	1xd4A_A_ALA_287

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_GLU_941	<-->	2jwaA_A_LEU_51
+3kexA_A_LYS_940	<-->	2jwaA_A_LEU_51
+3kexA_A_ALA_750	<-->	2jwaA_A_ILE_61
+3kexA_A_LYS_940	<-->	2jwaA_A_ILE_55
+3kexA_A_LYS_801	<-->	2jwaA_A_VAL_58
+3kexA_A_HIS_749	<-->	2jwaA_A_VAL_65
+3kexA_A_HIS_749	<-->	2jwaA_A_VAL_66
+3kexA_A_ALA_943	<-->	2jwaA_A_ILE_54
+3kexA_A_ALA_750	<-->	2jwaA_A_VAL_65
+3kexA_A_HIS_749	<-->	2jwaA_A_LEU_62
+3kexA_A_THR_947	<-->	2jwaA_A_ILE_54
+3kexA_A_GLY_713	<-->	2jwaA_A_GLN_79
+3kexA_A_TYR_804	<-->	2jwaA_A_ILE_55
+3kexA_A_TYR_805	<-->	2jwaA_A_LEU_62
+3kexA_A_ASP_748	<-->	2jwaA_A_VAL_66
+3kexA_A_LEU_756	<-->	2jwaA_A_ILE_73
+3kexA_A_ASP_748	<-->	2jwaA_A_VAL_69
+3kexA_A_ASN_944	<-->	2jwaA_A_ILE_54
+3kexA_A_ARG_754	<-->	2jwaA_A_VAL_69
+3kexA_A_ASN_944	<-->	2jwaA_A_LEU_51
+3kexA_A_ASN_944	<-->	2jwaA_A_PRO_50

@@ -1,0 +1,13 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_SER_103	<-->	2jitB_B_TYR_827
+4xwxA_A_GLU_87	<-->	2jitB_B_GLN_820
+4xwxA_A_SER_103	<-->	2jitB_B_LYS_823
+4xwxA_A_ALA_95	<-->	2jitB_B_GLN_849
+4xwxA_A_LEU_84	<-->	2jitB_B_PRO_772
+4xwxA_A_GLU_87	<-->	2jitB_B_GLN_849
+4xwxA_A_GLU_80	<-->	2jitB_B_LYS_823
+4xwxA_A_ARG_112	<-->	2jitB_B_ASP_770
+4xwxA_A_PRO_105	<-->	2jitB_B_LYS_823
+4xwxA_A_GLU_87	<-->	2jitB_B_HIS_850

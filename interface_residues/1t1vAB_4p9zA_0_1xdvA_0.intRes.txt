@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4p9zA_A_TYR_134	<-->	1xdvA_A_THR_378
+4p9zA_A_SER_137	<-->	1xdvA_A_LEU_290
+4p9zA_A_VAL_123	<-->	1xdvA_A_LEU_381
+4p9zA_A_ARG_136	<-->	1xdvA_A_GLU_288
+4p9zA_A_MET_55	<-->	1xdvA_A_LYS_728
+4p9zA_A_TYR_134	<-->	1xdvA_A_ALA_379
+4p9zA_A_ASP_133	<-->	1xdvA_A_GLN_375
+4p9zA_A_SER_137	<-->	1xdvA_A_GLU_288
+4p9zA_A_TYR_134	<-->	1xdvA_A_ASN_382
+4p9zA_A_MET_55	<-->	1xdvA_A_GLU_731
+4p9zA_A_MET_55	<-->	1xdvA_A_GLU_368
+4p9zA_A_THR_138	<-->	1xdvA_A_ASN_382
+4p9zA_A_LYS_56	<-->	1xdvA_A_LYS_727
+4p9zA_A_MET_55	<-->	1xdvA_A_GLU_54
+4p9zA_A_PHE_125	<-->	1xdvA_A_THR_378
+4p9zA_A_ASP_133	<-->	1xdvA_A_ALA_379
+4p9zA_A_PHE_147	<-->	1xdvA_A_LEU_290
+4p9zA_A_TYR_134	<-->	1xdvA_A_LEU_381
+4p9zA_A_GLU_130	<-->	1xdvA_A_THR_378
+4p9zA_A_LYS_56	<-->	1xdvA_A_GLU_54
+4p9zA_A_SER_137	<-->	1xdvA_A_ALA_287

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2jitB_B_ASP_974	<-->	3pp0B_B_GLN_984
+2jitB_B_GLU_967	<-->	3pp0B_B_SER_974
+2jitB_B_GLU_967	<-->	3pp0B_B_ARG_978
+2jitB_B_ARG_973	<-->	3pp0B_B_THR_948
+2jitB_B_TYR_978	<-->	3pp0B_B_ASP_982
+2jitB_B_TYR_978	<-->	3pp0B_B_ARG_981
+2jitB_B_MET_971	<-->	3pp0B_B_ARG_978
+2jitB_B_ILE_946	<-->	3pp0B_B_ARG_978
+2jitB_B_LYS_970	<-->	3pp0B_B_ARG_978
+2jitB_B_LYS_970	<-->	3pp0B_B_MET_979
+2jitB_B_ASP_974	<-->	3pp0B_B_ARG_985
+2jitB_B_LYS_970	<-->	3pp0B_B_GLU_975
+2jitB_B_ARG_977	<-->	3pp0B_B_ASP_982
+2jitB_B_ASP_974	<-->	3pp0B_B_ASP_982
+2jitB_B_ILE_966	<-->	3pp0B_B_LYS_957
+2jitB_B_ARG_973	<-->	3pp0B_B_ASP_950
+2jitB_B_ILE_966	<-->	3pp0B_B_GLU_975
+2jitB_B_ASP_942	<-->	3pp0B_B_ARG_981
+2jitB_B_ARG_973	<-->	3pp0B_B_PHE_986
+2jitB_B_LYS_970	<-->	3pp0B_B_PHE_986
+2jitB_B_ARG_973	<-->	3pp0B_B_ARG_985
+2jitB_B_GLU_963	<-->	3pp0B_B_GLU_971
+2jitB_B_TYR_978	<-->	3pp0B_B_ARG_978

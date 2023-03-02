@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_GLU_90	<-->	2jwaA_A_VAL_64
+3qwqA_A_THR_19	<-->	2jwaA_A_GLN_79
+3qwqA_A_SER_99	<-->	2jwaA_A_VAL_65
+3qwqA_A_ASP_22	<-->	2jwaA_A_GLN_80
+3qwqA_A_THR_19	<-->	2jwaA_A_LYS_76
+3qwqA_A_ARG_125	<-->	2jwaA_A_VAL_65
+3qwqA_A_TYR_89	<-->	2jwaA_A_VAL_64
+3qwqA_A_LEU_69	<-->	2jwaA_A_VAL_69
+3qwqA_A_TYR_45	<-->	2jwaA_A_GLY_72
+3qwqA_A_GLY_18	<-->	2jwaA_A_ILE_75
+3qwqA_A_LEU_69	<-->	2jwaA_A_GLY_68
+3qwqA_A_LEU_14	<-->	2jwaA_A_GLY_68
+3qwqA_A_GLN_16	<-->	2jwaA_A_ILE_75
+3qwqA_A_LEU_14	<-->	2jwaA_A_VAL_65
+3qwqA_A_LEU_14	<-->	2jwaA_A_VAL_64
+3qwqA_A_ARG_125	<-->	2jwaA_A_ILE_61
+3qwqA_A_TYR_45	<-->	2jwaA_A_GLY_68
+3qwqA_A_LEU_98	<-->	2jwaA_A_VAL_65
+3qwqA_A_PHE_20	<-->	2jwaA_A_LYS_76
+3qwqA_A_GLN_16	<-->	2jwaA_A_GLY_72
+3qwqA_A_GLY_18	<-->	2jwaA_A_GLN_80

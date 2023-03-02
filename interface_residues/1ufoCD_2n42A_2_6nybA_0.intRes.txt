@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_GLU_31	<-->	6nybA_A_LEU_588
+2n42A_A_ARG_41	<-->	6nybA_A_ARG_509
+2n42A_A_ILE_36	<-->	6nybA_A_GLN_530
+2n42A_A_ILE_36	<-->	6nybA_A_TRP_531
+2n42A_A_GLU_37	<-->	6nybA_A_LEU_514
+2n42A_A_ILE_36	<-->	6nybA_A_ASP_479
+2n42A_A_ILE_24	<-->	6nybA_A_VAL_511
+2n42A_A_GLU_31	<-->	6nybA_A_GLU_586
+2n42A_A_GLU_37	<-->	6nybA_A_LEU_515
+2n42A_A_MET_1	<-->	6nybA_A_LYS_507
+2n42A_A_GLU_37	<-->	6nybA_A_LYS_591
+2n42A_A_PRO_34	<-->	6nybA_A_GLU_586
+2n42A_A_ASN_26	<-->	6nybA_A_HIS_370
+2n42A_A_GLU_37	<-->	6nybA_A_GLN_530
+2n42A_A_GLU_37	<-->	6nybA_A_HIS_585
+2n42A_A_TYR_32	<-->	6nybA_A_GLU_586

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ALA_161	<-->	1aweA_A_THR_149
+4xwxA_A_GLY_185	<-->	1aweA_A_LEU_150
+4xwxA_A_MET_0	<-->	1aweA_A_ASN_136
+4xwxA_A_GLN_188	<-->	1aweA_A_ALA_139
+4xwxA_A_PRO_158	<-->	1aweA_A_LYS_98
+4xwxA_A_GLU_184	<-->	1aweA_A_GLU_151
+4xwxA_A_GLU_184	<-->	1aweA_A_LEU_150
+4xwxA_A_PHE_71	<-->	1aweA_A_ASN_102
+4xwxA_A_THR_75	<-->	1aweA_A_ASN_102
+4xwxA_A_ILE_191	<-->	1aweA_A_TYR_146
+4xwxA_A_MET_0	<-->	1aweA_A_ALA_140
+4xwxA_A_SER_-1	<-->	1aweA_A_ALA_140
+4xwxA_A_PHE_71	<-->	1aweA_A_ASP_103
+4xwxA_A_PHE_71	<-->	1aweA_A_LYS_104
+4xwxA_A_GLY_37	<-->	1aweA_A_ASN_136
+4xwxA_A_ALA_187	<-->	1aweA_A_TYR_146
+4xwxA_A_MET_0	<-->	1aweA_A_MET_46
+4xwxA_A_GLN_188	<-->	1aweA_A_ILE_142
+4xwxA_A_GLN_188	<-->	1aweA_A_SER_143
+4xwxA_A_GLN_188	<-->	1aweA_A_TYR_146
+4xwxA_A_ASN_72	<-->	1aweA_A_LYS_104

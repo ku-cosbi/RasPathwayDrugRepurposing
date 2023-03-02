@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1fhsA_A_PRO_41	<-->	3p11A_A_ARG_369
+1fhsA_A_SER_37	<-->	3p11A_A_ASN_366
+1fhsA_A_ALA_40	<-->	3p11A_A_ARG_369
+1fhsA_A_ALA_40	<-->	3p11A_A_ASN_366
+1fhsA_A_ASP_43	<-->	3p11A_A_ASN_366
+1fhsA_A_ASP_43	<-->	3p11A_A_GLU_363
+1fhsA_A_ASP_62	<-->	3p11A_A_HIS_388
+1fhsA_A_ARG_16	<-->	3p11A_A_GLU_363
+1fhsA_A_SER_39	<-->	3p11A_A_ARG_369
+1fhsA_A_ARG_16	<-->	3p11A_A_ASP_361
+1fhsA_A_LEU_60	<-->	3p11A_A_HIS_386
+1fhsA_A_ARG_16	<-->	3p11A_A_LYS_364
+1fhsA_A_LYS_58	<-->	3p11A_A_GLU_363
+1fhsA_A_LYS_58	<-->	3p11A_A_PRO_362
+1fhsA_A_SER_45	<-->	3p11A_A_GLU_363
+1fhsA_A_LEU_60	<-->	3p11A_A_GLU_363
+1fhsA_A_PHE_68	<-->	3p11A_A_HIS_386
+1fhsA_A_SER_39	<-->	3p11A_A_THR_370

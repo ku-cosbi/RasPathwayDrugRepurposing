@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5tarA_A_ILE_36	<-->	6zioA_A_ASP_38
+5tarA_A_THR_35	<-->	6zioA_A_SER_39
+5tarA_A_THR_35	<-->	6zioA_A_ASP_38
+5tarA_A_LYS_42	<-->	6zioA_A_HIS_27
+5tarA_A_GLN_25	<-->	6zioA_A_GLN_25
+5tarA_A_PRO_34	<-->	6zioA_A_SER_39
+5tarA_A_LEU_52	<-->	6zioA_A_GLU_31
+5tarA_A_ASP_33	<-->	6zioA_A_TYR_40
+5tarA_A_HIS_27	<-->	6zioA_A_GLN_25
+5tarA_A_SER_39	<-->	6zioA_A_ILE_36
+5tarA_A_GLN_43	<-->	6zioA_A_ASP_30
+5tarA_A_ILE_24	<-->	6zioA_A_HIS_27
+5tarA_A_TYR_40	<-->	6zioA_A_TYR_32
+5tarA_A_TYR_40	<-->	6zioA_A_ILE_36
+5tarA_A_TYR_40	<-->	6zioA_A_ASP_38
+5tarA_A_GLN_43	<-->	6zioA_A_GLU_31
+5tarA_A_LYS_42	<-->	6zioA_A_GLU_31
+5tarA_A_ARG_41	<-->	6zioA_A_GLU_31
+5tarA_A_ARG_41	<-->	6zioA_A_TYR_32
+5tarA_A_ARG_41	<-->	6zioA_A_ASP_33
+5tarA_A_PRO_34	<-->	6zioA_A_ARG_41
+5tarA_A_PRO_34	<-->	6zioA_A_TYR_40
+5tarA_A_TYR_32	<-->	6zioA_A_ARG_41

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2h46E_E_GLY_93	<-->	1milA_A_TYR_41
+2h46E_E_GLU_89	<-->	1milA_A_SER_2
+2h46E_E_GLU_89	<-->	1milA_A_GLN_3
+2h46E_E_ASP_94	<-->	1milA_A_ASP_58
+2h46E_E_ARG_112	<-->	1milA_A_ASP_58
+2h46E_E_PHE_95	<-->	1milA_A_GLY_39
+2h46E_E_ARG_112	<-->	1milA_A_LEU_56
+2h46E_E_ARG_112	<-->	1milA_A_VAL_57
+2h46E_E_ASP_113	<-->	1milA_A_VAL_57
+2h46E_E_PRO_92	<-->	1milA_A_SER_72
+2h46E_E_LEU_111	<-->	1milA_A_ASP_58
+2h46E_E_LYS_64	<-->	1milA_A_GLY_1
+2h46E_E_ARG_112	<-->	1milA_A_VAL_63
+2h46E_E_PRO_92	<-->	1milA_A_VAL_73
+2h46E_E_ASP_94	<-->	1milA_A_GLY_61
+2h46E_E_GLY_116	<-->	1milA_A_GLN_40
+2h46E_E_ARG_112	<-->	1milA_A_GLN_40
+2h46E_E_GLY_116	<-->	1milA_A_VAL_57
+2h46E_E_PRO_92	<-->	1milA_A_LEU_4
+2h46E_E_ALA_91	<-->	1milA_A_GLY_61
+2h46E_E_GLY_93	<-->	1milA_A_LEU_4

@@ -1,0 +1,11 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6xguB_B_HIS_133	<-->	4rzvB_B_HIS_477
+6xguB_B_ASP_132	<-->	4rzvB_B_HIS_477
+6xguB_B_ASP_113	<-->	4rzvB_B_ASP_587
+6xguB_B_ARG_111	<-->	4rzvB_B_GLU_586
+6xguB_B_ASP_132	<-->	4rzvB_B_GLY_478
+6xguB_B_HIS_133	<-->	4rzvB_B_GLY_478
+6xguB_B_LEU_112	<-->	4rzvB_B_GLU_586
+6xguB_B_ARG_111	<-->	4rzvB_B_GLU_533

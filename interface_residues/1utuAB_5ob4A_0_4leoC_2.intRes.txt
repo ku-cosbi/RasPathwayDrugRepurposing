@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5ob4A_A_ILE_14	<-->	4leoC_C_ARG_469
+5ob4A_A_ILE_33	<-->	4leoC_C_GLU_363
+5ob4A_A_ILE_14	<-->	4leoC_C_THR_420
+5ob4A_A_VAL_25	<-->	4leoC_C_HIS_386
+5ob4A_A_LEU_22	<-->	4leoC_C_HIS_386
+5ob4A_A_SER_9	<-->	4leoC_C_GLU_477
+5ob4A_A_ILE_21	<-->	4leoC_C_PRO_385
+5ob4A_A_ILE_21	<-->	4leoC_C_HIS_386
+5ob4A_A_LEU_11	<-->	4leoC_C_GLU_477
+5ob4A_A_ILE_14	<-->	4leoC_C_GLN_442
+5ob4A_A_PRO_10	<-->	4leoC_C_ASP_473
+5ob4A_A_PRO_10	<-->	4leoC_C_ARG_469
+5ob4A_A_LEU_11	<-->	4leoC_C_ARG_469
+5ob4A_A_LEU_11	<-->	4leoC_C_LYS_479
