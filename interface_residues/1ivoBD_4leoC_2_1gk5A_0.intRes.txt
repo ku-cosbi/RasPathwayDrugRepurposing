@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4leoC_C_THR_347	<-->	1gk5A_A_LEU_15
+4leoC_C_HIS_355	<-->	1gk5A_A_ARG_41
+4leoC_C_ILE_346	<-->	1gk5A_A_GLU_43
+4leoC_C_ILE_346	<-->	1gk5A_A_HIS_44
+4leoC_C_ILE_346	<-->	1gk5A_A_ALA_45
+4leoC_C_LYS_356	<-->	1gk5A_A_ASP_11
+4leoC_C_PRO_353	<-->	1gk5A_A_ASP_11
+4leoC_C_TRP_354	<-->	1gk5A_A_ASP_11
+4leoC_C_LYS_415	<-->	1gk5A_A_ASP_46
+4leoC_C_LYS_415	<-->	1gk5A_A_LEU_47
+4leoC_C_HIS_355	<-->	1gk5A_A_TYR_13
+4leoC_C_GLN_322	<-->	1gk5A_A_ASP_40
+4leoC_C_LEU_345	<-->	1gk5A_A_ASP_40
+4leoC_C_ASP_352	<-->	1gk5A_A_GLU_43
+4leoC_C_TRP_354	<-->	1gk5A_A_TYR_13
+4leoC_C_ASP_352	<-->	1gk5A_A_ARG_41
+4leoC_C_LEU_345	<-->	1gk5A_A_HIS_44
+4leoC_C_TRP_354	<-->	1gk5A_A_TYR_10
+4leoC_C_TRP_354	<-->	1gk5A_A_GLY_12
+4leoC_C_THR_347	<-->	1gk5A_A_GLU_43
+4leoC_C_GLN_381	<-->	1gk5A_A_HIS_44

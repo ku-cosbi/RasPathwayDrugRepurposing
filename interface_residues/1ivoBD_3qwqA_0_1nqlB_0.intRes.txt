@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_ARG_353	<-->	1nqlB_B_HIS_16
+3qwqA_A_VAL_417	<-->	1nqlB_B_ARG_45
+3qwqA_A_VAL_417	<-->	1nqlB_B_LEU_47
+3qwqA_A_GLN_384	<-->	1nqlB_B_TYR_44
+3qwqA_A_GLN_384	<-->	1nqlB_B_ARG_45
+3qwqA_A_GLN_384	<-->	1nqlB_B_GLN_43
+3qwqA_A_PHE_357	<-->	1nqlB_B_GLU_5
+3qwqA_A_LEU_348	<-->	1nqlB_B_TYR_44
+3qwqA_A_PHE_357	<-->	1nqlB_B_CYS_6
+3qwqA_A_LEU_348	<-->	1nqlB_B_GLN_43
+3qwqA_A_VAL_350	<-->	1nqlB_B_LEU_15
+3qwqA_A_HIS_409	<-->	1nqlB_B_LEU_47
+3qwqA_A_LYS_465	<-->	1nqlB_B_LYS_48
+3qwqA_A_SER_356	<-->	1nqlB_B_TYR_13
+3qwqA_A_HIS_346	<-->	1nqlB_B_TYR_44
+3qwqA_A_LEU_325	<-->	1nqlB_B_ARG_41
+3qwqA_A_PHE_357	<-->	1nqlB_B_ASP_11
+3qwqA_A_LYS_465	<-->	1nqlB_B_LEU_47
+3qwqA_A_PHE_357	<-->	1nqlB_B_TYR_13
+3qwqA_A_PHE_357	<-->	1nqlB_B_GLY_12
+3qwqA_A_PRO_349	<-->	1nqlB_B_HIS_16
+3qwqA_A_LEU_382	<-->	1nqlB_B_TYR_44
+3qwqA_A_SER_418	<-->	1nqlB_B_ARG_45
+3qwqA_A_ILE_438	<-->	1nqlB_B_LEU_47

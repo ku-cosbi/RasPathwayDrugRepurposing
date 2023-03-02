@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4uipA_A_SER_356	<-->	1gk5A_A_ASP_11
+4uipA_A_HIS_346	<-->	1gk5A_A_HIS_44
+4uipA_A_GLN_408	<-->	1gk5A_A_HIS_44
+4uipA_A_PHE_357	<-->	1gk5A_A_ASP_11
+4uipA_A_PHE_357	<-->	1gk5A_A_TYR_10
+4uipA_A_SER_356	<-->	1gk5A_A_SER_9
+4uipA_A_LEU_325	<-->	1gk5A_A_ARG_41
+4uipA_A_LEU_325	<-->	1gk5A_A_ASP_40
+4uipA_A_LEU_325	<-->	1gk5A_A_GLU_43
+4uipA_A_LEU_348	<-->	1gk5A_A_GLU_43
+4uipA_A_LEU_325	<-->	1gk5A_A_TYR_13
+4uipA_A_LEU_382	<-->	1gk5A_A_HIS_44
+4uipA_A_PHE_357	<-->	1gk5A_A_ARG_41
+4uipA_A_PHE_357	<-->	1gk5A_A_TYR_13
+4uipA_A_HIS_409	<-->	1gk5A_A_ALA_45
+4uipA_A_PHE_357	<-->	1gk5A_A_SER_9
+4uipA_A_HIS_409	<-->	1gk5A_A_ASP_46

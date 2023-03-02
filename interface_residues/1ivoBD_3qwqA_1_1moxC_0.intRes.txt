@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_VAL_417	<-->	1moxC_C_LEU_48
+3qwqA_A_LYS_465	<-->	1moxC_C_LEU_49
+3qwqA_A_ALA_415	<-->	1moxC_C_LEU_48
+3qwqA_A_GLN_384	<-->	1moxC_C_ALA_46
+3qwqA_A_LEU_348	<-->	1moxC_C_HIS_45
+3qwqA_A_GLN_408	<-->	1moxC_C_HIS_45
+3qwqA_A_HIS_409	<-->	1moxC_C_LEU_48
+3qwqA_A_VAL_350	<-->	1moxC_C_PHE_17
+3qwqA_A_HIS_409	<-->	1moxC_C_ALA_46
+3qwqA_A_HIS_409	<-->	1moxC_C_ASP_47
+3qwqA_A_GLN_408	<-->	1moxC_C_LEU_48
+3qwqA_A_GLN_411	<-->	1moxC_C_LEU_49
+3qwqA_A_SER_356	<-->	1moxC_C_THR_13
+3qwqA_A_HIS_346	<-->	1moxC_C_HIS_45
+3qwqA_A_LEU_325	<-->	1moxC_C_GLU_44
+3qwqA_A_PHE_357	<-->	1moxC_C_THR_13
+3qwqA_A_ASP_355	<-->	1moxC_C_THR_13
+3qwqA_A_ASP_355	<-->	1moxC_C_PHE_17
+3qwqA_A_LEU_382	<-->	1moxC_C_HIS_45
+3qwqA_A_ILE_438	<-->	1moxC_C_LEU_48
+3qwqA_A_HIS_409	<-->	1moxC_C_VAL_39
+3qwqA_A_LEU_325	<-->	1moxC_C_PHE_17
+3qwqA_A_PHE_412	<-->	1moxC_C_LEU_48
+3qwqA_A_PHE_412	<-->	1moxC_C_LEU_49

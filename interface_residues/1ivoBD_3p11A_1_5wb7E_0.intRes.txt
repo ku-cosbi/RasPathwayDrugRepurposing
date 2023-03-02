@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_HIS_355	<-->	5wb7E_E_ARG_40
+3p11A_A_ARG_434	<-->	5wb7E_E_VAL_48
+3p11A_A_TYR_405	<-->	5wb7E_E_HIS_43
+3p11A_A_MET_414	<-->	5wb7E_E_PHE_44
+3p11A_A_TYR_405	<-->	5wb7E_E_LEU_46
+3p11A_A_HIS_355	<-->	5wb7E_E_GLY_12
+3p11A_A_GLN_381	<-->	5wb7E_E_PHE_44
+3p11A_A_ASP_464	<-->	5wb7E_E_VAL_48
+3p11A_A_HIS_355	<-->	5wb7E_E_TYR_13
+3p11A_A_LEU_345	<-->	5wb7E_E_GLU_42
+3p11A_A_LEU_412	<-->	5wb7E_E_LEU_46
+3p11A_A_THR_347	<-->	5wb7E_E_LEU_15
+3p11A_A_TRP_354	<-->	5wb7E_E_GLY_12
+3p11A_A_ILE_346	<-->	5wb7E_E_HIS_16
+3p11A_A_ASN_406	<-->	5wb7E_E_PHE_45
+3p11A_A_TRP_354	<-->	5wb7E_E_ASN_11
+3p11A_A_PHE_409	<-->	5wb7E_E_LEU_46
+3p11A_A_ASN_406	<-->	5wb7E_E_LEU_46

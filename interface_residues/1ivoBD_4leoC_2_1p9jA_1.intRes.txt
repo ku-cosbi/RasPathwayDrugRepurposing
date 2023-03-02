@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4leoC_C_HIS_355	<-->	1p9jA_A_ARG_43
+4leoC_C_HIS_467	<-->	1p9jA_A_LEU_54
+4leoC_C_SER_438	<-->	1p9jA_A_GLU_53
+4leoC_C_PRO_353	<-->	1p9jA_A_TYR_15
+4leoC_C_PRO_353	<-->	1p9jA_A_GLY_14
+4leoC_C_HIS_467	<-->	1p9jA_A_TRP_52
+4leoC_C_THR_347	<-->	1p9jA_A_LEU_17
+4leoC_C_TRP_354	<-->	1p9jA_A_TYR_15
+4leoC_C_ASP_352	<-->	1p9jA_A_ARG_43
+4leoC_C_LEU_345	<-->	1p9jA_A_TYR_46
+4leoC_C_LYS_415	<-->	1p9jA_A_ARG_47
+4leoC_C_TRP_354	<-->	1p9jA_A_ARG_43
+4leoC_C_ILE_346	<-->	1p9jA_A_HIS_18
+4leoC_C_HIS_467	<-->	1p9jA_A_GLU_53
+4leoC_C_TYR_436	<-->	1p9jA_A_GLU_53
+4leoC_C_LYS_415	<-->	1p9jA_A_TRP_52

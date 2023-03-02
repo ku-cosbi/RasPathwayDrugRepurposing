@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4leoC_C_TYR_405	<-->	1nqlB_B_TYR_44
+4leoC_C_TRP_354	<-->	1nqlB_B_ASP_3
+4leoC_C_ALA_439	<-->	1nqlB_B_TRP_50
+4leoC_C_MET_414	<-->	1nqlB_B_TRP_50
+4leoC_C_TYR_436	<-->	1nqlB_B_LYS_48
+4leoC_C_TRP_354	<-->	1nqlB_B_LEU_15
+4leoC_C_ASN_406	<-->	1nqlB_B_LEU_47
+4leoC_C_TRP_354	<-->	1nqlB_B_TYR_13
+4leoC_C_LYS_415	<-->	1nqlB_B_ARG_45
+4leoC_C_LEU_412	<-->	1nqlB_B_LEU_47
+4leoC_C_PHE_409	<-->	1nqlB_B_LEU_47
+4leoC_C_LYS_415	<-->	1nqlB_B_TRP_50
+4leoC_C_TYR_436	<-->	1nqlB_B_LEU_47
+4leoC_C_ARG_407	<-->	1nqlB_B_LEU_47

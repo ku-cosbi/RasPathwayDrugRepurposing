@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4leoC_C_ASN_350	<-->	1nqlB_B_ARG_45
+4leoC_C_ASN_350	<-->	1nqlB_B_TYR_44
+4leoC_C_PRO_353	<-->	1nqlB_B_TYR_13
+4leoC_C_PRO_353	<-->	1nqlB_B_LEU_15
+4leoC_C_ASN_350	<-->	1nqlB_B_GLN_43
+4leoC_C_PRO_385	<-->	1nqlB_B_LEU_47
+4leoC_C_LEU_349	<-->	1nqlB_B_LEU_47
+4leoC_C_PRO_353	<-->	1nqlB_B_ASP_3
+4leoC_C_THR_347	<-->	1nqlB_B_GLY_12
+4leoC_C_THR_347	<-->	1nqlB_B_TYR_13
+4leoC_C_THR_347	<-->	1nqlB_B_ASP_11
+4leoC_C_TRP_354	<-->	1nqlB_B_ARG_41
+4leoC_C_PRO_384	<-->	1nqlB_B_LEU_47
+4leoC_C_ASN_350	<-->	1nqlB_B_TYR_13
+4leoC_C_GLY_351	<-->	1nqlB_B_TYR_13
+4leoC_C_ILE_346	<-->	1nqlB_B_GLN_43
+4leoC_C_ILE_346	<-->	1nqlB_B_TYR_44
+4leoC_C_TRP_354	<-->	1nqlB_B_GLY_12
+4leoC_C_TRP_354	<-->	1nqlB_B_TYR_13
+4leoC_C_TRP_354	<-->	1nqlB_B_ASP_11
+4leoC_C_THR_347	<-->	1nqlB_B_ARG_41
+4leoC_C_TRP_354	<-->	1nqlB_B_SER_4
+4leoC_C_TRP_354	<-->	1nqlB_B_CYS_6
+4leoC_C_ALA_359	<-->	1nqlB_B_ARG_45
