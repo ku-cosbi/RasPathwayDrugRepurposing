@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4leoC_C_VAL_283	<-->	1n3hA_A_THR_123
+4leoC_C_ARG_87	<-->	1n3hA_A_GLU_184
+4leoC_C_HIS_229	<-->	1n3hA_A_GLN_188
+4leoC_C_ASP_278	<-->	1n3hA_A_MET_134
+4leoC_C_ASP_289	<-->	1n3hA_A_ILE_141
+4leoC_C_VAL_91	<-->	1n3hA_A_GLU_162
+4leoC_C_ARG_228	<-->	1n3hA_A_GLN_188
+4leoC_C_GLY_88	<-->	1n3hA_A_GLU_162
+4leoC_C_HIS_229	<-->	1n3hA_A_TYR_52
+4leoC_C_SER_125	<-->	1n3hA_A_GLU_162
+4leoC_C_THR_89	<-->	1n3hA_A_GLU_184
+4leoC_C_THR_89	<-->	1n3hA_A_CYS_182
+4leoC_C_HIS_229	<-->	1n3hA_A_LYS_44
+4leoC_C_THR_65	<-->	1n3hA_A_PRO_183
+4leoC_C_THR_65	<-->	1n3hA_A_GLU_184
+4leoC_C_GLN_279	<-->	1n3hA_A_THR_125
+4leoC_C_ASP_93	<-->	1n3hA_A_LYS_93
+4leoC_C_PRO_238	<-->	1n3hA_A_HIS_40
+4leoC_C_THR_280	<-->	1n3hA_A_PRO_48
+4leoC_C_PRO_288	<-->	1n3hA_A_ILE_141
+4leoC_C_PRO_288	<-->	1n3hA_A_GLN_140
+4leoC_C_GLN_90	<-->	1n3hA_A_GLU_181
+4leoC_C_GLN_90	<-->	1n3hA_A_PRO_183

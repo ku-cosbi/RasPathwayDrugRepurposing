@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4A_A_ARG_1041	<-->	5cdwE_E_SER_75
+1xd4A_A_GLU_891	<-->	5cdwE_E_SER_38
+1xd4A_A_GLY_1039	<-->	5cdwE_E_ASN_74
+1xd4A_A_LEU_1024	<-->	5cdwE_E_GLU_37
+1xd4A_A_HIS_888	<-->	5cdwE_E_SER_38
+1xd4A_A_LEU_1024	<-->	5cdwE_E_SER_38
+1xd4A_A_GLU_891	<-->	5cdwE_E_LYS_57
+1xd4A_A_LEU_845	<-->	5cdwE_E_ALA_39
+1xd4A_A_LEU_845	<-->	5cdwE_E_SER_38
+1xd4A_A_ARG_896	<-->	5cdwE_E_VAL_71
+1xd4A_A_ARG_1041	<-->	5cdwE_E_ASN_74
+1xd4A_A_GLN_892	<-->	5cdwE_E_LYS_57
+1xd4A_A_ARG_1041	<-->	5cdwE_E_GLU_78
+1xd4A_A_HIS_888	<-->	5cdwE_E_GLU_37
+1xd4A_A_VAL_1040	<-->	5cdwE_E_ASN_74
+1xd4A_A_ARG_1026	<-->	5cdwE_E_PRO_40
+1xd4A_A_ASP_887	<-->	5cdwE_E_ARG_15
+1xd4A_A_ARG_896	<-->	5cdwE_E_VAL_70
+1xd4A_A_ARG_1041	<-->	5cdwE_E_ASN_77
+1xd4A_A_ARG_896	<-->	5cdwE_E_LYS_72

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5vykC_C_GLU_1059	<-->	3omvA_A_ARG_401
+5vykC_C_GLN_71	<-->	3omvA_A_LEU_480
+5vykC_C_CYS_166	<-->	3omvA_A_LYS_367
+5vykC_C_ILE_1077	<-->	3omvA_A_GLN_451
+5vykC_C_THR_165	<-->	3omvA_A_LYS_367
+5vykC_C_ASN_1073	<-->	3omvA_A_HIS_611
+5vykC_C_PRO_1075	<-->	3omvA_A_GLN_610
+5vykC_C_ASP_67	<-->	3omvA_A_LEU_480
+5vykC_C_GLU_1071	<-->	3omvA_A_ARG_450
+5vykC_C_HIS_1060	<-->	3omvA_A_LEU_407
+5vykC_C_LEU_68	<-->	3omvA_A_LEU_480
+5vykC_C_GLU_1071	<-->	3omvA_A_GLU_607
+5vykC_C_LYS_169	<-->	3omvA_A_HIS_369
+5vykC_C_LYS_169	<-->	3omvA_A_LYS_367
+5vykC_C_LEU_1056	<-->	3omvA_A_LEU_407
+5vykC_C_CYS_166	<-->	3omvA_A_ASP_371
+5vykC_C_ALA_1063	<-->	3omvA_A_HIS_402
+5vykC_C_PRO_1075	<-->	3omvA_A_ARG_450
+5vykC_C_THR_165	<-->	3omvA_A_MET_350
+5vykC_C_LYS_1067	<-->	3omvA_A_GLN_454
+5vykC_C_LYS_1067	<-->	3omvA_A_VAL_403
+5vykC_C_ILE_1077	<-->	3omvA_A_ASP_447
+5vykC_C_ALA_1063	<-->	3omvA_A_VAL_403
+5vykC_C_ASP_67	<-->	3omvA_A_GLY_479

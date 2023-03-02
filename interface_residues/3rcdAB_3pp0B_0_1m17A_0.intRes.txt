@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_TYR_952	<-->	1m17A_A_LEU_680
+3pp0B_B_ILE_949	<-->	1m17A_A_VAL_762
+3pp0B_B_GLY_938	<-->	1m17A_A_ARG_681
+3pp0B_B_GLY_938	<-->	1m17A_A_ILE_682
+3pp0B_B_GLU_939	<-->	1m17A_A_LEU_680
+3pp0B_B_LEU_934	<-->	1m17A_A_LEU_679
+3pp0B_B_PRO_942	<-->	1m17A_A_LEU_680
+3pp0B_B_ILE_961	<-->	1m17A_A_LYS_684
+3pp0B_B_MET_953	<-->	1m17A_A_LEU_758
+3pp0B_B_MET_953	<-->	1m17A_A_THR_759
+3pp0B_B_GLU_939	<-->	1m17A_A_ARG_681
+3pp0B_B_ASP_924	<-->	1m17A_A_GLN_677
+3pp0B_B_ILE_949	<-->	1m17A_A_ASN_732
+3pp0B_B_ARG_940	<-->	1m17A_A_ILE_682
+3pp0B_B_ILE_949	<-->	1m17A_A_LEU_736
+3pp0B_B_GLU_939	<-->	1m17A_A_LEU_679
+3pp0B_B_VAL_956	<-->	1m17A_A_LEU_758
+3pp0B_B_GLN_943	<-->	1m17A_A_LEU_736
+3pp0B_B_LYS_937	<-->	1m17A_A_ARG_681
+3pp0B_B_ARG_940	<-->	1m17A_A_LEU_680
+3pp0B_B_VAL_956	<-->	1m17A_A_ILE_682

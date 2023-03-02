@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_THR_125	<-->	1nqlA_A_ARG_405
+4xwxA_A_VAL_45	<-->	1nqlA_A_ARG_310
+4xwxA_A_ASN_132	<-->	1nqlA_A_ARG_405
+4xwxA_A_LYS_139	<-->	1nqlA_A_ARG_405
+4xwxA_A_PRO_48	<-->	1nqlA_A_ILE_401
+4xwxA_A_PRO_48	<-->	1nqlA_A_ARG_403
+4xwxA_A_HIS_146	<-->	1nqlA_A_VAL_312
+4xwxA_A_ARG_201	<-->	1nqlA_A_ARG_310
+4xwxA_A_THR_128	<-->	1nqlA_A_ARG_310
+4xwxA_A_ASN_42	<-->	1nqlA_A_ARG_310
+4xwxA_A_LEU_200	<-->	1nqlA_A_ARG_310
+4xwxA_A_SER_129	<-->	1nqlA_A_SER_340
+4xwxA_A_PRO_48	<-->	1nqlA_A_GLU_431
+4xwxA_A_MET_134	<-->	1nqlA_A_ARG_405
+4xwxA_A_GLY_47	<-->	1nqlA_A_GLU_376
+4xwxA_A_LYS_139	<-->	1nqlA_A_GLY_410
+4xwxA_A_GLU_199	<-->	1nqlA_A_MET_294
+4xwxA_A_ARG_201	<-->	1nqlA_A_CYS_309
+4xwxA_A_SER_129	<-->	1nqlA_A_VAL_312
+4xwxA_A_MET_134	<-->	1nqlA_A_ASP_434
+4xwxA_A_MET_46	<-->	1nqlA_A_ARG_310
+4xwxA_A_GLY_47	<-->	1nqlA_A_ILE_401
+4xwxA_A_HIS_146	<-->	1nqlA_A_SER_342
+4xwxA_A_SER_127	<-->	1nqlA_A_GLU_376

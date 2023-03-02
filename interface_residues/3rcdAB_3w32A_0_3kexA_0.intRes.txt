@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w32A_A_ILE_941	<-->	3kexA_A_THR_738
+3w32A_A_TYR_944	<-->	3kexA_A_ASP_739
+3w32A_A_PRO_934	<-->	3kexA_A_LEU_742
+3w32A_A_MET_945	<-->	3kexA_A_THR_738
+3w32A_A_TYR_944	<-->	3kexA_A_VAL_737
+3w32A_A_GLN_935	<-->	3kexA_A_ASP_739
+3w32A_A_VAL_948	<-->	3kexA_A_ALA_736
+3w32A_A_MET_945	<-->	3kexA_A_ALA_736
+3w32A_A_MET_945	<-->	3kexA_A_VAL_737
+3w32A_A_PRO_934	<-->	3kexA_A_VAL_680
+3w32A_A_GLU_931	<-->	3kexA_A_LEU_681
+3w32A_A_PRO_934	<-->	3kexA_A_ASP_739
+3w32A_A_GLY_930	<-->	3kexA_A_ALA_682
+3w32A_A_GLY_930	<-->	3kexA_A_ARG_683
+3w32A_A_GLY_930	<-->	3kexA_A_ILE_684
+3w32A_A_GLU_931	<-->	3kexA_A_ARG_683
+3w32A_A_GLU_931	<-->	3kexA_A_ALA_682
+3w32A_A_LYS_929	<-->	3kexA_A_ILE_684
+3w32A_A_TYR_944	<-->	3kexA_A_THR_738
+3w32A_A_VAL_948	<-->	3kexA_A_VAL_737
+3w32A_A_LYS_929	<-->	3kexA_A_ARG_683

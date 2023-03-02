@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_HIS_497	<-->	5cusA_A_ASN_52
+3n85A_A_HIS_497	<-->	5cusA_A_ALA_53
+3n85A_A_GLN_462	<-->	5cusA_A_ASN_52
+3n85A_A_ARG_495	<-->	5cusA_A_HIS_51
+3n85A_A_ARG_495	<-->	5cusA_A_ASN_52
+3n85A_A_ASP_480	<-->	5cusA_A_THR_13
+3n85A_A_ASP_480	<-->	5cusA_A_GLY_12
+3n85A_A_ARG_495	<-->	5cusA_A_GLY_50
+3n85A_A_ASP_480	<-->	5cusA_A_PRO_11
+3n85A_A_ARG_25	<-->	5cusA_A_TRP_60
+3n85A_A_ASP_22	<-->	5cusA_A_TRP_60
+3n85A_A_HIS_456	<-->	5cusA_A_PHE_57
+3n85A_A_VAL_458	<-->	5cusA_A_ASP_54
+3n85A_A_HIS_456	<-->	5cusA_A_ARG_36
+3n85A_A_HIS_473	<-->	5cusA_A_PHE_57
+3n85A_A_HIS_473	<-->	5cusA_A_ARG_36
+3n85A_A_PRO_459	<-->	5cusA_A_ASP_54
+3n85A_A_TRP_460	<-->	5cusA_A_ASP_54
+3n85A_A_ASN_46	<-->	5cusA_A_SER_233
+3n85A_A_ASP_461	<-->	5cusA_A_ASP_54
+3n85A_A_PRO_478	<-->	5cusA_A_PRO_11
+3n85A_A_ASP_461	<-->	5cusA_A_SER_56
+3n85A_A_GLU_479	<-->	5cusA_A_THR_13
+3n85A_A_ASP_461	<-->	5cusA_A_ALA_53

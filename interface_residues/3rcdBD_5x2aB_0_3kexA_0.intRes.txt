@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5x2aB_B_GLU_922	<-->	3kexA_A_LYS_717
+5x2aB_B_VAL_717	<-->	3kexA_A_THR_947
+5x2aB_B_ARG_748	<-->	3kexA_A_LEU_791
+5x2aB_B_GLU_922	<-->	3kexA_A_ILE_716
+5x2aB_B_ASP_916	<-->	3kexA_A_ARG_754
+5x2aB_B_PRO_919	<-->	3kexA_A_ILE_718
+5x2aB_B_LYS_913	<-->	3kexA_A_ARG_754
+5x2aB_B_ILE_715	<-->	3kexA_A_ARG_951
+5x2aB_B_GLU_922	<-->	3kexA_A_PRO_719
+5x2aB_B_GLU_922	<-->	3kexA_A_ILE_718
+5x2aB_B_LYS_714	<-->	3kexA_A_ARG_951
+5x2aB_B_THR_725	<-->	3kexA_A_ASN_794
+5x2aB_B_LYS_716	<-->	3kexA_A_ARG_951
+5x2aB_B_LYS_929	<-->	3kexA_A_ILE_716
+5x2aB_B_ARG_748	<-->	3kexA_A_SER_827
+5x2aB_B_GLY_873	<-->	3kexA_A_SER_825
+5x2aB_B_PRO_919	<-->	3kexA_A_PRO_719
+5x2aB_B_TYR_727	<-->	3kexA_A_ALA_950
+5x2aB_B_TYR_727	<-->	3kexA_A_ARG_951

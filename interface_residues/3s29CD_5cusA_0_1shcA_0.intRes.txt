@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_PRO_384	<-->	1shcA_A_PHE_71
+5cusA_A_HIS_386	<-->	1shcA_A_PRO_158
+5cusA_A_HIS_513	<-->	1shcA_A_GLY_21
+5cusA_A_GLN_442	<-->	1shcA_A_ALA_161
+5cusA_A_MET_387	<-->	1shcA_A_ASP_157
+5cusA_A_HIS_386	<-->	1shcA_A_THR_75
+5cusA_A_HIS_386	<-->	1shcA_A_ARG_74
+5cusA_A_PRO_362	<-->	1shcA_A_PHE_71
+5cusA_A_PRO_385	<-->	1shcA_A_PHE_71
+5cusA_A_ASN_418	<-->	1shcA_A_ASP_157
+5cusA_A_HIS_388	<-->	1shcA_A_ASP_157
+5cusA_A_PRO_385	<-->	1shcA_A_THR_75
+5cusA_A_GLU_477	<-->	1shcA_A_GLY_185
+5cusA_A_LEU_484	<-->	1shcA_A_SER_29
+5cusA_A_PRO_385	<-->	1shcA_A_ASP_157
+5cusA_A_PRO_385	<-->	1shcA_A_PRO_158
+5cusA_A_THR_512	<-->	1shcA_A_SER_29
+5cusA_A_THR_512	<-->	1shcA_A_HIS_27
+5cusA_A_ASN_503	<-->	1shcA_A_HIS_27
+5cusA_A_HIS_513	<-->	1shcA_A_GLY_20
+5cusA_A_ARG_502	<-->	1shcA_A_HIS_27

@@ -1,0 +1,15 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6nsqA_A_ARG_671	<-->	4zdrA_A_LYS_-3
+6nsqA_A_SER_675	<-->	4zdrA_A_TYR_-5
+6nsqA_A_SER_675	<-->	4zdrA_A_LEU_-6
+6nsqA_A_SER_673	<-->	4zdrA_A_TYR_-5
+6nsqA_A_LYS_699	<-->	4zdrA_A_LEU_-6
+6nsqA_A_GLY_672	<-->	4zdrA_A_TYR_-5
+6nsqA_A_GLY_672	<-->	4zdrA_A_LYS_-4
+6nsqA_A_GLU_703	<-->	4zdrA_A_LEU_0
+6nsqA_A_LYS_698	<-->	4zdrA_A_LEU_-6
+6nsqA_A_LEU_674	<-->	4zdrA_A_TYR_-5
+6nsqA_A_LYS_699	<-->	4zdrA_A_LYS_-4
+6nsqA_A_LYS_700	<-->	4zdrA_A_LEU_0

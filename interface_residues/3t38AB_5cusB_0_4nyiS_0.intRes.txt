@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ASP_473	<-->	4nyiS_S_ARG_722
+5cusB_B_LEU_417	<-->	4nyiS_S_ILE_645
+5cusB_B_ASN_418	<-->	4nyiS_S_SER_642
+5cusB_B_TYR_436	<-->	4nyiS_S_ASP_573
+5cusB_B_LEU_417	<-->	4nyiS_S_LEU_641
+5cusB_B_LEU_417	<-->	4nyiS_S_SER_642
+5cusB_B_HIS_386	<-->	4nyiS_S_TYR_709
+5cusB_B_LYS_415	<-->	4nyiS_S_ARG_576
+5cusB_B_ILE_346	<-->	4nyiS_S_GLU_639
+5cusB_B_LYS_415	<-->	4nyiS_S_GLU_646
+5cusB_B_ARG_441	<-->	4nyiS_S_ILE_645
+5cusB_B_HIS_467	<-->	4nyiS_S_PRO_651
+5cusB_B_PRO_353	<-->	4nyiS_S_GLU_954
+5cusB_B_PRO_385	<-->	4nyiS_S_GLN_638
+5cusB_B_ARG_441	<-->	4nyiS_S_GLU_649
+5cusB_B_ASN_350	<-->	4nyiS_S_LYS_636
+5cusB_B_ASN_350	<-->	4nyiS_S_GLU_639
+5cusB_B_ASN_418	<-->	4nyiS_S_ARG_713
+5cusB_B_HIS_467	<-->	4nyiS_S_VAL_574

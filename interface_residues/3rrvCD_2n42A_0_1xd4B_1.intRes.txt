@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_LYS_5	<-->	1xd4B_B_GLU_355
+2n42A_A_MET_1	<-->	1xd4B_B_LYS_358
+2n42A_A_GLU_37	<-->	1xd4B_B_LYS_389
+2n42A_A_MET_1	<-->	1xd4B_B_ALA_376
+2n42A_A_MET_1	<-->	1xd4B_B_LEU_357
+2n42A_A_THR_2	<-->	1xd4B_B_LYS_358
+2n42A_A_ALA_66	<-->	1xd4B_B_LYS_397
+2n42A_A_ARG_41	<-->	1xd4B_B_GLU_388
+2n42A_A_MET_1	<-->	1xd4B_B_LEU_373
+2n42A_A_SER_65	<-->	1xd4B_B_LYS_397
+2n42A_A_MET_1	<-->	1xd4B_B_LYS_374
+2n42A_A_MET_1	<-->	1xd4B_B_ILE_377
+2n42A_A_MET_1	<-->	1xd4B_B_GLU_361
+2n42A_A_GLU_3	<-->	1xd4B_B_LYS_358
+2n42A_A_THR_2	<-->	1xd4B_B_GLU_361

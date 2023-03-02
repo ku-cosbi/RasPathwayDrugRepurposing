@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_LEU_351	<-->	6q0kA_A_GLY_672
+3omvA_A_TYR_364	<-->	6q0kA_A_LEU_674
+3omvA_A_TYR_364	<-->	6q0kA_A_SER_675
+3omvA_A_TYR_364	<-->	6q0kA_A_TYR_673
+3omvA_A_LYS_378	<-->	6q0kA_A_TYR_673
+3omvA_A_ILE_376	<-->	6q0kA_A_TYR_673
+3omvA_A_ARG_354	<-->	6q0kA_A_LEU_678
+3omvA_A_SER_352	<-->	6q0kA_A_LYS_699
+3omvA_A_SER_352	<-->	6q0kA_A_LYS_698
+3omvA_A_LEU_351	<-->	6q0kA_A_LYS_699
+3omvA_A_SER_352	<-->	6q0kA_A_LEU_697
+3omvA_A_LYS_367	<-->	6q0kA_A_GLU_703
+3omvA_A_LYS_367	<-->	6q0kA_A_LYS_700
+3omvA_A_THR_353	<-->	6q0kA_A_SER_675
+3omvA_A_THR_353	<-->	6q0kA_A_PRO_676
+3omvA_A_MET_350	<-->	6q0kA_A_LYS_700
+3omvA_A_MET_350	<-->	6q0kA_A_LYS_699
+3omvA_A_ILE_376	<-->	6q0kA_A_GLY_672
+3omvA_A_SER_352	<-->	6q0kA_A_SER_675
+3omvA_A_THR_353	<-->	6q0kA_A_LEU_697
+3omvA_A_ARG_354	<-->	6q0kA_A_SER_675
+3omvA_A_ASN_416	<-->	6q0kA_A_TYR_673
+3omvA_A_ARG_354	<-->	6q0kA_A_ASP_677
+3omvA_A_ARG_354	<-->	6q0kA_A_PRO_676

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ksyA_A_HIS_124	<-->	1shcA_A_ASN_144
+3ksyA_A_VAL_128	<-->	1shcA_A_ILE_141
+3ksyA_A_HIS_124	<-->	1shcA_A_ALA_143
+3ksyA_A_PRO_112	<-->	1shcA_A_SER_127
+3ksyA_A_HIS_124	<-->	1shcA_A_ILE_141
+3ksyA_A_LYS_121	<-->	1shcA_A_GLN_148
+3ksyA_A_ILE_122	<-->	1shcA_A_ASN_144
+3ksyA_A_GLU_108	<-->	1shcA_A_SER_51
+3ksyA_A_VAL_107	<-->	1shcA_A_ILE_141
+3ksyA_A_GLU_108	<-->	1shcA_A_THR_123
+3ksyA_A_GLU_108	<-->	1shcA_A_THR_125
+3ksyA_A_PRO_112	<-->	1shcA_A_SER_130
+3ksyA_A_PRO_102	<-->	1shcA_A_LYS_139
+3ksyA_A_HIS_111	<-->	1shcA_A_ASN_144
+3ksyA_A_SER_127	<-->	1shcA_A_ASN_144
+3ksyA_A_HIS_111	<-->	1shcA_A_ILE_141
+3ksyA_A_ASP_123	<-->	1shcA_A_ASN_144
+3ksyA_A_GLU_108	<-->	1shcA_A_MET_134
+3ksyA_A_LYS_18	<-->	1shcA_A_GLY_47
+3ksyA_A_LYS_18	<-->	1shcA_A_MET_46
+3ksyA_A_LYS_109	<-->	1shcA_A_PRO_48
+3ksyA_A_LYS_115	<-->	1shcA_A_HIS_145
+3ksyA_A_HIS_111	<-->	1shcA_A_ASN_132
+3ksyA_A_LYS_115	<-->	1shcA_A_GLN_148

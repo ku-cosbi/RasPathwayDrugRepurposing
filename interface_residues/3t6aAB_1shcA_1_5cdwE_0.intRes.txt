@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_GLN_148	<-->	5cdwE_E_ALA_39
+1shcA_A_LEU_200	<-->	5cdwE_E_LYS_57
+1shcA_A_LEU_206	<-->	5cdwE_E_VAL_70
+1shcA_A_ARG_201	<-->	5cdwE_E_LYS_57
+1shcA_A_GLN_204	<-->	5cdwE_E_GLY_69
+1shcA_A_ARG_201	<-->	5cdwE_E_ALA_39
+1shcA_A_ARG_201	<-->	5cdwE_E_SER_38
+1shcA_A_TYR_205	<-->	5cdwE_E_PHE_67
+1shcA_A_ARG_201	<-->	5cdwE_E_SER_36
+1shcA_A_LYS_203	<-->	5cdwE_E_LEU_59
+1shcA_A_MET_147	<-->	5cdwE_E_ALA_39
+1shcA_A_HIS_145	<-->	5cdwE_E_SER_38
+1shcA_A_HIS_145	<-->	5cdwE_E_ALA_39
+1shcA_A_HIS_145	<-->	5cdwE_E_GLU_37
+1shcA_A_TYR_205	<-->	5cdwE_E_ASP_61
+1shcA_A_ARG_201	<-->	5cdwE_E_ASP_42
+1shcA_A_GLN_204	<-->	5cdwE_E_LEU_59
+1shcA_A_SER_129	<-->	5cdwE_E_SER_38
+1shcA_A_GLN_148	<-->	5cdwE_E_PRO_40
+1shcA_A_LYS_203	<-->	5cdwE_E_ASP_42
+1shcA_A_GLN_204	<-->	5cdwE_E_LYS_72
+1shcA_A_GLN_204	<-->	5cdwE_E_VAL_70
+1shcA_A_TYR_205	<-->	5cdwE_E_LEU_59
+1shcA_A_HIS_145	<-->	5cdwE_E_PRO_40

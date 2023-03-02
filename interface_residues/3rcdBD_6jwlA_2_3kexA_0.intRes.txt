@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6jwlA_A_ARG_748	<-->	3kexA_A_GLY_788
+6jwlA_A_PRO_753	<-->	3kexA_A_ARG_961
+6jwlA_A_SER_720	<-->	3kexA_A_SER_827
+6jwlA_A_THR_725	<-->	3kexA_A_ASN_794
+6jwlA_A_ALA_750	<-->	3kexA_A_ALA_786
+6jwlA_A_TYR_727	<-->	3kexA_A_ALA_950
+6jwlA_A_THR_785	<-->	3kexA_A_PRO_954
+6jwlA_A_GLY_721	<-->	3kexA_A_SER_827
+6jwlA_A_GLU_746	<-->	3kexA_A_PRO_953
+6jwlA_A_THR_725	<-->	3kexA_A_GLN_790
+6jwlA_A_LYS_714	<-->	3kexA_A_ARG_951
+6jwlA_A_LYS_714	<-->	3kexA_A_ASP_952
+6jwlA_A_TYR_727	<-->	3kexA_A_GLN_790
+6jwlA_A_GLU_749	<-->	3kexA_A_ALA_786
+6jwlA_A_ALA_722	<-->	3kexA_A_LEU_791
+6jwlA_A_SER_784	<-->	3kexA_A_PRO_954
+6jwlA_A_ALA_722	<-->	3kexA_A_SER_827
+6jwlA_A_ALA_722	<-->	3kexA_A_PRO_826

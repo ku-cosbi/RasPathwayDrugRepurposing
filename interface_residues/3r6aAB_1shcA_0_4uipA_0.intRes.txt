@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_SER_108	<-->	4uipA_A_ASN_544
+1shcA_A_LEU_110	<-->	4uipA_A_ASN_544
+1shcA_A_ILE_109	<-->	4uipA_A_ASN_544
+1shcA_A_SER_108	<-->	4uipA_A_MET_543
+1shcA_A_ARG_112	<-->	4uipA_A_PHE_525
+1shcA_A_LYS_116	<-->	4uipA_A_ASN_528
+1shcA_A_ARG_112	<-->	4uipA_A_GLU_527
+1shcA_A_ARG_112	<-->	4uipA_A_VAL_526
+1shcA_A_ASN_114	<-->	4uipA_A_SER_529
+1shcA_A_ASN_114	<-->	4uipA_A_VAL_526
+1shcA_A_LYS_116	<-->	4uipA_A_SER_529
+1shcA_A_LEU_115	<-->	4uipA_A_GLU_527
+1shcA_A_ARG_112	<-->	4uipA_A_THR_548
+1shcA_A_SER_113	<-->	4uipA_A_VAL_526
+1shcA_A_LEU_84	<-->	4uipA_A_THR_548
+1shcA_A_SER_107	<-->	4uipA_A_ASN_544
+1shcA_A_LEU_63	<-->	4uipA_A_LEU_517
+1shcA_A_LEU_115	<-->	4uipA_A_ASN_528
+1shcA_A_ARG_112	<-->	4uipA_A_ILE_545
+1shcA_A_GLY_111	<-->	4uipA_A_ILE_545

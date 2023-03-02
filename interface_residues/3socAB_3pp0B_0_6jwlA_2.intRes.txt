@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_LYS_831	<-->	6jwlA_A_SER_720
+3pp0B_B_PRO_707	<-->	6jwlA_A_LYS_713
+3pp0B_B_GLN_709	<-->	6jwlA_A_GLU_1004
+3pp0B_B_GLN_709	<-->	6jwlA_A_GLU_1005
+3pp0B_B_ALA_710	<-->	6jwlA_A_GLU_1004
+3pp0B_B_ARG_981	<-->	6jwlA_A_LYS_875
+3pp0B_B_LEU_711	<-->	6jwlA_A_GLU_1004
+3pp0B_B_VAL_973	<-->	6jwlA_A_ALA_722
+3pp0B_B_GLN_709	<-->	6jwlA_A_ILE_715
+3pp0B_B_ALA_706	<-->	6jwlA_A_LYS_713
+3pp0B_B_VAL_973	<-->	6jwlA_A_GLY_721
+3pp0B_B_SER_977	<-->	6jwlA_A_ALA_722
+3pp0B_B_ALA_706	<-->	6jwlA_A_LYS_714
+3pp0B_B_GLN_709	<-->	6jwlA_A_LYS_713
+3pp0B_B_SER_974	<-->	6jwlA_A_ALA_722
+3pp0B_B_LYS_831	<-->	6jwlA_A_GLY_721
+3pp0B_B_GLY_778	<-->	6jwlA_A_VAL_717
+3pp0B_B_VAL_777	<-->	6jwlA_A_VAL_717
+3pp0B_B_VAL_777	<-->	6jwlA_A_LYS_716
+3pp0B_B_GLN_820	<-->	6jwlA_A_LYS_913

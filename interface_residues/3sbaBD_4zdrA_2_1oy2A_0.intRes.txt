@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_GLN_219	<-->	1oy2A_A_LEU_63
+4zdrA_A_LYS_193	<-->	1oy2A_A_PRO_101
+4zdrA_A_THR_229	<-->	1oy2A_A_SER_103
+4zdrA_A_ARG_222	<-->	1oy2A_A_PRO_101
+4zdrA_A_TYR_211	<-->	1oy2A_A_ARG_112
+4zdrA_A_LYS_193	<-->	1oy2A_A_ARG_99
+4zdrA_A_ILE_200	<-->	1oy2A_A_ALA_88
+4zdrA_A_THR_194	<-->	1oy2A_A_ARG_99
+4zdrA_A_SER_230	<-->	1oy2A_A_SER_103
+4zdrA_A_LEU_225	<-->	1oy2A_A_PRO_101
+4zdrA_A_SER_230	<-->	1oy2A_A_ARG_104
+4zdrA_A_GLN_219	<-->	1oy2A_A_GLY_111
+4zdrA_A_THR_215	<-->	1oy2A_A_ARG_112
+4zdrA_A_THR_226	<-->	1oy2A_A_ARG_104
+4zdrA_A_ILE_200	<-->	1oy2A_A_SER_113
+4zdrA_A_ASP_197	<-->	1oy2A_A_ARG_99
+4zdrA_A_LEU_225	<-->	1oy2A_A_SER_103
+4zdrA_A_GLU_198	<-->	1oy2A_A_ARG_99
+4zdrA_A_THR_226	<-->	1oy2A_A_SER_103
