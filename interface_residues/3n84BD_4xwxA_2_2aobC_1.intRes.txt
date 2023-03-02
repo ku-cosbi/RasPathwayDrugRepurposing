@@ -1,0 +1,12 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_PRO_90	<-->	2aobC_C_PHE_61
+4xwxA_A_ALA_92	<-->	2aobC_C_GLY_93
+4xwxA_A_LYS_93	<-->	2aobC_C_GLY_93
+4xwxA_A_LYS_93	<-->	2aobC_C_PRO_92
+4xwxA_A_ARG_55	<-->	2aobC_C_TYR_118
+4xwxA_A_GLU_87	<-->	2aobC_C_LYS_64
+4xwxA_A_ALA_95	<-->	2aobC_C_GLU_87
+4xwxA_A_MET_120	<-->	2aobC_C_LYS_56
+4xwxA_A_ALA_95	<-->	2aobC_C_PRO_92

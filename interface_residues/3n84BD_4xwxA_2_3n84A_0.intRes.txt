@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_GLU_184	<-->	3n84A_A_GLY_116
+4xwxA_A_GLU_184	<-->	3n84A_A_ALA_115
+4xwxA_A_GLU_184	<-->	3n84A_A_GLY_114
+4xwxA_A_PRO_121	<-->	3n84A_A_SER_127
+4xwxA_A_PRO_121	<-->	3n84A_A_ASN_129
+4xwxA_A_ALA_92	<-->	3n84A_A_PHE_61
+4xwxA_A_GLY_91	<-->	3n84A_A_LEU_128
+4xwxA_A_MET_120	<-->	3n84A_A_MET_55
+4xwxA_A_GLY_91	<-->	3n84A_A_PHE_61
+4xwxA_A_GLY_91	<-->	3n84A_A_GLY_63
+4xwxA_A_ARG_55	<-->	3n84A_A_TYR_118
+4xwxA_A_PRO_183	<-->	3n84A_A_GLY_116
+4xwxA_A_PRO_183	<-->	3n84A_A_ALA_115
+4xwxA_A_PRO_90	<-->	3n84A_A_PHE_61
+4xwxA_A_PRO_90	<-->	3n84A_A_GLY_63
+4xwxA_A_PRO_90	<-->	3n84A_A_PHE_62
+4xwxA_A_ILE_142	<-->	3n84A_A_MET_55
+4xwxA_A_PHE_117	<-->	3n84A_A_MET_55
+4xwxA_A_ARG_55	<-->	3n84A_A_ASN_126
+4xwxA_A_ARG_55	<-->	3n84A_A_SER_127
+4xwxA_A_LEU_53	<-->	3n84A_A_ASN_126
+4xwxA_A_ALA_136	<-->	3n84A_A_ASN_129
+4xwxA_A_LYS_116	<-->	3n84A_A_MET_55

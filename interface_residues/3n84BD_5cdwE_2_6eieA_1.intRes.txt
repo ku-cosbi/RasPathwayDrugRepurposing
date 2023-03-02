@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cdwE_E_PRO_40	<-->	6eieA_A_LYS_1034
+5cdwE_E_PRO_40	<-->	6eieA_A_SER_1035
+5cdwE_E_PHE_9	<-->	6eieA_A_PRO_757
+5cdwE_E_GLY_11	<-->	6eieA_A_PRO_1040
+5cdwE_E_LYS_12	<-->	6eieA_A_HIS_778
+5cdwE_E_PHE_9	<-->	6eieA_A_PRO_758
+5cdwE_E_GLY_41	<-->	6eieA_A_ARG_1039
+5cdwE_E_ARG_60	<-->	6eieA_A_ARG_1039
+5cdwE_E_ILE_13	<-->	6eieA_A_ILE_759
+5cdwE_E_ILE_13	<-->	6eieA_A_PRO_758
+5cdwE_E_ARG_34	<-->	6eieA_A_PRO_1040
+5cdwE_E_GLU_35	<-->	6eieA_A_HIS_778
+5cdwE_E_PHE_9	<-->	6eieA_A_PRO_1040
+5cdwE_E_GLU_35	<-->	6eieA_A_ILE_1038
+5cdwE_E_GLU_35	<-->	6eieA_A_ARG_1039
+5cdwE_E_GLU_35	<-->	6eieA_A_PRO_1036
+5cdwE_E_GLU_35	<-->	6eieA_A_GLY_1037
+5cdwE_E_LYS_12	<-->	6eieA_A_PRO_1036
+5cdwE_E_ILE_33	<-->	6eieA_A_PRO_1040
+5cdwE_E_PHE_10	<-->	6eieA_A_PRO_1040
+5cdwE_E_PRO_14	<-->	6eieA_A_TRP_761
+5cdwE_E_LYS_12	<-->	6eieA_A_TRP_761
+5cdwE_E_ILE_13	<-->	6eieA_A_TRP_761
+5cdwE_E_PHE_10	<-->	6eieA_A_PRO_758

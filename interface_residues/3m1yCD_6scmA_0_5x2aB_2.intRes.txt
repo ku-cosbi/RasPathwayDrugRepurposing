@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6scmA_A_THR_935	<-->	5x2aB_B_GLY_917
+6scmA_A_GLU_909	<-->	5x2aB_B_PRO_934
+6scmA_A_HIS_911	<-->	5x2aB_B_ASP_916
+6scmA_A_SER_881	<-->	5x2aB_B_LYS_929
+6scmA_A_TYR_884	<-->	5x2aB_B_GLY_930
+6scmA_A_ASN_879	<-->	5x2aB_B_GLU_931
+6scmA_A_SER_880	<-->	5x2aB_B_LYS_929
+6scmA_A_HIS_905	<-->	5x2aB_B_PRO_934
+6scmA_A_ASN_879	<-->	5x2aB_B_LYS_929
+6scmA_A_LYS_913	<-->	5x2aB_B_PRO_937
+6scmA_A_ASP_910	<-->	5x2aB_B_PRO_937
+6scmA_A_ASP_910	<-->	5x2aB_B_PRO_934
+6scmA_A_TYR_884	<-->	5x2aB_B_ARG_948

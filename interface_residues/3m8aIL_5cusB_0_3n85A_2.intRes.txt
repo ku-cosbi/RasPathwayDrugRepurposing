@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_PRO_178	<-->	3n85A_A_PRO_398
+5cusB_B_ASP_54	<-->	3n85A_A_PRO_478
+5cusB_B_ASP_54	<-->	3n85A_A_ARG_477
+5cusB_B_TRP_60	<-->	3n85A_A_GLY_484
+5cusB_B_SER_76	<-->	3n85A_A_GLY_427
+5cusB_B_HIS_51	<-->	3n85A_A_THR_450
+5cusB_B_HIS_51	<-->	3n85A_A_HIS_451
+5cusB_B_ALA_53	<-->	3n85A_A_THR_450
+5cusB_B_PHE_75	<-->	3n85A_A_HIS_451
+5cusB_B_CYS_164	<-->	3n85A_A_SER_396
+5cusB_B_SER_163	<-->	3n85A_A_GLN_371
+5cusB_B_TRP_60	<-->	3n85A_A_GLU_485
+5cusB_B_SER_76	<-->	3n85A_A_HIS_451
+5cusB_B_ASP_54	<-->	3n85A_A_THR_450
+5cusB_B_PRO_178	<-->	3n85A_A_SER_396
+5cusB_B_SER_56	<-->	3n85A_A_GLU_481
+5cusB_B_GLN_59	<-->	3n85A_A_LEU_487
+5cusB_B_SER_56	<-->	3n85A_A_LEU_487
+5cusB_B_LYS_135	<-->	3n85A_A_ASP_395
+5cusB_B_PRO_165	<-->	3n85A_A_SER_396
+5cusB_B_ARG_113	<-->	3n85A_A_ASP_395
+5cusB_B_ASN_52	<-->	3n85A_A_THR_450
+5cusB_B_SER_56	<-->	3n85A_A_ARG_477

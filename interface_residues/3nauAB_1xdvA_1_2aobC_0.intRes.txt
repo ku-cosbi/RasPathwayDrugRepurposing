@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xdvA_A_GLN_375	<-->	2aobC_C_HIS_79
+1xdvA_A_GLN_375	<-->	2aobC_C_ARG_78
+1xdvA_A_THR_378	<-->	2aobC_C_ALA_82
+1xdvA_A_SER_385	<-->	2aobC_C_PHE_62
+1xdvA_A_ASN_382	<-->	2aobC_C_PRO_59
+1xdvA_A_GLU_371	<-->	2aobC_C_ARG_78
+1xdvA_A_THR_378	<-->	2aobC_C_GLN_77
+1xdvA_A_LEU_381	<-->	2aobC_C_LEU_74
+1xdvA_A_LEU_381	<-->	2aobC_C_MET_73
+1xdvA_A_LEU_381	<-->	2aobC_C_PHE_62
+1xdvA_A_ASN_382	<-->	2aobC_C_PHE_62
+1xdvA_A_LEU_381	<-->	2aobC_C_GLN_77
+1xdvA_A_LYS_358	<-->	2aobC_C_LYS_76
+1xdvA_A_LYS_374	<-->	2aobC_C_ARG_78

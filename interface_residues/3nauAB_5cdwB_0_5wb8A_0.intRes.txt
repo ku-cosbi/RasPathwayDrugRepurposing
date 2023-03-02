@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cdwB_B_PHE_9	<-->	5wb8A_A_THR_450
+5cdwB_B_GLU_35	<-->	5wb8A_A_ASN_449
+5cdwB_B_PRO_5	<-->	5wb8A_A_ALA_484
+5cdwB_B_LYS_12	<-->	5wb8A_A_THR_464
+5cdwB_B_PRO_5	<-->	5wb8A_A_HIS_483
+5cdwB_B_GLU_2	<-->	5wb8A_A_ALA_484
+5cdwB_B_GLU_2	<-->	5wb8A_A_LEU_485
+5cdwB_B_LYS_12	<-->	5wb8A_A_ASN_449
+5cdwB_B_GLY_41	<-->	5wb8A_A_LYS_454
+5cdwB_B_GLY_11	<-->	5wb8A_A_ASN_449
+5cdwB_B_PRO_40	<-->	5wb8A_A_LYS_463
+5cdwB_B_PRO_40	<-->	5wb8A_A_GLN_462
+5cdwB_B_MET_3	<-->	5wb8A_A_ALA_484
+5cdwB_B_HIS_6	<-->	5wb8A_A_PRO_488
+5cdwB_B_PHE_9	<-->	5wb8A_A_PRO_488
+5cdwB_B_GLU_35	<-->	5wb8A_A_ASN_452
+5cdwB_B_GLU_35	<-->	5wb8A_A_ILE_451
+5cdwB_B_ASP_42	<-->	5wb8A_A_LYS_454
+5cdwB_B_PRO_5	<-->	5wb8A_A_CYS_482
+5cdwB_B_ARG_60	<-->	5wb8A_A_LYS_454
+5cdwB_B_PHE_43	<-->	5wb8A_A_ASN_452
+5cdwB_B_LYS_4	<-->	5wb8A_A_ALA_484
+5cdwB_B_TRP_8	<-->	5wb8A_A_PRO_488

@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_GLU_184	<-->	2aobC_C_ARG_112
+4xwxA_A_GLU_184	<-->	2aobC_C_GLY_116
+4xwxA_A_ALA_88	<-->	2aobC_C_LYS_64
+4xwxA_A_THR_160	<-->	2aobC_C_PRO_92
+4xwxA_A_GLY_119	<-->	2aobC_C_HIS_58
+4xwxA_A_CYS_182	<-->	2aobC_C_TYR_118
+4xwxA_A_PRO_183	<-->	2aobC_C_GLY_116
+4xwxA_A_GLU_162	<-->	2aobC_C_ASP_94
+4xwxA_A_TYR_163	<-->	2aobC_C_GLY_93
+4xwxA_A_PRO_183	<-->	2aobC_C_TYR_118
+4xwxA_A_PRO_121	<-->	2aobC_C_HIS_58
+4xwxA_A_CYS_86	<-->	2aobC_C_LYS_64
+4xwxA_A_CYS_86	<-->	2aobC_C_GLU_87
+4xwxA_A_MET_120	<-->	2aobC_C_HIS_58
+4xwxA_A_ASP_159	<-->	2aobC_C_PRO_92
+4xwxA_A_GLU_162	<-->	2aobC_C_GLY_93
+4xwxA_A_ALA_88	<-->	2aobC_C_GLY_63
+4xwxA_A_VAL_89	<-->	2aobC_C_LYS_64

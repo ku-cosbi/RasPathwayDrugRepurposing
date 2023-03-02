@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4B_B_GLN_638	<-->	5cdwE_E_LYS_12
+1xd4B_B_GLU_639	<-->	5cdwE_E_PHE_43
+1xd4B_B_THR_605	<-->	5cdwE_E_GLY_64
+1xd4B_B_GLU_639	<-->	5cdwE_E_ARG_60
+1xd4B_B_LYS_636	<-->	5cdwE_E_GLY_11
+1xd4B_B_PRO_945	<-->	5cdwE_E_MET_3
+1xd4B_B_LYS_811	<-->	5cdwE_E_PRO_5
+1xd4B_B_GLU_579	<-->	5cdwE_E_GLY_62
+1xd4B_B_GLU_579	<-->	5cdwE_E_ALA_63
+1xd4B_B_ILE_607	<-->	5cdwE_E_GLY_64
+1xd4B_B_GLU_946	<-->	5cdwE_E_LYS_4
+1xd4B_B_LYS_636	<-->	5cdwE_E_PHE_9
+1xd4B_B_GLU_946	<-->	5cdwE_E_MET_3
+1xd4B_B_GLU_639	<-->	5cdwE_E_GLU_35
+1xd4B_B_LYS_960	<-->	5cdwE_E_MET_3
+1xd4B_B_GLY_806	<-->	5cdwE_E_PRO_5
+1xd4B_B_ASN_944	<-->	5cdwE_E_MET_3
+1xd4B_B_GLU_639	<-->	5cdwE_E_PHE_9
+1xd4B_B_ASN_585	<-->	5cdwE_E_ALA_63
+1xd4B_B_ARG_576	<-->	5cdwE_E_ASP_61
+1xd4B_B_ARG_576	<-->	5cdwE_E_GLY_62
+1xd4B_B_SER_633	<-->	5cdwE_E_PRO_5
+1xd4B_B_SER_633	<-->	5cdwE_E_HIS_6
+1xd4B_B_GLU_941	<-->	5cdwE_E_MET_3

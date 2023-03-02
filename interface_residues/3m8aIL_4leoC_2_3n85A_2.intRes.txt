@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4leoC_C_ASP_54	<-->	3n85A_A_GLU_481
+4leoC_C_SER_76	<-->	3n85A_A_HIS_451
+4leoC_C_ARG_113	<-->	3n85A_A_ASP_395
+4leoC_C_PRO_178	<-->	3n85A_A_PRO_398
+4leoC_C_LEU_55	<-->	3n85A_A_ARG_477
+4leoC_C_ASP_54	<-->	3n85A_A_ARG_477
+4leoC_C_ARG_116	<-->	3n85A_A_TRP_430
+4leoC_C_SER_56	<-->	3n85A_A_LEU_487
+4leoC_C_GLN_59	<-->	3n85A_A_GLU_485
+4leoC_C_GLN_59	<-->	3n85A_A_GLY_484
+4leoC_C_ASN_52	<-->	3n85A_A_THR_450
+4leoC_C_ASN_82	<-->	3n85A_A_GLU_485
+4leoC_C_SER_56	<-->	3n85A_A_VAL_483
+4leoC_C_HIS_51	<-->	3n85A_A_THR_450
+4leoC_C_HIS_51	<-->	3n85A_A_HIS_451
+4leoC_C_PRO_165	<-->	3n85A_A_SER_396
+4leoC_C_PRO_81	<-->	3n85A_A_GLU_485
+4leoC_C_PHE_75	<-->	3n85A_A_HIS_451

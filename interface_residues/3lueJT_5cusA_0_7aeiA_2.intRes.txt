@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_PRO_288	<-->	7aeiA_A_GLU_967
+5cusA_A_PRO_288	<-->	7aeiA_A_ILE_966
+5cusA_A_ARG_284	<-->	7aeiA_A_ASP_942
+5cusA_A_PRO_288	<-->	7aeiA_A_GLU_963
+5cusA_A_VAL_333	<-->	7aeiA_A_ALA_1013
+5cusA_A_ARG_228	<-->	7aeiA_A_GLU_931
+5cusA_A_HIS_229	<-->	7aeiA_A_GLY_930
+5cusA_A_LEU_339	<-->	7aeiA_A_GLU_1005
+5cusA_A_ASN_334	<-->	7aeiA_A_TYR_1016
+5cusA_A_PRO_287	<-->	7aeiA_A_LYS_949
+5cusA_A_PRO_238	<-->	7aeiA_A_LYS_929
+5cusA_A_THR_89	<-->	7aeiA_A_PRO_934
+5cusA_A_GLU_211	<-->	7aeiA_A_LYS_929
+5cusA_A_ARG_228	<-->	7aeiA_A_LYS_929
+5cusA_A_SER_281	<-->	7aeiA_A_MET_945
+5cusA_A_ASP_210	<-->	7aeiA_A_LYS_929
+5cusA_A_GLN_90	<-->	7aeiA_A_PRO_937
+5cusA_A_PRO_288	<-->	7aeiA_A_LYS_970
+5cusA_A_ASP_278	<-->	7aeiA_A_LYS_949
+5cusA_A_GLU_313	<-->	7aeiA_A_GLU_1004
+5cusA_A_VAL_283	<-->	7aeiA_A_MET_945
+5cusA_A_ASP_289	<-->	7aeiA_A_GLU_963

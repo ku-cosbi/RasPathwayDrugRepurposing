@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_LYS_845	<-->	6p8qC_C_GLU_922
+3kexA_A_ARG_731	<-->	6p8qC_C_ILE_886
+3kexA_A_ARG_731	<-->	6p8qC_C_ILE_878
+3kexA_A_THR_738	<-->	6p8qC_C_GLU_872
+3kexA_A_ARG_731	<-->	6p8qC_C_SER_924
+3kexA_A_ALA_736	<-->	6p8qC_C_GLU_872
+3kexA_A_ALA_736	<-->	6p8qC_C_ALA_871
+3kexA_A_GLN_735	<-->	6p8qC_C_ALA_871
+3kexA_A_LYS_845	<-->	6p8qC_C_PRO_919
+3kexA_A_PRO_842	<-->	6p8qC_C_ALA_920
+3kexA_A_ALA_736	<-->	6p8qC_C_GLU_868
+3kexA_A_ASP_844	<-->	6p8qC_C_PRO_919
+3kexA_A_PRO_841	<-->	6p8qC_C_LYS_875
+3kexA_A_SER_733	<-->	6p8qC_C_HIS_870
+3kexA_A_SER_733	<-->	6p8qC_C_ALA_871
+3kexA_A_SER_733	<-->	6p8qC_C_GLY_873
+3kexA_A_ASP_843	<-->	6p8qC_C_SER_921
+3kexA_A_PRO_841	<-->	6p8qC_C_GLY_873
+3kexA_A_PHE_734	<-->	6p8qC_C_ALA_871
+3kexA_A_PHE_734	<-->	6p8qC_C_GLY_873
+3kexA_A_PHE_734	<-->	6p8qC_C_GLU_872

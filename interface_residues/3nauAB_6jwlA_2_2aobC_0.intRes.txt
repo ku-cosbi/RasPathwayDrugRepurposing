@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6jwlA_A_ILE_941	<-->	2aobC_C_LYS_56
+6jwlA_A_ILE_941	<-->	2aobC_C_PRO_57
+6jwlA_A_GLU_963	<-->	2aobC_C_TRP_60
+6jwlA_A_LYS_970	<-->	2aobC_C_MET_73
+6jwlA_A_ILE_966	<-->	2aobC_C_GLN_77
+6jwlA_A_LYS_970	<-->	2aobC_C_PHE_62
+6jwlA_A_ASP_942	<-->	2aobC_C_PRO_59
+6jwlA_A_MET_945	<-->	2aobC_C_PRO_57
+6jwlA_A_GLU_967	<-->	2aobC_C_TRP_60
+6jwlA_A_ARG_962	<-->	2aobC_C_HIS_79
+6jwlA_A_MET_945	<-->	2aobC_C_HIS_58
+6jwlA_A_MET_945	<-->	2aobC_C_PRO_59
+6jwlA_A_ARG_962	<-->	2aobC_C_ARG_78

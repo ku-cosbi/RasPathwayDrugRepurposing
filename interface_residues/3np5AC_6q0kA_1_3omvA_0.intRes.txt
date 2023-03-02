@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_GLU_703	<-->	3omvA_A_HIS_611
+6q0kA_A_GLN_709	<-->	3omvA_A_GLN_601
+6q0kA_A_GLU_695	<-->	3omvA_A_LEU_608
+6q0kA_A_GLN_709	<-->	3omvA_A_SER_604
+6q0kA_A_GLN_709	<-->	3omvA_A_SER_605
+6q0kA_A_PRO_705	<-->	3omvA_A_SER_604
+6q0kA_A_LEU_706	<-->	3omvA_A_SER_604
+6q0kA_A_ASP_702	<-->	3omvA_A_GLU_607
+6q0kA_A_ALA_712	<-->	3omvA_A_GLN_601
+6q0kA_A_PRO_708	<-->	3omvA_A_GLN_601
+6q0kA_A_PRO_708	<-->	3omvA_A_PRO_600

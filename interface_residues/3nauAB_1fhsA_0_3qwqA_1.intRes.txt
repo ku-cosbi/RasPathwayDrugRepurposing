@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1fhsA_A_ILE_2	<-->	3qwqA_A_ALA_477
+1fhsA_A_ILE_2	<-->	3qwqA_A_GLY_479
+1fhsA_A_ILE_2	<-->	3qwqA_A_THR_478
+1fhsA_A_MET_4	<-->	3qwqA_A_GLY_479
+1fhsA_A_PHE_10	<-->	3qwqA_A_THR_450
+1fhsA_A_GLY_12	<-->	3qwqA_A_ASN_449
+1fhsA_A_ALA_40	<-->	3qwqA_A_LYS_454
+1fhsA_A_GLU_3	<-->	3qwqA_A_LYS_476
+1fhsA_A_GLU_38	<-->	3qwqA_A_THR_464
+1fhsA_A_SER_39	<-->	3qwqA_A_GLN_462
+1fhsA_A_LYS_13	<-->	3qwqA_A_ILE_466
+1fhsA_A_LYS_13	<-->	3qwqA_A_THR_464
+1fhsA_A_PHE_10	<-->	3qwqA_A_PRO_488
+1fhsA_A_GLU_36	<-->	3qwqA_A_ASN_452
+1fhsA_A_LYS_18	<-->	3qwqA_A_ILE_467
+1fhsA_A_HIS_7	<-->	3qwqA_A_VAL_481
+1fhsA_A_PHE_10	<-->	3qwqA_A_ASN_449
+1fhsA_A_HIS_7	<-->	3qwqA_A_CYS_482
+1fhsA_A_LYS_5	<-->	3qwqA_A_ALA_484
+1fhsA_A_GLU_38	<-->	3qwqA_A_LYS_454
+1fhsA_A_SER_39	<-->	3qwqA_A_LYS_454
+1fhsA_A_LYS_13	<-->	3qwqA_A_TRP_453
+1fhsA_A_MET_4	<-->	3qwqA_A_VAL_481
+1fhsA_A_GLU_101	<-->	3qwqA_A_LYS_476

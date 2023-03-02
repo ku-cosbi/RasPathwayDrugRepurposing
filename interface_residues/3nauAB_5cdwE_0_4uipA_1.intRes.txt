@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cdwE_E_LYS_4	<-->	4uipA_A_ARG_503
+5cdwE_E_PHE_10	<-->	4uipA_A_LYS_476
+5cdwE_E_PHE_10	<-->	4uipA_A_GLU_472
+5cdwE_E_LYS_12	<-->	4uipA_A_ASN_449
+5cdwE_E_GLY_11	<-->	4uipA_A_ASN_449
+5cdwE_E_PRO_40	<-->	4uipA_A_LYS_463
+5cdwE_E_PHE_9	<-->	4uipA_A_ASN_449
+5cdwE_E_HIS_6	<-->	4uipA_A_PRO_488
+5cdwE_E_PHE_10	<-->	4uipA_A_ASN_449
+5cdwE_E_ILE_13	<-->	4uipA_A_GLU_472
+5cdwE_E_PRO_5	<-->	4uipA_A_PRO_488
+5cdwE_E_PRO_5	<-->	4uipA_A_SER_487
+5cdwE_E_PRO_5	<-->	4uipA_A_CYS_486
+5cdwE_E_PRO_5	<-->	4uipA_A_ALA_484
+5cdwE_E_PRO_5	<-->	4uipA_A_HIS_483
+5cdwE_E_PRO_5	<-->	4uipA_A_CYS_482
+5cdwE_E_ARG_60	<-->	4uipA_A_LYS_454
+5cdwE_E_MET_21	<-->	4uipA_A_ASN_473
+5cdwE_E_MET_3	<-->	4uipA_A_ARG_503
+5cdwE_E_LYS_4	<-->	4uipA_A_ALA_484
+5cdwE_E_LYS_4	<-->	4uipA_A_LEU_485
+5cdwE_E_LYS_4	<-->	4uipA_A_CYS_486
+5cdwE_E_LYS_4	<-->	4uipA_A_SER_487
+5cdwE_E_LYS_4	<-->	4uipA_A_PRO_488

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_ARG_220	<-->	1moxC_C_ALA_31
+3qwqA_A_ARG_220	<-->	1moxC_C_CYS_32
+3qwqA_A_ARG_220	<-->	1moxC_C_VAL_33
+3qwqA_A_SER_205	<-->	1moxC_C_LYS_29
+3qwqA_A_GLY_218	<-->	1moxC_C_ALA_41
+3qwqA_A_GLU_233	<-->	1moxC_C_LEU_49
+3qwqA_A_THR_217	<-->	1moxC_C_ALA_41
+3qwqA_A_ARG_220	<-->	1moxC_C_PHE_5
+3qwqA_A_PRO_219	<-->	1moxC_C_PRO_30
+3qwqA_A_PRO_219	<-->	1moxC_C_ALA_31
+3qwqA_A_GLU_3	<-->	1moxC_C_LEU_48
+3qwqA_A_GLU_3	<-->	1moxC_C_LEU_49
+3qwqA_A_SER_222	<-->	1moxC_C_GLY_40
+3qwqA_A_ARG_220	<-->	1moxC_C_ARG_22
+3qwqA_A_CYS_207	<-->	1moxC_C_LYS_29
+3qwqA_A_ASP_223	<-->	1moxC_C_GLY_40
+3qwqA_A_ASP_223	<-->	1moxC_C_ALA_41
+3qwqA_A_GLU_2	<-->	1moxC_C_ASP_47
+3qwqA_A_ALA_234	<-->	1moxC_C_VAL_39
+3qwqA_A_ALA_234	<-->	1moxC_C_TYR_38
+3qwqA_A_GLU_2	<-->	1moxC_C_LEU_49
+3qwqA_A_GLU_2	<-->	1moxC_C_LEU_48
+3qwqA_A_ARG_231	<-->	1moxC_C_LEU_49
+3qwqA_A_PRO_219	<-->	1moxC_C_LYS_29
