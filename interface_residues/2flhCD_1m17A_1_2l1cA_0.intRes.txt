@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1m17A_A_MET_921	<-->	2l1cA_A_THR_193
+1m17A_A_ARG_953	<-->	2l1cA_A_LEU_53
+1m17A_A_TYR_954	<-->	2l1cA_A_GLU_184
+1m17A_A_ILE_917	<-->	2l1cA_A_TYR_52
+1m17A_A_GLN_911	<-->	2l1cA_A_HIS_40
+1m17A_A_ILE_917	<-->	2l1cA_A_VAL_50
+1m17A_A_ASP_918	<-->	2l1cA_A_TYR_52
+1m17A_A_LYS_925	<-->	2l1cA_A_ASP_189
+1m17A_A_LYS_925	<-->	2l1cA_A_GLN_188
+1m17A_A_CYS_915	<-->	2l1cA_A_HIS_40
+1m17A_A_LYS_946	<-->	2l1cA_A_GLU_184
+1m17A_A_TYR_954	<-->	2l1cA_A_LEU_53
+1m17A_A_MET_921	<-->	2l1cA_A_ASP_189
+1m17A_A_TYR_920	<-->	2l1cA_A_LEU_39
+1m17A_A_THR_916	<-->	2l1cA_A_HIS_40
+1m17A_A_MET_921	<-->	2l1cA_A_TYR_52
+1m17A_A_ILE_917	<-->	2l1cA_A_HIS_40
+1m17A_A_ILE_917	<-->	2l1cA_A_PRO_41
+1m17A_A_ILE_917	<-->	2l1cA_A_LYS_44
+1m17A_A_GLU_943	<-->	2l1cA_A_GLY_185
+1m17A_A_GLU_943	<-->	2l1cA_A_GLU_184
+1m17A_A_TYR_920	<-->	2l1cA_A_PRO_41

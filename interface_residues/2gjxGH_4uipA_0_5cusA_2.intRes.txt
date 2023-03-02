@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4uipA_A_PRO_365	<-->	5cusA_A_LYS_172
+4uipA_A_PRO_365	<-->	5cusA_A_GLY_173
+4uipA_A_PRO_387	<-->	5cusA_A_ARG_174
+4uipA_A_PRO_365	<-->	5cusA_A_ARG_174
+4uipA_A_THR_391	<-->	5cusA_A_ILE_190
+4uipA_A_ARG_390	<-->	5cusA_A_ASP_143
+4uipA_A_THR_478	<-->	5cusA_A_ALA_192
+4uipA_A_ASP_364	<-->	5cusA_A_THR_141
+4uipA_A_ASP_364	<-->	5cusA_A_CYS_167
+4uipA_A_PRO_361	<-->	5cusA_A_PRO_166
+4uipA_A_LEU_363	<-->	5cusA_A_GLY_173
+4uipA_A_ASN_389	<-->	5cusA_A_LEU_186
+4uipA_A_THR_478	<-->	5cusA_A_PRO_204
+4uipA_A_THR_391	<-->	5cusA_A_THR_189
+4uipA_A_PRO_362	<-->	5cusA_A_PRO_166
+4uipA_A_THR_422	<-->	5cusA_A_PRO_202
+4uipA_A_ASP_364	<-->	5cusA_A_GLY_173
+4uipA_A_GLY_479	<-->	5cusA_A_PRO_193
+4uipA_A_GLN_366	<-->	5cusA_A_ILE_142
+4uipA_A_GLN_366	<-->	5cusA_A_ASP_143
+4uipA_A_GLN_366	<-->	5cusA_A_ASP_140
+4uipA_A_GLN_366	<-->	5cusA_A_THR_141
+4uipA_A_ASN_389	<-->	5cusA_A_ARG_174
+4uipA_A_GLN_480	<-->	5cusA_A_PRO_202

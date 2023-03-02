@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6jwlA_A_GLY_735	<-->	3p11A_A_VAL_283
+6jwlA_A_THR_993	<-->	3p11A_A_SER_18
+6jwlA_A_ASP_1009	<-->	3p11A_A_ARG_284
+6jwlA_A_THR_710	<-->	3p11A_A_PRO_288
+6jwlA_A_ASP_1006	<-->	3p11A_A_ARG_284
+6jwlA_A_ASP_1008	<-->	3p11A_A_ARG_284
+6jwlA_A_LYS_737	<-->	3p11A_A_PHE_275
+6jwlA_A_PRO_772	<-->	3p11A_A_ASP_93
+6jwlA_A_ASP_1012	<-->	3p11A_A_LEU_14
+6jwlA_A_LEU_1017	<-->	3p11A_A_THR_89
+6jwlA_A_LEU_1017	<-->	3p11A_A_GLY_88
+6jwlA_A_GLU_1015	<-->	3p11A_A_TYR_67
+6jwlA_A_VAL_1010	<-->	3p11A_A_LEU_14
+6jwlA_A_GLU_1015	<-->	3p11A_A_ASN_43
+6jwlA_A_LYS_737	<-->	3p11A_A_VAL_283
+6jwlA_A_LYS_737	<-->	3p11A_A_CYS_282
+6jwlA_A_LYS_737	<-->	3p11A_A_ARG_284
+6jwlA_A_GLU_1015	<-->	3p11A_A_GLN_90
+6jwlA_A_GLU_1015	<-->	3p11A_A_LEU_14
+6jwlA_A_LYS_737	<-->	3p11A_A_TYR_263
+6jwlA_A_VAL_1011	<-->	3p11A_A_LEU_14
+6jwlA_A_LEU_1017	<-->	3p11A_A_GLN_90
+6jwlA_A_LEU_1017	<-->	3p11A_A_VAL_91
+6jwlA_A_TYR_1016	<-->	3p11A_A_GLN_90

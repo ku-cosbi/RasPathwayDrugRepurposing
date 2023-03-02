@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2w96A_A_LEU_32	<-->	5fwlK_K_ASN_217
+2w96A_A_LYS_46	<-->	5fwlK_K_SER_259
+2w96A_A_GLU_36	<-->	5fwlK_K_GLY_224
+2w96A_A_SER_43	<-->	5fwlK_K_SER_259
+2w96A_A_ARG_235	<-->	5fwlK_K_THR_172
+2w96A_A_ALA_39	<-->	5fwlK_K_ASP_228
+2w96A_A_ASP_242	<-->	5fwlK_K_ARG_101
+2w96A_A_LEU_32	<-->	5fwlK_K_ASP_221
+2w96A_A_CYS_243	<-->	5fwlK_K_PRO_212
+2w96A_A_CYS_47	<-->	5fwlK_K_SER_259
+2w96A_A_CYS_239	<-->	5fwlK_K_THR_177
+2w96A_A_PRO_40	<-->	5fwlK_K_ARG_255
+2w96A_A_LYS_46	<-->	5fwlK_K_PRO_262
+2w96A_A_LYS_238	<-->	5fwlK_K_GLY_216
+2w96A_A_LYS_238	<-->	5fwlK_K_ASN_217
+2w96A_A_SER_41	<-->	5fwlK_K_ARG_255
+2w96A_A_SER_43	<-->	5fwlK_K_VAL_260
+2w96A_A_ILE_237	<-->	5fwlK_K_ASN_217
+2w96A_A_GLU_36	<-->	5fwlK_K_ARG_252
+2w96A_A_LYS_238	<-->	5fwlK_K_VAL_175
+2w96A_A_ASP_240	<-->	5fwlK_K_TRP_179
+2w96A_A_ALA_39	<-->	5fwlK_K_ARG_255
+2w96A_A_ASP_240	<-->	5fwlK_K_VAL_176
+2w96A_A_ASP_240	<-->	5fwlK_K_THR_177

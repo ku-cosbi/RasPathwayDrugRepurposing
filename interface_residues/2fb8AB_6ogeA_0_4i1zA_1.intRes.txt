@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_SER_196	<-->	4i1zA_A_SER_969
+6ogeA_A_PRO_197	<-->	4i1zA_A_ILE_966
+6ogeA_A_ASN_68	<-->	4i1zA_A_GLN_701
+6ogeA_A_ASN_68	<-->	4i1zA_A_ALA_702
+6ogeA_A_GLU_210	<-->	4i1zA_A_LYS_823
+6ogeA_A_GLU_210	<-->	4i1zA_A_HIS_773
+6ogeA_A_THR_67	<-->	4i1zA_A_GLN_701
+6ogeA_A_SER_70	<-->	4i1zA_A_LEU_703
+6ogeA_A_PRO_197	<-->	4i1zA_A_SER_969
+6ogeA_A_HIS_193	<-->	4i1zA_A_ARG_962
+6ogeA_A_SER_209	<-->	4i1zA_A_VAL_819
+6ogeA_A_MET_198	<-->	4i1zA_A_VAL_819
+6ogeA_A_SER_208	<-->	4i1zA_A_LYS_823
+6ogeA_A_MET_198	<-->	4i1zA_A_ALA_972
+6ogeA_A_MET_198	<-->	4i1zA_A_ARG_973
+6ogeA_A_SER_133	<-->	4i1zA_A_GLN_701
+6ogeA_A_MET_198	<-->	4i1zA_A_SER_969
+6ogeA_A_ARG_92	<-->	4i1zA_A_ASP_770
+6ogeA_A_MET_198	<-->	4i1zA_A_ASN_816

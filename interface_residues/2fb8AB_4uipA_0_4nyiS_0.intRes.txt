@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4uipA_A_ASN_151	<-->	4nyiS_S_ASP_887
+4uipA_A_SER_127	<-->	4nyiS_S_ARG_1019
+4uipA_A_LEU_98	<-->	4nyiS_S_ARG_1019
+4uipA_A_LEU_14	<-->	4nyiS_S_PRO_1021
+4uipA_A_MET_152	<-->	4nyiS_S_ASP_887
+4uipA_A_LEU_98	<-->	4nyiS_S_ASN_1020
+4uipA_A_LEU_98	<-->	4nyiS_S_PRO_1021
+4uipA_A_ALA_96	<-->	4nyiS_S_ASN_1020
+4uipA_A_ARG_125	<-->	4nyiS_S_ASN_1020
+4uipA_A_ASP_155	<-->	4nyiS_S_ARG_1019
+4uipA_A_GLU_90	<-->	4nyiS_S_ASN_1020
+4uipA_A_GLU_90	<-->	4nyiS_S_PRO_1021
+4uipA_A_SER_150	<-->	4nyiS_S_ASP_887
+4uipA_A_SER_150	<-->	4nyiS_S_GLU_891
+4uipA_A_TYR_93	<-->	4nyiS_S_ASN_1020

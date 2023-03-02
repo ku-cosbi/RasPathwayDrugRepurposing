@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5x2aB_B_HIS_805	<-->	5cusA_A_ASP_152
+5x2aB_B_LEU_792	<-->	5cusA_A_VAL_91
+5x2aB_B_LYS_728	<-->	5cusA_A_ASP_93
+5x2aB_B_LYS_728	<-->	5cusA_A_TYR_92
+5x2aB_B_LYS_728	<-->	5cusA_A_VAL_91
+5x2aB_B_VAL_738	<-->	5cusA_A_PRO_11
+5x2aB_B_VAL_738	<-->	5cusA_A_GLY_12
+5x2aB_B_LEU_1001	<-->	5cusA_A_LEU_124
+5x2aB_B_LYS_716	<-->	5cusA_A_TYR_92
+5x2aB_B_LYS_716	<-->	5cusA_A_ASP_93
+5x2aB_B_PRO_741	<-->	5cusA_A_GLN_90
+5x2aB_B_LYS_716	<-->	5cusA_A_PHE_99
+5x2aB_B_ILE_715	<-->	5cusA_A_TYR_92
+5x2aB_B_LEU_730	<-->	5cusA_A_TYR_67
+5x2aB_B_VAL_738	<-->	5cusA_A_MET_41
+5x2aB_B_PHE_997	<-->	5cusA_A_LEU_124
+5x2aB_B_VAL_717	<-->	5cusA_A_ASP_93
+5x2aB_B_LYS_739	<-->	5cusA_A_THR_13
+5x2aB_B_LEU_718	<-->	5cusA_A_ASP_93
+5x2aB_B_PRO_794	<-->	5cusA_A_GLY_94
+5x2aB_B_ILE_715	<-->	5cusA_A_LEU_69
+5x2aB_B_LYS_737	<-->	5cusA_A_GLY_12
+5x2aB_B_LYS_737	<-->	5cusA_A_PRO_11
+5x2aB_B_PRO_794	<-->	5cusA_A_VAL_91

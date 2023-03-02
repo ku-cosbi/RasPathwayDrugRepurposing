@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6p8qC_C_LYS_713	<-->	5cusA_A_ASP_93
+6p8qC_C_LYS_737	<-->	5cusA_A_VAL_156
+6p8qC_C_LYS_737	<-->	5cusA_A_ILE_155
+6p8qC_C_PHE_795	<-->	5cusA_A_THR_106
+6p8qC_C_LYS_739	<-->	5cusA_A_GLU_131
+6p8qC_C_LYS_739	<-->	5cusA_A_VAL_156
+6p8qC_C_LEU_1001	<-->	5cusA_A_ARG_162
+6p8qC_C_LYS_716	<-->	5cusA_A_LEU_102
+6p8qC_C_VAL_738	<-->	5cusA_A_LYS_158
+6p8qC_C_VAL_738	<-->	5cusA_A_VAL_156
+6p8qC_C_LYS_716	<-->	5cusA_A_MET_72
+6p8qC_C_ILE_715	<-->	5cusA_A_ASP_93
+6p8qC_C_ILE_715	<-->	5cusA_A_TYR_92
+6p8qC_C_LYS_714	<-->	5cusA_A_ASP_93
+6p8qC_C_ILE_715	<-->	5cusA_A_PHE_99
+6p8qC_C_GLU_736	<-->	5cusA_A_GLU_154
+6p8qC_C_LYS_739	<-->	5cusA_A_TYR_129
+6p8qC_C_LEU_730	<-->	5cusA_A_TYR_129
+6p8qC_C_LYS_739	<-->	5cusA_A_PHE_96
+6p8qC_C_LYS_739	<-->	5cusA_A_ASP_93
+6p8qC_C_ILE_732	<-->	5cusA_A_GLU_154
+6p8qC_C_LEU_730	<-->	5cusA_A_PHE_96

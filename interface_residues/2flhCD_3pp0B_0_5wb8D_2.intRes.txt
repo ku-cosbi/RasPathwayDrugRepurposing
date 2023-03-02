@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_GLU_971	<-->	5wb8D_D_SER_474
+3pp0B_B_ARG_978	<-->	5wb8D_D_ILE_467
+3pp0B_B_MET_953	<-->	5wb8D_D_GLY_441
+3pp0B_B_GLU_975	<-->	5wb8D_D_LYS_443
+3pp0B_B_GLU_975	<-->	5wb8D_D_SER_468
+3pp0B_B_GLN_984	<-->	5wb8D_D_ASP_22
+3pp0B_B_ASP_950	<-->	5wb8D_D_GLY_441
+3pp0B_B_MET_953	<-->	5wb8D_D_SER_418
+3pp0B_B_VAL_988	<-->	5wb8D_D_GLY_18
+3pp0B_B_ARG_978	<-->	5wb8D_D_SER_468
+3pp0B_B_ILE_989	<-->	5wb8D_D_THR_19
+3pp0B_B_LYS_957	<-->	5wb8D_D_LYS_443
+3pp0B_B_ASP_950	<-->	5wb8D_D_SER_418
+3pp0B_B_GLN_990	<-->	5wb8D_D_GLY_18
+3pp0B_B_ILE_949	<-->	5wb8D_D_SER_418
+3pp0B_B_ARG_985	<-->	5wb8D_D_PHE_412
+3pp0B_B_GLN_990	<-->	5wb8D_D_GLN_16
+3pp0B_B_GLN_990	<-->	5wb8D_D_LEU_17
+3pp0B_B_ASP_950	<-->	5wb8D_D_VAL_417
+3pp0B_B_VAL_988	<-->	5wb8D_D_THR_19

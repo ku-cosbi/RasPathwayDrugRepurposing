@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_ARG_116	<-->	1aweA_A_ASN_135
+3n85A_A_PRO_100	<-->	1aweA_A_ASN_108
+3n85A_A_ARG_116	<-->	1aweA_A_ALA_131
+3n85A_A_HIS_171	<-->	1aweA_A_GLU_132
+3n85A_A_ALA_169	<-->	1aweA_A_GLU_132
+3n85A_A_PRO_112	<-->	1aweA_A_ALA_131
+3n85A_A_ARG_168	<-->	1aweA_A_SER_130
+3n85A_A_PRO_112	<-->	1aweA_A_LYS_134
+3n85A_A_PRO_112	<-->	1aweA_A_ASN_135
+3n85A_A_SER_111	<-->	1aweA_A_ASP_103
+3n85A_A_SER_111	<-->	1aweA_A_MET_138
+3n85A_A_SER_167	<-->	1aweA_A_LYS_129
+3n85A_A_SER_167	<-->	1aweA_A_SER_130
+3n85A_A_ARG_168	<-->	1aweA_A_GLU_132
+3n85A_A_ARG_116	<-->	1aweA_A_GLU_132
+3n85A_A_ARG_168	<-->	1aweA_A_ALA_131
+3n85A_A_GLN_138	<-->	1aweA_A_ALA_131
+3n85A_A_SER_167	<-->	1aweA_A_ALA_131
+3n85A_A_SER_111	<-->	1aweA_A_ASN_135
+3n85A_A_SER_111	<-->	1aweA_A_LYS_134

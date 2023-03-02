@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_SER_487	<-->	2aobC_C_HIS_107
+5cusB_B_ARG_471	<-->	2aobC_C_ILE_65
+5cusB_B_GLY_478	<-->	2aobC_C_LYS_64
+5cusB_B_CYS_481	<-->	2aobC_C_GLU_89
+5cusB_B_ALA_476	<-->	2aobC_C_LYS_64
+5cusB_B_VAL_480	<-->	2aobC_C_PRO_66
+5cusB_B_HIS_447	<-->	2aobC_C_LYS_69
+5cusB_B_ARG_471	<-->	2aobC_C_LYS_69
+5cusB_B_TYR_445	<-->	2aobC_C_LYS_69
+5cusB_B_SER_448	<-->	2aobC_C_PRO_66
+5cusB_B_GLU_477	<-->	2aobC_C_LYS_64
+5cusB_B_PRO_483	<-->	2aobC_C_GLU_89
+5cusB_B_VAL_475	<-->	2aobC_C_PRO_66
+5cusB_B_VAL_475	<-->	2aobC_C_ILE_65
+5cusB_B_VAL_480	<-->	2aobC_C_LYS_64
+5cusB_B_VAL_480	<-->	2aobC_C_GLU_89
+5cusB_B_PRO_483	<-->	2aobC_C_SER_90
+5cusB_B_VAL_475	<-->	2aobC_C_LYS_64
+5cusB_B_SER_487	<-->	2aobC_C_ALA_68
+5cusB_B_SER_448	<-->	2aobC_C_LYS_69
+5cusB_B_SER_448	<-->	2aobC_C_ALA_68
