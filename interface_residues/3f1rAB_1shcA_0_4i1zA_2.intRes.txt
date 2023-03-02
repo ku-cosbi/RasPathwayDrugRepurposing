@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_LEU_84	<-->	4i1zA_A_ILE_966
+1shcA_A_THR_96	<-->	4i1zA_A_ARG_973
+1shcA_A_LEU_84	<-->	4i1zA_A_LYS_970
+1shcA_A_ARG_97	<-->	4i1zA_A_ARG_973
+1shcA_A_GLU_87	<-->	4i1zA_A_ARG_973
+1shcA_A_ALA_88	<-->	4i1zA_A_LYS_823
+1shcA_A_LYS_116	<-->	4i1zA_A_ASN_771
+1shcA_A_ARG_112	<-->	4i1zA_A_ASP_830
+1shcA_A_ALA_95	<-->	4i1zA_A_ARG_973
+1shcA_A_LYS_116	<-->	4i1zA_A_TYR_827
+1shcA_A_LYS_116	<-->	4i1zA_A_ASP_770
+1shcA_A_SER_113	<-->	4i1zA_A_ARG_962
+1shcA_A_GLY_111	<-->	4i1zA_A_ARG_962
+1shcA_A_ARG_98	<-->	4i1zA_A_ARG_973
+1shcA_A_LYS_100	<-->	4i1zA_A_LYS_970
+1shcA_A_LYS_100	<-->	4i1zA_A_ARG_973
+1shcA_A_ARG_99	<-->	4i1zA_A_ARG_973
+1shcA_A_PRO_101	<-->	4i1zA_A_LYS_970
+1shcA_A_ARG_112	<-->	4i1zA_A_ARG_962
+1shcA_A_ARG_99	<-->	4i1zA_A_ASP_974

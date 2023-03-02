@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_GLN_15	<-->	4rzvB_B_TRP_450
+4zdrA_A_GLU_17	<-->	4rzvB_B_TRP_450
+4zdrA_A_THR_229	<-->	4rzvB_B_ARG_719
+4zdrA_A_SER_230	<-->	4rzvB_B_ALA_718
+4zdrA_A_SER_238	<-->	4rzvB_B_HIS_510
+4zdrA_A_GLU_17	<-->	4rzvB_B_MET_517
+4zdrA_A_ASP_223	<-->	4rzvB_B_ARG_562
+4zdrA_A_VAL_241	<-->	4rzvB_B_HIS_509
+4zdrA_A_LYS_212	<-->	4rzvB_B_LYS_570
+4zdrA_A_LEU_216	<-->	4rzvB_B_HIS_510
+4zdrA_A_GLN_219	<-->	4rzvB_B_ARG_562
+4zdrA_A_THR_226	<-->	4rzvB_B_GLU_715
+4zdrA_A_GLN_219	<-->	4rzvB_B_TYR_566
+4zdrA_A_LEU_220	<-->	4rzvB_B_ARG_562
+4zdrA_A_GLN_15	<-->	4rzvB_B_ASP_449
+4zdrA_A_ARG_222	<-->	4rzvB_B_GLU_715
+4zdrA_A_ALA_16	<-->	4rzvB_B_ASP_449
+4zdrA_A_GLN_15	<-->	4rzvB_B_ARG_506
+4zdrA_A_SER_238	<-->	4rzvB_B_HIS_509
+4zdrA_A_ASP_223	<-->	4rzvB_B_VAL_511
+4zdrA_A_ASP_223	<-->	4rzvB_B_ASN_512
+4zdrA_A_THR_226	<-->	4rzvB_B_ARG_558
+4zdrA_A_LEU_216	<-->	4rzvB_B_HIS_509
+4zdrA_A_LEU_216	<-->	4rzvB_B_TYR_566

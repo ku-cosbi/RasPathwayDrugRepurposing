@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_THR_847	<-->	5cusA_A_LEU_249
+4i1zA_A_ARG_973	<-->	5cusA_A_ASP_221
+4i1zA_A_MET_987	<-->	5cusA_A_TYR_582
+4i1zA_A_ARG_986	<-->	5cusA_A_TYR_582
+4i1zA_A_ARG_977	<-->	5cusA_A_GLN_220
+4i1zA_A_MET_987	<-->	5cusA_A_ILE_581
+4i1zA_A_ASN_808	<-->	5cusA_A_LYS_583
+4i1zA_A_THR_847	<-->	5cusA_A_LYS_248
+4i1zA_A_GLN_849	<-->	5cusA_A_ALA_577
+4i1zA_A_GLN_849	<-->	5cusA_A_GLY_576
+4i1zA_A_MET_987	<-->	5cusA_A_PRO_580
+4i1zA_A_GLN_812	<-->	5cusA_A_GLY_579
+4i1zA_A_GLN_812	<-->	5cusA_A_LYS_578
+4i1zA_A_TYR_813	<-->	5cusA_A_ILE_581
+4i1zA_A_ARG_977	<-->	5cusA_A_PRO_219
+4i1zA_A_PRO_848	<-->	5cusA_A_LYS_248
+4i1zA_A_GLN_849	<-->	5cusA_A_ILE_581
+4i1zA_A_GLN_849	<-->	5cusA_A_LYS_248

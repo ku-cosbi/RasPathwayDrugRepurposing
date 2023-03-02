@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ARG_36	<-->	3gopA_A_SER_897
+5cusB_B_ARG_36	<-->	3gopA_A_ALA_896
+5cusB_B_HIS_273	<-->	3gopA_A_ASP_930
+5cusB_B_ARG_36	<-->	3gopA_A_ILE_854
+5cusB_B_CYS_37	<-->	3gopA_A_ILE_862
+5cusB_B_PRO_272	<-->	3gopA_A_GLU_860
+5cusB_B_SER_56	<-->	3gopA_A_SER_897
+5cusB_B_ALA_8	<-->	3gopA_A_LEU_863
+5cusB_B_ARG_36	<-->	3gopA_A_SER_900
+5cusB_B_ASN_274	<-->	3gopA_A_ILE_866
+5cusB_B_ASN_274	<-->	3gopA_A_GLU_860
+5cusB_B_PRO_272	<-->	3gopA_A_HIS_864
+5cusB_B_TRP_60	<-->	3gopA_A_SER_897
+5cusB_B_ARG_36	<-->	3gopA_A_ILE_862
+5cusB_B_PHE_57	<-->	3gopA_A_SER_897
+5cusB_B_VAL_9	<-->	3gopA_A_LEU_863
+5cusB_B_TRP_354	<-->	3gopA_A_LEU_659
+5cusB_B_TRP_354	<-->	3gopA_A_LEU_658
+5cusB_B_HIS_355	<-->	3gopA_A_LEU_659
+5cusB_B_PRO_11	<-->	3gopA_A_LEU_863
+5cusB_B_LYS_356	<-->	3gopA_A_PRO_667
+5cusB_B_LYS_356	<-->	3gopA_A_ARG_662

@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_GLU_40	<-->	3w32A_A_GLY_917
+6ogeA_A_SER_133	<-->	3w32A_A_GLU_804
+6ogeA_A_GLY_131	<-->	3w32A_A_ASP_800
+6ogeA_A_ARG_92	<-->	3w32A_A_LYS_806
+6ogeA_A_PRO_66	<-->	3w32A_A_ASP_916
+6ogeA_A_ASN_68	<-->	3w32A_A_LYS_913
+6ogeA_A_ASN_68	<-->	3w32A_A_SER_912
+6ogeA_A_SER_133	<-->	3w32A_A_ARG_803
+6ogeA_A_ARG_92	<-->	3w32A_A_ARG_803
+6ogeA_A_ASN_68	<-->	3w32A_A_ASP_916
+6ogeA_A_SER_70	<-->	3w32A_A_PRO_937
+6ogeA_A_GLN_93	<-->	3w32A_A_ASP_807
+6ogeA_A_ARG_92	<-->	3w32A_A_ASP_807
+6ogeA_A_ALA_132	<-->	3w32A_A_ASP_800
+6ogeA_A_ALA_132	<-->	3w32A_A_TYR_801
+6ogeA_A_GLU_40	<-->	3w32A_A_ILE_918
+6ogeA_A_ALA_132	<-->	3w32A_A_GLU_804
+6ogeA_A_ARG_92	<-->	3w32A_A_GLU_804

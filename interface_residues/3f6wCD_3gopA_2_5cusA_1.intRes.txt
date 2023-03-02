@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3gopA_A_GLN_788	<-->	5cusA_A_PRO_580
+3gopA_A_GLN_788	<-->	5cusA_A_ILE_581
+3gopA_A_GLN_825	<-->	5cusA_A_LYS_248
+3gopA_A_GLU_961	<-->	5cusA_A_PRO_571
+3gopA_A_GLU_961	<-->	5cusA_A_HIS_572
+3gopA_A_ALA_948	<-->	5cusA_A_PRO_580
+3gopA_A_GLY_786	<-->	5cusA_A_TYR_582
+3gopA_A_PRO_951	<-->	5cusA_A_PRO_580
+3gopA_A_GLN_788	<-->	5cusA_A_GLY_579
+3gopA_A_GLN_788	<-->	5cusA_A_LYS_578
+3gopA_A_GLY_959	<-->	5cusA_A_LYS_583
+3gopA_A_GLN_952	<-->	5cusA_A_TYR_582
+3gopA_A_TYR_789	<-->	5cusA_A_LYS_248
+3gopA_A_GLN_825	<-->	5cusA_A_ILE_581
+3gopA_A_ASN_784	<-->	5cusA_A_LYS_583
+3gopA_A_GLU_961	<-->	5cusA_A_LYS_583
+3gopA_A_GLU_961	<-->	5cusA_A_TYR_582
+3gopA_A_ASN_792	<-->	5cusA_A_LYS_578
+3gopA_A_ASP_960	<-->	5cusA_A_TYR_582
+3gopA_A_PRO_824	<-->	5cusA_A_LYS_248
+3gopA_A_ASP_783	<-->	5cusA_A_LYS_583
+3gopA_A_GLN_958	<-->	5cusA_A_TYR_584
+3gopA_A_GLY_959	<-->	5cusA_A_TYR_584
+3gopA_A_TYR_789	<-->	5cusA_A_ILE_581

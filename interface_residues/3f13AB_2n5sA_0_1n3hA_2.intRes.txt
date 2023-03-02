@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n5sA_A_GLY_91	<-->	1n3hA_A_LYS_93
+2n5sA_A_GLY_92	<-->	1n3hA_A_LYS_93
+2n5sA_A_LEU_57	<-->	1n3hA_A_LYS_139
+2n5sA_A_GLU_85	<-->	1n3hA_A_ARG_98
+2n5sA_A_ARG_80	<-->	1n3hA_A_GLY_91
+2n5sA_A_ARG_80	<-->	1n3hA_A_PRO_90
+2n5sA_A_LYS_76	<-->	1n3hA_A_LYS_116
+2n5sA_A_ARG_81	<-->	1n3hA_A_ARG_98
+2n5sA_A_ARG_81	<-->	1n3hA_A_ARG_99
+2n5sA_A_ARG_80	<-->	1n3hA_A_VAL_89
+2n5sA_A_GLU_90	<-->	1n3hA_A_LYS_93
+2n5sA_A_GLN_84	<-->	1n3hA_A_GLY_91
+2n5sA_A_GLN_84	<-->	1n3hA_A_PRO_90
+2n5sA_A_GLN_84	<-->	1n3hA_A_ARG_97
+2n5sA_A_ARG_77	<-->	1n3hA_A_ALA_88
+2n5sA_A_ARG_77	<-->	1n3hA_A_GLU_87
+2n5sA_A_ARG_77	<-->	1n3hA_A_PRO_90
+2n5sA_A_GLN_84	<-->	1n3hA_A_ARG_98
+2n5sA_A_ARG_77	<-->	1n3hA_A_LEU_115
+2n5sA_A_GLU_87	<-->	1n3hA_A_ARG_97

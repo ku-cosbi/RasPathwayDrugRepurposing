@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1nqlA_A_ARG_509	<-->	6j71A_A_VAL_129
+1nqlA_A_ASN_158	<-->	6j71A_A_PRO_394
+1nqlA_A_MET_154	<-->	6j71A_A_PRO_378
+1nqlA_A_MET_154	<-->	6j71A_A_ASP_382
+1nqlA_A_PRO_130	<-->	6j71A_A_ASP_417
+1nqlA_A_ILE_138	<-->	6j71A_A_PRO_385
+1nqlA_A_ASP_155	<-->	6j71A_A_ASP_382
+1nqlA_A_ASN_128	<-->	6j71A_A_ASP_417
+1nqlA_A_ARG_509	<-->	6j71A_A_THR_130
+1nqlA_A_GLN_157	<-->	6j71A_A_PRO_416
+1nqlA_A_GLN_157	<-->	6j71A_A_ASP_417
+1nqlA_A_GLU_136	<-->	6j71A_A_PRO_385
+1nqlA_A_GLN_157	<-->	6j71A_A_TRP_415
+1nqlA_A_GLU_136	<-->	6j71A_A_GLY_383
+1nqlA_A_GLN_157	<-->	6j71A_A_PRO_394
+1nqlA_A_PHE_156	<-->	6j71A_A_PHE_381
+1nqlA_A_HIS_159	<-->	6j71A_A_GLN_393
+1nqlA_A_PHE_156	<-->	6j71A_A_ASP_382
+1nqlA_A_SER_137	<-->	6j71A_A_PRO_385
+1nqlA_A_HIS_159	<-->	6j71A_A_GLU_395
+1nqlA_A_HIS_159	<-->	6j71A_A_PRO_394

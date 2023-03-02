@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1fhsA_A_ARG_16	<-->	3pp0B_B_VAL_794
+1fhsA_A_SER_37	<-->	3pp0B_B_ILE_714
+1fhsA_A_GLU_38	<-->	3pp0B_B_ILE_714
+1fhsA_A_ARG_16	<-->	3pp0B_B_LEU_790
+1fhsA_A_ARG_16	<-->	3pp0B_B_LEU_768
+1fhsA_A_ALA_17	<-->	3pp0B_B_LEU_768
+1fhsA_A_SER_39	<-->	3pp0B_B_ARG_713
+1fhsA_A_ARG_16	<-->	3pp0B_B_ASN_764
+1fhsA_A_ARG_16	<-->	3pp0B_B_ILE_788
+1fhsA_A_ALA_40	<-->	3pp0B_B_ARG_713
+1fhsA_A_PRO_15	<-->	3pp0B_B_LEU_712
+1fhsA_A_GLU_38	<-->	3pp0B_B_LEU_712
+1fhsA_A_GLU_38	<-->	3pp0B_B_ARG_713
+1fhsA_A_GLU_38	<-->	3pp0B_B_LEU_711
+1fhsA_A_ARG_35	<-->	3pp0B_B_LEU_790
+1fhsA_A_GLU_20	<-->	3pp0B_B_LEU_768
+1fhsA_A_ASP_53	<-->	3pp0B_B_PRO_761
+1fhsA_A_LYS_58	<-->	3pp0B_B_LEU_790
+1fhsA_A_PRO_41	<-->	3pp0B_B_ASP_742
+1fhsA_A_PRO_15	<-->	3pp0B_B_TYR_772

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_PHE_443	<-->	6uanB_B_VAL_459
+3omvA_A_PHE_440	<-->	6uanB_B_ARG_462
+3omvA_A_LYS_615	<-->	6uanB_B_THR_488
+3omvA_A_GLN_441	<-->	6uanB_B_ARG_462
+3omvA_A_GLN_444	<-->	6uanB_B_ARG_462
+3omvA_A_MET_442	<-->	6uanB_B_ASN_486
+3omvA_A_LYS_615	<-->	6uanB_B_VAL_487
+3omvA_A_ILE_448	<-->	6uanB_B_ARG_462
+3omvA_A_GLN_441	<-->	6uanB_B_SER_465
+3omvA_A_ASN_576	<-->	6uanB_B_ASN_486
+3omvA_A_GLN_441	<-->	6uanB_B_ASN_486
+3omvA_A_GLN_441	<-->	6uanB_B_THR_470
+3omvA_A_LEU_480	<-->	6uanB_B_GLN_461
+3omvA_A_GLY_479	<-->	6uanB_B_GLN_461
+3omvA_A_LEU_445	<-->	6uanB_B_ARG_462
+3omvA_A_LYS_439	<-->	6uanB_B_GLY_464
+3omvA_A_LYS_439	<-->	6uanB_B_SER_465
+3omvA_A_LYS_615	<-->	6uanB_B_PRO_523
+3omvA_A_PRO_614	<-->	6uanB_B_PRO_523
+3omvA_A_PRO_614	<-->	6uanB_B_GLN_524
+3omvA_A_LYS_615	<-->	6uanB_B_GLN_524

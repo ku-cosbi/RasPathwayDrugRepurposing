@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ILE_346	<-->	1aweA_A_CYS_40
+5cusB_B_GLN_442	<-->	1aweA_A_ASP_120
+5cusB_B_LYS_415	<-->	1aweA_A_GLY_34
+5cusB_B_LEU_417	<-->	1aweA_A_ASP_120
+5cusB_B_LEU_417	<-->	1aweA_A_LYS_119
+5cusB_B_LEU_417	<-->	1aweA_A_PHE_94
+5cusB_B_LEU_417	<-->	1aweA_A_PHE_95
+5cusB_B_MET_414	<-->	1aweA_A_LYS_35
+5cusB_B_MET_414	<-->	1aweA_A_GLY_34
+5cusB_B_TYR_405	<-->	1aweA_A_LYS_35
+5cusB_B_ARG_441	<-->	1aweA_A_ASP_120
+5cusB_B_LEU_345	<-->	1aweA_A_GLN_39
+5cusB_B_LEU_412	<-->	1aweA_A_LYS_35
+5cusB_B_THR_347	<-->	1aweA_A_GLN_39
+5cusB_B_THR_347	<-->	1aweA_A_CYS_40
+5cusB_B_LYS_415	<-->	1aweA_A_GLU_92
+5cusB_B_ASN_406	<-->	1aweA_A_LYS_35
+5cusB_B_LYS_415	<-->	1aweA_A_PHE_94
+5cusB_B_PRO_353	<-->	1aweA_A_GLN_39
+5cusB_B_GLN_381	<-->	1aweA_A_LYS_35

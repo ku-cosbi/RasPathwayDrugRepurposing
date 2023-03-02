@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1tceA_A_LYS_66	<-->	4i1zA_A_GLU_804
+1tceA_A_SER_92	<-->	4i1zA_A_ASN_808
+1tceA_A_PRO_86	<-->	4i1zA_A_PHE_795
+1tceA_A_GLY_91	<-->	4i1zA_A_ASN_808
+1tceA_A_SER_48	<-->	4i1zA_A_TYR_813
+1tceA_A_LYS_52	<-->	4i1zA_A_ASN_808
+1tceA_A_GLN_47	<-->	4i1zA_A_PRO_848
+1tceA_A_GLN_47	<-->	4i1zA_A_GLN_849
+1tceA_A_GLY_91	<-->	4i1zA_A_HIS_805
+1tceA_A_GLN_97	<-->	4i1zA_A_GLN_849
+1tceA_A_LYS_52	<-->	4i1zA_A_MET_987
+1tceA_A_SER_92	<-->	4i1zA_A_HIS_805
+1tceA_A_CYS_95	<-->	4i1zA_A_PRO_848
+1tceA_A_GLU_93	<-->	4i1zA_A_HIS_805
+1tceA_A_GLU_93	<-->	4i1zA_A_TYR_801
+1tceA_A_GLN_50	<-->	4i1zA_A_GLU_985
+1tceA_A_GLN_50	<-->	4i1zA_A_MET_987
+1tceA_A_SER_48	<-->	4i1zA_A_GLN_849
+1tceA_A_GLN_50	<-->	4i1zA_A_TYR_813
+1tceA_A_GLN_47	<-->	4i1zA_A_TYR_813
+1tceA_A_LEU_85	<-->	4i1zA_A_PRO_794
+1tceA_A_GLU_93	<-->	4i1zA_A_PHE_795
+1tceA_A_GLN_50	<-->	4i1zA_A_GLN_812

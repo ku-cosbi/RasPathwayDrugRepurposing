@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4dstA_A_TYR_137	<-->	6epmR_R_GLU_91
+4dstA_A_TYR_137	<-->	6epmR_R_PHE_90
+4dstA_A_ASP_132	<-->	6epmR_R_TYR_137
+4dstA_A_SER_136	<-->	6epmR_R_PHE_90
+4dstA_A_SER_136	<-->	6epmR_R_GLU_91
+4dstA_A_HIS_94	<-->	6epmR_R_ASP_92
+4dstA_A_LYS_101	<-->	6epmR_R_ASN_86
+4dstA_A_LYS_101	<-->	6epmR_R_LYS_88
+4dstA_A_LYS_169	<-->	6epmR_R_THR_124
+4dstA_A_GLY_138	<-->	6epmR_R_GLN_129
+4dstA_A_ARG_97	<-->	6epmR_R_LYS_88
+4dstA_A_TYR_137	<-->	6epmR_R_THR_87
+4dstA_A_SER_136	<-->	6epmR_R_LEU_133
+4dstA_A_ASP_108	<-->	6epmR_R_THR_87
+4dstA_A_GLN_129	<-->	6epmR_R_HIS_94
+4dstA_A_GLU_107	<-->	6epmR_R_ASN_86
+4dstA_A_GLN_129	<-->	6epmR_R_GLU_98
+4dstA_A_GLU_107	<-->	6epmR_R_LYS_88
+4dstA_A_ASP_132	<-->	6epmR_R_HIS_94
+4dstA_A_LYS_175	<-->	6epmR_R_LEU_120
+4dstA_A_LEU_133	<-->	6epmR_R_HIS_94
+4dstA_A_ARG_97	<-->	6epmR_R_GLU_91
+4dstA_A_LEU_133	<-->	6epmR_R_GLU_91
+4dstA_A_GLU_98	<-->	6epmR_R_LYS_88

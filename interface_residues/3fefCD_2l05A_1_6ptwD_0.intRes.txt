@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l05A_A_LYS_205	<-->	6ptwD_D_ARG_389
+2l05A_A_TRP_216	<-->	6ptwD_D_LYS_444
+2l05A_A_GLU_225	<-->	6ptwD_D_LEU_391
+2l05A_A_HIS_223	<-->	6ptwD_D_LEU_391
+2l05A_A_GLY_203	<-->	6ptwD_D_ARG_389
+2l05A_A_THR_218	<-->	6ptwD_D_ALA_442
+2l05A_A_GLU_220	<-->	6ptwD_D_GLN_466
+2l05A_A_GLU_204	<-->	6ptwD_D_ARG_389
+2l05A_A_ARG_199	<-->	6ptwD_D_GLN_466
+2l05A_A_ILE_200	<-->	6ptwD_D_GLN_466
+2l05A_A_THR_218	<-->	6ptwD_D_ARG_443
+2l05A_A_GLN_201	<-->	6ptwD_D_GLN_466
+2l05A_A_ASP_202	<-->	6ptwD_D_GLN_466
+2l05A_A_LYS_205	<-->	6ptwD_D_LEU_391
+2l05A_A_GLY_219	<-->	6ptwD_D_ALA_442
+2l05A_A_GLU_204	<-->	6ptwD_D_GLN_366
+2l05A_A_GLU_225	<-->	6ptwD_D_GLY_390

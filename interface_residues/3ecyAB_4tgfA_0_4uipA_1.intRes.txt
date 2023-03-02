@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4tgfA_A_GLU_44	<-->	4uipA_A_LEU_539
+4tgfA_A_LEU_48	<-->	4uipA_A_ILE_562
+4tgfA_A_ALA_50	<-->	4uipA_A_VAL_592
+4tgfA_A_LEU_48	<-->	4uipA_A_CYS_555
+4tgfA_A_HIS_45	<-->	4uipA_A_GLN_541
+4tgfA_A_HIS_45	<-->	4uipA_A_GLN_557
+4tgfA_A_HIS_18	<-->	4uipA_A_ALA_589
+4tgfA_A_ALA_46	<-->	4uipA_A_GLN_557
+4tgfA_A_HIS_45	<-->	4uipA_A_LEU_539
+4tgfA_A_LEU_49	<-->	4uipA_A_PRO_565
+4tgfA_A_LEU_49	<-->	4uipA_A_GLY_564
+4tgfA_A_HIS_18	<-->	4uipA_A_GLY_590
+4tgfA_A_HIS_18	<-->	4uipA_A_HIS_591
+4tgfA_A_LEU_49	<-->	4uipA_A_ILE_562

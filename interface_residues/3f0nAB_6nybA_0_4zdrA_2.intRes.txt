@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6nybA_A_VAL_369	<-->	4zdrA_A_ARG_167
+6nybA_A_VAL_369	<-->	4zdrA_A_PHE_153
+6nybA_A_ASN_368	<-->	4zdrA_A_ARG_167
+6nybA_A_ASN_368	<-->	4zdrA_A_PHE_153
+6nybA_A_PRO_367	<-->	4zdrA_A_LYS_157
+6nybA_A_ASN_368	<-->	4zdrA_A_LYS_157
+6nybA_A_VAL_369	<-->	4zdrA_A_THR_194
+6nybA_A_ARG_719	<-->	4zdrA_A_GLU_186
+6nybA_A_ARG_719	<-->	4zdrA_A_LYS_187
+6nybA_A_HIS_370	<-->	4zdrA_A_THR_194
+6nybA_A_ARG_719	<-->	4zdrA_A_SER_190

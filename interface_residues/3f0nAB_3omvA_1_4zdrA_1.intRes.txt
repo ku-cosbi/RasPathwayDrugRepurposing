@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_SER_604	<-->	4zdrA_A_GLN_146
+3omvA_A_TYR_458	<-->	4zdrA_A_SER_190
+3omvA_A_LEU_608	<-->	4zdrA_A_VAL_142
+3omvA_A_SER_605	<-->	4zdrA_A_VAL_142
+3omvA_A_PRO_600	<-->	4zdrA_A_TYR_178
+3omvA_A_PRO_600	<-->	4zdrA_A_GLN_146
+3omvA_A_HIS_402	<-->	4zdrA_A_GLU_186
+3omvA_A_SER_604	<-->	4zdrA_A_PHE_177
+3omvA_A_LEU_608	<-->	4zdrA_A_LYS_138
+3omvA_A_LEU_608	<-->	4zdrA_A_LYS_139
+3omvA_A_LEU_598	<-->	4zdrA_A_GLN_150
+3omvA_A_PRO_600	<-->	4zdrA_A_GLN_150
+3omvA_A_SER_604	<-->	4zdrA_A_LEU_182
+3omvA_A_ALA_580	<-->	4zdrA_A_LYS_139
+3omvA_A_GLN_601	<-->	4zdrA_A_ASP_143
+3omvA_A_LEU_603	<-->	4zdrA_A_LEU_182
+3omvA_A_LEU_603	<-->	4zdrA_A_SER_184
+3omvA_A_GLN_601	<-->	4zdrA_A_GLN_146
+3omvA_A_VAL_403	<-->	4zdrA_A_GLU_186
+3omvA_A_GLU_607	<-->	4zdrA_A_ILE_181
+3omvA_A_GLU_607	<-->	4zdrA_A_LEU_182
+3omvA_A_GLU_607	<-->	4zdrA_A_ASN_183

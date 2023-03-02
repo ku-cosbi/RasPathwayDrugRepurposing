@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6xguB_B_ASN_56	<-->	3sa0A_A_ASP_288
+6xguB_B_GLU_125	<-->	3sa0A_A_TYR_317
+6xguB_B_SER_55	<-->	3sa0A_A_LYS_292
+6xguB_B_SER_55	<-->	3sa0A_A_ASP_291
+6xguB_B_ARG_59	<-->	3sa0A_A_LEU_308
+6xguB_B_ARG_59	<-->	3sa0A_A_ALA_309
+6xguB_B_VAL_69	<-->	3sa0A_A_LYS_285
+6xguB_B_THR_57	<-->	3sa0A_A_PRO_311
+6xguB_B_ASN_71	<-->	3sa0A_A_LYS_285
+6xguB_B_ASN_71	<-->	3sa0A_A_ASP_288
+6xguB_B_THR_57	<-->	3sa0A_A_ASP_288
+6xguB_B_GLY_123	<-->	3sa0A_A_GLN_306
+6xguB_B_ILE_58	<-->	3sa0A_A_PRO_311
+6xguB_B_ARG_59	<-->	3sa0A_A_LEU_313
+6xguB_B_ARG_59	<-->	3sa0A_A_PRO_311
+6xguB_B_ARG_59	<-->	3sa0A_A_HIS_310
+6xguB_B_ARG_59	<-->	3sa0A_A_TYR_317
+6xguB_B_ARG_59	<-->	3sa0A_A_GLU_314
+6xguB_B_SER_55	<-->	3sa0A_A_ASP_288
+6xguB_B_VAL_70	<-->	3sa0A_A_LYS_285
+6xguB_B_VAL_69	<-->	3sa0A_A_PRO_311
+6xguB_B_VAL_69	<-->	3sa0A_A_GLU_314

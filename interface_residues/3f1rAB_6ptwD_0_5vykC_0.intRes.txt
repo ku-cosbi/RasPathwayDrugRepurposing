@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ptwD_D_LEU_431	<-->	5vykC_C_TYR_1078
+6ptwD_D_LYS_408	<-->	5vykC_C_HIS_1072
+6ptwD_D_PHE_430	<-->	5vykC_C_GLY_1070
+6ptwD_D_LEU_431	<-->	5vykC_C_GLU_1071
+6ptwD_D_LYS_409	<-->	5vykC_C_HIS_1072
+6ptwD_D_GLU_394	<-->	5vykC_C_ASP_1066
+6ptwD_D_LEU_431	<-->	5vykC_C_GLY_1070
+6ptwD_D_LYS_408	<-->	5vykC_C_ASN_1073
+6ptwD_D_GLU_394	<-->	5vykC_C_LEU_1065
+6ptwD_D_LEU_431	<-->	5vykC_C_PRO_1074
+6ptwD_D_ALA_397	<-->	5vykC_C_GLY_1070
+6ptwD_D_PHE_399	<-->	5vykC_C_GLY_1070
+6ptwD_D_PHE_399	<-->	5vykC_C_GLU_1071
+6ptwD_D_CYS_396	<-->	5vykC_C_GLY_1070
+6ptwD_D_HIS_433	<-->	5vykC_C_TYR_1082
+6ptwD_D_HIS_433	<-->	5vykC_C_GLU_1083
+6ptwD_D_CYS_395	<-->	5vykC_C_LEU_1065
+6ptwD_D_CYS_395	<-->	5vykC_C_GLY_1070
+6ptwD_D_ASP_429	<-->	5vykC_C_GLY_1070
+6ptwD_D_LEU_431	<-->	5vykC_C_PHE_1068
+6ptwD_D_LEU_431	<-->	5vykC_C_GLY_1069

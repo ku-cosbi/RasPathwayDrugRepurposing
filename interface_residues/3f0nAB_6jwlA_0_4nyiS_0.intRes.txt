@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6jwlA_A_GLY_696	<-->	4nyiS_S_SER_908
+6jwlA_A_HIS_850	<-->	4nyiS_S_PRO_1021
+6jwlA_A_HIS_850	<-->	4nyiS_S_ASN_1020
+6jwlA_A_ILE_966	<-->	4nyiS_S_LYS_898
+6jwlA_A_GLY_696	<-->	4nyiS_S_HIS_911
+6jwlA_A_ARG_962	<-->	4nyiS_S_LYS_898
+6jwlA_A_GLY_696	<-->	4nyiS_S_TYR_912
+6jwlA_A_PRO_772	<-->	4nyiS_S_ASN_1020
+6jwlA_A_LYS_823	<-->	4nyiS_S_ASP_887
+6jwlA_A_ILE_966	<-->	4nyiS_S_GLU_891
+6jwlA_A_ASP_770	<-->	4nyiS_S_ARG_1019
+6jwlA_A_HIS_773	<-->	4nyiS_S_ASN_1020
+6jwlA_A_LEU_1017	<-->	4nyiS_S_ARG_1019
+6jwlA_A_SER_969	<-->	4nyiS_S_GLU_891
+6jwlA_A_ILE_965	<-->	4nyiS_S_GLU_891
+6jwlA_A_ARG_962	<-->	4nyiS_S_GLU_902

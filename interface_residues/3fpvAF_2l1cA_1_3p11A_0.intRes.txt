@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l1cA_A_ARG_98	<-->	3p11A_A_ARG_462
+2l1cA_A_ARG_98	<-->	3p11A_A_LEU_463
+2l1cA_A_ALA_95	<-->	3p11A_A_HIS_447
+2l1cA_A_ARG_97	<-->	3p11A_A_ASN_450
+2l1cA_A_ARG_97	<-->	3p11A_A_TRP_451
+2l1cA_A_ARG_99	<-->	3p11A_A_THR_459
+2l1cA_A_LYS_100	<-->	3p11A_A_PRO_458
+2l1cA_A_LYS_100	<-->	3p11A_A_THR_459
+2l1cA_A_SER_103	<-->	3p11A_A_PRO_458
+2l1cA_A_ARG_97	<-->	3p11A_A_THR_452
+2l1cA_A_ARG_97	<-->	3p11A_A_LEU_463
+2l1cA_A_ARG_97	<-->	3p11A_A_LEU_449
+2l1cA_A_ARG_97	<-->	3p11A_A_SER_448
+2l1cA_A_ARG_98	<-->	3p11A_A_LEU_455
+2l1cA_A_ARG_98	<-->	3p11A_A_THR_459
+2l1cA_A_ARG_98	<-->	3p11A_A_PRO_458
+2l1cA_A_ARG_97	<-->	3p11A_A_HIS_447
+2l1cA_A_ARG_97	<-->	3p11A_A_HIS_446
+2l1cA_A_LYS_100	<-->	3p11A_A_GLU_460
+2l1cA_A_THR_96	<-->	3p11A_A_HIS_447
+2l1cA_A_ARG_104	<-->	3p11A_A_GLU_461
+2l1cA_A_ARG_104	<-->	3p11A_A_GLU_460
+2l1cA_A_THR_96	<-->	3p11A_A_ILE_465
+2l1cA_A_PRO_101	<-->	3p11A_A_THR_459

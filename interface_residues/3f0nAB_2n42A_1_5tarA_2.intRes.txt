@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_THR_87	<-->	5tarA_A_LYS_182
+2n42A_A_SER_106	<-->	5tarA_A_THR_74
+2n42A_A_ASP_105	<-->	5tarA_A_THR_74
+2n42A_A_THR_124	<-->	5tarA_A_LYS_182
+2n42A_A_THR_124	<-->	5tarA_A_THR_183
+2n42A_A_ASP_105	<-->	5tarA_A_GLU_76
+2n42A_A_THR_124	<-->	5tarA_A_SER_181
+2n42A_A_HIS_94	<-->	5tarA_A_GLY_174
+2n42A_A_GLN_129	<-->	5tarA_A_SER_181
+2n42A_A_LEU_133	<-->	5tarA_A_LYS_177
+2n42A_A_ARG_123	<-->	5tarA_A_THR_183
+2n42A_A_PHE_90	<-->	5tarA_A_LYS_178
+2n42A_A_VAL_125	<-->	5tarA_A_SER_181
+2n42A_A_VAL_125	<-->	5tarA_A_LYS_180
+2n42A_A_VAL_125	<-->	5tarA_A_THR_183
+2n42A_A_VAL_125	<-->	5tarA_A_LYS_182
+2n42A_A_ARG_102	<-->	5tarA_A_TYR_4
+2n42A_A_GLU_91	<-->	5tarA_A_LYS_178
+2n42A_A_ARG_102	<-->	5tarA_A_GLU_3
+2n42A_A_ARG_102	<-->	5tarA_A_THR_2
+2n42A_A_SER_106	<-->	5tarA_A_LYS_5
+2n42A_A_GLU_91	<-->	5tarA_A_LYS_175
+2n42A_A_TYR_137	<-->	5tarA_A_GLY_174
+2n42A_A_TYR_137	<-->	5tarA_A_ASP_173
