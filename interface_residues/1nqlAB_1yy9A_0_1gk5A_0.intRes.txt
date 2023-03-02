@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1yy9A_A_TYR_45	<-->	1gk5A_A_ILE_23
+1yy9A_A_TYR_45	<-->	1gk5A_A_THR_30
+1yy9A_A_LEU_69	<-->	1gk5A_A_SER_25
+1yy9A_A_LEU_69	<-->	1gk5A_A_LEU_26
+1yy9A_A_LEU_69	<-->	1gk5A_A_ILE_23
+1yy9A_A_GLY_18	<-->	1gk5A_A_ASN_32
+1yy9A_A_GLN_16	<-->	1gk5A_A_CYS_31
+1yy9A_A_GLN_16	<-->	1gk5A_A_ASN_32
+1yy9A_A_GLN_16	<-->	1gk5A_A_CYS_33
+1yy9A_A_GLY_18	<-->	1gk5A_A_VAL_34
+1yy9A_A_LEU_14	<-->	1gk5A_A_LEU_26
+1yy9A_A_LEU_14	<-->	1gk5A_A_SER_28
+1yy9A_A_LEU_17	<-->	1gk5A_A_CYS_33
+1yy9A_A_LEU_17	<-->	1gk5A_A_ILE_35
+1yy9A_A_TYR_101	<-->	1gk5A_A_SER_25
+1yy9A_A_ALA_68	<-->	1gk5A_A_LEU_26
+1yy9A_A_GLY_18	<-->	1gk5A_A_CYS_33
+1yy9A_A_LEU_98	<-->	1gk5A_A_LEU_26
+1yy9A_A_LEU_14	<-->	1gk5A_A_THR_30
+1yy9A_A_GLY_18	<-->	1gk5A_A_ILE_35
+1yy9A_A_ASP_22	<-->	1gk5A_A_ILE_35
+1yy9A_A_THR_15	<-->	1gk5A_A_CYS_31
+1yy9A_A_SER_99	<-->	1gk5A_A_SER_25
+1yy9A_A_SER_99	<-->	1gk5A_A_LEU_26

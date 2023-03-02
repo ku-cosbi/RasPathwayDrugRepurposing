@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_SER_18	<-->	1gk5A_A_THR_30
+3p11A_A_SER_18	<-->	1gk5A_A_CYS_31
+3p11A_A_LYS_132	<-->	1gk5A_A_SER_25
+3p11A_A_LEU_17	<-->	1gk5A_A_SER_28
+3p11A_A_LEU_17	<-->	1gk5A_A_LEU_26
+3p11A_A_LEU_17	<-->	1gk5A_A_THR_30
+3p11A_A_ASP_22	<-->	1gk5A_A_ILE_35
+3p11A_A_THR_20	<-->	1gk5A_A_ILE_35
+3p11A_A_VAL_19	<-->	1gk5A_A_CYS_33
+3p11A_A_VAL_19	<-->	1gk5A_A_ASN_32
+3p11A_A_VAL_19	<-->	1gk5A_A_CYS_31
+3p11A_A_THR_20	<-->	1gk5A_A_VAL_34
+3p11A_A_THR_20	<-->	1gk5A_A_CYS_33
+3p11A_A_MET_72	<-->	1gk5A_A_LEU_26
+3p11A_A_LEU_102	<-->	1gk5A_A_SER_25
+3p11A_A_LEU_102	<-->	1gk5A_A_LEU_26
+3p11A_A_ASN_25	<-->	1gk5A_A_ILE_35
+3p11A_A_MET_101	<-->	1gk5A_A_ASP_27
+3p11A_A_MET_101	<-->	1gk5A_A_LEU_26
+3p11A_A_MET_101	<-->	1gk5A_A_SER_25
+3p11A_A_ASN_15	<-->	1gk5A_A_SER_38

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_MET_101	<-->	1moxC_C_GLU_27
+3p11A_A_LEU_48	<-->	1moxC_C_PHE_5
+3p11A_A_SER_18	<-->	1moxC_C_CYS_32
+3p11A_A_ASN_105	<-->	1moxC_C_HIS_4
+3p11A_A_GLY_21	<-->	1moxC_C_VAL_33
+3p11A_A_LEU_17	<-->	1moxC_C_ALA_31
+3p11A_A_MET_101	<-->	1moxC_C_GLN_26
+3p11A_A_THR_20	<-->	1moxC_C_CYS_34
+3p11A_A_THR_20	<-->	1moxC_C_VAL_33
+3p11A_A_TYR_104	<-->	1moxC_C_HIS_4
+3p11A_A_LYS_132	<-->	1moxC_C_GLN_26
+3p11A_A_VAL_19	<-->	1moxC_C_VAL_33
+3p11A_A_VAL_19	<-->	1moxC_C_CYS_32
+3p11A_A_VAL_19	<-->	1moxC_C_CYS_34
+3p11A_A_LEU_102	<-->	1moxC_C_GLN_26
+3p11A_A_LEU_102	<-->	1moxC_C_HIS_4
+3p11A_A_LEU_17	<-->	1moxC_C_LYS_29
+3p11A_A_LEU_17	<-->	1moxC_C_GLU_27
+3p11A_A_SER_18	<-->	1moxC_C_ALA_41
+3p11A_A_SER_18	<-->	1moxC_C_GLY_40
+3p11A_A_MET_72	<-->	1moxC_C_HIS_4
+3p11A_A_MET_72	<-->	1moxC_C_PHE_5
+3p11A_A_THR_106	<-->	1moxC_C_SER_3

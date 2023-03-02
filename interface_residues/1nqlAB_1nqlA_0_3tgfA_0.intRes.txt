@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1nqlA_A_SER_11	<-->	3tgfA_A_ARG_42
+1nqlA_A_LEU_17	<-->	3tgfA_A_TYR_38
+1nqlA_A_THR_10	<-->	3tgfA_A_ALA_41
+1nqlA_A_SER_11	<-->	3tgfA_A_ALA_41
+1nqlA_A_ASN_12	<-->	3tgfA_A_PHE_15
+1nqlA_A_LEU_14	<-->	3tgfA_A_LYS_29
+1nqlA_A_LEU_14	<-->	3tgfA_A_ALA_31
+1nqlA_A_LYS_13	<-->	3tgfA_A_PHE_15
+1nqlA_A_LEU_17	<-->	3tgfA_A_VAL_39
+1nqlA_A_ASN_12	<-->	3tgfA_A_ALA_41
+1nqlA_A_GLU_90	<-->	3tgfA_A_LYS_29
+1nqlA_A_THR_15	<-->	3tgfA_A_CYS_32
+1nqlA_A_THR_15	<-->	3tgfA_A_ALA_31
+1nqlA_A_THR_15	<-->	3tgfA_A_PHE_15
+1nqlA_A_THR_15	<-->	3tgfA_A_ALA_41
+1nqlA_A_THR_15	<-->	3tgfA_A_CYS_16
+1nqlA_A_LEU_17	<-->	3tgfA_A_GLY_40
+1nqlA_A_LEU_14	<-->	3tgfA_A_PHE_15
+1nqlA_A_TYR_89	<-->	3tgfA_A_LYS_29
+1nqlA_A_GLN_16	<-->	3tgfA_A_CYS_32

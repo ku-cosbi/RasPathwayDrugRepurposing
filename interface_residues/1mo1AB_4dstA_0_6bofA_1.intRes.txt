@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4dstA_A_LYS_177	<-->	6bofA_A_GLY_138
+4dstA_A_ASP_108	<-->	6bofA_A_ASP_105
+4dstA_A_LYS_176	<-->	6bofA_A_GLY_138
+4dstA_A_LYS_104	<-->	6bofA_A_ARG_73
+4dstA_A_ARG_73	<-->	6bofA_A_ASP_69
+4dstA_A_HIS_166	<-->	6bofA_A_GLU_107
+4dstA_A_ASP_173	<-->	6bofA_A_GLU_107
+4dstA_A_GLY_174	<-->	6bofA_A_ASP_108
+4dstA_A_LYS_104	<-->	6bofA_A_VAL_103
+4dstA_A_LYS_104	<-->	6bofA_A_LYS_104
+4dstA_A_LYS_104	<-->	6bofA_A_ASP_105
+4dstA_A_ARG_73	<-->	6bofA_A_ARG_102
+4dstA_A_ARG_73	<-->	6bofA_A_VAL_103
+4dstA_A_GLU_76	<-->	6bofA_A_ARG_102
+4dstA_A_VAL_103	<-->	6bofA_A_ARG_73
+4dstA_A_MET_72	<-->	6bofA_A_ARG_73
+4dstA_A_LYS_175	<-->	6bofA_A_ASP_108
+4dstA_A_ARG_73	<-->	6bofA_A_ARG_73
+4dstA_A_MET_170	<-->	6bofA_A_LYS_101
+4dstA_A_MET_170	<-->	6bofA_A_GLU_107
+4dstA_A_SER_106	<-->	6bofA_A_LYS_104
+4dstA_A_SER_106	<-->	6bofA_A_ASP_105
+4dstA_A_VAL_109	<-->	6bofA_A_ASP_105

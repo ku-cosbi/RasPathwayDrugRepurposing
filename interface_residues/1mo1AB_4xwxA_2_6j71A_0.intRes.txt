@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ALA_68	<-->	6j71A_A_LEU_419
+4xwxA_A_GLY_111	<-->	6j71A_A_GLU_395
+4xwxA_A_GLN_64	<-->	6j71A_A_GLN_398
+4xwxA_A_GLN_64	<-->	6j71A_A_LEU_419
+4xwxA_A_LYS_169	<-->	6j71A_A_GLU_401
+4xwxA_A_ARG_104	<-->	6j71A_A_GLN_393
+4xwxA_A_LEU_110	<-->	6j71A_A_GLU_395
+4xwxA_A_GLN_64	<-->	6j71A_A_GLU_395
+4xwxA_A_ARG_175	<-->	6j71A_A_GLN_398
+4xwxA_A_ARG_175	<-->	6j71A_A_GLU_401
+4xwxA_A_SER_107	<-->	6j71A_A_GLN_393
+4xwxA_A_SER_107	<-->	6j71A_A_PRO_394
+4xwxA_A_SER_107	<-->	6j71A_A_GLU_395
+4xwxA_A_LEU_63	<-->	6j71A_A_GLN_398
+4xwxA_A_LEU_63	<-->	6j71A_A_GLN_396
+4xwxA_A_LEU_63	<-->	6j71A_A_GLU_395
+4xwxA_A_SER_103	<-->	6j71A_A_ALA_390
+4xwxA_A_SER_103	<-->	6j71A_A_PRO_391

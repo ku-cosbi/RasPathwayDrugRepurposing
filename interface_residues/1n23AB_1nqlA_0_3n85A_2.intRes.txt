@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1nqlA_A_SER_196	<-->	3n85A_A_ASP_480
+1nqlA_A_SER_196	<-->	3n85A_A_GLU_481
+1nqlA_A_SER_150	<-->	3n85A_A_PRO_398
+1nqlA_A_ARG_228	<-->	3n85A_A_GLY_484
+1nqlA_A_GLN_193	<-->	3n85A_A_PRO_478
+1nqlA_A_GLN_193	<-->	3n85A_A_ALA_475
+1nqlA_A_GLN_193	<-->	3n85A_A_ASN_476
+1nqlA_A_SER_146	<-->	3n85A_A_LEU_487
+1nqlA_A_GLU_521	<-->	3n85A_A_VAL_552
+1nqlA_A_CYS_195	<-->	3n85A_A_PRO_478
+1nqlA_A_GLU_521	<-->	3n85A_A_SER_551
+1nqlA_A_SER_146	<-->	3n85A_A_SER_429
+1nqlA_A_ASP_147	<-->	3n85A_A_PRO_501
+1nqlA_A_ARG_509	<-->	3n85A_A_ASN_549
+1nqlA_A_ILE_189	<-->	3n85A_A_HIS_451
+1nqlA_A_GLU_521	<-->	3n85A_A_LEU_525
+1nqlA_A_ARG_141	<-->	3n85A_A_HIS_451
+1nqlA_A_CYS_195	<-->	3n85A_A_GLU_481
+1nqlA_A_GLU_521	<-->	3n85A_A_GLY_550
+1nqlA_A_SER_196	<-->	3n85A_A_PRO_478
+1nqlA_A_GLY_197	<-->	3n85A_A_GLU_481
+1nqlA_A_ALA_192	<-->	3n85A_A_PRO_478
+1nqlA_A_SER_146	<-->	3n85A_A_ARG_477
+1nqlA_A_ASP_147	<-->	3n85A_A_GLY_486

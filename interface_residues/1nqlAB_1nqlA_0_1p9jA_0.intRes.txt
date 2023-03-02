@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1nqlA_A_GLU_90	<-->	1p9jA_A_LYS_30
+1nqlA_A_LEU_69	<-->	1p9jA_A_ILE_25
+1nqlA_A_LEU_14	<-->	1p9jA_A_ILE_25
+1nqlA_A_GLN_16	<-->	1p9jA_A_CYS_35
+1nqlA_A_GLY_18	<-->	1p9jA_A_CYS_35
+1nqlA_A_LEU_14	<-->	1p9jA_A_LEU_28
+1nqlA_A_GLN_16	<-->	1p9jA_A_ASN_34
+1nqlA_A_LEU_17	<-->	1p9jA_A_CYS_35
+1nqlA_A_ARG_125	<-->	1p9jA_A_LEU_28
+1nqlA_A_ARG_125	<-->	1p9jA_A_VAL_1
+1nqlA_A_THR_15	<-->	1p9jA_A_CYS_33
+1nqlA_A_TYR_89	<-->	1p9jA_A_LEU_28
+1nqlA_A_ALA_68	<-->	1p9jA_A_LEU_28
+1nqlA_A_THR_19	<-->	1p9jA_A_VAL_37
+1nqlA_A_GLY_18	<-->	1p9jA_A_VAL_36
+1nqlA_A_LEU_98	<-->	1p9jA_A_LEU_28
+1nqlA_A_LEU_14	<-->	1p9jA_A_ALA_32
+1nqlA_A_LEU_14	<-->	1p9jA_A_LYS_30
+1nqlA_A_ASP_22	<-->	1p9jA_A_VAL_37
+1nqlA_A_THR_15	<-->	1p9jA_A_ASN_34
+1nqlA_A_TYR_89	<-->	1p9jA_A_LYS_30
+1nqlA_A_THR_15	<-->	1p9jA_A_ALA_32
+1nqlA_A_SER_99	<-->	1p9jA_A_ALA_27

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_SER_202	<-->	3p11A_A_GLN_206
+6ogeA_A_SER_202	<-->	3p11A_A_ASN_203
+6ogeA_A_PRO_230	<-->	3p11A_A_ASP_146
+6ogeA_A_PRO_230	<-->	3p11A_A_ARG_145
+6ogeA_A_LYS_200	<-->	3p11A_A_THR_185
+6ogeA_A_PRO_230	<-->	3p11A_A_ASP_143
+6ogeA_A_LYS_200	<-->	3p11A_A_LEU_186
+6ogeA_A_VAL_219	<-->	3p11A_A_THR_189
+6ogeA_A_VAL_219	<-->	3p11A_A_LYS_188
+6ogeA_A_GLY_201	<-->	3p11A_A_GLN_206
+6ogeA_A_LEU_215	<-->	3p11A_A_THR_189
+6ogeA_A_THR_218	<-->	3p11A_A_ILE_190
+6ogeA_A_ASP_234	<-->	3p11A_A_ASP_143
+6ogeA_A_ARG_203	<-->	3p11A_A_ASN_203
+6ogeA_A_ARG_203	<-->	3p11A_A_PRO_202
+6ogeA_A_PRO_232	<-->	3p11A_A_ARG_145
+6ogeA_A_VAL_219	<-->	3p11A_A_ILE_190
+6ogeA_A_LEU_231	<-->	3p11A_A_ASP_143
+6ogeA_A_LEU_231	<-->	3p11A_A_ILE_142
+6ogeA_A_LEU_231	<-->	3p11A_A_ARG_145
+6ogeA_A_LEU_231	<-->	3p11A_A_TRP_144
+6ogeA_A_GLY_229	<-->	3p11A_A_ASP_143
+6ogeA_A_LYS_200	<-->	3p11A_A_PHE_200

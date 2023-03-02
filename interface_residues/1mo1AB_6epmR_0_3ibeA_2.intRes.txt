@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6epmR_R_ARG_68	<-->	3ibeA_A_GLU_302
+6epmR_R_GLU_63	<-->	3ibeA_A_SER_230
+6epmR_R_ALA_66	<-->	3ibeA_A_HIS_304
+6epmR_R_SER_65	<-->	3ibeA_A_HIS_304
+6epmR_R_HIS_95	<-->	3ibeA_A_VAL_223
+6epmR_R_ASP_105	<-->	3ibeA_A_LYS_920
+6epmR_R_GLN_99	<-->	3ibeA_A_GLU_302
+6epmR_R_ALA_66	<-->	3ibeA_A_LEU_823
+6epmR_R_ASP_108	<-->	3ibeA_A_GLU_919
+6epmR_R_LYS_169	<-->	3ibeA_A_GLU_919
+6epmR_R_SER_106	<-->	3ibeA_A_GLU_919
+6epmR_R_HIS_95	<-->	3ibeA_A_THR_232
+6epmR_R_SER_65	<-->	3ibeA_A_VAL_223
+6epmR_R_ARG_102	<-->	3ibeA_A_GLY_300
+6epmR_R_ARG_102	<-->	3ibeA_A_GLU_301
+6epmR_R_HIS_95	<-->	3ibeA_A_GLU_302
+6epmR_R_ALA_66	<-->	3ibeA_A_HIS_225
+6epmR_R_TYR_64	<-->	3ibeA_A_THR_228
+6epmR_R_ASP_105	<-->	3ibeA_A_ALA_923
+6epmR_R_LYS_104	<-->	3ibeA_A_LYS_920
+6epmR_R_GLN_70	<-->	3ibeA_A_ASN_825
