@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3njpA_A_LEU_17	<-->	1ivoC_C_ILE_38
+3njpA_A_SER_356	<-->	1ivoC_C_GLY_12
+3njpA_A_THR_19	<-->	1ivoC_C_TRP_49
+3njpA_A_THR_15	<-->	1ivoC_C_GLU_40
+3njpA_A_ASP_355	<-->	1ivoC_C_ARG_41
+3njpA_A_GLN_16	<-->	1ivoC_C_ILE_38
+3njpA_A_GLY_18	<-->	1ivoC_C_ILE_38
+3njpA_A_ARG_353	<-->	1ivoC_C_LEU_15
+3njpA_A_GLY_18	<-->	1ivoC_C_ASP_46
+3njpA_A_PHE_357	<-->	1ivoC_C_TYR_13
+3njpA_A_PHE_357	<-->	1ivoC_C_HIS_10
+3njpA_A_PHE_357	<-->	1ivoC_C_ARG_41
+3njpA_A_ASP_22	<-->	1ivoC_C_TRP_49
+3njpA_A_ARG_29	<-->	1ivoC_C_LYS_48
+3njpA_A_SER_356	<-->	1ivoC_C_ASP_11
+3njpA_A_LEU_17	<-->	1ivoC_C_ASP_46
+3njpA_A_THR_15	<-->	1ivoC_C_GLY_39

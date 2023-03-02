@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3njpA_A_GLN_384	<-->	1yufA_A_ALA_46
+3njpA_A_GLN_384	<-->	1yufA_A_ASP_47
+3njpA_A_GLN_384	<-->	1yufA_A_HIS_45
+3njpA_A_THR_15	<-->	1yufA_A_ALA_41
+3njpA_A_LEU_325	<-->	1yufA_A_HIS_45
+3njpA_A_SER_418	<-->	1yufA_A_ASP_47
+3njpA_A_LEU_348	<-->	1yufA_A_HIS_45
+3njpA_A_HIS_409	<-->	1yufA_A_ALA_50
+3njpA_A_GLN_384	<-->	1yufA_A_LEU_48
+3njpA_A_PHE_357	<-->	1yufA_A_ARG_42
+3njpA_A_LEU_382	<-->	1yufA_A_LEU_48
+3njpA_A_PRO_349	<-->	1yufA_A_PHE_17
+3njpA_A_HIS_409	<-->	1yufA_A_LEU_48
+3njpA_A_VAL_350	<-->	1yufA_A_PHE_17
+3njpA_A_VAL_417	<-->	1yufA_A_LEU_48
+3njpA_A_ALA_415	<-->	1yufA_A_LEU_48
+3njpA_A_GLN_408	<-->	1yufA_A_LEU_49
+3njpA_A_GLN_408	<-->	1yufA_A_LEU_48
+3njpA_A_VAL_417	<-->	1yufA_A_ASP_47
+3njpA_A_HIS_409	<-->	1yufA_A_LEU_49

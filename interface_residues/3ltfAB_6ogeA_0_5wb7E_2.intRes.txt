@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ogeA_A_HIS_470	<-->	5wb7E_E_THR_47
+6ogeA_A_SER_413	<-->	5wb7E_E_PHE_44
+6ogeA_A_SER_413	<-->	5wb7E_E_HIS_43
+6ogeA_A_ILE_468	<-->	5wb7E_E_VAL_48
+6ogeA_A_PRO_378	<-->	5wb7E_E_HIS_43
+6ogeA_A_PRO_378	<-->	5wb7E_E_GLU_42
+6ogeA_A_LEU_494	<-->	5wb7E_E_VAL_48
+6ogeA_A_PRO_378	<-->	5wb7E_E_PHE_44
+6ogeA_A_HIS_469	<-->	5wb7E_E_VAL_48
+6ogeA_A_GLN_446	<-->	5wb7E_E_LEU_46
+6ogeA_A_GLN_446	<-->	5wb7E_E_PHE_44
+6ogeA_A_GLU_379	<-->	5wb7E_E_LEU_15
+6ogeA_A_THR_496	<-->	5wb7E_E_VAL_48
+6ogeA_A_THR_444	<-->	5wb7E_E_LEU_46
+6ogeA_A_SER_38	<-->	5wb7E_E_THR_47
+6ogeA_A_ALA_37	<-->	5wb7E_E_VAL_48
+6ogeA_A_ALA_37	<-->	5wb7E_E_LEU_46
+6ogeA_A_ALA_37	<-->	5wb7E_E_THR_47
+6ogeA_A_LEU_35	<-->	5wb7E_E_PHE_45
+6ogeA_A_LEU_467	<-->	5wb7E_E_VAL_48
+6ogeA_A_ALA_414	<-->	5wb7E_E_PHE_44
+6ogeA_A_SER_38	<-->	5wb7E_E_VAL_48
+6ogeA_A_LEU_377	<-->	5wb7E_E_HIS_43

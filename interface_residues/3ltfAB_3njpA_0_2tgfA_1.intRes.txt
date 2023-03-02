@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3njpA_A_VAL_350	<-->	2tgfA_A_GLU_44
+3njpA_A_VAL_417	<-->	2tgfA_A_LEU_49
+3njpA_A_VAL_417	<-->	2tgfA_A_LEU_48
+3njpA_A_PRO_349	<-->	2tgfA_A_ALA_46
+3njpA_A_ALA_415	<-->	2tgfA_A_LEU_48
+3njpA_A_GLN_384	<-->	2tgfA_A_ALA_46
+3njpA_A_GLN_384	<-->	2tgfA_A_HIS_45
+3njpA_A_THR_15	<-->	2tgfA_A_ALA_41
+3njpA_A_LEU_14	<-->	2tgfA_A_LYS_29
+3njpA_A_LEU_348	<-->	2tgfA_A_HIS_45
+3njpA_A_GLN_384	<-->	2tgfA_A_LEU_48
+3njpA_A_PHE_357	<-->	2tgfA_A_PHE_15
+3njpA_A_PHE_357	<-->	2tgfA_A_GLN_14
+3njpA_A_LYS_465	<-->	2tgfA_A_LEU_49
+3njpA_A_SER_356	<-->	2tgfA_A_GLN_14
+3njpA_A_LEU_325	<-->	2tgfA_A_HIS_45
+3njpA_A_LEU_325	<-->	2tgfA_A_GLU_44
+3njpA_A_LEU_325	<-->	2tgfA_A_ARG_42
+3njpA_A_SER_418	<-->	2tgfA_A_LEU_48
+3njpA_A_LEU_382	<-->	2tgfA_A_LEU_48
+3njpA_A_PHE_357	<-->	2tgfA_A_ARG_42
+3njpA_A_ILE_467	<-->	2tgfA_A_LEU_49
+3njpA_A_SER_440	<-->	2tgfA_A_LEU_49

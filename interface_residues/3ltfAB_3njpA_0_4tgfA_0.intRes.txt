@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3njpA_A_VAL_350	<-->	4tgfA_A_GLU_44
+3njpA_A_TYR_101	<-->	4tgfA_A_GLN_26
+3njpA_A_LEU_69	<-->	4tgfA_A_ARG_22
+3njpA_A_GLN_384	<-->	4tgfA_A_HIS_45
+3njpA_A_GLY_18	<-->	4tgfA_A_SER_36
+3njpA_A_GLY_18	<-->	4tgfA_A_HIS_35
+3njpA_A_LEU_348	<-->	4tgfA_A_GLU_44
+3njpA_A_LEU_348	<-->	4tgfA_A_HIS_45
+3njpA_A_VAL_350	<-->	4tgfA_A_PHE_17
+3njpA_A_PHE_357	<-->	4tgfA_A_GLN_14
+3njpA_A_PHE_357	<-->	4tgfA_A_PHE_15
+3njpA_A_LEU_325	<-->	4tgfA_A_GLU_44
+3njpA_A_LEU_325	<-->	4tgfA_A_ARG_42
+3njpA_A_ASP_323	<-->	4tgfA_A_ARG_42
+3njpA_A_ASP_355	<-->	4tgfA_A_PHE_17
+3njpA_A_THR_19	<-->	4tgfA_A_SER_36
+3njpA_A_GLN_16	<-->	4tgfA_A_CYS_34
+3njpA_A_ASN_128	<-->	4tgfA_A_GLN_26
+3njpA_A_ASN_128	<-->	4tgfA_A_GLU_27
+3njpA_A_TYR_45	<-->	4tgfA_A_ARG_22
+3njpA_A_ASP_22	<-->	4tgfA_A_SER_36
+3njpA_A_GLY_441	<-->	4tgfA_A_LEU_48
+3njpA_A_GLU_90	<-->	4tgfA_A_LYS_29

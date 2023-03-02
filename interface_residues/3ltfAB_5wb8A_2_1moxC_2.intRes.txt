@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8A_A_SER_356	<-->	1moxC_C_THR_13
+5wb8A_A_HIS_359	<-->	1moxC_C_THR_13
+5wb8A_A_ASN_129	<-->	1moxC_C_GLN_26
+5wb8A_A_PHE_357	<-->	1moxC_C_PHE_15
+5wb8A_A_PHE_357	<-->	1moxC_C_GLN_14
+5wb8A_A_PHE_357	<-->	1moxC_C_PHE_17
+5wb8A_A_ARG_125	<-->	1moxC_C_ASP_28
+5wb8A_A_PHE_357	<-->	1moxC_C_THR_13
+5wb8A_A_PHE_357	<-->	1moxC_C_ARG_42
+5wb8A_A_TYR_101	<-->	1moxC_C_HIS_4
+5wb8A_A_ASN_128	<-->	1moxC_C_GLN_26
+5wb8A_A_PRO_130	<-->	1moxC_C_GLN_26
+5wb8A_A_ASN_100	<-->	1moxC_C_GLN_26
+5wb8A_A_SER_127	<-->	1moxC_C_GLN_26
+5wb8A_A_LEU_69	<-->	1moxC_C_GLU_27
+5wb8A_A_TYR_101	<-->	1moxC_C_GLN_26
+5wb8A_A_SER_99	<-->	1moxC_C_GLN_26
+5wb8A_A_SER_99	<-->	1moxC_C_GLU_27

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_HIS_355	<-->	3tgfA_A_ARG_42
+3p11A_A_ALA_439	<-->	3tgfA_A_LEU_49
+3p11A_A_ASP_352	<-->	3tgfA_A_PHE_17
+3p11A_A_LYS_415	<-->	3tgfA_A_LEU_49
+3p11A_A_TRP_354	<-->	3tgfA_A_ARG_42
+3p11A_A_LEU_345	<-->	3tgfA_A_ALA_50
+3p11A_A_THR_347	<-->	3tgfA_A_GLU_44
+3p11A_A_MET_414	<-->	3tgfA_A_ALA_50
+3p11A_A_PHE_409	<-->	3tgfA_A_LEU_48
+3p11A_A_GLN_381	<-->	3tgfA_A_ALA_50
+3p11A_A_TRP_354	<-->	3tgfA_A_PHE_17
+3p11A_A_TRP_354	<-->	3tgfA_A_GLN_14
+3p11A_A_TRP_354	<-->	3tgfA_A_PHE_15
+3p11A_A_TRP_354	<-->	3tgfA_A_HIS_12
+3p11A_A_LEU_345	<-->	3tgfA_A_HIS_45
+3p11A_A_ASN_406	<-->	3tgfA_A_LEU_48
+3p11A_A_LYS_415	<-->	3tgfA_A_ALA_50
+3p11A_A_GLN_381	<-->	3tgfA_A_LEU_49
+3p11A_A_MET_414	<-->	3tgfA_A_LEU_49
+3p11A_A_TYR_436	<-->	3tgfA_A_LEU_49
+3p11A_A_MET_414	<-->	3tgfA_A_LEU_48
+3p11A_A_GLN_381	<-->	3tgfA_A_LEU_48
+3p11A_A_LEU_412	<-->	3tgfA_A_LEU_48

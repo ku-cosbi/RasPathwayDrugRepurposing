@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6j71A_A_GLN_446	<-->	3tgfA_A_LEU_49
+6j71A_A_ARG_34	<-->	3tgfA_A_VAL_39
+6j71A_A_LEU_35	<-->	3tgfA_A_ASP_47
+6j71A_A_TYR_441	<-->	3tgfA_A_LEU_48
+6j71A_A_ARG_34	<-->	3tgfA_A_LEU_48
+6j71A_A_ALA_37	<-->	3tgfA_A_LEU_48
+6j71A_A_ALA_37	<-->	3tgfA_A_LEU_49
+6j71A_A_ASN_438	<-->	3tgfA_A_LEU_48
+6j71A_A_ARG_34	<-->	3tgfA_A_ASP_47
+6j71A_A_TYR_411	<-->	3tgfA_A_ALA_50
+6j71A_A_LEU_377	<-->	3tgfA_A_ALA_50
+6j71A_A_HIS_437	<-->	3tgfA_A_LEU_48
+6j71A_A_LEU_35	<-->	3tgfA_A_GLY_37
+6j71A_A_LEU_35	<-->	3tgfA_A_SER_36
+6j71A_A_HIS_469	<-->	3tgfA_A_LEU_49
+6j71A_A_ARG_354	<-->	3tgfA_A_HIS_45
+6j71A_A_TYR_411	<-->	3tgfA_A_LEU_49
+6j71A_A_TYR_411	<-->	3tgfA_A_LEU_48
