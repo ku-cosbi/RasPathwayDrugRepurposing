@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_LYS_299	<-->	4nyiS_S_ILE_663
+5cusA_A_ASP_294	<-->	4nyiS_S_GLU_664
+5cusA_A_THR_49	<-->	4nyiS_S_GLU_639
+5cusA_A_LEU_48	<-->	4nyiS_S_SER_642
+5cusA_A_LYS_299	<-->	4nyiS_S_GLU_664
+5cusA_A_ARG_36	<-->	4nyiS_S_ASP_573
+5cusA_A_ARG_36	<-->	4nyiS_S_VAL_574
+5cusA_A_ASP_54	<-->	4nyiS_S_ARG_576
+5cusA_A_ASN_274	<-->	4nyiS_S_ILE_663
+5cusA_A_ASN_274	<-->	4nyiS_S_ARG_660
+5cusA_A_MET_72	<-->	4nyiS_S_GLN_638
+5cusA_A_VAL_47	<-->	4nyiS_S_SER_642
+5cusA_A_PHE_57	<-->	4nyiS_S_ASP_573
+5cusA_A_LEU_48	<-->	4nyiS_S_GLN_638
+5cusA_A_LEU_48	<-->	4nyiS_S_GLU_639
+5cusA_A_HIS_273	<-->	4nyiS_S_ARG_660
+5cusA_A_PRO_272	<-->	4nyiS_S_ARG_660
+5cusA_A_GLU_292	<-->	4nyiS_S_ILE_663
+5cusA_A_VAL_276	<-->	4nyiS_S_ILE_663
+5cusA_A_GLU_292	<-->	4nyiS_S_GLY_666
+5cusA_A_ASN_274	<-->	4nyiS_S_PRO_655
+5cusA_A_CYS_271	<-->	4nyiS_S_ARG_660
+5cusA_A_GLY_50	<-->	4nyiS_S_GLU_639

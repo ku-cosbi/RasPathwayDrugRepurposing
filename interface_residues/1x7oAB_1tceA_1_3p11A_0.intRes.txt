@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1tceA_A_TYR_79	<-->	3p11A_A_TYR_31
+1tceA_A_ASP_82	<-->	3p11A_A_LYS_32
+1tceA_A_HIS_68	<-->	3p11A_A_TYR_31
+1tceA_A_HIS_68	<-->	3p11A_A_SER_56
+1tceA_A_TYR_79	<-->	3p11A_A_GLU_35
+1tceA_A_PHE_70	<-->	3p11A_A_TYR_31
+1tceA_A_GLU_71	<-->	3p11A_A_ASP_54
+1tceA_A_GLU_71	<-->	3p11A_A_ALA_53
+1tceA_A_GLU_71	<-->	3p11A_A_ASN_52
+1tceA_A_PHE_70	<-->	3p11A_A_ASP_54
+1tceA_A_ASP_67	<-->	3p11A_A_TRP_60
+1tceA_A_GLN_3	<-->	3p11A_A_GLU_24
+1tceA_A_HIS_75	<-->	3p11A_A_TYR_31
+1tceA_A_TYR_79	<-->	3p11A_A_GLN_28
+1tceA_A_SER_78	<-->	3p11A_A_GLN_28
+1tceA_A_GLU_71	<-->	3p11A_A_TYR_27
+1tceA_A_ARG_69	<-->	3p11A_A_ASP_54
+1tceA_A_ARG_69	<-->	3p11A_A_SER_56
+1tceA_A_VAL_63	<-->	3p11A_A_ASP_54
+1tceA_A_ARG_69	<-->	3p11A_A_TYR_31
+1tceA_A_HIS_75	<-->	3p11A_A_TYR_27
+1tceA_A_HIS_75	<-->	3p11A_A_GLN_28
+1tceA_A_VAL_62	<-->	3p11A_A_ASP_54

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cdwB_B_HIS_55	<-->	3kexA_A_ILE_718
+5cdwB_B_PHE_56	<-->	3kexA_A_GLY_713
+5cdwB_B_HIS_55	<-->	3kexA_A_PRO_711
+5cdwB_B_PHE_56	<-->	3kexA_A_PRO_711
+5cdwB_B_GLU_20	<-->	3kexA_A_ARG_754
+5cdwB_B_LYS_57	<-->	3kexA_A_ILE_716
+5cdwB_B_ASP_52	<-->	3kexA_A_ILE_684
+5cdwB_B_ASP_52	<-->	3kexA_A_PHE_685
+5cdwB_B_ASP_52	<-->	3kexA_A_LYS_686
+5cdwB_B_ASP_52	<-->	3kexA_A_ARG_683
+5cdwB_B_GLY_69	<-->	3kexA_A_SER_715
+5cdwB_B_ASP_52	<-->	3kexA_A_GLU_689
+5cdwB_B_LEU_59	<-->	3kexA_A_ILE_716
+5cdwB_B_GLN_54	<-->	3kexA_A_PRO_711
+5cdwB_B_GLN_54	<-->	3kexA_A_GLU_712
+5cdwB_B_ASN_51	<-->	3kexA_A_ARG_683
+5cdwB_B_ASN_51	<-->	3kexA_A_ILE_684
+5cdwB_B_GLU_19	<-->	3kexA_A_ARG_683
+5cdwB_B_GLN_54	<-->	3kexA_A_GLU_689
+5cdwB_B_GLU_19	<-->	3kexA_A_LEU_756
+5cdwB_B_VAL_53	<-->	3kexA_A_ARG_683
+5cdwB_B_LEU_68	<-->	3kexA_A_SER_715

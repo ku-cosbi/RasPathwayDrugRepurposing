@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_HIS_467	<-->	1nqlA_A_ILE_466
+3p11A_A_ARG_407	<-->	1nqlA_A_GLY_410
+3p11A_A_ARG_407	<-->	1nqlA_A_GLN_411
+3p11A_A_GLU_461	<-->	1nqlA_A_PHE_412
+3p11A_A_LEU_463	<-->	1nqlA_A_LYS_465
+3p11A_A_ASP_464	<-->	1nqlA_A_ILE_467
+3p11A_A_ILE_465	<-->	1nqlA_A_ILE_467
+3p11A_A_ASP_464	<-->	1nqlA_A_LYS_465
+3p11A_A_ARG_407	<-->	1nqlA_A_ASP_436
+3p11A_A_ARG_434	<-->	1nqlA_A_GLN_411
+3p11A_A_ASN_406	<-->	1nqlA_A_GLN_462
+3p11A_A_ASN_406	<-->	1nqlA_A_GLY_461
+3p11A_A_PHE_409	<-->	1nqlA_A_LYS_463
+3p11A_A_LYS_466	<-->	1nqlA_A_THR_464
+3p11A_A_ARG_441	<-->	1nqlA_A_GLU_472
+3p11A_A_ARG_407	<-->	1nqlA_A_GLY_461
+3p11A_A_LYS_466	<-->	1nqlA_A_LYS_465
+3p11A_A_LYS_466	<-->	1nqlA_A_ILE_466
+3p11A_A_ARG_407	<-->	1nqlA_A_GLN_462
+3p11A_A_LYS_466	<-->	1nqlA_A_ILE_467
+3p11A_A_HIS_467	<-->	1nqlA_A_ASN_449
+3p11A_A_ASP_464	<-->	1nqlA_A_THR_464

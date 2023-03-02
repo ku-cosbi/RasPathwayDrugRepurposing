@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ptsD_D_THR_357	<-->	6q0kA_A_ARG_603
+6ptsD_D_ARG_359	<-->	6q0kA_A_SER_571
+6ptsD_D_LEU_402	<-->	6q0kA_A_ALA_569
+6ptsD_D_LEU_401	<-->	6q0kA_A_HIS_568
+6ptsD_D_LEU_401	<-->	6q0kA_A_ALA_569
+6ptsD_D_LEU_401	<-->	6q0kA_A_SER_571
+6ptsD_D_HIS_405	<-->	6q0kA_A_PRO_708
+6ptsD_D_LYS_406	<-->	6q0kA_A_PRO_708
+6ptsD_D_ARG_359	<-->	6q0kA_A_ARG_603
+6ptsD_D_GLN_403	<-->	6q0kA_A_ALA_569
+6ptsD_D_ARG_359	<-->	6q0kA_A_LYS_601
+6ptsD_D_LYS_406	<-->	6q0kA_A_GLN_709
+6ptsD_D_GLY_407	<-->	6q0kA_A_PRO_708
+6ptsD_D_LEU_402	<-->	6q0kA_A_PRO_708
+6ptsD_D_GLU_404	<-->	6q0kA_A_ALA_569
+6ptsD_D_GLU_404	<-->	6q0kA_A_ASP_565
+6ptsD_D_LYS_406	<-->	6q0kA_A_ALA_712
+6ptsD_D_GLU_404	<-->	6q0kA_A_TYR_566
+6ptsD_D_VAL_369	<-->	6q0kA_A_ARG_603

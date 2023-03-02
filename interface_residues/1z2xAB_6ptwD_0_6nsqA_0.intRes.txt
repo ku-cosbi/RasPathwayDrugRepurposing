@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6ptwD_D_TRP_414	<-->	6nsqA_A_GLN_524
+6ptwD_D_ASN_374	<-->	6nsqA_A_GLN_461
+6ptwD_D_ASN_415	<-->	6nsqA_A_MET_484
+6ptwD_D_ASN_415	<-->	6nsqA_A_VAL_459
+6ptwD_D_TRP_414	<-->	6nsqA_A_VAL_459
+6ptwD_D_ASP_380	<-->	6nsqA_A_THR_458
+6ptwD_D_ASP_380	<-->	6nsqA_A_VAL_459
+6ptwD_D_SER_377	<-->	6nsqA_A_VAL_459
+6ptwD_D_ASN_415	<-->	6nsqA_A_TYR_472
+6ptwD_D_TRP_414	<-->	6nsqA_A_MET_484
+6ptwD_D_GLY_375	<-->	6nsqA_A_GLN_461
+6ptwD_D_GLY_375	<-->	6nsqA_A_GLY_460
+6ptwD_D_GLY_375	<-->	6nsqA_A_ARG_462
+6ptwD_D_MET_383	<-->	6nsqA_A_THR_458
+6ptwD_D_TRP_414	<-->	6nsqA_A_PRO_523
+6ptwD_D_MET_383	<-->	6nsqA_A_GLY_455
+6ptwD_D_MET_383	<-->	6nsqA_A_ILE_457

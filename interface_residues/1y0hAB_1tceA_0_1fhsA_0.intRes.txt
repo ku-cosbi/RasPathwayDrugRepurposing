@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1tceA_A_SER_92	<-->	1fhsA_A_GLY_63
+1tceA_A_THR_35	<-->	1fhsA_A_ARG_91
+1tceA_A_ARG_32	<-->	1fhsA_A_TRP_70
+1tceA_A_ALA_19	<-->	1fhsA_A_TRP_70
+1tceA_A_GLN_50	<-->	1fhsA_A_LEU_60
+1tceA_A_HIS_53	<-->	1fhsA_A_VAL_71
+1tceA_A_HIS_53	<-->	1fhsA_A_TRP_70
+1tceA_A_ARG_16	<-->	1fhsA_A_SER_90
+1tceA_A_SER_89	<-->	1fhsA_A_GLY_63
+1tceA_A_GLU_20	<-->	1fhsA_A_TRP_70
+1tceA_A_ARG_16	<-->	1fhsA_A_TRP_70
+1tceA_A_ARG_17	<-->	1fhsA_A_PHE_50
+1tceA_A_PRO_51	<-->	1fhsA_A_LEU_60
+1tceA_A_VAL_42	<-->	1fhsA_A_VAL_71
+1tceA_A_ALA_90	<-->	1fhsA_A_GLY_65
+1tceA_A_ALA_90	<-->	1fhsA_A_ALA_64
+1tceA_A_SER_15	<-->	1fhsA_A_ASN_92
+1tceA_A_THR_36	<-->	1fhsA_A_THR_87
+1tceA_A_LEU_55	<-->	1fhsA_A_VAL_71
+1tceA_A_LYS_52	<-->	1fhsA_A_PHE_68
+1tceA_A_ARG_16	<-->	1fhsA_A_HIS_84
+1tceA_A_ARG_16	<-->	1fhsA_A_VAL_89
+1tceA_A_SER_89	<-->	1fhsA_A_LYS_73

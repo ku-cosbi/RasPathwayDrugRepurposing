@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xdvA_A_LYS_740	<-->	4uipA_A_GLN_533
+1xdvA_A_GLU_815	<-->	4uipA_A_ALA_589
+1xdvA_A_LYS_741	<-->	4uipA_A_GLN_533
+1xdvA_A_GLU_705	<-->	4uipA_A_CYS_534
+1xdvA_A_GLU_705	<-->	4uipA_A_HIS_535
+1xdvA_A_GLU_705	<-->	4uipA_A_PRO_536
+1xdvA_A_PRO_819	<-->	4uipA_A_HIS_591
+1xdvA_A_LEU_790	<-->	4uipA_A_MET_543
+1xdvA_A_LEU_790	<-->	4uipA_A_ALA_542
+1xdvA_A_VAL_983	<-->	4uipA_A_MET_543
+1xdvA_A_ARG_706	<-->	4uipA_A_LYS_569
+1xdvA_A_PRO_819	<-->	4uipA_A_ALA_589
+1xdvA_A_ARG_739	<-->	4uipA_A_GLU_521
+1xdvA_A_ILE_816	<-->	4uipA_A_ALA_589
+1xdvA_A_LYS_741	<-->	4uipA_A_GLU_524
+1xdvA_A_LYS_988	<-->	4uipA_A_MET_543
+1xdvA_A_LYS_740	<-->	4uipA_A_PRO_522
+1xdvA_A_ARG_706	<-->	4uipA_A_PRO_536
+1xdvA_A_LYS_740	<-->	4uipA_A_GLU_521

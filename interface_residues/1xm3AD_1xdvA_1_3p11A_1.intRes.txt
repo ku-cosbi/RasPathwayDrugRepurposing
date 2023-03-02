@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xdvA_A_GLU_243	<-->	3p11A_A_ILE_346
+1xdvA_A_PRO_294	<-->	3p11A_A_ASN_350
+1xdvA_A_PHE_677	<-->	3p11A_A_LYS_356
+1xdvA_A_ARG_676	<-->	3p11A_A_LYS_356
+1xdvA_A_ASN_382	<-->	3p11A_A_HIS_386
+1xdvA_A_ASP_293	<-->	3p11A_A_HIS_386
+1xdvA_A_ASP_293	<-->	3p11A_A_PRO_385
+1xdvA_A_ARG_248	<-->	3p11A_A_ASN_350
+1xdvA_A_LEU_290	<-->	3p11A_A_PRO_362
+1xdvA_A_VAL_250	<-->	3p11A_A_PRO_353
+1xdvA_A_VAL_250	<-->	3p11A_A_TRP_354
+1xdvA_A_LEU_290	<-->	3p11A_A_HIS_386
+1xdvA_A_ASP_251	<-->	3p11A_A_ASN_350
+1xdvA_A_SER_297	<-->	3p11A_A_PRO_385
+1xdvA_A_GLU_296	<-->	3p11A_A_ASN_418
+1xdvA_A_ARG_227	<-->	3p11A_A_TRP_354
+1xdvA_A_ARG_300	<-->	3p11A_A_ASN_418
+1xdvA_A_ARG_300	<-->	3p11A_A_LEU_417
+1xdvA_A_ASP_301	<-->	3p11A_A_LEU_417
+1xdvA_A_ARG_248	<-->	3p11A_A_ILE_346
+1xdvA_A_VAL_383	<-->	3p11A_A_HIS_386
+1xdvA_A_GLU_254	<-->	3p11A_A_PRO_353

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_ASP_932	<-->	1xd4B_B_GLU_365
+3kexA_A_HIS_974	<-->	1xd4B_B_GLU_533
+3kexA_A_HIS_974	<-->	1xd4B_B_ASN_536
+3kexA_A_HIS_974	<-->	1xd4B_B_TRP_537
+3kexA_A_LYS_927	<-->	1xd4B_B_GLU_362
+3kexA_A_GLY_975	<-->	1xd4B_B_TRP_537
+3kexA_A_ASN_934	<-->	1xd4B_B_GLU_365
+3kexA_A_GLY_975	<-->	1xd4B_B_GLU_533
+3kexA_A_MET_930	<-->	1xd4B_B_GLU_198
+3kexA_A_MET_930	<-->	1xd4B_B_GLN_199
+3kexA_A_ASP_739	<-->	1xd4B_B_ARG_1046
+3kexA_A_ILE_935	<-->	1xd4B_B_GLU_362
+3kexA_A_ARG_910	<-->	1xd4B_B_GLU_198
+3kexA_A_GLU_972	<-->	1xd4B_B_GLU_532
+3kexA_A_GLY_908	<-->	1xd4B_B_GLU_198
+3kexA_A_HIS_974	<-->	1xd4B_B_GLU_402
+3kexA_A_HIS_974	<-->	1xd4B_B_SER_401
+3kexA_A_GLU_972	<-->	1xd4B_B_ARG_398
+3kexA_A_ILE_935	<-->	1xd4B_B_LYS_363
+3kexA_A_ILE_935	<-->	1xd4B_B_GLU_365
+3kexA_A_LYS_868	<-->	1xd4B_B_GLN_755
+3kexA_A_GLY_975	<-->	1xd4B_B_THR_449
+3kexA_A_GLY_975	<-->	1xd4B_B_GLY_448
+3kexA_A_TYR_869	<-->	1xd4B_B_GLN_755

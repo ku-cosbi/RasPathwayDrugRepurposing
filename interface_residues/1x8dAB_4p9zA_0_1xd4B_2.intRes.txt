@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4p9zA_A_SER_137	<-->	1xd4B_B_GLN_325
+4p9zA_A_GLN_145	<-->	1xd4B_B_GLY_330
+4p9zA_A_ASN_143	<-->	1xd4B_B_GLU_329
+4p9zA_A_ARG_136	<-->	1xd4B_B_GLN_325
+4p9zA_A_MET_55	<-->	1xd4B_A_GLU_54
+4p9zA_A_GLN_145	<-->	1xd4B_B_GLN_325
+4p9zA_A_PHE_147	<-->	1xd4B_B_GLN_325
+4p9zA_A_VAL_122	<-->	1xd4B_B_ILE_517
+4p9zA_A_GLN_144	<-->	1xd4B_B_GLU_329
+4p9zA_A_GLN_145	<-->	1xd4B_B_GLU_329
+4p9zA_A_GLN_145	<-->	1xd4B_B_GLY_328

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_LYS_590	<-->	6epmR_R_GLU_98
+3omvA_A_ALA_586	<-->	6epmR_R_HIS_94
+3omvA_A_GLU_595	<-->	6epmR_R_LYS_101
+3omvA_A_GLU_595	<-->	6epmR_R_ARG_97
+3omvA_A_SER_604	<-->	6epmR_R_ASP_132
+3omvA_A_LYS_590	<-->	6epmR_R_LYS_101
+3omvA_A_GLN_601	<-->	6epmR_R_ASP_132
+3omvA_A_LEU_608	<-->	6epmR_R_PHE_90
+3omvA_A_PRO_597	<-->	6epmR_R_SER_136
+3omvA_A_ASP_587	<-->	6epmR_R_HIS_94
+3omvA_A_GLN_601	<-->	6epmR_R_SER_136
+3omvA_A_GLN_601	<-->	6epmR_R_ARG_135
+3omvA_A_ARG_583	<-->	6epmR_R_HIS_94
+3omvA_A_SER_605	<-->	6epmR_R_GLN_129
+3omvA_A_ASP_587	<-->	6epmR_R_TYR_137
+3omvA_A_LEU_608	<-->	6epmR_R_GLN_129
+3omvA_A_ARG_583	<-->	6epmR_R_GLU_91
+3omvA_A_ALA_580	<-->	6epmR_R_GLU_91
+3omvA_A_VAL_592	<-->	6epmR_R_GLU_107
+3omvA_A_SER_604	<-->	6epmR_R_GLN_129
+3omvA_A_ARG_583	<-->	6epmR_R_LEU_133

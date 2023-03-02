@@ -1,0 +1,12 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_LYS_699	<-->	6ptsD_D_TRP_487
+6q0kA_A_LYS_700	<-->	6ptsD_D_TRP_487
+6q0kA_A_ARG_626	<-->	6ptsD_D_ASP_486
+6q0kA_A_SER_602	<-->	6ptsD_D_ARG_367
+6q0kA_A_ARG_701	<-->	6ptsD_D_TRP_487
+6q0kA_A_ARG_603	<-->	6ptsD_D_VAL_369
+6q0kA_A_PRO_622	<-->	6ptsD_D_TRP_487
+6q0kA_A_GLU_623	<-->	6ptsD_D_TRP_487
+6q0kA_A_LYS_601	<-->	6ptsD_D_ARG_367

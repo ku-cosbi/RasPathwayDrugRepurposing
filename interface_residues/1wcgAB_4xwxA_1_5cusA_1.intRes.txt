@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_LEU_53	<-->	5cusA_A_HIS_355
+4xwxA_A_LYS_93	<-->	5cusA_A_ASP_361
+4xwxA_A_ALA_136	<-->	5cusA_A_HIS_355
+4xwxA_A_CYS_138	<-->	5cusA_A_TRP_354
+4xwxA_A_ALA_136	<-->	5cusA_A_TRP_354
+4xwxA_A_THR_123	<-->	5cusA_A_HIS_355
+4xwxA_A_ALA_136	<-->	5cusA_A_LYS_356
+4xwxA_A_PRO_121	<-->	5cusA_A_PRO_358
+4xwxA_A_ASP_137	<-->	5cusA_A_LYS_356
+4xwxA_A_GLU_184	<-->	5cusA_A_ASP_361
+4xwxA_A_CYS_138	<-->	5cusA_A_HIS_355
+4xwxA_A_PRO_121	<-->	5cusA_A_LYS_356
+4xwxA_A_PRO_121	<-->	5cusA_A_ILE_357

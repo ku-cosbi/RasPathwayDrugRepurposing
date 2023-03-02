@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_THR_123	<-->	1fhsA_A_TRP_70
+1shcA_A_LYS_139	<-->	1fhsA_A_ASP_62
+1shcA_A_HIS_40	<-->	1fhsA_A_ARG_91
+1shcA_A_SER_51	<-->	1fhsA_A_TRP_70
+1shcA_A_THR_125	<-->	1fhsA_A_VAL_71
+1shcA_A_ILE_141	<-->	1fhsA_A_LYS_73
+1shcA_A_VAL_50	<-->	1fhsA_A_ARG_91
+1shcA_A_LYS_139	<-->	1fhsA_A_ARG_61
+1shcA_A_PRO_48	<-->	1fhsA_A_TYR_83
+1shcA_A_LYS_139	<-->	1fhsA_A_LEU_60
+1shcA_A_LEU_53	<-->	1fhsA_A_TRP_70
+1shcA_A_PRO_48	<-->	1fhsA_A_THR_87
+1shcA_A_MET_134	<-->	1fhsA_A_PHE_68
+1shcA_A_MET_134	<-->	1fhsA_A_TRP_70
+1shcA_A_LYS_44	<-->	1fhsA_A_ARG_91
+1shcA_A_LYS_44	<-->	1fhsA_A_SER_90
+1shcA_A_ASN_144	<-->	1fhsA_A_LYS_73
+1shcA_A_TYR_52	<-->	1fhsA_A_ARG_91
+1shcA_A_LYS_139	<-->	1fhsA_A_PHE_68

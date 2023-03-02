@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_HIS_467	<-->	1nqlA_A_ILE_466
+5cusB_B_ASN_468	<-->	1nqlA_A_GLU_472
+5cusB_B_ASP_473	<-->	1nqlA_A_ASN_473
+5cusB_B_LYS_466	<-->	1nqlA_A_ILE_466
+5cusB_B_LYS_466	<-->	1nqlA_A_ILE_467
+5cusB_B_LYS_466	<-->	1nqlA_A_SER_468
+5cusB_B_ASP_464	<-->	1nqlA_A_ILE_467
+5cusB_B_ILE_465	<-->	1nqlA_A_ILE_467
+5cusB_B_ARG_469	<-->	1nqlA_A_GLY_471
+5cusB_B_PRO_470	<-->	1nqlA_A_GLY_471
+5cusB_B_PRO_470	<-->	1nqlA_A_GLU_472
+5cusB_B_PRO_470	<-->	1nqlA_A_ASN_473
+5cusB_B_HIS_467	<-->	1nqlA_A_ASN_449
+5cusB_B_ARG_469	<-->	1nqlA_A_ASN_473
+5cusB_B_ASN_468	<-->	1nqlA_A_GLY_471
+5cusB_B_PRO_470	<-->	1nqlA_A_SER_474
+5cusB_B_ARG_441	<-->	1nqlA_A_GLU_472
+5cusB_B_ARG_441	<-->	1nqlA_A_ASN_473
+5cusB_B_LEU_463	<-->	1nqlA_A_ILE_467
+5cusB_B_ASP_473	<-->	1nqlA_A_SER_474

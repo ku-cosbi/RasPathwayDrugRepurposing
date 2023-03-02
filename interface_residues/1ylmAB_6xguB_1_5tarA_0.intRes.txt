@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6xguB_B_ASP_80	<-->	5tarA_A_ALA_66
+6xguB_B_GLU_94	<-->	5tarA_A_ARG_73
+6xguB_B_GLN_92	<-->	5tarA_A_ASP_105
+6xguB_B_GLN_92	<-->	5tarA_A_LYS_104
+6xguB_B_GLU_94	<-->	5tarA_A_LYS_104
+6xguB_B_ASP_186	<-->	5tarA_A_LYS_177
+6xguB_B_MET_83	<-->	5tarA_A_ASP_69
+6xguB_B_PRO_93	<-->	5tarA_A_ARG_73
+6xguB_B_TRP_114	<-->	5tarA_A_ARG_73
+6xguB_B_TRP_187	<-->	5tarA_A_ASP_173
+6xguB_B_SER_188	<-->	5tarA_A_LYS_177
+6xguB_B_ASN_115	<-->	5tarA_A_GLN_70
+6xguB_B_HIS_79	<-->	5tarA_A_ASP_69
+6xguB_B_TRP_187	<-->	5tarA_A_MET_170
+6xguB_B_HIS_79	<-->	5tarA_A_GLN_70
+6xguB_B_HIS_79	<-->	5tarA_A_ARG_73
+6xguB_B_MET_76	<-->	5tarA_A_ALA_66

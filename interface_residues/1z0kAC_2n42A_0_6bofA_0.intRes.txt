@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_MET_1	<-->	6bofA_A_ILE_142
+2n42A_A_MET_1	<-->	6bofA_A_THR_144
+2n42A_A_GLU_3	<-->	6bofA_A_ILE_142
+2n42A_A_THR_74	<-->	6bofA_A_LYS_128
+2n42A_A_MET_1	<-->	6bofA_A_LEU_113
+2n42A_A_THR_50	<-->	6bofA_A_ARG_161
+2n42A_A_MET_1	<-->	6bofA_A_VAL_112
+2n42A_A_LEU_52	<-->	6bofA_A_ASP_154
+2n42A_A_MET_1	<-->	6bofA_A_VAL_114
+2n42A_A_THR_2	<-->	6bofA_A_THR_158
+2n42A_A_MET_1	<-->	6bofA_A_THR_158
+2n42A_A_MET_1	<-->	6bofA_A_ALA_155
+2n42A_A_MET_1	<-->	6bofA_A_ASP_154
+2n42A_A_ARG_164	<-->	6bofA_A_ARG_135
+2n42A_A_GLY_48	<-->	6bofA_A_ARG_161
+2n42A_A_GLN_165	<-->	6bofA_A_ARG_135
+2n42A_A_HIS_166	<-->	6bofA_A_ARG_135
+2n42A_A_GLU_49	<-->	6bofA_A_ARG_161
+2n42A_A_GLU_49	<-->	6bofA_A_GLU_162
+2n42A_A_THR_2	<-->	6bofA_A_ILE_142
+2n42A_A_THR_2	<-->	6bofA_A_PRO_140
+2n42A_A_GLU_49	<-->	6bofA_A_PRO_140

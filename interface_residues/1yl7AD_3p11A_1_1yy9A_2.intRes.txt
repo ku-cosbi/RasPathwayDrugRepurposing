@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_PRO_362	<-->	1yy9A_A_ILE_190
+3p11A_A_HIS_386	<-->	1yy9A_A_LEU_186
+3p11A_A_ASP_361	<-->	1yy9A_A_ARG_141
+3p11A_A_SER_391	<-->	1yy9A_A_GLN_193
+3p11A_A_PRO_362	<-->	1yy9A_A_ILE_189
+3p11A_A_ARG_369	<-->	1yy9A_A_GLN_193
+3p11A_A_HIS_386	<-->	1yy9A_A_LYS_202
+3p11A_A_GLU_363	<-->	1yy9A_A_ILE_189
+3p11A_A_THR_420	<-->	1yy9A_A_PRO_204
+3p11A_A_ASN_389	<-->	1yy9A_A_ALA_192
+3p11A_A_PRO_385	<-->	1yy9A_A_LYS_202
+3p11A_A_ASP_361	<-->	1yy9A_A_ILE_189
+3p11A_A_HIS_386	<-->	1yy9A_A_ILE_190
+3p11A_A_HIS_388	<-->	1yy9A_A_SER_203
+3p11A_A_HIS_388	<-->	1yy9A_A_LYS_202

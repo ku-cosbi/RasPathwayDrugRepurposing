@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4tgfA_A_ARG_22	<-->	3pp0B_B_THR_791
+4tgfA_A_ARG_22	<-->	3pp0B_B_THR_793
+4tgfA_A_ARG_22	<-->	3pp0B_B_SER_792
+4tgfA_A_HIS_4	<-->	3pp0B_B_CYS_789
+4tgfA_A_THR_20	<-->	3pp0B_B_GLU_757
+4tgfA_A_SER_36	<-->	3pp0B_B_GLY_732
+4tgfA_A_SER_36	<-->	3pp0B_B_THR_733
+4tgfA_A_SER_3	<-->	3pp0B_B_LEU_790
+4tgfA_A_HIS_35	<-->	3pp0B_B_GLU_757
+4tgfA_A_HIS_35	<-->	3pp0B_B_ARG_756
+4tgfA_A_LEU_24	<-->	3pp0B_B_THR_718
+4tgfA_A_PHE_5	<-->	3pp0B_B_CYS_789
+4tgfA_A_HIS_35	<-->	3pp0B_B_THR_793
+4tgfA_A_GLN_26	<-->	3pp0B_B_THR_718
+4tgfA_A_HIS_4	<-->	3pp0B_B_LYS_716
+4tgfA_A_HIS_4	<-->	3pp0B_B_GLU_717
+4tgfA_A_PHE_5	<-->	3pp0B_B_GLU_717
+4tgfA_A_SER_36	<-->	3pp0B_B_SER_728
+4tgfA_A_SER_36	<-->	3pp0B_B_GLY_729
+4tgfA_A_PHE_5	<-->	3pp0B_B_THR_791
+4tgfA_A_PHE_5	<-->	3pp0B_B_LEU_790
+4tgfA_A_VAL_33	<-->	3pp0B_B_VAL_754

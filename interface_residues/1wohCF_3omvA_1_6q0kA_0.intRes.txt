@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_HIS_402	<-->	6q0kA_A_ILE_544
+3omvA_A_ASN_404	<-->	6q0kA_A_ILE_544
+3omvA_A_GLN_454	<-->	6q0kA_A_THR_546
+3omvA_A_GLN_454	<-->	6q0kA_A_ILE_544
+3omvA_A_HIS_402	<-->	6q0kA_A_ILE_543
+3omvA_A_GLN_454	<-->	6q0kA_A_GLU_545
+3omvA_A_ARG_450	<-->	6q0kA_A_LYS_547
+3omvA_A_SER_604	<-->	6q0kA_A_ARG_682
+3omvA_A_HIS_611	<-->	6q0kA_A_GLU_549
+3omvA_A_ASP_457	<-->	6q0kA_A_GLU_545
+3omvA_A_GLU_607	<-->	6q0kA_A_LYS_547
+3omvA_A_TYR_458	<-->	6q0kA_A_HIS_542
+3omvA_A_TYR_458	<-->	6q0kA_A_ILE_543
+3omvA_A_LEU_608	<-->	6q0kA_A_ASN_684
+3omvA_A_LEU_603	<-->	6q0kA_A_LYS_547
+3omvA_A_GLU_607	<-->	6q0kA_A_PHE_548
+3omvA_A_LEU_603	<-->	6q0kA_A_GLU_545
+3omvA_A_VAL_403	<-->	6q0kA_A_ILE_544
+3omvA_A_GLN_454	<-->	6q0kA_A_LYS_547

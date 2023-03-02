@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1s9iA_A_MET_223	<-->	3sa0A_A_ARG_191
+1s9iA_A_MET_223	<-->	3sa0A_A_LYS_231
+1s9iA_A_GLN_240	<-->	3sa0A_A_LYS_259
+1s9iA_A_LEU_239	<-->	3sa0A_A_LEU_184
+1s9iA_A_LEU_102	<-->	3sa0A_A_MET_13
+1s9iA_A_ASN_327	<-->	3sa0A_A_LYS_259
+1s9iA_A_GLU_77	<-->	3sa0A_A_MET_13
+1s9iA_A_ASP_221	<-->	3sa0A_A_LYS_231
+1s9iA_A_GLU_106	<-->	3sa0A_A_TYR_113
+1s9iA_A_LEU_322	<-->	3sa0A_A_GLU_186
+1s9iA_A_ARG_74	<-->	3sa0A_A_MET_13
+1s9iA_A_LEU_322	<-->	3sa0A_A_LEU_184
+1s9iA_A_THR_87	<-->	3sa0A_A_MET_13
+1s9iA_A_ILE_220	<-->	3sa0A_A_LYS_231
+1s9iA_A_ARG_238	<-->	3sa0A_A_HIS_232
+1s9iA_A_HIS_243	<-->	3sa0A_A_HIS_232
+1s9iA_A_GLY_241	<-->	3sa0A_A_TYR_263
+1s9iA_A_ARG_238	<-->	3sa0A_A_LEU_184
+1s9iA_A_ILE_107	<-->	3sa0A_A_TYR_113
+1s9iA_A_VAL_326	<-->	3sa0A_A_LYS_259
+1s9iA_A_GLY_241	<-->	3sa0A_A_LEU_234
+1s9iA_A_PHE_319	<-->	3sa0A_A_THR_185
+1s9iA_A_PHE_319	<-->	3sa0A_A_THR_181
+1s9iA_A_PHE_319	<-->	3sa0A_A_GLY_182

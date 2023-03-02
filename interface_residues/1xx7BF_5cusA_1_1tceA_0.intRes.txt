@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_HIS_51	<-->	1tceA_A_PRO_59
+5cusA_A_HIS_51	<-->	1tceA_A_ASP_58
+5cusA_A_ARG_113	<-->	1tceA_A_THR_36
+5cusA_A_HIS_51	<-->	1tceA_A_LEU_55
+5cusA_A_HIS_51	<-->	1tceA_A_VAL_57
+5cusA_A_HIS_110	<-->	1tceA_A_LEU_55
+5cusA_A_HIS_110	<-->	1tceA_A_VAL_57
+5cusA_A_HIS_110	<-->	1tceA_A_ASP_58
+5cusA_A_HIS_110	<-->	1tceA_A_PRO_59
+5cusA_A_ASP_54	<-->	1tceA_A_SER_92
+5cusA_A_ALA_53	<-->	1tceA_A_LEU_54
+5cusA_A_ASN_52	<-->	1tceA_A_LEU_54
+5cusA_A_ASN_52	<-->	1tceA_A_LEU_55
+5cusA_A_ASP_54	<-->	1tceA_A_LYS_52
+5cusA_A_ASP_54	<-->	1tceA_A_LEU_54
+5cusA_A_SER_108	<-->	1tceA_A_PRO_59
+5cusA_A_SER_109	<-->	1tceA_A_THR_37
+5cusA_A_ASN_52	<-->	1tceA_A_SER_89
+5cusA_A_HIS_110	<-->	1tceA_A_GLN_40
+5cusA_A_SER_56	<-->	1tceA_A_LYS_52
+5cusA_A_SER_56	<-->	1tceA_A_PRO_51
+5cusA_A_TRP_60	<-->	1tceA_A_GLN_50

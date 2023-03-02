@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_THR_123	<-->	4p9zA_A_TRP_121
+1shcA_A_LYS_44	<-->	4p9zA_A_SER_139
+1shcA_A_SER_51	<-->	4p9zA_A_TRP_121
+1shcA_A_MET_134	<-->	4p9zA_A_TRP_121
+1shcA_A_GLU_184	<-->	4p9zA_A_ARG_142
+1shcA_A_LYS_44	<-->	4p9zA_A_GLN_145
+1shcA_A_ASP_43	<-->	4p9zA_A_GLN_145
+1shcA_A_PRO_48	<-->	4p9zA_A_THR_138
+1shcA_A_LEU_53	<-->	4p9zA_A_TRP_121
+1shcA_A_TYR_52	<-->	4p9zA_A_ARG_142
+1shcA_A_LEU_53	<-->	4p9zA_A_ARG_142
+1shcA_A_PRO_48	<-->	4p9zA_A_VAL_123
+1shcA_A_SER_51	<-->	4p9zA_A_ARG_142
+1shcA_A_LYS_44	<-->	4p9zA_A_SER_141
+1shcA_A_GLU_184	<-->	4p9zA_A_ASN_143
+1shcA_A_PRO_48	<-->	4p9zA_A_TYR_134
+1shcA_A_THR_125	<-->	4p9zA_A_VAL_122
