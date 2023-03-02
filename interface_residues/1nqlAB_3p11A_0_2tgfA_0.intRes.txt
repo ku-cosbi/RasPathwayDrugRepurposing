@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_ASP_93	<-->	2tgfA_A_LYS_29
+3p11A_A_MET_72	<-->	2tgfA_A_LEU_24
+3p11A_A_TYR_92	<-->	2tgfA_A_LYS_29
+3p11A_A_MET_101	<-->	2tgfA_A_GLU_27
+3p11A_A_SER_18	<-->	2tgfA_A_CYS_32
+3p11A_A_GLY_21	<-->	2tgfA_A_VAL_33
+3p11A_A_ASN_15	<-->	2tgfA_A_GLY_40
+3p11A_A_ASN_15	<-->	2tgfA_A_ALA_41
+3p11A_A_LEU_17	<-->	2tgfA_A_ALA_31
+3p11A_A_LEU_17	<-->	2tgfA_A_CYS_32
+3p11A_A_THR_20	<-->	2tgfA_A_VAL_33
+3p11A_A_LYS_132	<-->	2tgfA_A_GLN_26
+3p11A_A_VAL_19	<-->	2tgfA_A_VAL_33
+3p11A_A_VAL_19	<-->	2tgfA_A_CYS_32
+3p11A_A_VAL_19	<-->	2tgfA_A_CYS_34
+3p11A_A_LEU_102	<-->	2tgfA_A_GLN_26
+3p11A_A_LEU_102	<-->	2tgfA_A_GLU_27
+3p11A_A_TYR_104	<-->	2tgfA_A_VAL_1
+3p11A_A_LEU_102	<-->	2tgfA_A_VAL_1
+3p11A_A_SER_18	<-->	2tgfA_A_ALA_41
+3p11A_A_THR_106	<-->	2tgfA_A_VAL_2
+3p11A_A_PHE_99	<-->	2tgfA_A_LYS_29
+3p11A_A_MET_72	<-->	2tgfA_A_PHE_5
+3p11A_A_PHE_99	<-->	2tgfA_A_GLU_27

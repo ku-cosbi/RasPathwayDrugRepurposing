@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_TRP_354	<-->	1xdvA_A_GLU_402
+5cusB_B_ASN_406	<-->	1xdvA_A_SER_394
+5cusB_B_ASN_406	<-->	1xdvA_A_LEU_395
+5cusB_B_TRP_354	<-->	1xdvA_A_SER_401
+5cusB_B_GLN_322	<-->	1xdvA_A_LYS_397
+5cusB_B_PRO_353	<-->	1xdvA_A_MET_446
+5cusB_B_TRP_354	<-->	1xdvA_A_ALA_404
+5cusB_B_GLY_316	<-->	1xdvA_A_LYS_397
+5cusB_B_GLN_322	<-->	1xdvA_A_ARG_398
+5cusB_B_HIS_355	<-->	1xdvA_A_GLU_447
+5cusB_B_PRO_353	<-->	1xdvA_A_GLU_447
+5cusB_B_HIS_355	<-->	1xdvA_A_PHE_444
+5cusB_B_GLN_322	<-->	1xdvA_A_SER_401
+5cusB_B_ASP_352	<-->	1xdvA_A_GLU_447
+5cusB_B_TYR_405	<-->	1xdvA_A_SER_394
+5cusB_B_SER_317	<-->	1xdvA_A_LYS_397
+5cusB_B_ASN_350	<-->	1xdvA_A_LYS_529
+5cusB_B_ASN_350	<-->	1xdvA_A_THR_449
+5cusB_B_LEU_345	<-->	1xdvA_A_ARG_398
+5cusB_B_SER_317	<-->	1xdvA_A_SER_392
+5cusB_B_ILE_346	<-->	1xdvA_A_LYS_529

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4uipA_A_SER_99	<-->	2tgfA_A_VAL_1
+4uipA_A_GLY_18	<-->	2tgfA_A_VAL_33
+4uipA_A_GLN_16	<-->	2tgfA_A_CYS_32
+4uipA_A_GLN_16	<-->	2tgfA_A_VAL_33
+4uipA_A_GLN_16	<-->	2tgfA_A_CYS_34
+4uipA_A_LEU_14	<-->	2tgfA_A_LEU_24
+4uipA_A_LEU_14	<-->	2tgfA_A_GLU_27
+4uipA_A_LEU_14	<-->	2tgfA_A_ALA_31
+4uipA_A_LEU_14	<-->	2tgfA_A_LYS_29
+4uipA_A_GLY_18	<-->	2tgfA_A_CYS_34
+4uipA_A_TYR_45	<-->	2tgfA_A_ALA_31
+4uipA_A_ASN_128	<-->	2tgfA_A_VAL_1
+4uipA_A_LEU_69	<-->	2tgfA_A_VAL_1
+4uipA_A_GLU_90	<-->	2tgfA_A_LYS_29
+4uipA_A_THR_15	<-->	2tgfA_A_CYS_32
+4uipA_A_THR_15	<-->	2tgfA_A_ALA_31
+4uipA_A_ALA_103	<-->	2tgfA_A_VAL_2
+4uipA_A_LEU_69	<-->	2tgfA_A_LEU_24
+4uipA_A_ASP_102	<-->	2tgfA_A_VAL_2
+4uipA_A_TYR_101	<-->	2tgfA_A_VAL_1
+4uipA_A_TYR_101	<-->	2tgfA_A_VAL_2

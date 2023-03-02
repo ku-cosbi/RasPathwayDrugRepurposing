@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_THR_229	<-->	1milA_A_PRO_59
+4zdrA_A_LEU_203	<-->	1milA_A_THR_36
+4zdrA_A_LYS_193	<-->	1milA_A_VAL_57
+4zdrA_A_LEU_203	<-->	1milA_A_ARG_16
+4zdrA_A_LEU_225	<-->	1milA_A_VAL_57
+4zdrA_A_ILE_200	<-->	1milA_A_LEU_55
+4zdrA_A_THR_215	<-->	1milA_A_THR_36
+4zdrA_A_THR_215	<-->	1milA_A_THR_37
+4zdrA_A_TYR_211	<-->	1milA_A_THR_36
+4zdrA_A_ILE_200	<-->	1milA_A_HIS_53
+4zdrA_A_GLN_219	<-->	1milA_A_THR_37
+4zdrA_A_THR_229	<-->	1milA_A_GLY_61
+4zdrA_A_THR_229	<-->	1milA_A_ASP_58
+4zdrA_A_THR_229	<-->	1milA_A_GLU_60
+4zdrA_A_PHE_196	<-->	1milA_A_LEU_55
+4zdrA_A_ASP_197	<-->	1milA_A_LEU_55
+4zdrA_A_ASP_197	<-->	1milA_A_LEU_54
+4zdrA_A_ARG_222	<-->	1milA_A_THR_37
+4zdrA_A_ARG_222	<-->	1milA_A_SER_34

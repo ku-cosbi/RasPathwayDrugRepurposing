@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3gopA_A_LYS_733	<-->	1xdvA_A_THR_549
+3gopA_A_LEU_758	<-->	1xdvA_A_LEU_544
+3gopA_A_VAL_762	<-->	1xdvA_A_SER_548
+3gopA_A_LEU_758	<-->	1xdvA_A_ARG_547
+3gopA_A_LEU_758	<-->	1xdvA_A_SER_548
+3gopA_A_LEU_680	<-->	1xdvA_A_ARG_497
+3gopA_A_LYS_730	<-->	1xdvA_A_VAL_225
+3gopA_A_LEU_736	<-->	1xdvA_A_TYR_546
+3gopA_A_TYR_740	<-->	1xdvA_A_GLU_329
+3gopA_A_LYS_730	<-->	1xdvA_A_LEU_221
+3gopA_A_ASN_732	<-->	1xdvA_A_THR_549
+3gopA_A_ASN_732	<-->	1xdvA_A_SER_548
+3gopA_A_ILE_756	<-->	1xdvA_A_SER_548
+3gopA_A_LYS_684	<-->	1xdvA_A_GLY_466
+3gopA_A_LEU_736	<-->	1xdvA_A_THR_549
+3gopA_A_LEU_736	<-->	1xdvA_A_SER_548
+3gopA_A_GLU_710	<-->	1xdvA_A_GLN_439
+3gopA_A_LYS_684	<-->	1xdvA_A_CYS_440
+3gopA_A_ILE_682	<-->	1xdvA_A_ARG_497
+3gopA_A_ILE_682	<-->	1xdvA_A_MET_496
+3gopA_A_GLU_710	<-->	1xdvA_A_LYS_435

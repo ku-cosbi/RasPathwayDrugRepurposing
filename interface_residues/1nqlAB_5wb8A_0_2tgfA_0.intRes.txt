@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8A_A_LEU_17	<-->	2tgfA_A_VAL_39
+5wb8A_A_LEU_17	<-->	2tgfA_A_TYR_38
+5wb8A_A_GLN_16	<-->	2tgfA_A_CYS_34
+5wb8A_A_GLY_18	<-->	2tgfA_A_GLY_37
+5wb8A_A_THR_15	<-->	2tgfA_A_GLY_40
+5wb8A_A_THR_15	<-->	2tgfA_A_ALA_41
+5wb8A_A_LEU_348	<-->	2tgfA_A_GLU_44
+5wb8A_A_HIS_409	<-->	2tgfA_A_LEU_48
+5wb8A_A_VAL_350	<-->	2tgfA_A_PHE_17
+5wb8A_A_PHE_357	<-->	2tgfA_A_GLN_14
+5wb8A_A_HIS_409	<-->	2tgfA_A_ALA_46
+5wb8A_A_HIS_409	<-->	2tgfA_A_ASP_47
+5wb8A_A_TYR_101	<-->	2tgfA_A_VAL_1
+5wb8A_A_HIS_346	<-->	2tgfA_A_HIS_45
+5wb8A_A_LEU_325	<-->	2tgfA_A_GLU_44
+5wb8A_A_PHE_357	<-->	2tgfA_A_SER_11
+5wb8A_A_LEU_325	<-->	2tgfA_A_ARG_42
+5wb8A_A_PRO_349	<-->	2tgfA_A_PHE_17
+5wb8A_A_PHE_357	<-->	2tgfA_A_HIS_12
+5wb8A_A_ILE_438	<-->	2tgfA_A_LEU_48
+5wb8A_A_HIS_409	<-->	2tgfA_A_VAL_39
+5wb8A_A_LEU_17	<-->	2tgfA_A_ASP_47
+5wb8A_A_PHE_412	<-->	2tgfA_A_LEU_48

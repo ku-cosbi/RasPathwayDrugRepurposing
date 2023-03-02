@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiR_R_ARG_149	<-->	4nyiS_S_ILE_752
+4nyiR_R_VAL_29	<-->	4nyiS_S_HIS_750
+4nyiR_R_GLU_31	<-->	4nyiS_S_HIS_699
+4nyiR_R_ASP_30	<-->	4nyiS_S_HIS_750
+4nyiR_R_LYS_147	<-->	4nyiS_S_ILE_752
+4nyiR_R_PHE_28	<-->	4nyiS_S_PRO_978
+4nyiR_R_GLU_31	<-->	4nyiS_S_GLU_698
+4nyiR_R_HIS_27	<-->	4nyiS_S_HIS_750
+4nyiR_R_HIS_27	<-->	4nyiS_S_ASN_751
+4nyiR_R_PHE_28	<-->	4nyiS_S_THR_753
+4nyiR_R_ARG_149	<-->	4nyiS_S_THR_753
+4nyiR_R_VAL_29	<-->	4nyiS_S_ASN_976
+4nyiR_R_PHE_28	<-->	4nyiS_S_ASN_976
+4nyiR_R_GLN_22	<-->	4nyiS_S_ASN_751
+4nyiR_R_GLN_25	<-->	4nyiS_S_ASN_751
+4nyiR_R_THR_148	<-->	4nyiS_S_THR_753
+4nyiR_R_THR_148	<-->	4nyiS_S_ILE_752
+4nyiR_R_THR_148	<-->	4nyiS_S_PHE_754
+4nyiR_R_ASP_33	<-->	4nyiS_S_ARG_739

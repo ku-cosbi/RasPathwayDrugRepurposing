@@ -1,0 +1,9 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l05A_A_ARG_172	<-->	4dstA_A_ASP_33
+2l05A_A_MET_186	<-->	4dstA_A_TYR_64
+2l05A_A_LYS_182	<-->	4dstA_A_ILE_36
+2l05A_A_MET_186	<-->	4dstA_A_GLU_63
+2l05A_A_ASP_179	<-->	4dstA_A_GLU_37
+2l05A_A_ASP_179	<-->	4dstA_A_ILE_36

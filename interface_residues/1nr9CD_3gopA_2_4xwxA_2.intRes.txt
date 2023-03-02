@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3gopA_A_LEU_680	<-->	4xwxA_A_ASN_72
+3gopA_A_LYS_689	<-->	4xwxA_A_MET_0
+3gopA_A_GLU_685	<-->	4xwxA_A_GLN_188
+3gopA_A_PHE_688	<-->	4xwxA_A_SER_-1
+3gopA_A_LEU_706	<-->	4xwxA_A_MET_0
+3gopA_A_THR_759	<-->	4xwxA_A_PRO_158
+3gopA_A_LYS_684	<-->	4xwxA_A_ILE_191
+3gopA_A_THR_686	<-->	4xwxA_A_GLN_188
+3gopA_A_LYS_689	<-->	4xwxA_A_SER_-1
+3gopA_A_SER_760	<-->	4xwxA_A_ALA_161
+3gopA_A_VAL_762	<-->	4xwxA_A_PRO_158
+3gopA_A_ILE_682	<-->	4xwxA_A_THR_75
+3gopA_A_LEU_758	<-->	4xwxA_A_PRO_158
+3gopA_A_LEU_758	<-->	4xwxA_A_GLY_156
+3gopA_A_LEU_758	<-->	4xwxA_A_ASP_157
+3gopA_A_THR_686	<-->	4xwxA_A_MET_0
+3gopA_A_SER_760	<-->	4xwxA_A_PRO_158
+3gopA_A_ILE_708	<-->	4xwxA_A_MET_0
+3gopA_A_THR_686	<-->	4xwxA_A_SER_192
+3gopA_A_THR_686	<-->	4xwxA_A_GLY_37
+3gopA_A_THR_759	<-->	4xwxA_A_GLN_188
+3gopA_A_THR_686	<-->	4xwxA_A_LEU_39
+3gopA_A_THR_759	<-->	4xwxA_A_ALA_161
+3gopA_A_ASN_732	<-->	4xwxA_A_PRO_158
