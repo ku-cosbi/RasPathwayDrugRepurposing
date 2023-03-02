@@ -1,0 +1,10 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_GLN_782	<-->	4i1zA_A_LYS_737
+3kexA_A_SER_715	<-->	4i1zA_A_PHE_795
+3kexA_A_LEU_773	<-->	4i1zA_A_VAL_738
+3kexA_A_ILE_716	<-->	4i1zA_A_PRO_794
+3kexA_A_ILE_716	<-->	4i1zA_A_PHE_795
+3kexA_A_HIS_783	<-->	4i1zA_A_LYS_737
+3kexA_A_PRO_826	<-->	4i1zA_A_VAL_738

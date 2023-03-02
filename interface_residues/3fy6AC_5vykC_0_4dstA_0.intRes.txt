@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5vykC_C_LEU_68	<-->	4dstA_A_ASN_26
+5vykC_C_LEU_68	<-->	4dstA_A_GLN_25
+5vykC_C_SER_65	<-->	4dstA_A_ARG_149
+5vykC_C_SER_65	<-->	4dstA_A_THR_148
+5vykC_C_ASP_67	<-->	4dstA_A_ARG_149
+5vykC_C_PRO_1075	<-->	4dstA_A_ARG_41
+5vykC_C_ILE_1077	<-->	4dstA_A_GLN_43
+5vykC_C_ALA_63	<-->	4dstA_A_LYS_147
+5vykC_C_PHE_1068	<-->	4dstA_A_GLN_43
+5vykC_C_ILE_1077	<-->	4dstA_A_LYS_42
+5vykC_C_SER_1076	<-->	4dstA_A_ILE_24
+5vykC_C_SER_1076	<-->	4dstA_A_GLN_25
+5vykC_C_ASN_66	<-->	4dstA_A_ASN_26
+5vykC_C_ASN_66	<-->	4dstA_A_THR_148
+5vykC_C_PHE_1068	<-->	4dstA_A_LEU_52
+5vykC_C_PRO_1075	<-->	4dstA_A_LYS_42
+5vykC_C_ASN_66	<-->	4dstA_A_GLN_22
+5vykC_C_ASN_1073	<-->	4dstA_A_ARG_41
+5vykC_C_PRO_1075	<-->	4dstA_A_GLN_43
+5vykC_C_ASN_66	<-->	4dstA_A_ARG_149

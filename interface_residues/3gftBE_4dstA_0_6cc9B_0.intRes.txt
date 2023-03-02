@@ -1,0 +1,11 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4dstA_A_ARG_41	<-->	6cc9B_B_LEU_52
+4dstA_A_ASP_30	<-->	6cc9B_B_LYS_184
+4dstA_A_LYS_42	<-->	6cc9B_B_MET_1
+4dstA_A_ILE_24	<-->	6cc9B_B_MET_1
+4dstA_A_ARG_41	<-->	6cc9B_B_MET_1
+4dstA_A_ARG_41	<-->	6cc9B_B_GLU_3
+4dstA_A_GLU_31	<-->	6cc9B_B_LYS_184
+4dstA_A_GLN_43	<-->	6cc9B_B_MET_1

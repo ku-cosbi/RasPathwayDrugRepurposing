@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_LEU_773	<-->	7aeiA_A_LYS_737
+3kexA_A_LYS_679	<-->	7aeiA_A_MET_1002
+3kexA_A_HIS_779	<-->	7aeiA_A_LYS_737
+3kexA_A_GLU_689	<-->	7aeiA_A_PRO_990
+3kexA_A_GLY_713	<-->	7aeiA_A_HIS_988
+3kexA_A_GLY_713	<-->	7aeiA_A_LEU_989
+3kexA_A_PRO_826	<-->	7aeiA_A_VAL_738
+3kexA_A_ILE_716	<-->	7aeiA_A_PHE_795
+3kexA_A_GLU_712	<-->	7aeiA_A_PRO_990
+3kexA_A_HIS_783	<-->	7aeiA_A_LYS_737
+3kexA_A_PRO_711	<-->	7aeiA_A_LEU_989
+3kexA_A_PRO_826	<-->	7aeiA_A_GLU_736
+3kexA_A_PRO_826	<-->	7aeiA_A_LYS_737
+3kexA_A_GLU_712	<-->	7aeiA_A_HIS_988
+3kexA_A_TRP_709	<-->	7aeiA_A_PRO_990
+3kexA_A_PRO_711	<-->	7aeiA_A_PRO_990

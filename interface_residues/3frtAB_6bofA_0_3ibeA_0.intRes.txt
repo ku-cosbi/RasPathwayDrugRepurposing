@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6bofA_A_PHE_90	<-->	3ibeA_A_SER_751
+6bofA_A_PHE_90	<-->	3ibeA_A_LEU_752
+6bofA_A_THR_87	<-->	3ibeA_A_ASP_748
+6bofA_A_GLN_129	<-->	3ibeA_A_GLN_766
+6bofA_A_GLN_129	<-->	3ibeA_A_ASP_748
+6bofA_A_LEU_133	<-->	3ibeA_A_LEU_752
+6bofA_A_ASP_132	<-->	3ibeA_A_GLN_762
+6bofA_A_THR_87	<-->	3ibeA_A_LEU_747
+6bofA_A_GLU_91	<-->	3ibeA_A_SER_751
+6bofA_A_GLU_91	<-->	3ibeA_A_LYS_750
+6bofA_A_HIS_94	<-->	3ibeA_A_ALA_754
+6bofA_A_ASP_132	<-->	3ibeA_A_GLN_766
+6bofA_A_LYS_128	<-->	3ibeA_A_GLN_769
+6bofA_A_THR_87	<-->	3ibeA_A_SER_751
+6bofA_A_HIS_94	<-->	3ibeA_A_LEU_752
+6bofA_A_GLN_129	<-->	3ibeA_A_LEU_752
+6bofA_A_THR_124	<-->	3ibeA_A_ASP_748
+6bofA_A_LYS_128	<-->	3ibeA_A_SER_765
+6bofA_A_ARG_135	<-->	3ibeA_A_GLN_762
+6bofA_A_VAL_125	<-->	3ibeA_A_ASP_748

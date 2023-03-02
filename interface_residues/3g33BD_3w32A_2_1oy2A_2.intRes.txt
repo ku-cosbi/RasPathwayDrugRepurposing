@@ -1,0 +1,12 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w32A_A_ASP_954	<-->	1oy2A_A_LEU_63
+3w32A_A_SER_957	<-->	1oy2A_A_LEU_63
+3w32A_A_LEU_887	<-->	1oy2A_A_LYS_116
+3w32A_A_GLU_928	<-->	1oy2A_A_LYS_116
+3w32A_A_HIS_888	<-->	1oy2A_A_LEU_115
+3w32A_A_HIS_888	<-->	1oy2A_A_LYS_116
+3w32A_A_ASP_954	<-->	1oy2A_A_ARG_112
+3w32A_A_ALA_955	<-->	1oy2A_A_ARG_112
+3w32A_A_ASP_956	<-->	1oy2A_A_ARG_112

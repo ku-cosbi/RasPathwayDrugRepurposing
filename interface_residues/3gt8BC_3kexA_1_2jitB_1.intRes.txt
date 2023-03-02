@@ -1,0 +1,15 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_ILE_716	<-->	2jitB_B_MET_1002
+3kexA_A_LEU_773	<-->	2jitB_B_GLU_736
+3kexA_A_TYR_770	<-->	2jitB_B_GLU_736
+3kexA_A_TYR_770	<-->	2jitB_B_LYS_737
+3kexA_A_PRO_826	<-->	2jitB_B_LEU_1017
+3kexA_A_PRO_826	<-->	2jitB_B_TYR_1016
+3kexA_A_SER_825	<-->	2jitB_B_TYR_1016
+3kexA_A_LYS_824	<-->	2jitB_B_TYR_1016
+3kexA_A_LYS_706	<-->	2jitB_B_LYS_737
+3kexA_A_PRO_772	<-->	2jitB_B_GLU_736
+3kexA_A_PRO_826	<-->	2jitB_B_ARG_705
+3kexA_A_LEU_773	<-->	2jitB_B_TYR_1016

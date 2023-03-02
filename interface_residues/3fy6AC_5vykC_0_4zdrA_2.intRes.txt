@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5vykC_C_PRO_1075	<-->	4zdrA_A_THR_205
+5vykC_C_ASN_1073	<-->	4zdrA_A_HIS_164
+5vykC_C_SER_1076	<-->	4zdrA_A_SER_207
+5vykC_C_GLU_1071	<-->	4zdrA_A_GLU_159
+5vykC_C_HIS_1072	<-->	4zdrA_A_GLN_111
+5vykC_C_ILE_1077	<-->	4zdrA_A_LEU_206
+5vykC_C_HIS_1072	<-->	4zdrA_A_GLU_113
+5vykC_C_HIS_1072	<-->	4zdrA_A_ALA_112
+5vykC_C_ASN_1073	<-->	4zdrA_A_GLN_161
+5vykC_C_ASN_1073	<-->	4zdrA_A_MET_160
+5vykC_C_PRO_1075	<-->	4zdrA_A_GLN_161
+5vykC_C_LEU_68	<-->	4zdrA_A_GLU_208
+5vykC_C_HIS_1072	<-->	4zdrA_A_GLU_159
+5vykC_C_GLU_1071	<-->	4zdrA_A_GLN_111
+5vykC_C_SER_1076	<-->	4zdrA_A_GLU_209
+5vykC_C_ASN_1073	<-->	4zdrA_A_GLU_113
+5vykC_C_ILE_1077	<-->	4zdrA_A_THR_205
+5vykC_C_SER_1076	<-->	4zdrA_A_SER_210
+5vykC_C_ILE_1077	<-->	4zdrA_A_SER_207
+5vykC_C_ASN_1073	<-->	4zdrA_A_GLU_159

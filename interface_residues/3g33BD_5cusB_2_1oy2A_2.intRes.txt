@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_HIS_467	<-->	1oy2A_A_LEU_110
+5cusB_B_HIS_467	<-->	1oy2A_A_SER_107
+5cusB_B_LYS_466	<-->	1oy2A_A_LEU_110
+5cusB_B_PRO_470	<-->	1oy2A_A_SER_103
+5cusB_B_TYR_436	<-->	1oy2A_A_SER_108
+5cusB_B_ARG_472	<-->	1oy2A_A_PRO_101
+5cusB_B_SER_438	<-->	1oy2A_A_SER_108
+5cusB_B_ASN_468	<-->	1oy2A_A_SER_103
+5cusB_B_ASN_406	<-->	1oy2A_A_ARG_67
+5cusB_B_ALA_439	<-->	1oy2A_A_SER_107
+5cusB_B_HIS_467	<-->	1oy2A_A_ILE_109
+5cusB_B_HIS_467	<-->	1oy2A_A_PRO_105
+5cusB_B_HIS_467	<-->	1oy2A_A_SER_108
+5cusB_B_ARG_441	<-->	1oy2A_A_LEU_106
+5cusB_B_LYS_466	<-->	1oy2A_A_SER_108
+5cusB_B_HIS_467	<-->	1oy2A_A_GLU_80
+5cusB_B_HIS_467	<-->	1oy2A_A_LEU_106
+5cusB_B_LYS_466	<-->	1oy2A_A_ILE_109
+5cusB_B_MET_414	<-->	1oy2A_A_ARG_67

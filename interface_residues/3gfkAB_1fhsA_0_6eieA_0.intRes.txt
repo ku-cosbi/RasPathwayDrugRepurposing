@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1fhsA_A_GLN_55	<-->	6eieA_A_GLU_710
+1fhsA_A_GLN_93	<-->	6eieA_A_ILE_643
+1fhsA_A_PHE_57	<-->	6eieA_A_GLU_710
+1fhsA_A_ARG_91	<-->	6eieA_A_GLN_636
+1fhsA_A_PHE_50	<-->	6eieA_A_GLU_710
+1fhsA_A_ASN_92	<-->	6eieA_A_LEU_639
+1fhsA_A_ASN_92	<-->	6eieA_A_ARG_711
+1fhsA_A_ASN_92	<-->	6eieA_A_GLN_636
+1fhsA_A_VAL_71	<-->	6eieA_A_ARG_704
+1fhsA_A_VAL_89	<-->	6eieA_A_TYR_707
+1fhsA_A_ARG_91	<-->	6eieA_A_SER_640
+1fhsA_A_TRP_70	<-->	6eieA_A_ARG_704
+1fhsA_A_TRP_70	<-->	6eieA_A_LEU_706
+1fhsA_A_TRP_70	<-->	6eieA_A_GLU_703
+1fhsA_A_GLN_93	<-->	6eieA_A_ARG_711
+1fhsA_A_GLN_93	<-->	6eieA_A_PHE_715
+1fhsA_A_GLN_93	<-->	6eieA_A_SER_714
+1fhsA_A_ILE_95	<-->	6eieA_A_ARG_711
+1fhsA_A_GLN_94	<-->	6eieA_A_ARG_711
+1fhsA_A_SER_90	<-->	6eieA_A_GLN_636
+1fhsA_A_ASN_92	<-->	6eieA_A_SER_640
+1fhsA_A_SER_90	<-->	6eieA_A_ARG_711
+1fhsA_A_ASN_92	<-->	6eieA_A_ILE_643

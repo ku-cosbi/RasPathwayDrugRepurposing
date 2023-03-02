@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6cc9B_B_GLU_37	<-->	2n42A_A_ARG_73
+6cc9B_B_ARG_41	<-->	2n42A_A_ALA_66
+6cc9B_B_ARG_41	<-->	2n42A_A_SER_65
+6cc9B_B_ARG_41	<-->	2n42A_A_TYR_64
+6cc9B_B_ARG_41	<-->	2n42A_A_GLN_70
+6cc9B_B_LYS_42	<-->	2n42A_A_ALA_66
+6cc9B_B_ILE_24	<-->	2n42A_A_TYR_71
+6cc9B_B_ILE_24	<-->	2n42A_A_GLN_70
+6cc9B_B_GLN_43	<-->	2n42A_A_ALA_66
+6cc9B_B_LYS_42	<-->	2n42A_A_GLN_70
+6cc9B_B_ASP_38	<-->	2n42A_A_ARG_73
+6cc9B_B_TYR_40	<-->	2n42A_A_GLN_70
+6cc9B_B_ARG_41	<-->	2n42A_A_ASP_69
+6cc9B_B_ILE_24	<-->	2n42A_A_LYS_5
+6cc9B_B_HIS_27	<-->	2n42A_A_MET_1
+6cc9B_B_SER_39	<-->	2n42A_A_ARG_73
+6cc9B_B_HIS_27	<-->	2n42A_A_GLU_3
+6cc9B_B_LEU_52	<-->	2n42A_A_TYR_64
+6cc9B_B_MET_1	<-->	2n42A_A_GLY_60
+6cc9B_B_LEU_52	<-->	2n42A_A_ALA_66
+6cc9B_B_GLN_25	<-->	2n42A_A_LYS_5

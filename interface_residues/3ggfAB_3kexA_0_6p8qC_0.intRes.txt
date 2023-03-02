@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_LEU_896	<-->	6p8qC_C_HIS_870
+3kexA_A_LYS_845	<-->	6p8qC_C_ALA_920
+3kexA_A_ALA_894	<-->	6p8qC_C_GLU_866
+3kexA_A_LEU_898	<-->	6p8qC_C_HIS_870
+3kexA_A_GLY_895	<-->	6p8qC_C_GLU_866
+3kexA_A_ASP_844	<-->	6p8qC_C_SER_921
+3kexA_A_LEU_896	<-->	6p8qC_C_GLU_865
+3kexA_A_GLY_895	<-->	6p8qC_C_GLU_865
+3kexA_A_LYS_845	<-->	6p8qC_C_PRO_919
+3kexA_A_ALA_899	<-->	6p8qC_C_ILE_886
+3kexA_A_ARG_897	<-->	6p8qC_C_GLU_865
+3kexA_A_GLU_891	<-->	6p8qC_C_ALA_871
+3kexA_A_ARG_897	<-->	6p8qC_C_HIS_888
+3kexA_A_ARG_897	<-->	6p8qC_C_ARG_889
+3kexA_A_ARG_897	<-->	6p8qC_C_LEU_887
+3kexA_A_ARG_897	<-->	6p8qC_C_HIS_870
+3kexA_A_THR_854	<-->	6p8qC_C_GLY_873
+3kexA_A_LEU_848	<-->	6p8qC_C_LYS_875
+3kexA_A_THR_854	<-->	6p8qC_C_ALA_871
+3kexA_A_LEU_848	<-->	6p8qC_C_GLY_873
+3kexA_A_LEU_848	<-->	6p8qC_C_GLU_872

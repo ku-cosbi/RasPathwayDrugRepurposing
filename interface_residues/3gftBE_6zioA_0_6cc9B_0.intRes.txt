@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6zioA_A_LEU_52	<-->	6cc9B_B_LEU_52
+6zioA_A_LEU_52	<-->	6cc9B_B_MET_1
+6zioA_A_MET_1	<-->	6cc9B_B_LEU_52
+6zioA_A_MET_1	<-->	6cc9B_B_LYS_42
+6zioA_A_MET_1	<-->	6cc9B_B_GLN_43
+6zioA_A_MET_1	<-->	6cc9B_B_ARG_41
+6zioA_A_THR_2	<-->	6cc9B_B_ARG_41
+6zioA_A_GLU_3	<-->	6cc9B_B_ARG_41
+6zioA_A_LYS_42	<-->	6cc9B_B_MET_1
+6zioA_A_GLN_43	<-->	6cc9B_B_MET_1
+6zioA_A_GLN_43	<-->	6cc9B_B_GLN_43
+6zioA_A_GLY_0	<-->	6cc9B_B_ARG_41
+6zioA_A_ARG_41	<-->	6cc9B_B_MET_1

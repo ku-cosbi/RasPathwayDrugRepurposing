@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3kexA_A_LEU_742	<-->	4xwxA_A_ARG_112
+3kexA_A_ASP_838	<-->	4xwxA_A_ALA_88
+3kexA_A_PHE_734	<-->	4xwxA_A_PRO_90
+3kexA_A_VAL_737	<-->	4xwxA_A_ALA_92
+3kexA_A_VAL_737	<-->	4xwxA_A_GLY_91
+3kexA_A_ASP_739	<-->	4xwxA_A_ARG_112
+3kexA_A_ASP_739	<-->	4xwxA_A_GLY_94
+3kexA_A_GLN_732	<-->	4xwxA_A_ARG_104
+3kexA_A_ASP_838	<-->	4xwxA_A_CYS_86
+3kexA_A_THR_738	<-->	4xwxA_A_PRO_90
+3kexA_A_THR_738	<-->	4xwxA_A_GLY_91
+3kexA_A_SER_733	<-->	4xwxA_A_LEU_106
+3kexA_A_ALA_736	<-->	4xwxA_A_SER_107
+3kexA_A_ALA_736	<-->	4xwxA_A_LEU_106
+3kexA_A_ALA_736	<-->	4xwxA_A_ALA_92
+3kexA_A_VAL_680	<-->	4xwxA_A_ARG_112
+3kexA_A_ALA_736	<-->	4xwxA_A_PRO_90
+3kexA_A_ALA_736	<-->	4xwxA_A_GLY_91
+3kexA_A_ALA_736	<-->	4xwxA_A_ILE_109
+3kexA_A_THR_738	<-->	4xwxA_A_VAL_89
+3kexA_A_THR_738	<-->	4xwxA_A_ALA_88

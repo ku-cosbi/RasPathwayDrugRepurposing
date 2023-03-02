@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1milA_A_LYS_103	<-->	6scmA_A_GLN_683
+1milA_A_LEU_104	<-->	6scmA_A_MET_726
+1milA_A_LEU_104	<-->	6scmA_A_TRP_729
+1milA_A_GLN_98	<-->	6scmA_A_GLU_680
+1milA_A_HIS_84	<-->	6scmA_A_GLU_565
+1milA_A_PRO_8	<-->	6scmA_A_LEU_687
+1milA_A_ARG_102	<-->	6scmA_A_LEU_687
+1milA_A_PRO_8	<-->	6scmA_A_ARG_688
+1milA_A_LEU_104	<-->	6scmA_A_ALA_725
+1milA_A_SER_78	<-->	6scmA_A_ILE_598
+1milA_A_GLU_7	<-->	6scmA_A_ALA_619
+1milA_A_TRP_9	<-->	6scmA_A_ARG_688
+1milA_A_GLU_101	<-->	6scmA_A_PRO_684
+1milA_A_GLU_101	<-->	6scmA_A_LEU_687
+1milA_A_GLU_101	<-->	6scmA_A_ARG_688
+1milA_A_PRO_8	<-->	6scmA_A_ALA_619
+1milA_A_LEU_104	<-->	6scmA_A_LEU_687
+1milA_A_LEU_104	<-->	6scmA_A_LEU_690
+1milA_A_GLU_7	<-->	6scmA_A_PRO_621
+1milA_A_ASP_82	<-->	6scmA_A_ILE_598
+1milA_A_MET_81	<-->	6scmA_A_MET_617
+1milA_A_ASP_82	<-->	6scmA_A_TYR_618
+1milA_A_LYS_103	<-->	6scmA_A_ALA_725
+1milA_A_GLY_6	<-->	6scmA_A_ASN_691

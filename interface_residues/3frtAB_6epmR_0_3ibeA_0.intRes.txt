@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6epmR_R_PHE_90	<-->	3ibeA_A_SER_751
+6epmR_R_GLN_129	<-->	3ibeA_A_ASP_748
+6epmR_R_ASP_132	<-->	3ibeA_A_LEU_752
+6epmR_R_LEU_133	<-->	3ibeA_A_LEU_752
+6epmR_R_LEU_133	<-->	3ibeA_A_SER_751
+6epmR_R_GLN_61	<-->	3ibeA_A_VAL_372
+6epmR_R_MET_67	<-->	3ibeA_A_VAL_372
+6epmR_R_GLU_91	<-->	3ibeA_A_LEU_747
+6epmR_R_LYS_88	<-->	3ibeA_A_LEU_747
+6epmR_R_HIS_94	<-->	3ibeA_A_LYS_750
+6epmR_R_GLU_91	<-->	3ibeA_A_SER_751
+6epmR_R_HIS_94	<-->	3ibeA_A_LEU_752
+6epmR_R_HIS_94	<-->	3ibeA_A_SER_753
+6epmR_R_TYR_64	<-->	3ibeA_A_PRO_371
+6epmR_R_GLU_63	<-->	3ibeA_A_ASP_509
+6epmR_R_TYR_64	<-->	3ibeA_A_VAL_372
+6epmR_R_GLU_63	<-->	3ibeA_A_ASN_512
+6epmR_R_HIS_94	<-->	3ibeA_A_SER_751

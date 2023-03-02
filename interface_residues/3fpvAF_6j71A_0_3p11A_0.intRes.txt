@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6j71A_A_PHE_381	<-->	3p11A_A_LYS_466
+6j71A_A_TRP_415	<-->	3p11A_A_HIS_467
+6j71A_A_ALA_414	<-->	3p11A_A_LYS_466
+6j71A_A_ALA_390	<-->	3p11A_A_ARG_472
+6j71A_A_GLN_393	<-->	3p11A_A_PRO_470
+6j71A_A_PRO_391	<-->	3p11A_A_PRO_470
+6j71A_A_PRO_391	<-->	3p11A_A_ARG_471
+6j71A_A_PRO_391	<-->	3p11A_A_ARG_472
+6j71A_A_ASP_417	<-->	3p11A_A_ARG_441
+6j71A_A_ASP_417	<-->	3p11A_A_HIS_467
+6j71A_A_PRO_416	<-->	3p11A_A_HIS_467
+6j71A_A_SER_418	<-->	3p11A_A_ARG_441
+6j71A_A_PRO_394	<-->	3p11A_A_PRO_470
+6j71A_A_GLN_393	<-->	3p11A_A_ASP_473

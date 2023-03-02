@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3gopA_A_ARG_681	<-->	3kexA_A_SER_825
+3gopA_A_ARG_681	<-->	3kexA_A_PRO_826
+3gopA_A_MET_978	<-->	3kexA_A_ILE_716
+3gopA_A_ASP_970	<-->	3kexA_A_ILE_716
+3gopA_A_ASP_970	<-->	3kexA_A_SER_715
+3gopA_A_GLU_712	<-->	3kexA_A_PRO_772
+3gopA_A_LEU_679	<-->	3kexA_A_SER_827
+3gopA_A_VAL_714	<-->	3kexA_A_PRO_772
+3gopA_A_TYR_992	<-->	3kexA_A_PRO_772
+3gopA_A_TYR_992	<-->	3kexA_A_LEU_773
+3gopA_A_LEU_993	<-->	3kexA_A_PRO_826
+3gopA_A_VAL_987	<-->	3kexA_A_PRO_719
+3gopA_A_ILE_994	<-->	3kexA_A_GLN_828
+3gopA_A_ILE_994	<-->	3kexA_A_LYS_824
+3gopA_A_ILE_994	<-->	3kexA_A_SER_825
+3gopA_A_TYR_974	<-->	3kexA_A_ILE_716
+3gopA_A_PHE_771	<-->	3kexA_A_ILE_716
+3gopA_A_LEU_993	<-->	3kexA_A_SER_825
+3gopA_A_LEU_993	<-->	3kexA_A_LYS_824
+3gopA_A_TYR_992	<-->	3kexA_A_LYS_824
+3gopA_A_GLU_991	<-->	3kexA_A_PRO_719
+3gopA_A_GLU_712	<-->	3kexA_A_LEU_773
