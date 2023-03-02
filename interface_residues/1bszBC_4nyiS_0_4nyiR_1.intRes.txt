@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiS_S_ASN_751	<-->	4nyiR_R_MET_111
+4nyiS_S_ASN_751	<-->	4nyiR_R_ILE_139
+4nyiS_S_ASN_751	<-->	4nyiR_R_GLY_138
+4nyiS_S_PRO_758	<-->	4nyiR_R_GLN_165
+4nyiS_S_SER_756	<-->	4nyiR_R_GLN_165
+4nyiS_S_HIS_750	<-->	4nyiR_R_ASP_108
+4nyiS_S_HIS_750	<-->	4nyiR_R_ASP_107
+4nyiS_S_ASN_751	<-->	4nyiR_R_TYR_137
+4nyiS_S_LYS_735	<-->	4nyiR_R_GLU_91
+4nyiS_S_THR_753	<-->	4nyiR_R_ILE_139
+4nyiS_S_HIS_750	<-->	4nyiR_R_LYS_101
+4nyiS_S_ASN_751	<-->	4nyiR_R_ASP_108
+4nyiS_S_ASN_751	<-->	4nyiR_R_VAL_109
+4nyiS_S_HIS_750	<-->	4nyiR_R_SER_136
+4nyiS_S_HIS_750	<-->	4nyiR_R_TYR_137
+4nyiS_S_ASN_751	<-->	4nyiR_R_GLU_162
+4nyiS_S_ARG_982	<-->	4nyiR_R_ARG_164
+4nyiS_S_THR_753	<-->	4nyiR_R_PRO_140
+4nyiS_S_ARG_739	<-->	4nyiR_R_HIS_94
+4nyiS_S_THR_753	<-->	4nyiR_R_GLU_162
+4nyiS_S_PHE_754	<-->	4nyiR_R_GLN_165
+4nyiS_S_THR_753	<-->	4nyiR_R_GLN_165
+4nyiS_S_ILE_752	<-->	4nyiR_R_GLY_138

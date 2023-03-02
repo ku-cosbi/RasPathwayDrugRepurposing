@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6eieA_A_HIS_909	<-->	5cdwB_B_GLN_25
+6eieA_A_LYS_937	<-->	5cdwB_B_GLN_25
+6eieA_A_ASN_877	<-->	5cdwB_B_ALA_16
+6eieA_A_LYS_937	<-->	5cdwB_B_HIS_27
+6eieA_A_ASN_934	<-->	5cdwB_B_ARG_26
+6eieA_A_ASN_934	<-->	5cdwB_B_LYS_24
+6eieA_A_HIS_909	<-->	5cdwB_B_SER_23
+6eieA_A_SER_874	<-->	5cdwB_B_ALA_16
+6eieA_A_PHE_910	<-->	5cdwB_B_SER_23
+6eieA_A_HIS_909	<-->	5cdwB_B_LYS_24
+6eieA_A_THR_933	<-->	5cdwB_B_LYS_24
+6eieA_A_THR_933	<-->	5cdwB_B_GLN_25
+6eieA_A_THR_933	<-->	5cdwB_B_MET_21
+6eieA_A_PHE_1008	<-->	5cdwB_B_SER_38
+6eieA_A_PHE_1008	<-->	5cdwB_B_GLU_37
+6eieA_A_HIS_909	<-->	5cdwB_B_ASN_51
+6eieA_A_ASP_908	<-->	5cdwB_B_ASN_51
+6eieA_A_VAL_879	<-->	5cdwB_B_SER_38
+6eieA_A_SER_878	<-->	5cdwB_B_ALA_16
+6eieA_A_VAL_879	<-->	5cdwB_B_GLU_37
+6eieA_A_LYS_1001	<-->	5cdwB_B_LYS_12
+6eieA_A_THR_826	<-->	5cdwB_B_LYS_17
+6eieA_A_ILE_930	<-->	5cdwB_B_GLU_20
+6eieA_A_ILE_930	<-->	5cdwB_B_LYS_24

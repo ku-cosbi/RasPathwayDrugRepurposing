@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5vykC_C_GLN_1097	<-->	3omvA_A_GLN_436
+5vykC_C_GLN_1097	<-->	3omvA_A_VAL_435
+5vykC_C_LYS_46	<-->	3omvA_A_ILE_551
+5vykC_C_LYS_46	<-->	3omvA_A_HIS_550
+5vykC_C_SER_54	<-->	3omvA_A_ASN_553
+5vykC_C_GLN_1098	<-->	3omvA_A_GLU_437
+5vykC_C_ILE_50	<-->	3omvA_A_ASN_552
+5vykC_C_ILE_50	<-->	3omvA_A_ASN_553
+5vykC_C_ILE_50	<-->	3omvA_A_ILE_551
+5vykC_C_GLN_43	<-->	3omvA_A_GLU_545
+5vykC_C_SER_51	<-->	3omvA_A_ASN_552
+5vykC_C_LYS_46	<-->	3omvA_A_TYR_548
+5vykC_C_LEU_47	<-->	3omvA_A_ASN_552
+5vykC_C_LEU_47	<-->	3omvA_A_HIS_550
+5vykC_C_LEU_47	<-->	3omvA_A_ILE_551
+5vykC_C_GLN_43	<-->	3omvA_A_HIS_550
+5vykC_C_GLN_1094	<-->	3omvA_A_VAL_435
+5vykC_C_GLN_43	<-->	3omvA_A_LYS_572
+5vykC_C_GLU_1101	<-->	3omvA_A_GLU_437
+5vykC_C_LYS_79	<-->	3omvA_A_ASN_552
+5vykC_C_TYR_83	<-->	3omvA_A_ASN_552
+5vykC_C_ASN_1105	<-->	3omvA_A_LYS_439

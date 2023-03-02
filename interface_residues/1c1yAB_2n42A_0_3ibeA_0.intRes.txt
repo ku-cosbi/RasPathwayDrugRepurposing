@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_ARG_41	<-->	3ibeA_A_THR_229
+2n42A_A_GLU_37	<-->	3ibeA_A_PHE_248
+2n42A_A_ARG_41	<-->	3ibeA_A_SER_230
+2n42A_A_MET_67	<-->	3ibeA_A_THR_232
+2n42A_A_LEU_52	<-->	3ibeA_A_THR_228
+2n42A_A_GLN_70	<-->	3ibeA_A_GLU_302
+2n42A_A_TYR_40	<-->	3ibeA_A_SER_230
+2n42A_A_ASP_33	<-->	3ibeA_A_LYS_251
+2n42A_A_GLN_43	<-->	3ibeA_A_THR_228
+2n42A_A_ILE_36	<-->	3ibeA_A_LYS_234
+2n42A_A_ILE_36	<-->	3ibeA_A_ILE_233
+2n42A_A_ARG_41	<-->	3ibeA_A_THR_228
+2n42A_A_GLU_37	<-->	3ibeA_A_MET_252
+2n42A_A_GLU_37	<-->	3ibeA_A_LYS_251
+2n42A_A_GLU_37	<-->	3ibeA_A_GLN_231
+2n42A_A_ARG_73	<-->	3ibeA_A_GLU_919
+2n42A_A_ILE_36	<-->	3ibeA_A_LYS_251
+2n42A_A_MET_1	<-->	3ibeA_A_LEU_823
+2n42A_A_MET_1	<-->	3ibeA_A_ALA_822
+2n42A_A_LYS_42	<-->	3ibeA_A_THR_228
+2n42A_A_SER_39	<-->	3ibeA_A_SER_230
+2n42A_A_SER_39	<-->	3ibeA_A_GLN_231
+2n42A_A_ALA_66	<-->	3ibeA_A_PHE_221

@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n42A_A_ASP_69	<-->	6scmA_A_ALA_619
+2n42A_A_ASP_69	<-->	6scmA_A_ILE_598
+2n42A_A_LYS_5	<-->	6scmA_A_MET_592
+2n42A_A_SER_65	<-->	6scmA_A_ALA_619
+2n42A_A_GLU_63	<-->	6scmA_A_ALA_619
+2n42A_A_TYR_64	<-->	6scmA_A_ASN_691
+2n42A_A_ALA_66	<-->	6scmA_A_ALA_619
+2n42A_A_GLN_70	<-->	6scmA_A_ILE_598
+2n42A_A_TYR_64	<-->	6scmA_A_VAL_624
+2n42A_A_MET_67	<-->	6scmA_A_ASN_622
+2n42A_A_ASP_69	<-->	6scmA_A_TYR_618
+2n42A_A_ALA_66	<-->	6scmA_A_PRO_621
+2n42A_A_TYR_64	<-->	6scmA_A_ARG_688
+2n42A_A_GLN_70	<-->	6scmA_A_ILE_600
+2n42A_A_SER_65	<-->	6scmA_A_PRO_621
+2n42A_A_ARG_73	<-->	6scmA_A_MET_617
+2n42A_A_GLU_63	<-->	6scmA_A_ARG_688
+2n42A_A_ARG_73	<-->	6scmA_A_TYR_618
+2n42A_A_TYR_64	<-->	6scmA_A_ALA_619
+2n42A_A_ALA_66	<-->	6scmA_A_ASP_620
+2n42A_A_TYR_64	<-->	6scmA_A_ASP_620

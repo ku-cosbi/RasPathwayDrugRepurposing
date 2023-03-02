@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6zioA_A_THR_35	<-->	3ibeA_A_LYS_234
+6zioA_A_GLN_61	<-->	3ibeA_A_LYS_234
+6zioA_A_MET_67	<-->	3ibeA_A_THR_232
+6zioA_A_ILE_21	<-->	3ibeA_A_LYS_251
+6zioA_A_ILE_21	<-->	3ibeA_A_MET_252
+6zioA_A_GLN_25	<-->	3ibeA_A_MET_252
+6zioA_A_GLU_63	<-->	3ibeA_A_ASN_217
+6zioA_A_GLU_63	<-->	3ibeA_A_ALA_216
+6zioA_A_VAL_29	<-->	3ibeA_A_THR_250
+6zioA_A_TYR_40	<-->	3ibeA_A_LYS_251
+6zioA_A_TYR_40	<-->	3ibeA_A_MET_252
+6zioA_A_ASP_38	<-->	3ibeA_A_GLN_231
+6zioA_A_ASP_38	<-->	3ibeA_A_ILE_233
+6zioA_A_ASP_38	<-->	3ibeA_A_THR_232
+6zioA_A_TYR_40	<-->	3ibeA_A_SER_230
+6zioA_A_ILE_36	<-->	3ibeA_A_LYS_234
+6zioA_A_ILE_36	<-->	3ibeA_A_ILE_233
+6zioA_A_ARG_41	<-->	3ibeA_A_THR_228
+6zioA_A_SER_39	<-->	3ibeA_A_GLN_231
+6zioA_A_GLU_37	<-->	3ibeA_A_THR_232
+6zioA_A_TYR_32	<-->	3ibeA_A_LYS_251
+6zioA_A_SER_39	<-->	3ibeA_A_THR_232
+6zioA_A_SER_39	<-->	3ibeA_A_SER_230
+6zioA_A_ARG_41	<-->	3ibeA_A_THR_229

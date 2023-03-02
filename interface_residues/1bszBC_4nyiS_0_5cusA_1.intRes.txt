@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4nyiS_S_LEU_687	<-->	5cusA_A_SER_270
+4nyiS_S_LEU_670	<-->	5cusA_A_LEU_249
+4nyiS_S_ALA_725	<-->	5cusA_A_ALA_269
+4nyiS_S_ASN_751	<-->	5cusA_A_LEU_55
+4nyiS_S_GLN_668	<-->	5cusA_A_LYS_248
+4nyiS_S_GLN_668	<-->	5cusA_A_LEU_249
+4nyiS_S_THR_753	<-->	5cusA_A_THR_13
+4nyiS_S_ASN_751	<-->	5cusA_A_LEU_58
+4nyiS_S_ARG_739	<-->	5cusA_A_TRP_60
+4nyiS_S_LYS_727	<-->	5cusA_A_SER_233
+4nyiS_S_ILE_742	<-->	5cusA_A_TRP_60
+4nyiS_S_HIS_750	<-->	5cusA_A_PHE_57
+4nyiS_S_HIS_750	<-->	5cusA_A_ASP_54
+4nyiS_S_LYS_679	<-->	5cusA_A_ASN_296
+4nyiS_S_LEU_670	<-->	5cusA_A_THR_250
+4nyiS_S_TRP_729	<-->	5cusA_A_SER_270
+4nyiS_S_LYS_679	<-->	5cusA_A_MET_300
+4nyiS_S_LYS_675	<-->	5cusA_A_ASN_247
+4nyiS_S_ARG_739	<-->	5cusA_A_CYS_37
+4nyiS_S_PRO_669	<-->	5cusA_A_LEU_249
+4nyiS_S_GLN_683	<-->	5cusA_A_ALA_269
+4nyiS_S_LYS_724	<-->	5cusA_A_HIS_258

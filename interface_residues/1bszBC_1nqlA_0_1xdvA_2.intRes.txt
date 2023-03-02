@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1nqlA_A_TYR_275	<-->	1xdvA_A_ASN_474
+1nqlA_A_ARG_273	<-->	1xdvA_A_ASP_430
+1nqlA_A_VAL_6	<-->	1xdvA_A_SER_473
+1nqlA_A_GLN_8	<-->	1xdvA_A_GLU_487
+1nqlA_A_MET_30	<-->	1xdvA_A_GLU_487
+1nqlA_A_VAL_6	<-->	1xdvA_A_ASN_474
+1nqlA_A_LYS_5	<-->	1xdvA_A_HIS_460
+1nqlA_A_CYS_7	<-->	1xdvA_A_GLU_487
+1nqlA_A_PRO_272	<-->	1xdvA_A_ASN_474
+1nqlA_A_LYS_5	<-->	1xdvA_A_SER_473
+1nqlA_A_ARG_29	<-->	1xdvA_A_ASN_428
+1nqlA_A_LYS_5	<-->	1xdvA_A_TYR_488
+1nqlA_A_PRO_272	<-->	1xdvA_A_ARG_489
+1nqlA_A_ARG_29	<-->	1xdvA_A_GLU_424

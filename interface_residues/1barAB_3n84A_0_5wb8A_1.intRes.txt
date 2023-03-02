@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n84A_A_GLY_102	<-->	5wb8A_A_ASN_158
+3n84A_A_ASP_104	<-->	5wb8A_A_GLY_161
+3n84A_A_GLN_106	<-->	5wb8A_A_LYS_165
+3n84A_A_ASN_103	<-->	5wb8A_A_ASN_158
+3n84A_A_SER_75	<-->	5wb8A_A_SER_162
+3n84A_A_SER_75	<-->	5wb8A_A_LEU_160
+3n84A_A_SER_75	<-->	5wb8A_A_GLY_161
+3n84A_A_ASN_103	<-->	5wb8A_A_CYS_163
+3n84A_A_GLY_102	<-->	5wb8A_A_GLY_161
+3n84A_A_ASN_103	<-->	5wb8A_A_GLY_161
+3n84A_A_ASN_103	<-->	5wb8A_A_LEU_160
+3n84A_A_VAL_105	<-->	5wb8A_A_LYS_165
+3n84A_A_ASP_104	<-->	5wb8A_A_CYS_163
+3n84A_A_ASN_103	<-->	5wb8A_A_CYS_133
+3n84A_A_ASN_103	<-->	5wb8A_A_PRO_130
+3n84A_A_ASN_103	<-->	5wb8A_A_ALA_131
+3n84A_A_ASN_103	<-->	5wb8A_A_LEU_132
+3n84A_A_ASN_103	<-->	5wb8A_A_SER_162

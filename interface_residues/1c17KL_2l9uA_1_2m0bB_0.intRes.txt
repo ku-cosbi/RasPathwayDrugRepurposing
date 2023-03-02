@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l9uA_A_LEU_642	<-->	2m0bB_B_ILE_646
+2l9uA_A_HIS_676	<-->	2m0bB_B_ARG_675
+2l9uA_A_TYR_665	<-->	2m0bB_B_ARG_670
+2l9uA_A_TYR_665	<-->	2m0bB_B_ARG_671
+2l9uA_A_HIS_676	<-->	2m0bB_B_ARG_671
+2l9uA_A_TYR_665	<-->	2m0bB_B_ARG_669
+2l9uA_A_MET_658	<-->	2m0bB_B_ILE_664
+2l9uA_A_ARG_639	<-->	2m0bB_B_ILE_646
+2l9uA_A_TYR_665	<-->	2m0bB_B_MET_668
+2l9uA_A_GLY_661	<-->	2m0bB_B_MET_668
+2l9uA_A_LEU_646	<-->	2m0bB_B_ALA_653
+2l9uA_A_MET_658	<-->	2m0bB_B_PHE_667
+2l9uA_A_ARG_639	<-->	2m0bB_B_PRO_644
+2l9uA_A_ARG_639	<-->	2m0bB_B_SER_645
+2l9uA_A_HIS_675	<-->	2m0bB_B_ILE_673
+2l9uA_A_VAL_654	<-->	2m0bB_B_ILE_664
+2l9uA_A_TRP_666	<-->	2m0bB_B_ARG_670
+2l9uA_A_VAL_654	<-->	2m0bB_B_VAL_660
+2l9uA_A_THR_662	<-->	2m0bB_B_ARG_670

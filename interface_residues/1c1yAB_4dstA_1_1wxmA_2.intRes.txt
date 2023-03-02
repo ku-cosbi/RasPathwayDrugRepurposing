@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4dstA_A_GLU_37	<-->	1wxmA_A_LYS_11
+4dstA_A_GLU_37	<-->	1wxmA_A_ARG_19
+4dstA_A_GLN_70	<-->	1wxmA_A_GLY_1
+4dstA_A_GLN_70	<-->	1wxmA_A_SER_2
+4dstA_A_ASP_54	<-->	1wxmA_A_LYS_17
+4dstA_A_ILE_36	<-->	1wxmA_A_VAL_21
+4dstA_A_ARG_73	<-->	1wxmA_A_SER_2
+4dstA_A_ILE_36	<-->	1wxmA_A_THR_9
+4dstA_A_SER_39	<-->	1wxmA_A_LYS_17
+4dstA_A_MET_67	<-->	1wxmA_A_SER_5
+4dstA_A_MET_67	<-->	1wxmA_A_GLY_4
+4dstA_A_GLU_3	<-->	1wxmA_A_LYS_17
+4dstA_A_ASP_38	<-->	1wxmA_A_ARG_19
+4dstA_A_SER_39	<-->	1wxmA_A_ARG_19
+4dstA_A_SER_39	<-->	1wxmA_A_GLN_18
+4dstA_A_ARG_41	<-->	1wxmA_A_ASN_16
+4dstA_A_ARG_41	<-->	1wxmA_A_LYS_17
+4dstA_A_LEU_56	<-->	1wxmA_A_ARG_19
+4dstA_A_MET_67	<-->	1wxmA_A_SER_2
+4dstA_A_MET_67	<-->	1wxmA_A_SER_3
+4dstA_A_GLU_37	<-->	1wxmA_A_VAL_21
+4dstA_A_TYR_40	<-->	1wxmA_A_GLN_18

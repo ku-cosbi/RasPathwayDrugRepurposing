@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6cc9B_B_GLU_37	<-->	3ibeA_A_LYS_234
+6cc9B_B_THR_35	<-->	3ibeA_A_LYS_234
+6cc9B_B_ILE_36	<-->	3ibeA_A_LYS_234
+6cc9B_B_ASP_38	<-->	3ibeA_A_LYS_251
+6cc9B_B_GLU_37	<-->	3ibeA_A_THR_232
+6cc9B_B_GLU_37	<-->	3ibeA_A_ILE_233
+6cc9B_B_ASP_38	<-->	3ibeA_A_THR_232
+6cc9B_B_VAL_29	<-->	3ibeA_A_THR_250
+6cc9B_B_ASP_38	<-->	3ibeA_A_GLN_231
+6cc9B_B_TYR_40	<-->	3ibeA_A_LYS_251
+6cc9B_B_GLU_31	<-->	3ibeA_A_THR_250
+6cc9B_B_ILE_21	<-->	3ibeA_A_THR_250
+6cc9B_B_ILE_21	<-->	3ibeA_A_MET_252
+6cc9B_B_SER_39	<-->	3ibeA_A_THR_232
+6cc9B_B_ILE_21	<-->	3ibeA_A_LYS_251
+6cc9B_B_GLU_37	<-->	3ibeA_A_PHE_221
+6cc9B_B_GLN_25	<-->	3ibeA_A_MET_252
+6cc9B_B_SER_39	<-->	3ibeA_A_SER_230
+6cc9B_B_SER_39	<-->	3ibeA_A_GLN_231
+6cc9B_B_PRO_34	<-->	3ibeA_A_LYS_234

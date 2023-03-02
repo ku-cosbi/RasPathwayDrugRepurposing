@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6zioA_A_ALA_59	<-->	2n42A_A_MET_1
+6zioA_A_ASP_57	<-->	2n42A_A_MET_1
+6zioA_A_SER_39	<-->	2n42A_A_THR_2
+6zioA_A_MET_67	<-->	2n42A_A_GLN_43
+6zioA_A_SER_39	<-->	2n42A_A_TYR_4
+6zioA_A_ALA_66	<-->	2n42A_A_GLN_43
+6zioA_A_ILE_36	<-->	2n42A_A_GLU_3
+6zioA_A_THR_58	<-->	2n42A_A_MET_1
+6zioA_A_LEU_56	<-->	2n42A_A_MET_1
+6zioA_A_MET_67	<-->	2n42A_A_MET_1
+6zioA_A_MET_67	<-->	2n42A_A_THR_2
+6zioA_A_ASP_38	<-->	2n42A_A_MET_1
+6zioA_A_ASP_38	<-->	2n42A_A_THR_2
+6zioA_A_ASP_38	<-->	2n42A_A_GLU_3
+6zioA_A_MET_67	<-->	2n42A_A_LEU_52
+6zioA_A_MET_67	<-->	2n42A_A_THR_50
+6zioA_A_MET_67	<-->	2n42A_A_CYS_51
+6zioA_A_MET_72	<-->	2n42A_A_MET_1
+6zioA_A_GLU_37	<-->	2n42A_A_MET_1
+6zioA_A_GLU_37	<-->	2n42A_A_GLU_3
+6zioA_A_GLU_37	<-->	2n42A_A_THR_2
+6zioA_A_ARG_68	<-->	2n42A_A_MET_1

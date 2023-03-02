@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6cc9B_B_ILE_21	<-->	1wxmA_A_LYS_36
+6cc9B_B_GLN_25	<-->	1wxmA_A_GLY_42
+6cc9B_B_ILE_24	<-->	1wxmA_A_VAL_40
+6cc9B_B_GLN_25	<-->	1wxmA_A_VAL_40
+6cc9B_B_TYR_40	<-->	1wxmA_A_VAL_40
+6cc9B_B_ASP_38	<-->	1wxmA_A_THR_20
+6cc9B_B_PRO_34	<-->	1wxmA_A_THR_23
+6cc9B_B_ARG_41	<-->	1wxmA_A_ARG_41
+6cc9B_B_ASP_38	<-->	1wxmA_A_ARG_19
+6cc9B_B_GLU_37	<-->	1wxmA_A_ARG_19
+6cc9B_B_GLN_25	<-->	1wxmA_A_ARG_41
+6cc9B_B_SER_39	<-->	1wxmA_A_ARG_19
+6cc9B_B_SER_39	<-->	1wxmA_A_GLN_18
+6cc9B_B_ILE_36	<-->	1wxmA_A_VAL_21
+6cc9B_B_GLN_25	<-->	1wxmA_A_LYS_39
+6cc9B_B_THR_35	<-->	1wxmA_A_THR_20
+6cc9B_B_THR_35	<-->	1wxmA_A_VAL_21
+6cc9B_B_GLU_37	<-->	1wxmA_A_THR_20
+6cc9B_B_GLU_37	<-->	1wxmA_A_VAL_21

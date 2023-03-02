@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_SER_56	<-->	6scmA_A_GLU_639
+5cusA_A_ASN_107	<-->	6scmA_A_GLU_654
+5cusA_A_HIS_110	<-->	6scmA_A_VAL_574
+5cusA_A_ASN_52	<-->	6scmA_A_GLU_646
+5cusA_A_HIS_110	<-->	6scmA_A_GLU_649
+5cusA_A_GLY_50	<-->	6scmA_A_ASP_573
+5cusA_A_HIS_110	<-->	6scmA_A_PRO_651
+5cusA_A_HIS_51	<-->	6scmA_A_ARG_576
+5cusA_A_HIS_51	<-->	6scmA_A_TYR_575
+5cusA_A_HIS_51	<-->	6scmA_A_VAL_574
+5cusA_A_ASN_52	<-->	6scmA_A_ARG_576
+5cusA_A_HIS_51	<-->	6scmA_A_GLU_646
+5cusA_A_ASN_105	<-->	6scmA_A_VAL_574
+5cusA_A_GLU_74	<-->	6scmA_A_ASP_573
+5cusA_A_HIS_51	<-->	6scmA_A_GLU_649
+5cusA_A_SER_108	<-->	6scmA_A_VAL_574
+5cusA_A_ASP_54	<-->	6scmA_A_GLU_639

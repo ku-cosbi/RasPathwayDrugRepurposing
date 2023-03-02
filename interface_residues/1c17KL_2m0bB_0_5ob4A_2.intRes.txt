@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2m0bB_B_ILE_643	<-->	5ob4A_A_ARG_7
+2m0bB_B_LYS_642	<-->	5ob4A_A_ARG_7
+2m0bB_B_PRO_641	<-->	5ob4A_A_SER_9
+2m0bB_B_PRO_641	<-->	5ob4A_A_ALA_8
+2m0bB_B_PRO_644	<-->	5ob4A_A_PRO_10
+2m0bB_B_PRO_641	<-->	5ob4A_A_ARG_7
+2m0bB_B_GLY_640	<-->	5ob4A_A_SER_9
+2m0bB_B_LYS_642	<-->	5ob4A_A_ALA_8
+2m0bB_B_LYS_642	<-->	5ob4A_A_SER_9
+2m0bB_B_ILE_643	<-->	5ob4A_A_ALA_8
+2m0bB_B_LEU_654	<-->	5ob4A_A_SER_13
+2m0bB_B_ILE_646	<-->	5ob4A_A_PRO_10
+2m0bB_B_ARG_677	<-->	5ob4A_A_ILE_42
+2m0bB_B_LEU_654	<-->	5ob4A_A_ALA_17
+2m0bB_B_LYS_642	<-->	5ob4A_A_PRO_10
+2m0bB_B_ARG_675	<-->	5ob4A_A_ILE_42
+2m0bB_B_LEU_657	<-->	5ob4A_A_ILE_21
+2m0bB_B_LYS_676	<-->	5ob4A_A_ILE_42
+2m0bB_B_MET_650	<-->	5ob4A_A_ILE_14
+2m0bB_B_MET_650	<-->	5ob4A_A_SER_13
+2m0bB_B_MET_650	<-->	5ob4A_A_PRO_10
