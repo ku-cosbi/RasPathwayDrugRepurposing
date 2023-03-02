@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4A_A_GLU_515	<-->	1shcA_A_ASN_144
+1xd4A_A_GLU_509	<-->	1shcA_A_LYS_139
+1xd4A_A_VAL_524	<-->	1shcA_A_ASN_144
+1xd4A_A_GLU_521	<-->	1shcA_A_HIS_145
+1xd4A_A_VAL_453	<-->	1shcA_A_LYS_139
+1xd4A_A_ASN_522	<-->	1shcA_A_HIS_145
+1xd4A_A_GLY_454	<-->	1shcA_A_LYS_139
+1xd4A_A_ASP_506	<-->	1shcA_A_MET_134
+1xd4A_A_SER_523	<-->	1shcA_A_ASN_144
+1xd4A_A_ILE_525	<-->	1shcA_A_ASN_144
+1xd4A_A_ASN_508	<-->	1shcA_A_LYS_139
+1xd4A_A_GLY_454	<-->	1shcA_A_GLN_140
+1xd4A_A_TYR_510	<-->	1shcA_A_MET_134
+1xd4A_A_ASN_508	<-->	1shcA_A_MET_134
+1xd4A_A_VAL_453	<-->	1shcA_A_GLN_140
+1xd4A_A_SER_523	<-->	1shcA_A_HIS_145
+1xd4A_A_ILE_525	<-->	1shcA_A_ILE_141

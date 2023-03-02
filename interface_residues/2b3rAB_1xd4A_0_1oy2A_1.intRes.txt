@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4A_A_ASN_508	<-->	1oy2A_A_ALA_136
+1xd4A_A_LYS_519	<-->	1oy2A_A_GLN_18
+1xd4A_A_VAL_453	<-->	1oy2A_A_GLN_140
+1xd4A_A_GLU_509	<-->	1oy2A_A_LYS_139
+1xd4A_A_ASN_508	<-->	1oy2A_A_LYS_139
+1xd4A_A_VAL_453	<-->	1oy2A_A_LYS_139
+1xd4A_A_GLY_454	<-->	1oy2A_A_LYS_139
+1xd4A_A_GLU_333	<-->	1oy2A_A_ARG_26
+1xd4A_A_PHE_331	<-->	1oy2A_A_ARG_26
+1xd4A_A_LYS_519	<-->	1oy2A_A_GLY_17
+1xd4A_A_ILE_501	<-->	1oy2A_A_TRP_24
+1xd4A_A_ASP_506	<-->	1oy2A_A_THR_123
+1xd4A_A_SER_523	<-->	1oy2A_A_ILE_141
+1xd4A_A_GLY_454	<-->	1oy2A_A_GLN_140
+1xd4A_A_GLY_328	<-->	1oy2A_A_ARG_26
+1xd4A_A_GLN_325	<-->	1oy2A_A_ARG_26
+1xd4A_A_GLN_325	<-->	1oy2A_A_THR_25
+1xd4A_A_GLY_330	<-->	1oy2A_A_ARG_26
+1xd4A_A_GLU_329	<-->	1oy2A_A_HIS_27
+1xd4A_A_GLU_329	<-->	1oy2A_A_ARG_26
+1xd4A_A_GLU_329	<-->	1oy2A_A_TRP_24

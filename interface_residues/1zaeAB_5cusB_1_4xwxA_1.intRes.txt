@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_MET_72	<-->	4xwxA_A_ASN_72
+5cusB_B_LEU_102	<-->	4xwxA_A_GLN_76
+5cusB_B_MET_72	<-->	4xwxA_A_ASP_70
+5cusB_B_MET_72	<-->	4xwxA_A_PHE_71
+5cusB_B_LEU_48	<-->	4xwxA_A_PHE_71
+5cusB_B_LEU_102	<-->	4xwxA_A_ASN_72
+5cusB_B_LEU_102	<-->	4xwxA_A_PHE_71
+5cusB_B_ASP_134	<-->	4xwxA_A_ASP_157
+5cusB_B_ASP_134	<-->	4xwxA_A_GLY_156
+5cusB_B_GLY_161	<-->	4xwxA_A_PRO_158
+5cusB_B_MET_101	<-->	4xwxA_A_ASN_72
+5cusB_B_ARG_162	<-->	4xwxA_A_PRO_158
+5cusB_B_LEU_102	<-->	4xwxA_A_THR_75
+5cusB_B_ASN_160	<-->	4xwxA_A_PRO_158
+5cusB_B_TYR_104	<-->	4xwxA_A_PHE_71
+5cusB_B_ASN_105	<-->	4xwxA_A_PHE_152
+5cusB_B_ASN_105	<-->	4xwxA_A_ALA_153
+5cusB_B_ASN_105	<-->	4xwxA_A_SER_154
+5cusB_B_ASN_73	<-->	4xwxA_A_PHE_71
+5cusB_B_ASN_103	<-->	4xwxA_A_PHE_71

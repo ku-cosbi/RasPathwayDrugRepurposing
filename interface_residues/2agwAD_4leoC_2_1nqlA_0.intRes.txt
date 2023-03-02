@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4leoC_C_CYS_557	<-->	1nqlA_A_LYS_514
+4leoC_C_HIS_559	<-->	1nqlA_A_MET_543
+4leoC_C_ASN_589	<-->	1nqlA_A_GLY_520
+4leoC_C_ALA_555	<-->	1nqlA_A_ASP_513
+4leoC_C_GLN_556	<-->	1nqlA_A_ASN_504
+4leoC_C_GLU_541	<-->	1nqlA_A_VAL_526
+4leoC_C_GLU_541	<-->	1nqlA_A_SER_529
+4leoC_C_ALA_558	<-->	1nqlA_A_LEU_518
+4leoC_C_MET_540	<-->	1nqlA_A_ARG_503
+4leoC_C_MET_540	<-->	1nqlA_A_ASN_504
+4leoC_C_ASN_589	<-->	1nqlA_A_GLU_519
+4leoC_C_ALA_558	<-->	1nqlA_A_LYS_514
+4leoC_C_MET_540	<-->	1nqlA_A_SER_529
+4leoC_C_HIS_559	<-->	1nqlA_A_LYS_514
+4leoC_C_HIS_559	<-->	1nqlA_A_GLU_519
+4leoC_C_HIS_559	<-->	1nqlA_A_LEU_518
+4leoC_C_GLN_556	<-->	1nqlA_A_LYS_514
+4leoC_C_GLN_556	<-->	1nqlA_A_CYS_515
+4leoC_C_ALA_555	<-->	1nqlA_A_ASN_504
+4leoC_C_GLN_556	<-->	1nqlA_A_ASP_513
+4leoC_C_PHE_560	<-->	1nqlA_A_GLU_519
+4leoC_C_GLN_538	<-->	1nqlA_A_LEU_517
+4leoC_C_THR_543	<-->	1nqlA_A_ARG_503
+4leoC_C_VAL_587	<-->	1nqlA_A_GLU_521

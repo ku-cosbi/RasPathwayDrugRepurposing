@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n5sA_A_LEU_62	<-->	2n2aB_B_VAL_126
+2n5sA_A_VAL_59	<-->	2n2aB_B_VAL_126
+2n5sA_A_ARG_69	<-->	2n2aB_B_LYS_138
+2n5sA_A_LEU_62	<-->	2n2aB_B_ILE_130
+2n5sA_A_LEU_58	<-->	2n2aB_B_ILE_130
+2n5sA_A_LEU_58	<-->	2n2aB_B_VAL_127
+2n5sA_A_SER_40	<-->	2n2aB_B_ARG_104
+2n5sA_A_LEU_55	<-->	2n2aB_B_VAL_122
+2n5sA_A_LEU_55	<-->	2n2aB_B_VAL_123
+2n5sA_A_LEU_58	<-->	2n2aB_B_VAL_123
+2n5sA_A_LEU_55	<-->	2n2aB_B_VAL_126
+2n5sA_A_ARG_69	<-->	2n2aB_B_LYS_133
+2n5sA_A_LEU_54	<-->	2n2aB_B_VAL_123
+2n5sA_A_ILE_43	<-->	2n2aB_B_ILE_112
+2n5sA_A_ARG_69	<-->	2n2aB_B_ARG_134
+2n5sA_A_VAL_51	<-->	2n2aB_B_LEU_119
+2n5sA_A_LEU_58	<-->	2n2aB_B_VAL_126
+2n5sA_A_GLY_39	<-->	2n2aB_B_ARG_104
+2n5sA_A_ILE_43	<-->	2n2aB_B_SER_113
+2n5sA_A_ILE_43	<-->	2n2aB_B_VAL_116
+2n5sA_A_LEU_66	<-->	2n2aB_B_LYS_133

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6nsqA_A_MET_517	<-->	4zdrA_A_THR_229
+6nsqA_A_ASP_479	<-->	4zdrA_A_THR_229
+6nsqA_A_GLN_530	<-->	4zdrA_A_SER_230
+6nsqA_A_TRP_531	<-->	4zdrA_A_THR_229
+6nsqA_A_TRP_450	<-->	4zdrA_A_TYR_178
+6nsqA_A_ARG_509	<-->	4zdrA_A_ASN_183
+6nsqA_A_HIS_477	<-->	4zdrA_A_LYS_193
+6nsqA_A_ASP_479	<-->	4zdrA_A_SER_230
+6nsqA_A_MET_517	<-->	4zdrA_A_GLU_186
+6nsqA_A_GLU_716	<-->	4zdrA_A_GLU_70
+6nsqA_A_ARG_719	<-->	4zdrA_A_LYS_68
+6nsqA_A_GLN_530	<-->	4zdrA_A_THR_229
+6nsqA_A_TRP_476	<-->	4zdrA_A_THR_229
+6nsqA_A_GLY_478	<-->	4zdrA_A_ARG_222
+6nsqA_A_TRP_450	<-->	4zdrA_A_GLU_186
+6nsqA_A_TRP_450	<-->	4zdrA_A_LYS_187
+6nsqA_A_TRP_531	<-->	4zdrA_A_SER_230
+6nsqA_A_HIS_477	<-->	4zdrA_A_ARG_222
+6nsqA_A_HIS_477	<-->	4zdrA_A_LEU_225
+6nsqA_A_HIS_477	<-->	4zdrA_A_THR_226
+6nsqA_A_TRP_450	<-->	4zdrA_A_SER_184
+6nsqA_A_VAL_480	<-->	4zdrA_A_THR_229

@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1n3hA_A_LEU_115	<-->	1yy9A_A_ASN_12
+1n3hA_A_ARG_99	<-->	1yy9A_A_LYS_13
+1n3hA_A_ASN_114	<-->	1yy9A_A_LEU_17
+1n3hA_A_ARG_112	<-->	1yy9A_A_TYR_45
+1n3hA_A_LEU_115	<-->	1yy9A_A_LEU_17
+1n3hA_A_ARG_98	<-->	1yy9A_A_LYS_13
+1n3hA_A_SER_113	<-->	1yy9A_A_THR_15
+1n3hA_A_ASN_114	<-->	1yy9A_A_GLY_18
+1n3hA_A_ALA_88	<-->	1yy9A_A_THR_15
+1n3hA_A_ARG_112	<-->	1yy9A_A_GLN_16
+1n3hA_A_SER_113	<-->	1yy9A_A_GLN_16
+1n3hA_A_ARG_99	<-->	1yy9A_A_TYR_89
+1n3hA_A_ARG_99	<-->	1yy9A_A_ASN_91
+1n3hA_A_ARG_99	<-->	1yy9A_A_GLU_90
+1n3hA_A_PRO_101	<-->	1yy9A_A_LEU_14
+1n3hA_A_ARG_112	<-->	1yy9A_A_THR_19
+1n3hA_A_ARG_112	<-->	1yy9A_A_HIS_23
+1n3hA_A_ARG_112	<-->	1yy9A_A_GLY_18
+1n3hA_A_LEU_115	<-->	1yy9A_A_THR_15
+1n3hA_A_ARG_112	<-->	1yy9A_A_PHE_20

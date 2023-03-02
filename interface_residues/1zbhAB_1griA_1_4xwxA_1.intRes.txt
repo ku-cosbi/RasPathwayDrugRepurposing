@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1griA_A_GLN_144	<-->	4xwxA_A_ARG_112
+1griA_A_SER_137	<-->	4xwxA_A_LEU_84
+1griA_A_TYR_134	<-->	4xwxA_A_LEU_115
+1griA_A_GLN_145	<-->	4xwxA_A_SER_103
+1griA_A_SER_137	<-->	4xwxA_A_ALA_88
+1griA_A_THR_138	<-->	4xwxA_A_ALA_88
+1griA_A_PHE_147	<-->	4xwxA_A_ARG_104
+1griA_A_ASP_133	<-->	4xwxA_A_GLU_87
+1griA_A_TYR_134	<-->	4xwxA_A_ALA_88
+1griA_A_ARG_149	<-->	4xwxA_A_SER_103
+1griA_A_GLN_145	<-->	4xwxA_A_ARG_104
+1griA_A_ARG_136	<-->	4xwxA_A_GLU_87
+1griA_A_THR_138	<-->	4xwxA_A_LEU_115
+1griA_A_TYR_134	<-->	4xwxA_A_GLU_87

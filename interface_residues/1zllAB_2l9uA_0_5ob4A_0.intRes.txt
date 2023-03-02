@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l9uA_A_VAL_648	<-->	5ob4A_A_LEU_23
+2l9uA_A_MET_644	<-->	5ob4A_A_ILE_21
+2l9uA_A_MET_644	<-->	5ob4A_A_GLY_20
+2l9uA_A_ILE_655	<-->	5ob4A_A_LEU_27
+2l9uA_A_MET_658	<-->	5ob4A_A_ILE_35
+2l9uA_A_MET_644	<-->	5ob4A_A_SER_16
+2l9uA_A_MET_644	<-->	5ob4A_A_ALA_17
+2l9uA_A_TYR_665	<-->	5ob4A_A_GLN_40
+2l9uA_A_MET_658	<-->	5ob4A_A_PHE_31
+2l9uA_A_THR_662	<-->	5ob4A_A_ARG_38
+2l9uA_A_VAL_654	<-->	5ob4A_A_PHE_31
+2l9uA_A_GLY_638	<-->	5ob4A_A_PRO_3
+2l9uA_A_GLY_651	<-->	5ob4A_A_LEU_27
+2l9uA_A_THR_647	<-->	5ob4A_A_VAL_24
+2l9uA_A_MET_637	<-->	5ob4A_A_ALA_4
+2l9uA_A_ILE_655	<-->	5ob4A_A_PHE_31

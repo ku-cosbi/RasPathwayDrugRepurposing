@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_PHE_71	<-->	1nqlA_A_CYS_313
+1shcA_A_PHE_71	<-->	1nqlA_A_VAL_312
+1shcA_A_PHE_71	<-->	1nqlA_A_ASN_314
+1shcA_A_TRP_38	<-->	1nqlA_A_GLN_411
+1shcA_A_TRP_38	<-->	1nqlA_A_GLY_410
+1shcA_A_ALA_68	<-->	1nqlA_A_GLY_319
+1shcA_A_ARG_207	<-->	1nqlA_A_PHE_357
+1shcA_A_LEU_69	<-->	1nqlA_A_ASN_314
+1shcA_A_PHE_71	<-->	1nqlA_A_ILE_318
+1shcA_A_LEU_69	<-->	1nqlA_A_ILE_318
+1shcA_A_LEU_69	<-->	1nqlA_A_GLY_319
+1shcA_A_PRO_158	<-->	1nqlA_A_ARG_405
+1shcA_A_PHE_71	<-->	1nqlA_A_SER_342

@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ASN_73	<-->	1milA_A_GLN_97
+5cusB_B_LEU_48	<-->	1milA_A_GLN_98
+5cusB_B_ASN_52	<-->	1milA_A_SER_48
+5cusB_B_TYR_104	<-->	1milA_A_HIS_84
+5cusB_B_LEU_102	<-->	1milA_A_HIS_84
+5cusB_B_LEU_48	<-->	1milA_A_LEU_25
+5cusB_B_ASN_52	<-->	1milA_A_ASN_26
+5cusB_B_GLY_50	<-->	1milA_A_ASN_26
+5cusB_B_ASN_105	<-->	1milA_A_MET_81
+5cusB_B_ASN_105	<-->	1milA_A_HIS_80
+5cusB_B_ASN_105	<-->	1milA_A_LEU_96
+5cusB_B_ASN_105	<-->	1milA_A_HIS_84
+5cusB_B_ASN_105	<-->	1milA_A_CYS_95
+5cusB_B_TYR_104	<-->	1milA_A_GLN_97
+5cusB_B_ASN_105	<-->	1milA_A_LEU_85
+5cusB_B_HIS_51	<-->	1milA_A_ASN_26
+5cusB_B_GLU_74	<-->	1milA_A_CYS_95
+5cusB_B_GLU_74	<-->	1milA_A_GLN_97
+5cusB_B_TYR_104	<-->	1milA_A_CYS_95
+5cusB_B_ASN_105	<-->	1milA_A_PRO_86

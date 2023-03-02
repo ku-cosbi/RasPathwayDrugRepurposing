@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_ALA_153	<-->	5cusB_B_ASN_105
+1shcA_A_GLN_204	<-->	5cusB_B_ASN_52
+1shcA_A_LEU_69	<-->	5cusB_B_MET_72
+1shcA_A_LEU_69	<-->	5cusB_B_LEU_102
+1shcA_A_ARG_67	<-->	5cusB_B_MET_72
+1shcA_A_LEU_206	<-->	5cusB_B_ALA_53
+1shcA_A_ARG_207	<-->	5cusB_B_ALA_53
+1shcA_A_PHE_71	<-->	5cusB_B_LEU_102
+1shcA_A_TYR_205	<-->	5cusB_B_ASN_52
+1shcA_A_SER_154	<-->	5cusB_B_ASN_105
+1shcA_A_ARG_207	<-->	5cusB_B_ASN_52
+1shcA_A_PHE_152	<-->	5cusB_B_ASN_105
+1shcA_A_LEU_206	<-->	5cusB_B_ASN_52
+1shcA_A_ALA_68	<-->	5cusB_B_MET_72
+1shcA_A_ARG_207	<-->	5cusB_B_ASP_54

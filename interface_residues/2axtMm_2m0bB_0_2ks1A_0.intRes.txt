@@ -1,0 +1,12 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2m0bB_B_THR_648	<-->	2ks1A_A_ILE_54
+2m0bB_B_SER_645	<-->	2ks1A_A_ILE_54
+2m0bB_B_THR_648	<-->	2ks1A_A_ALA_57
+2m0bB_B_SER_645	<-->	2ks1A_A_LEU_51
+2m0bB_B_SER_645	<-->	2ks1A_A_PRO_50
+2m0bB_B_VAL_651	<-->	2ks1A_A_VAL_58
+2m0bB_B_THR_648	<-->	2ks1A_A_SER_53
+2m0bB_B_LEU_655	<-->	2ks1A_A_ILE_61
+2m0bB_B_ALA_647	<-->	2ks1A_A_ILE_54

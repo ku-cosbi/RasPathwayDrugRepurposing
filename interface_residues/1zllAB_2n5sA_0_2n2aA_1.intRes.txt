@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n5sA_A_VAL_51	<-->	2n2aA_A_LEU_19
+2n5sA_A_LEU_55	<-->	2n2aA_A_VAL_22
+2n5sA_A_LEU_55	<-->	2n2aA_A_VAL_23
+2n5sA_A_LEU_55	<-->	2n2aA_A_VAL_26
+2n5sA_A_GLY_39	<-->	2n2aA_A_ARG_4
+2n5sA_A_LEU_58	<-->	2n2aA_A_VAL_23
+2n5sA_A_LEU_58	<-->	2n2aA_A_VAL_27
+2n5sA_A_LEU_58	<-->	2n2aA_A_VAL_26
+2n5sA_A_SER_40	<-->	2n2aA_A_ARG_4
+2n5sA_A_LEU_62	<-->	2n2aA_A_VAL_26
+2n5sA_A_ILE_43	<-->	2n2aA_A_ILE_12
+2n5sA_A_ILE_43	<-->	2n2aA_A_SER_13
+2n5sA_A_ILE_43	<-->	2n2aA_A_VAL_16
+2n5sA_A_ARG_69	<-->	2n2aA_A_LYS_33
+2n5sA_A_ARG_69	<-->	2n2aA_A_GLN_37
+2n5sA_A_ARG_69	<-->	2n2aA_A_ARG_34
+2n5sA_A_LEU_66	<-->	2n2aA_A_LYS_33
+2n5sA_A_ILE_73	<-->	2n2aA_A_GLN_37
+2n5sA_A_LEU_58	<-->	2n2aA_A_ILE_30
+2n5sA_A_LEU_54	<-->	2n2aA_A_VAL_23
+2n5sA_A_CYS_41	<-->	2n2aA_A_THR_9
+2n5sA_A_CYS_41	<-->	2n2aA_A_ARG_4
+2n5sA_A_LEU_62	<-->	2n2aA_A_ILE_30

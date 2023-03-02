@@ -1,0 +1,20 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6jwlA_A_PRO_699	<-->	1xd4A_A_ASP_285
+6jwlA_A_GLN_701	<-->	1xd4A_A_ASP_285
+6jwlA_A_PRO_1019	<-->	1xd4A_A_ARG_248
+6jwlA_A_GLN_1020	<-->	1xd4A_A_VAL_250
+6jwlA_A_ASN_700	<-->	1xd4A_A_LYS_724
+6jwlA_A_GLN_1020	<-->	1xd4A_A_ARG_248
+6jwlA_A_LYS_708	<-->	1xd4A_A_ASP_667
+6jwlA_A_ILE_706	<-->	1xd4A_A_GLN_668
+6jwlA_A_PRO_699	<-->	1xd4A_A_LYS_724
+6jwlA_A_ASN_700	<-->	1xd4A_A_GLU_289
+6jwlA_A_ARG_831	<-->	1xd4A_A_GLU_288
+6jwlA_A_ARG_831	<-->	1xd4A_A_GLU_289
+6jwlA_A_LEU_1017	<-->	1xd4A_A_ARG_248
+6jwlA_A_ALA_698	<-->	1xd4A_A_ASP_285
+6jwlA_A_ALA_698	<-->	1xd4A_A_GLU_284
+6jwlA_A_ASP_770	<-->	1xd4A_A_LEU_290
+6jwlA_A_PRO_1019	<-->	1xd4A_A_ASP_251

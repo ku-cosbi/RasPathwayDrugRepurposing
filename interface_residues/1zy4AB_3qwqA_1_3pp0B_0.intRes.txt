@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_GLU_21	<-->	3pp0B_B_LYS_765
+3qwqA_A_ASP_22	<-->	3pp0B_B_PRO_761
+3qwqA_A_ARG_29	<-->	3pp0B_B_GLU_757
+3qwqA_A_ASN_32	<-->	3pp0B_B_LEU_790
+3qwqA_A_ASN_32	<-->	3pp0B_B_THR_791
+3qwqA_A_ASN_32	<-->	3pp0B_B_SER_792
+3qwqA_A_MET_30	<-->	3pp0B_B_SER_792
+3qwqA_A_LYS_5	<-->	3pp0B_B_GLU_717
+3qwqA_A_ASN_33	<-->	3pp0B_B_GLU_717
+3qwqA_A_ARG_29	<-->	3pp0B_B_ASN_758
+3qwqA_A_SER_26	<-->	3pp0B_B_PRO_761
+3qwqA_A_ARG_29	<-->	3pp0B_B_THR_759
+3qwqA_A_LEU_25	<-->	3pp0B_B_PRO_761
+3qwqA_A_ARG_29	<-->	3pp0B_B_SER_792
+3qwqA_A_ASN_33	<-->	3pp0B_B_LEU_790
+3qwqA_A_LEU_25	<-->	3pp0B_B_LYS_765
+3qwqA_A_LEU_25	<-->	3pp0B_B_ASN_764
+3qwqA_A_LYS_5	<-->	3pp0B_B_THR_791
+3qwqA_A_LEU_25	<-->	3pp0B_B_LEU_768
+3qwqA_A_ASN_33	<-->	3pp0B_B_THR_791

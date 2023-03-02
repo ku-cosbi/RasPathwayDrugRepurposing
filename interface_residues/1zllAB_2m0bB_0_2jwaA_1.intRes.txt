@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2m0bB_B_LEU_655	<-->	2jwaA_A_LEU_67
+2m0bB_B_LEU_658	<-->	2jwaA_A_LEU_74
+2m0bB_B_MET_668	<-->	2jwaA_A_ARG_83
+2m0bB_B_ILE_664	<-->	2jwaA_A_ILE_82
+2m0bB_B_MET_668	<-->	2jwaA_A_LYS_84
+2m0bB_B_VAL_651	<-->	2jwaA_A_VAL_64
+2m0bB_B_LEU_658	<-->	2jwaA_A_LEU_67
+2m0bB_B_LEU_654	<-->	2jwaA_A_GLY_68
+2m0bB_B_LEU_658	<-->	2jwaA_A_PHE_71
+2m0bB_B_ILE_664	<-->	2jwaA_A_ARG_83
+2m0bB_B_LEU_657	<-->	2jwaA_A_PHE_71
+2m0bB_B_LEU_654	<-->	2jwaA_A_LEU_67
+2m0bB_B_LEU_654	<-->	2jwaA_A_VAL_64

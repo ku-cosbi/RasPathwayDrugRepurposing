@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_HIS_369	<-->	6nybA_A_GLU_451
+3omvA_A_TYR_340	<-->	6nybA_A_GLN_456
+3omvA_A_TYR_340	<-->	6nybA_A_ILE_452
+3omvA_A_TYR_340	<-->	6nybA_A_TRP_476
+3omvA_A_GLU_345	<-->	6nybA_A_PRO_453
+3omvA_A_TYR_341	<-->	6nybA_A_TRP_476
+3omvA_A_TYR_340	<-->	6nybA_A_SER_520
+3omvA_A_HIS_369	<-->	6nybA_A_TRP_450
+3omvA_A_TYR_340	<-->	6nybA_A_MET_517
+3omvA_A_TRP_342	<-->	6nybA_A_HIS_477
+3omvA_A_TYR_341	<-->	6nybA_A_GLN_456
+3omvA_A_TYR_340	<-->	6nybA_A_VAL_528
+3omvA_A_HIS_369	<-->	6nybA_A_ASP_449
+3omvA_A_TYR_340	<-->	6nybA_A_TYR_519
+3omvA_A_TYR_340	<-->	6nybA_A_GLY_518
+3omvA_A_ARG_398	<-->	6nybA_A_HIS_477

@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5vykC_C_GLY_1070	<-->	3omvA_A_GLN_388
+5vykC_C_GLN_1058	<-->	3omvA_A_TYR_340
+5vykC_C_GLN_1058	<-->	3omvA_A_TYR_341
+5vykC_C_PRO_1074	<-->	3omvA_A_GLN_388
+5vykC_C_TYR_1082	<-->	3omvA_A_THR_413
+5vykC_C_GLU_1071	<-->	3omvA_A_GLN_388
+5vykC_C_GLY_1070	<-->	3omvA_A_ARG_391
+5vykC_C_TYR_1082	<-->	3omvA_A_ARG_391
+5vykC_C_GLU_1059	<-->	3omvA_A_TYR_340
+5vykC_C_GLY_1069	<-->	3omvA_A_ALA_395
+5vykC_C_ILE_1061	<-->	3omvA_A_TYR_411
+5vykC_C_LEU_1065	<-->	3omvA_A_ARG_398
+5vykC_C_HIS_1072	<-->	3omvA_A_GLN_388
+5vykC_C_LEU_1089	<-->	3omvA_A_TYR_341
+5vykC_C_LYS_1055	<-->	3omvA_A_TYR_340
+5vykC_C_GLU_1062	<-->	3omvA_A_TRP_342
+5vykC_C_GLY_1070	<-->	3omvA_A_ASN_392
+5vykC_C_LEU_1065	<-->	3omvA_A_ARG_391
+5vykC_C_ILE_1061	<-->	3omvA_A_TYR_341

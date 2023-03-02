@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_LEU_25	<-->	2l1cA_A_PRO_90
+3qwqA_A_TYR_50	<-->	2l1cA_A_PRO_121
+3qwqA_A_TYR_50	<-->	2l1cA_A_ASP_137
+3qwqA_A_ARG_29	<-->	2l1cA_A_PRO_90
+3qwqA_A_ASP_51	<-->	2l1cA_A_ARG_55
+3qwqA_A_GLN_28	<-->	2l1cA_A_GLY_91
+3qwqA_A_GLN_28	<-->	2l1cA_A_PRO_90
+3qwqA_A_GLU_21	<-->	2l1cA_A_ASP_137
+3qwqA_A_LEU_25	<-->	2l1cA_A_ALA_118
+3qwqA_A_LEU_25	<-->	2l1cA_A_LYS_116
+3qwqA_A_GLU_21	<-->	2l1cA_A_MET_120
+3qwqA_A_GLN_28	<-->	2l1cA_A_GLY_119
+3qwqA_A_ASN_49	<-->	2l1cA_A_ARG_55

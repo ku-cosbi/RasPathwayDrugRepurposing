@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ksyA_A_TYR_47	<-->	4xwxA_A_GLN_188
+3ksyA_A_GLU_50	<-->	4xwxA_A_LEU_39
+3ksyA_A_GLU_49	<-->	4xwxA_A_GLY_185
+3ksyA_A_LYS_163	<-->	4xwxA_A_MET_0
+3ksyA_A_ASP_42	<-->	4xwxA_A_ALA_161
+3ksyA_A_ASP_42	<-->	4xwxA_A_GLN_188
+3ksyA_A_ASP_42	<-->	4xwxA_A_PRO_158
+3ksyA_A_MET_173	<-->	4xwxA_A_MET_0
+3ksyA_A_LYS_163	<-->	4xwxA_A_GLY_37
+3ksyA_A_LYS_159	<-->	4xwxA_A_ILE_191
+3ksyA_A_GLY_21	<-->	4xwxA_A_GLU_184
+3ksyA_A_VAL_48	<-->	4xwxA_A_SER_-1
+3ksyA_A_CYS_167	<-->	4xwxA_A_MET_0
+3ksyA_A_LEU_51	<-->	4xwxA_A_SER_-1
+3ksyA_A_GLN_46	<-->	4xwxA_A_GLN_188
+3ksyA_A_PHE_11	<-->	4xwxA_A_LEU_186
+3ksyA_A_GLN_46	<-->	4xwxA_A_GLY_185
+3ksyA_A_ASP_43	<-->	4xwxA_A_GLN_188
+3ksyA_A_ILE_162	<-->	4xwxA_A_SER_-1
+3ksyA_A_ARG_20	<-->	4xwxA_A_GLU_184
+3ksyA_A_ARG_20	<-->	4xwxA_A_GLY_185
+3ksyA_A_TYR_47	<-->	4xwxA_A_SER_-1
+3ksyA_A_MET_166	<-->	4xwxA_A_MET_0

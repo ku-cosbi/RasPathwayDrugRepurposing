@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1yy9A_A_PRO_130	<-->	1xd4B_B_ASN_522
+1yy9A_A_ASN_158	<-->	1xd4B_B_GLY_454
+1yy9A_A_ASN_158	<-->	1xd4B_B_VAL_453
+1yy9A_A_PHE_156	<-->	1xd4B_B_ALA_455
+1yy9A_A_PHE_156	<-->	1xd4B_B_GLY_454
+1yy9A_A_PHE_156	<-->	1xd4B_B_LYS_456
+1yy9A_A_THR_106	<-->	1xd4B_B_ASN_522
+1yy9A_A_GLN_157	<-->	1xd4B_B_GLU_492
+1yy9A_A_GLN_157	<-->	1xd4B_B_ARG_459
+1yy9A_A_GLN_157	<-->	1xd4B_B_ARG_452
+1yy9A_A_ASP_155	<-->	1xd4B_B_LYS_491
+1yy9A_A_ASP_155	<-->	1xd4B_B_GLU_492
+1yy9A_A_TYR_101	<-->	1xd4B_B_ASN_522
+1yy9A_A_SER_150	<-->	1xd4B_B_LEU_480
+1yy9A_A_ASP_155	<-->	1xd4B_B_ARG_459
+1yy9A_A_GLN_157	<-->	1xd4B_B_GLY_454
+1yy9A_A_GLN_157	<-->	1xd4B_B_ALA_455
+1yy9A_A_ARG_125	<-->	1xd4B_B_GLU_433
+1yy9A_A_LYS_105	<-->	1xd4B_B_ASN_522
+1yy9A_A_HIS_159	<-->	1xd4B_B_ASN_522
+1yy9A_A_HIS_159	<-->	1xd4B_B_SER_523
+1yy9A_A_ASP_102	<-->	1xd4B_B_ASN_522
+1yy9A_A_ALA_103	<-->	1xd4B_B_ASP_520
+1yy9A_A_LEU_160	<-->	1xd4B_B_ASN_522

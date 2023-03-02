@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1oy2A_A_ILE_142	<-->	6jwlA_A_ILE_1018
+1oy2A_A_ALA_135	<-->	6jwlA_A_ILE_1018
+1oy2A_A_MET_120	<-->	6jwlA_A_ILE_1018
+1oy2A_A_MET_120	<-->	6jwlA_A_PRO_1019
+1oy2A_A_ILE_122	<-->	6jwlA_A_ILE_1018
+1oy2A_A_CYS_138	<-->	6jwlA_A_LEU_1017
+1oy2A_A_CYS_138	<-->	6jwlA_A_TYR_1016
+1oy2A_A_GLN_140	<-->	6jwlA_A_ILE_1018
+1oy2A_A_CYS_138	<-->	6jwlA_A_GLN_1020
+1oy2A_A_LYS_139	<-->	6jwlA_A_ASP_770
+1oy2A_A_GLN_140	<-->	6jwlA_A_TYR_1016
+1oy2A_A_GLN_140	<-->	6jwlA_A_LEU_1017
+1oy2A_A_CYS_138	<-->	6jwlA_A_PRO_1019
+1oy2A_A_CYS_138	<-->	6jwlA_A_ILE_1018

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_ILE_724	<-->	3w8qA_A_LEU_235
+6q0kA_A_LEU_716	<-->	3w8qA_A_VAL_117
+6q0kA_A_SER_679	<-->	3w8qA_A_GLU_41
+6q0kA_A_SER_679	<-->	3w8qA_A_LEU_40
+6q0kA_A_GLN_709	<-->	3w8qA_A_GLN_58
+6q0kA_A_LYS_687	<-->	3w8qA_A_TYR_179
+6q0kA_A_LEU_678	<-->	3w8qA_A_GLU_41
+6q0kA_A_SER_720	<-->	3w8qA_A_HIS_184
+6q0kA_A_ALA_728	<-->	3w8qA_A_ARG_227
+6q0kA_A_ARG_726	<-->	3w8qA_A_SER_228
+6q0kA_A_ARG_726	<-->	3w8qA_A_ARG_227
+6q0kA_A_PRO_686	<-->	3w8qA_A_LYS_183
+6q0kA_A_PRO_686	<-->	3w8qA_A_GLU_182
+6q0kA_A_LYS_723	<-->	3w8qA_A_LEU_235
+6q0kA_A_SER_720	<-->	3w8qA_A_VAL_117
+6q0kA_A_GLU_703	<-->	3w8qA_A_GLU_51
+6q0kA_A_HIS_725	<-->	3w8qA_A_LEU_235
+6q0kA_A_SER_720	<-->	3w8qA_A_LEU_118
+6q0kA_A_ARG_719	<-->	3w8qA_A_VAL_117
+6q0kA_A_LYS_687	<-->	3w8qA_A_GLU_182
+6q0kA_A_LYS_687	<-->	3w8qA_A_LYS_183
+6q0kA_A_SER_727	<-->	3w8qA_A_ARG_227
+6q0kA_A_ALA_688	<-->	3w8qA_A_LYS_183
+6q0kA_A_ARG_691	<-->	3w8qA_A_ASN_122

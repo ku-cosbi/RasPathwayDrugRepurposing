@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4uipA_A_THR_548	<-->	1milA_A_PHE_70
+4uipA_A_ASN_544	<-->	1milA_A_TYR_79
+4uipA_A_ASN_544	<-->	1milA_A_SER_78
+4uipA_A_ILE_556	<-->	1milA_A_TYR_79
+4uipA_A_ASN_544	<-->	1milA_A_HIS_75
+4uipA_A_GLN_541	<-->	1milA_A_TYR_79
+4uipA_A_THR_548	<-->	1milA_A_ARG_69
+4uipA_A_ASP_553	<-->	1milA_A_ARG_69
+4uipA_A_ILE_545	<-->	1milA_A_HIS_75
+4uipA_A_ILE_545	<-->	1milA_A_GLU_71
+4uipA_A_GLN_557	<-->	1milA_A_TYR_79
+4uipA_A_ASN_554	<-->	1milA_A_ARG_69
+4uipA_A_ILE_562	<-->	1milA_A_HIS_68
+4uipA_A_ILE_556	<-->	1milA_A_HIS_75
+4uipA_A_MET_543	<-->	1milA_A_ASP_82

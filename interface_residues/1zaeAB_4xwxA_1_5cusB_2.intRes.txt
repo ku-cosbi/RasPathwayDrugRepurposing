@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4xwxA_A_ASN_72	<-->	5cusB_B_MET_72
+4xwxA_A_PHE_71	<-->	5cusB_B_LEU_48
+4xwxA_A_PHE_71	<-->	5cusB_B_THR_49
+4xwxA_A_THR_75	<-->	5cusB_B_TYR_104
+4xwxA_A_ARG_74	<-->	5cusB_B_LEU_48
+4xwxA_A_ASN_72	<-->	5cusB_B_LEU_102
+4xwxA_A_ASP_70	<-->	5cusB_B_MET_72
+4xwxA_A_PHE_71	<-->	5cusB_B_GLY_50
+4xwxA_A_PHE_71	<-->	5cusB_B_GLU_74
+4xwxA_A_ASP_70	<-->	5cusB_B_VAL_47
+4xwxA_A_LEU_69	<-->	5cusB_B_LEU_48
+4xwxA_A_THR_75	<-->	5cusB_B_ASN_105
+4xwxA_A_SER_154	<-->	5cusB_B_ASN_105
+4xwxA_A_PHE_152	<-->	5cusB_B_ASN_105
+4xwxA_A_ASP_70	<-->	5cusB_B_LEU_48

@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1shcA_A_PRO_34	<-->	4p9zA_A_VAL_161
+1shcA_A_PRO_34	<-->	4p9zA_A_GLN_162
+1shcA_A_THR_35	<-->	4p9zA_A_TYR_160
+1shcA_A_THR_35	<-->	4p9zA_A_VAL_161
+1shcA_A_GLN_196	<-->	4p9zA_A_PRO_158
+1shcA_A_ASP_157	<-->	4p9zA_A_ASP_150
+1shcA_A_PHE_71	<-->	4p9zA_A_HIS_79
+1shcA_A_MET_46	<-->	4p9zA_A_TYR_160
+1shcA_A_GLN_188	<-->	4p9zA_A_PRO_59
+1shcA_A_ASP_189	<-->	4p9zA_A_MET_55
+1shcA_A_GLN_188	<-->	4p9zA_A_LYS_56
+1shcA_A_ASP_157	<-->	4p9zA_A_ARG_136
+1shcA_A_TRP_38	<-->	4p9zA_A_GLN_156
+1shcA_A_SER_192	<-->	4p9zA_A_LYS_56
+1shcA_A_LEU_39	<-->	4p9zA_A_PRO_57
+1shcA_A_LEU_39	<-->	4p9zA_A_LYS_56
+1shcA_A_LEU_39	<-->	4p9zA_A_MET_55
+1shcA_A_ASP_189	<-->	4p9zA_A_LYS_56
+1shcA_A_ASN_42	<-->	4p9zA_A_PRO_158
+1shcA_A_MET_46	<-->	4p9zA_A_THR_159
+1shcA_A_MET_46	<-->	4p9zA_A_PRO_158
+1shcA_A_VAL_45	<-->	4p9zA_A_PRO_158
+1shcA_A_ARG_36	<-->	4p9zA_A_THR_159

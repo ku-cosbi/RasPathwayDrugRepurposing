@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7aeiA_A_GLY_930	<-->	3n85A_A_ARG_514
+7aeiA_A_ASP_954	<-->	3n85A_A_PRO_501
+7aeiA_A_MET_952	<-->	3n85A_A_THR_504
+7aeiA_A_LYS_960	<-->	3n85A_A_SER_396
+7aeiA_A_GLU_931	<-->	3n85A_A_LEU_528
+7aeiA_A_LYS_929	<-->	3n85A_A_GLU_520
+7aeiA_A_HIS_888	<-->	3n85A_A_GLU_485
+7aeiA_A_GLY_930	<-->	3n85A_A_VAL_519
+7aeiA_A_GLU_931	<-->	3n85A_A_ARG_523
+7aeiA_A_ARG_932	<-->	3n85A_A_LEU_528
+7aeiA_A_ARG_932	<-->	3n85A_A_GLU_517
+7aeiA_A_GLU_931	<-->	3n85A_A_ARG_514
+7aeiA_A_TYR_1016	<-->	3n85A_A_GLU_373
+7aeiA_A_LYS_929	<-->	3n85A_A_VAL_519
+7aeiA_A_ILE_953	<-->	3n85A_A_PRO_503

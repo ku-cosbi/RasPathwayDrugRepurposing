@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7aeiA_A_GLU_928	<-->	6ogeA_A_PRO_525
+7aeiA_A_HIS_888	<-->	6ogeA_A_GLY_508
+7aeiA_A_GLU_928	<-->	6ogeA_A_VAL_541
+7aeiA_A_GLU_868	<-->	6ogeA_A_GLU_507
+7aeiA_A_GLU_868	<-->	6ogeA_A_GLY_506
+7aeiA_A_ILE_890	<-->	6ogeA_A_GLY_508
+7aeiA_A_ILE_890	<-->	6ogeA_A_LEU_509
+7aeiA_A_GLU_931	<-->	6ogeA_A_ARG_545
+7aeiA_A_ILE_890	<-->	6ogeA_A_GLU_507
+7aeiA_A_LYS_929	<-->	6ogeA_A_ARG_536
+7aeiA_A_SER_925	<-->	6ogeA_A_GLU_542
+7aeiA_A_LEU_887	<-->	6ogeA_A_GLN_513
+7aeiA_A_LEU_887	<-->	6ogeA_A_HIS_512
+7aeiA_A_HIS_888	<-->	6ogeA_A_CYS_511
+7aeiA_A_LYS_929	<-->	6ogeA_A_VAL_541
+7aeiA_A_LYS_929	<-->	6ogeA_A_GLU_543
+7aeiA_A_LYS_929	<-->	6ogeA_A_GLU_542
+7aeiA_A_LYS_929	<-->	6ogeA_A_GLN_548
+7aeiA_A_GLU_928	<-->	6ogeA_A_HIS_512
+7aeiA_A_GLU_928	<-->	6ogeA_A_LEU_514
+7aeiA_A_GLU_884	<-->	6ogeA_A_LEU_509
+7aeiA_A_ILE_953	<-->	6ogeA_A_GLY_524
+7aeiA_A_ILE_953	<-->	6ogeA_A_PRO_525

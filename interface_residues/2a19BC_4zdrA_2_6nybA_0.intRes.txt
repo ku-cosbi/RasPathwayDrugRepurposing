@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_GLU_186	<-->	6nybA_A_ARG_506
+4zdrA_A_GLU_186	<-->	6nybA_A_LEU_505
+4zdrA_A_LYS_193	<-->	6nybA_A_HIS_477
+4zdrA_A_PHE_196	<-->	6nybA_A_HIS_477
+4zdrA_A_THR_194	<-->	6nybA_A_HIS_477
+4zdrA_A_GLU_186	<-->	6nybA_A_LEU_515
+4zdrA_A_LEU_182	<-->	6nybA_A_LYS_507
+4zdrA_A_LYS_187	<-->	6nybA_A_ARG_506
+4zdrA_A_GLN_146	<-->	6nybA_A_TRP_450
+4zdrA_A_THR_194	<-->	6nybA_A_GLN_456
+4zdrA_A_GLU_186	<-->	6nybA_A_PHE_516
+4zdrA_A_ASP_197	<-->	6nybA_A_HIS_477
+4zdrA_A_GLU_186	<-->	6nybA_A_THR_508
+4zdrA_A_LEU_225	<-->	6nybA_A_HIS_477
+4zdrA_A_ASN_183	<-->	6nybA_A_LYS_507
+4zdrA_A_SER_184	<-->	6nybA_A_LYS_507
+4zdrA_A_THR_194	<-->	6nybA_A_TRP_476
+4zdrA_A_SER_184	<-->	6nybA_A_ARG_506
+4zdrA_A_PRO_185	<-->	6nybA_A_ARG_509
+4zdrA_A_SER_190	<-->	6nybA_A_MET_517

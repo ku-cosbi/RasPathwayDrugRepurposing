@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n2aB_B_ILE_112	<-->	2m0bB_B_THR_648
+2n2aB_B_LEU_119	<-->	2m0bB_B_THR_648
+2n2aB_B_LEU_108	<-->	2m0bB_B_SER_645
+2n2aB_B_LEU_108	<-->	2m0bB_B_PRO_644
+2n2aB_B_VAL_123	<-->	2m0bB_B_LEU_656
+2n2aB_B_ARG_140	<-->	2m0bB_B_ILE_673
+2n2aB_B_LEU_119	<-->	2m0bB_B_GLY_652
+2n2aB_B_LEU_119	<-->	2m0bB_B_LEU_656
+2n2aB_B_ARG_145	<-->	2m0bB_B_ILE_673
+2n2aB_B_VAL_116	<-->	2m0bB_B_THR_648
+2n2aB_B_ILE_112	<-->	2m0bB_B_SER_645
+2n2aB_B_ARG_134	<-->	2m0bB_B_HIS_672
+2n2aB_B_VAL_126	<-->	2m0bB_B_VAL_660
+2n2aB_B_LYS_138	<-->	2m0bB_B_HIS_672
+2n2aB_B_VAL_115	<-->	2m0bB_B_GLY_649
+2n2aB_B_VAL_115	<-->	2m0bB_B_THR_648
+2n2aB_B_LEU_119	<-->	2m0bB_B_ALA_653
+2n2aB_B_ARG_140	<-->	2m0bB_B_HIS_672
+2n2aB_B_ARG_134	<-->	2m0bB_B_PHE_667
+2n2aB_B_ILE_130	<-->	2m0bB_B_PHE_667
+2n2aB_B_VAL_122	<-->	2m0bB_B_LEU_656

@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1n3hA_A_SER_107	<-->	3njpA_A_TYR_101
+1n3hA_A_SER_108	<-->	3njpA_A_ASP_102
+1n3hA_A_ARG_99	<-->	3njpA_A_LEU_325
+1n3hA_A_ARG_112	<-->	3njpA_A_TYR_45
+1n3hA_A_ARG_112	<-->	3njpA_A_GLN_47
+1n3hA_A_SER_103	<-->	3njpA_A_LEU_14
+1n3hA_A_ARG_112	<-->	3njpA_A_PHE_20
+1n3hA_A_ARG_97	<-->	3njpA_A_ASP_355
+1n3hA_A_ARG_98	<-->	3njpA_A_ASP_355
+1n3hA_A_SER_65	<-->	3njpA_A_ALA_103
+1n3hA_A_ARG_97	<-->	3njpA_A_SER_356
+1n3hA_A_LEU_63	<-->	3njpA_A_ALA_103
+1n3hA_A_ARG_104	<-->	3njpA_A_ASN_128
+1n3hA_A_ARG_104	<-->	3njpA_A_SER_99
+1n3hA_A_SER_108	<-->	3njpA_A_LYS_105
+1n3hA_A_ARG_112	<-->	3njpA_A_GLN_16
+1n3hA_A_PRO_101	<-->	3njpA_A_LEU_14
+1n3hA_A_ARG_98	<-->	3njpA_A_PHE_357
+1n3hA_A_CYS_102	<-->	3njpA_A_LEU_14
+1n3hA_A_SER_108	<-->	3njpA_A_TYR_101

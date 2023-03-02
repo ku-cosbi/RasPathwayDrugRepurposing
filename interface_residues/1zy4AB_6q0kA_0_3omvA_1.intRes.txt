@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6q0kA_A_ASP_449	<-->	3omvA_A_PHE_408
+6q0kA_A_ARG_506	<-->	3omvA_A_GLU_343
+6q0kA_A_GLU_451	<-->	3omvA_A_ARG_398
+6q0kA_A_ASP_449	<-->	3omvA_A_ARG_398
+6q0kA_A_ASP_449	<-->	3omvA_A_VAL_394
+6q0kA_A_ASP_449	<-->	3omvA_A_GLY_410
+6q0kA_A_ASP_449	<-->	3omvA_A_TYR_411
+6q0kA_A_ARG_506	<-->	3omvA_A_THR_413
+6q0kA_A_TRP_450	<-->	3omvA_A_TYR_341
+6q0kA_A_TRP_450	<-->	3omvA_A_ARG_398
+6q0kA_A_ASP_449	<-->	3omvA_A_TRP_342
+6q0kA_A_GLY_503	<-->	3omvA_A_THR_413
+6q0kA_A_TRP_450	<-->	3omvA_A_TYR_411
+6q0kA_A_MET_517	<-->	3omvA_A_TYR_341

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n84A_A_VAL_122	<-->	3qwqA_A_LYS_5
+3n84A_A_ASN_143	<-->	3qwqA_A_CYS_224
+3n84A_A_ASN_143	<-->	3qwqA_A_LEU_225
+3n84A_A_GLN_144	<-->	3qwqA_A_THR_217
+3n84A_A_ARG_142	<-->	3qwqA_A_GLU_3
+3n84A_A_ARG_142	<-->	3qwqA_A_GLU_2
+3n84A_A_ARG_142	<-->	3qwqA_A_LYS_4
+3n84A_A_LEU_111	<-->	3qwqA_A_ASN_79
+3n84A_A_PHE_101	<-->	3qwqA_A_THR_217
+3n84A_A_VAL_122	<-->	3qwqA_A_GLU_35
+3n84A_A_TRP_121	<-->	3qwqA_A_GLN_59
+3n84A_A_VAL_122	<-->	3qwqA_A_ASN_33
+3n84A_A_TRP_121	<-->	3qwqA_A_THR_57
+3n84A_A_LYS_109	<-->	3qwqA_A_GLU_181
+3n84A_A_PHE_119	<-->	3qwqA_A_THR_57
+3n84A_A_GLN_144	<-->	3qwqA_A_CYS_224
+3n84A_A_GLN_144	<-->	3qwqA_A_ASP_223
+3n84A_A_GLN_144	<-->	3qwqA_A_SER_222
+3n84A_A_GLN_145	<-->	3qwqA_A_ALA_234
+3n84A_A_PHE_101	<-->	3qwqA_A_ASP_223
+3n84A_A_GLN_145	<-->	3qwqA_A_GLU_2
+3n84A_A_SER_141	<-->	3qwqA_A_GLU_2

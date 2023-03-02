@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7aeiA_A_ASP_956	<-->	3n85A_A_ARG_195
+7aeiA_A_GLU_868	<-->	3n85A_A_THR_196
+7aeiA_A_ASP_956	<-->	3n85A_A_HIS_152
+7aeiA_A_GLU_865	<-->	3n85A_A_PRO_208
+7aeiA_A_LYS_960	<-->	3n85A_A_GLY_201
+7aeiA_A_LYS_960	<-->	3n85A_A_GLY_200
+7aeiA_A_LYS_867	<-->	3n85A_A_VAL_197
+7aeiA_A_LYS_867	<-->	3n85A_A_THR_196
+7aeiA_A_LYS_867	<-->	3n85A_A_ALA_199
+7aeiA_A_LYS_867	<-->	3n85A_A_CYS_198
+7aeiA_A_ALA_955	<-->	3n85A_A_ASN_154
+7aeiA_A_LYS_867	<-->	3n85A_A_PRO_208
+7aeiA_A_ALA_864	<-->	3n85A_A_PRO_208
+7aeiA_A_GLU_829	<-->	3n85A_A_GLY_200
+7aeiA_A_ILE_890	<-->	3n85A_A_LYS_148
+7aeiA_A_ASP_954	<-->	3n85A_A_ARG_195
+7aeiA_A_GLU_868	<-->	3n85A_A_LYS_148
+7aeiA_A_ILE_953	<-->	3n85A_A_ASN_155
+7aeiA_A_ILE_953	<-->	3n85A_A_ASN_154
+7aeiA_A_ASP_954	<-->	3n85A_A_HIS_152
+7aeiA_A_ASP_954	<-->	3n85A_A_LYS_153
+7aeiA_A_ASP_954	<-->	3n85A_A_ASN_154

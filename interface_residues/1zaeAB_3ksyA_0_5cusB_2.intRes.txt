@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ksyA_A_ASN_41	<-->	5cusB_B_ASP_134
+3ksyA_A_THR_158	<-->	5cusB_B_LEU_102
+3ksyA_A_THR_158	<-->	5cusB_B_TYR_104
+3ksyA_A_GLN_160	<-->	5cusB_B_MET_72
+3ksyA_A_THR_158	<-->	5cusB_B_MET_72
+3ksyA_A_ASP_43	<-->	5cusB_B_LYS_132
+3ksyA_A_ASP_43	<-->	5cusB_B_ASP_134
+3ksyA_A_GLU_156	<-->	5cusB_B_ASN_105
+3ksyA_A_GLU_156	<-->	5cusB_B_TYR_104
+3ksyA_A_GLU_39	<-->	5cusB_B_ASN_105
+3ksyA_A_SER_40	<-->	5cusB_B_ASN_105
+3ksyA_A_GLU_156	<-->	5cusB_B_GLU_74
+3ksyA_A_ASN_41	<-->	5cusB_B_ASN_105
+3ksyA_A_ASN_41	<-->	5cusB_B_TYR_104
+3ksyA_A_HIS_154	<-->	5cusB_B_THR_49
+3ksyA_A_HIS_154	<-->	5cusB_B_LEU_48
+3ksyA_A_GLU_156	<-->	5cusB_B_GLY_50
+3ksyA_A_GLN_160	<-->	5cusB_B_LEU_102
+3ksyA_A_GLN_160	<-->	5cusB_B_MET_101
+3ksyA_A_ILE_157	<-->	5cusB_B_TYR_104
+3ksyA_A_ILE_157	<-->	5cusB_B_ASN_105
+3ksyA_A_LYS_159	<-->	5cusB_B_LEU_102
+3ksyA_A_ASP_42	<-->	5cusB_B_ASP_134
+3ksyA_A_ASP_43	<-->	5cusB_B_LEU_102
