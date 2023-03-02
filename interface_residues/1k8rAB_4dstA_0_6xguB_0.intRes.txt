@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4dstA_A_ASP_38	<-->	6xguB_B_THR_68
+4dstA_A_TYR_40	<-->	6xguB_B_ARG_89
+4dstA_A_ASP_38	<-->	6xguB_B_ARG_67
+4dstA_A_ILE_36	<-->	6xguB_B_ASN_71
+4dstA_A_HIS_27	<-->	6xguB_B_THR_182
+4dstA_A_ASP_33	<-->	6xguB_B_LYS_84
+4dstA_A_TYR_40	<-->	6xguB_B_GLN_66
+4dstA_A_ARG_149	<-->	6xguB_B_THR_178
+4dstA_A_TYR_40	<-->	6xguB_B_LYS_65
+4dstA_A_GLN_25	<-->	6xguB_B_GLN_66
+4dstA_A_ASN_26	<-->	6xguB_B_THR_178
+4dstA_A_ASN_26	<-->	6xguB_B_SER_177
+4dstA_A_GLU_37	<-->	6xguB_B_THR_68
+4dstA_A_GLU_37	<-->	6xguB_B_VAL_69
+4dstA_A_ILE_36	<-->	6xguB_B_VAL_69
+4dstA_A_ARG_41	<-->	6xguB_B_LYS_65
+4dstA_A_GLN_25	<-->	6xguB_B_ARG_89
+4dstA_A_GLN_22	<-->	6xguB_B_THR_178
+4dstA_A_GLN_25	<-->	6xguB_B_THR_182
+4dstA_A_PHE_28	<-->	6xguB_B_THR_178
+4dstA_A_SER_39	<-->	6xguB_B_GLN_66
+4dstA_A_SER_39	<-->	6xguB_B_ARG_67
+4dstA_A_HIS_27	<-->	6xguB_B_THR_178

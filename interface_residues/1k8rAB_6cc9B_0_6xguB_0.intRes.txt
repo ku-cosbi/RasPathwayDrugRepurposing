@@ -1,0 +1,13 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6cc9B_B_ASP_33	<-->	6xguB_B_LYS_84
+6cc9B_B_GLU_37	<-->	6xguB_B_VAL_70
+6cc9B_B_SER_39	<-->	6xguB_B_ARG_67
+6cc9B_B_GLU_37	<-->	6xguB_B_THR_68
+6cc9B_B_GLU_37	<-->	6xguB_B_VAL_69
+6cc9B_B_ASP_38	<-->	6xguB_B_ARG_89
+6cc9B_B_MET_67	<-->	6xguB_B_THR_57
+6cc9B_B_MET_67	<-->	6xguB_B_SER_55
+6cc9B_B_ASN_26	<-->	6xguB_B_THR_178
+6cc9B_B_HIS_27	<-->	6xguB_B_THR_178

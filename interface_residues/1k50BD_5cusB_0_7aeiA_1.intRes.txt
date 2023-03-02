@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusB_B_ASP_473	<-->	7aeiA_A_ALA_871
+5cusB_B_ASP_473	<-->	7aeiA_A_GLU_872
+5cusB_B_HIS_467	<-->	7aeiA_A_THR_892
+5cusB_B_HIS_467	<-->	7aeiA_A_ILE_890
+5cusB_B_HIS_467	<-->	7aeiA_A_GLU_884
+5cusB_B_ARG_472	<-->	7aeiA_A_GLU_872
+5cusB_B_ARG_472	<-->	7aeiA_A_ALA_871
+5cusB_B_ARG_469	<-->	7aeiA_A_HIS_888
+5cusB_B_PRO_470	<-->	7aeiA_A_HIS_888
+5cusB_B_LYS_415	<-->	7aeiA_A_ASP_954
+5cusB_B_LYS_415	<-->	7aeiA_A_ILE_953
+5cusB_B_HIS_467	<-->	7aeiA_A_GLU_868
+5cusB_B_LEU_417	<-->	7aeiA_A_GLU_928
+5cusB_B_ASN_468	<-->	7aeiA_A_HIS_888
+5cusB_B_LEU_417	<-->	7aeiA_A_LEU_887
+5cusB_B_ARG_441	<-->	7aeiA_A_GLU_884
+5cusB_B_ARG_441	<-->	7aeiA_A_LEU_887
+5cusB_B_ARG_441	<-->	7aeiA_A_HIS_888
+5cusB_B_PRO_470	<-->	7aeiA_A_ALA_871
+5cusB_B_ASN_468	<-->	7aeiA_A_ILE_890
+5cusB_B_ASP_473	<-->	7aeiA_A_ARG_889
+5cusB_B_LYS_466	<-->	7aeiA_A_GLU_868

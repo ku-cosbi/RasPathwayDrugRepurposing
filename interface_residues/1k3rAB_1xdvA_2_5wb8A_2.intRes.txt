@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xdvA_A_LYS_393	<-->	5wb8A_A_PRO_387
+1xdvA_A_PRO_305	<-->	5wb8A_A_GLU_367
+1xdvA_A_PRO_305	<-->	5wb8A_A_GLN_366
+1xdvA_A_ASP_293	<-->	5wb8A_A_ARG_497
+1xdvA_A_LYS_393	<-->	5wb8A_A_PRO_365
+1xdvA_A_SER_392	<-->	5wb8A_A_ASN_389
+1xdvA_A_PRO_305	<-->	5wb8A_A_ASP_369
+1xdvA_A_LYS_393	<-->	5wb8A_A_GLN_366
+1xdvA_A_ASP_309	<-->	5wb8A_A_LYS_336
+1xdvA_A_ARG_300	<-->	5wb8A_A_ASP_369
+1xdvA_A_PRO_305	<-->	5wb8A_A_ILE_370
+1xdvA_A_LEU_395	<-->	5wb8A_A_ASP_364
+1xdvA_A_LEU_395	<-->	5wb8A_A_GLN_366
+1xdvA_A_LYS_389	<-->	5wb8A_A_ARG_390
+1xdvA_A_GLY_306	<-->	5wb8A_A_LYS_336
+1xdvA_A_ARG_300	<-->	5wb8A_A_HIS_394
+1xdvA_A_LEU_290	<-->	5wb8A_A_PRO_496
+1xdvA_A_SER_394	<-->	5wb8A_A_ASP_364
+1xdvA_A_ARG_310	<-->	5wb8A_A_LYS_336
+1xdvA_A_ARG_310	<-->	5wb8A_A_ASN_337
+1xdvA_A_ASN_382	<-->	5wb8A_A_ARG_497
+1xdvA_A_ASN_382	<-->	5wb8A_A_GLU_495
+1xdvA_A_ARG_304	<-->	5wb8A_A_ASP_369

@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4uipA_A_ILE_190	<-->	6j71A_A_VAL_219
+4uipA_A_PRO_204	<-->	6j71A_A_LEU_168
+4uipA_A_PRO_204	<-->	6j71A_A_ARG_203
+4uipA_A_LYS_202	<-->	6j71A_A_LEU_215
+4uipA_A_ILE_190	<-->	6j71A_A_PRO_230
+4uipA_A_ASP_206	<-->	6j71A_A_GLY_201
+4uipA_A_LYS_202	<-->	6j71A_A_VAL_219
+4uipA_A_ARG_200	<-->	6j71A_A_GLY_201
+4uipA_A_ARG_200	<-->	6j71A_A_SER_202
+4uipA_A_ARG_200	<-->	6j71A_A_LYS_200
+4uipA_A_ASN_172	<-->	6j71A_A_ASP_234
+4uipA_A_LEU_186	<-->	6j71A_A_PRO_230
+4uipA_A_GLY_201	<-->	6j71A_A_GLY_201
+4uipA_A_ASN_172	<-->	6j71A_A_LEU_231
+4uipA_A_LYS_185	<-->	6j71A_A_LYS_200
+4uipA_A_ASN_172	<-->	6j71A_A_THR_233
+4uipA_A_SER_203	<-->	6j71A_A_ARG_203
+4uipA_A_GLY_201	<-->	6j71A_A_LYS_200
+4uipA_A_SER_203	<-->	6j71A_A_LEU_168
+4uipA_A_GLN_139	<-->	6j71A_A_LEU_231

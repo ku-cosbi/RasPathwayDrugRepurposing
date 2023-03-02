@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4uipA_A_LYS_202	<-->	4xwxA_A_ILE_141
+4uipA_A_LYS_202	<-->	4xwxA_A_GLN_140
+4uipA_A_SER_205	<-->	4xwxA_A_VAL_172
+4uipA_A_GLN_193	<-->	4xwxA_A_PHE_117
+4uipA_A_ASN_172	<-->	4xwxA_A_LYS_139
+4uipA_A_PRO_204	<-->	4xwxA_A_ILE_142
+4uipA_A_LYS_202	<-->	4xwxA_A_LYS_139
+4uipA_A_PRO_204	<-->	4xwxA_A_ALA_143
+4uipA_A_PRO_204	<-->	4xwxA_A_VAL_172
+4uipA_A_SER_203	<-->	4xwxA_A_ILE_141
+4uipA_A_SER_203	<-->	4xwxA_A_ILE_142
+4uipA_A_SER_203	<-->	4xwxA_A_ALA_143
+4uipA_A_SER_203	<-->	4xwxA_A_ASN_144
+4uipA_A_ALA_192	<-->	4xwxA_A_ILE_142
+4uipA_A_CYS_191	<-->	4xwxA_A_GLN_140
+4uipA_A_ALA_192	<-->	4xwxA_A_GLN_140
+4uipA_A_GLN_194	<-->	4xwxA_A_VAL_172
+4uipA_A_ALA_192	<-->	4xwxA_A_PHE_117
+4uipA_A_GLN_193	<-->	4xwxA_A_LYS_116

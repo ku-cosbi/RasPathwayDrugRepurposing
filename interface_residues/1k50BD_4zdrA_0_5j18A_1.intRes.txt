@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4zdrA_A_ASP_96	<-->	5j18A_A_SER_151
+4zdrA_A_ASP_96	<-->	5j18A_A_GLN_153
+4zdrA_A_LEU_100	<-->	5j18A_A_PRO_152
+4zdrA_A_LEU_100	<-->	5j18A_A_SER_151
+4zdrA_A_ASP_92	<-->	5j18A_A_GLN_153
+4zdrA_A_ASN_95	<-->	5j18A_A_GLN_153
+4zdrA_A_GLU_31	<-->	5j18A_A_PRO_152
+4zdrA_A_SER_99	<-->	5j18A_A_LYS_154
+4zdrA_A_TYR_48	<-->	5j18A_A_SER_151
+4zdrA_A_SER_99	<-->	5j18A_A_GLN_153
+4zdrA_A_SER_99	<-->	5j18A_A_PRO_152
+4zdrA_A_VAL_97	<-->	5j18A_A_SER_151
+4zdrA_A_PHE_104	<-->	5j18A_A_PRO_152
+4zdrA_A_LYS_27	<-->	5j18A_A_SER_151
+4zdrA_A_LYS_27	<-->	5j18A_A_PRO_152

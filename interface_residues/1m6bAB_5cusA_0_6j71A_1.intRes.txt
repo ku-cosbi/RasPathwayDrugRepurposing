@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5cusA_A_GLY_173	<-->	6j71A_A_LYS_228
+5cusA_A_HIS_168	<-->	6j71A_A_LEU_253
+5cusA_A_LYS_172	<-->	6j71A_A_CYS_244
+5cusA_A_GLY_173	<-->	6j71A_A_THR_245
+5cusA_A_GLY_173	<-->	6j71A_A_CYS_244
+5cusA_A_GLU_169	<-->	6j71A_A_LEU_253
+5cusA_A_LYS_172	<-->	6j71A_A_LYS_228
+5cusA_A_PHE_225	<-->	6j71A_A_LYS_200
+5cusA_A_PRO_166	<-->	6j71A_A_THR_245
+5cusA_A_SER_217	<-->	6j71A_A_LYS_200
+5cusA_A_THR_187	<-->	6j71A_A_LYS_200
+5cusA_A_HIS_168	<-->	6j71A_A_ARG_98
+5cusA_A_LYS_172	<-->	6j71A_A_THR_216
+5cusA_A_GLN_119	<-->	6j71A_A_MET_198
+5cusA_A_GLU_169	<-->	6j71A_A_ARG_100
+5cusA_A_ASP_143	<-->	6j71A_A_PRO_230
+5cusA_A_LEU_186	<-->	6j71A_A_PRO_230
+5cusA_A_VAL_170	<-->	6j71A_A_SER_144
+5cusA_A_LYS_172	<-->	6j71A_A_SER_214
+5cusA_A_VAL_170	<-->	6j71A_A_ARG_100
+5cusA_A_VAL_170	<-->	6j71A_A_SER_214
+5cusA_A_CYS_167	<-->	6j71A_A_THR_245

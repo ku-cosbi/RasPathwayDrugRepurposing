@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5x2aB_B_LEU_718	<-->	5cusA_A_GLN_442
+5x2aB_B_LYS_716	<-->	5cusA_A_ASN_389
+5x2aB_B_LYS_716	<-->	5cusA_A_HIS_388
+5x2aB_B_GLU_804	<-->	5cusA_A_ASN_350
+5x2aB_B_VAL_717	<-->	5cusA_A_LYS_479
+5x2aB_B_ILE_715	<-->	5cusA_A_PRO_493
+5x2aB_B_PHE_795	<-->	5cusA_A_PRO_385
+5x2aB_B_LYS_716	<-->	5cusA_A_MET_387
+5x2aB_B_LYS_728	<-->	5cusA_A_HIS_388
+5x2aB_B_LYS_728	<-->	5cusA_A_HIS_386
+5x2aB_B_PRO_794	<-->	5cusA_A_PRO_385
+5x2aB_B_VAL_717	<-->	5cusA_A_THR_420
+5x2aB_B_LEU_718	<-->	5cusA_A_HIS_388
+5x2aB_B_VAL_717	<-->	5cusA_A_HIS_388
+5x2aB_B_VAL_717	<-->	5cusA_A_GLN_442
+5x2aB_B_PRO_794	<-->	5cusA_A_HIS_386
+5x2aB_B_GLY_719	<-->	5cusA_A_GLN_442
+5x2aB_B_LEU_718	<-->	5cusA_A_PRO_385
+5x2aB_B_HIS_805	<-->	5cusA_A_ASN_350
+5x2aB_B_ARG_986	<-->	5cusA_A_HIS_355

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1milA_A_HIS_84	<-->	3p11A_A_SER_426
+1milA_A_ILE_88	<-->	3p11A_A_SER_500
+1milA_A_ILE_88	<-->	3p11A_A_CYS_501
+1milA_A_HIS_84	<-->	3p11A_A_LYS_428
+1milA_A_GLN_97	<-->	3p11A_A_ARG_456
+1milA_A_MET_81	<-->	3p11A_A_LYS_428
+1milA_A_GLU_93	<-->	3p11A_A_SER_500
+1milA_A_PRO_86	<-->	3p11A_A_LEU_499
+1milA_A_ILE_88	<-->	3p11A_A_SER_486
+1milA_A_LEU_85	<-->	3p11A_A_SER_505
+1milA_A_GLY_1	<-->	3p11A_A_GLN_252
+1milA_A_GLY_1	<-->	3p11A_A_LEU_253
+1milA_A_HIS_68	<-->	3p11A_A_HIS_513
+1milA_A_ASP_67	<-->	3p11A_A_HIS_513
+1milA_A_LEU_85	<-->	3p11A_A_GLY_508
+1milA_A_PRO_86	<-->	3p11A_A_SER_500
+1milA_A_GLN_97	<-->	3p11A_A_LYS_428
+1milA_A_HIS_84	<-->	3p11A_A_THR_397
+1milA_A_SER_2	<-->	3p11A_A_LEU_253
+1milA_A_HIS_68	<-->	3p11A_A_TYR_504
+1milA_A_GLU_93	<-->	3p11A_A_LYS_453
+1milA_A_ASP_67	<-->	3p11A_A_TYR_504
+1milA_A_ASP_67	<-->	3p11A_A_ASN_503
+1milA_A_SER_2	<-->	3p11A_A_GLN_252

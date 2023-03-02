@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1milA_A_LYS_66	<-->	7aeiA_A_HIS_888
+1milA_A_GLY_91	<-->	7aeiA_A_HIS_888
+1milA_A_GLY_91	<-->	7aeiA_A_GLU_884
+1milA_A_LYS_52	<-->	7aeiA_A_GLU_928
+1milA_A_SER_92	<-->	7aeiA_A_GLU_928
+1milA_A_LYS_66	<-->	7aeiA_A_ILE_890
+1milA_A_LYS_66	<-->	7aeiA_A_GLU_884
+1milA_A_SER_92	<-->	7aeiA_A_LEU_887
+1milA_A_HIS_53	<-->	7aeiA_A_GLU_928
+1milA_A_HIS_53	<-->	7aeiA_A_LYS_929
+1milA_A_ALA_90	<-->	7aeiA_A_HIS_888
+1milA_A_ALA_90	<-->	7aeiA_A_GLU_884
+1milA_A_GLN_50	<-->	7aeiA_A_SER_925
+1milA_A_ALA_90	<-->	7aeiA_A_LEU_887
+1milA_A_GLY_91	<-->	7aeiA_A_LEU_887
+1milA_A_ALA_90	<-->	7aeiA_A_LEU_883

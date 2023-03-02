@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3w8qA_A_ASP_267	<-->	5j18A_A_VAL_168
+3w8qA_A_ALA_268	<-->	5j18A_A_GLY_219
+3w8qA_A_ALA_268	<-->	5j18A_A_GLU_221
+3w8qA_A_ALA_268	<-->	5j18A_A_ARG_158
+3w8qA_A_ASP_267	<-->	5j18A_A_ARG_158
+3w8qA_A_LEU_271	<-->	5j18A_A_GLY_219
+3w8qA_A_LEU_332	<-->	5j18A_A_SER_151
+3w8qA_A_ALA_268	<-->	5j18A_A_VAL_157
+3w8qA_A_ALA_268	<-->	5j18A_A_GLU_220
+3w8qA_A_ASP_267	<-->	5j18A_A_ARG_166
+3w8qA_A_LYS_324	<-->	5j18A_A_LYS_154
+3w8qA_A_LYS_324	<-->	5j18A_A_GLN_153
+3w8qA_A_LYS_269	<-->	5j18A_A_ARG_166
+3w8qA_A_GLN_335	<-->	5j18A_A_GLN_153
+3w8qA_A_LYS_269	<-->	5j18A_A_GLU_221

@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3njpA_A_TYR_101	<-->	1griA_A_GLN_170
+3njpA_A_TYR_101	<-->	1griA_A_GLU_171
+3njpA_A_HIS_159	<-->	1griA_A_ASN_208
+3njpA_A_GLN_157	<-->	1griA_A_TYR_209
+3njpA_A_GLN_157	<-->	1griA_A_ASN_208
+3njpA_A_ASN_158	<-->	1griA_A_ASN_208
+3njpA_A_GLN_157	<-->	1griA_A_PHE_165
+3njpA_A_HIS_159	<-->	1griA_A_ASN_192
+3njpA_A_LEU_160	<-->	1griA_A_ASN_192
+3njpA_A_HIS_159	<-->	1griA_A_TRP_193
+3njpA_A_LYS_105	<-->	1griA_A_TRP_193
+3njpA_A_LEU_160	<-->	1griA_A_TRP_193
+3njpA_A_LYS_105	<-->	1griA_A_GLU_174
+3njpA_A_HIS_159	<-->	1griA_A_ARG_207
+3njpA_A_LYS_105	<-->	1griA_A_GLN_170
+3njpA_A_HIS_159	<-->	1griA_A_PRO_206
