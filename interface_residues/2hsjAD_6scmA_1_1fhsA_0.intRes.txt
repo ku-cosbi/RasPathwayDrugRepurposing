@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6scmA_A_ASP_620	<-->	1fhsA_A_TRP_70
+6scmA_A_MET_617	<-->	1fhsA_A_LEU_60
+6scmA_A_TYR_618	<-->	1fhsA_A_PHE_68
+6scmA_A_ALA_619	<-->	1fhsA_A_TRP_70
+6scmA_A_ASN_622	<-->	1fhsA_A_VAL_71
+6scmA_A_PRO_621	<-->	1fhsA_A_VAL_71
+6scmA_A_TYR_618	<-->	1fhsA_A_TRP_70
+6scmA_A_TYR_618	<-->	1fhsA_A_LEU_60
+6scmA_A_ILE_601	<-->	1fhsA_A_LYS_73
+6scmA_A_ASP_620	<-->	1fhsA_A_VAL_71
+6scmA_A_PRO_599	<-->	1fhsA_A_ASN_75
+6scmA_A_PRO_599	<-->	1fhsA_A_PHE_74
+6scmA_A_PRO_599	<-->	1fhsA_A_LYS_73
+6scmA_A_PRO_621	<-->	1fhsA_A_TRP_70

@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3njpA_A_ASN_151	<-->	1oy2A_A_ALA_143
+3njpA_A_ASP_355	<-->	1oy2A_A_ARG_99
+3njpA_A_PHE_321	<-->	1oy2A_A_LEU_63
+3njpA_A_SER_324	<-->	1oy2A_A_ARG_112
+3njpA_A_HIS_359	<-->	1oy2A_A_PRO_101
+3njpA_A_LYS_333	<-->	1oy2A_A_SER_108
+3njpA_A_ASN_328	<-->	1oy2A_A_ARG_112
+3njpA_A_THR_330	<-->	1oy2A_A_GLY_111
+3njpA_A_HIS_334	<-->	1oy2A_A_LEU_63
+3njpA_A_GLN_193	<-->	1oy2A_A_GLY_17
+3njpA_A_SER_356	<-->	1oy2A_A_ARG_99
+3njpA_A_HIS_359	<-->	1oy2A_A_LYS_100
+3njpA_A_THR_360	<-->	1oy2A_A_ARG_99
+3njpA_A_ASN_91	<-->	1oy2A_A_PHE_117
+3njpA_A_ASN_91	<-->	1oy2A_A_LYS_116
+3njpA_A_ASP_323	<-->	1oy2A_A_ARG_112
+3njpA_A_GLU_320	<-->	1oy2A_A_LEU_63
+3njpA_A_HIS_359	<-->	1oy2A_A_ARG_99
+3njpA_A_HIS_359	<-->	1oy2A_A_GLU_87

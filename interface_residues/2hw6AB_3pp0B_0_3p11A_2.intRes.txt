@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_VAL_723	<-->	3p11A_A_HIS_355
+3pp0B_B_ASN_758	<-->	3p11A_A_GLY_408
+3pp0B_B_TYR_735	<-->	3p11A_A_GLN_322
+3pp0B_B_VAL_725	<-->	3p11A_A_ARG_320
+3pp0B_B_SER_728	<-->	3p11A_A_SER_319
+3pp0B_B_THR_733	<-->	3p11A_A_SER_319
+3pp0B_B_GLU_757	<-->	3p11A_A_TYR_405
+3pp0B_B_SER_728	<-->	3p11A_A_ARG_320
+3pp0B_B_ASN_758	<-->	3p11A_A_LEU_404
+3pp0B_B_ASN_758	<-->	3p11A_A_TYR_405
+3pp0B_B_GLY_729	<-->	3p11A_A_GLY_318
+3pp0B_B_LYS_722	<-->	3p11A_A_HIS_355
+3pp0B_B_GLU_757	<-->	3p11A_A_SER_317
+3pp0B_B_ARG_721	<-->	3p11A_A_HIS_355
+3pp0B_B_ASN_758	<-->	3p11A_A_ASN_406

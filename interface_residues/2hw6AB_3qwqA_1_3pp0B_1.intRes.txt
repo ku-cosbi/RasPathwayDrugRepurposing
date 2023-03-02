@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3qwqA_A_GLY_173	<-->	3pp0B_B_TYR_735
+3qwqA_A_CYS_170	<-->	3pp0B_B_LYS_722
+3qwqA_A_ILE_189	<-->	3pp0B_B_LYS_716
+3qwqA_A_ILE_190	<-->	3pp0B_B_THR_718
+3qwqA_A_ASN_172	<-->	3pp0B_B_GLN_795
+3qwqA_A_ASN_172	<-->	3pp0B_B_LYS_722
+3qwqA_A_ARG_141	<-->	3pp0B_B_SER_792
+3qwqA_A_ARG_141	<-->	3pp0B_B_LEU_790
+3qwqA_A_ARG_141	<-->	3pp0B_B_THR_791
+3qwqA_A_GLY_173	<-->	3pp0B_B_LYS_722
+3qwqA_A_PRO_168	<-->	3pp0B_B_LYS_722
+3qwqA_A_ASN_172	<-->	3pp0B_B_GLU_717
+3qwqA_A_GLN_139	<-->	3pp0B_B_GLN_795
+3qwqA_A_PRO_168	<-->	3pp0B_B_LYS_724
+3qwqA_A_ASN_172	<-->	3pp0B_B_LEU_720
+3qwqA_A_LYS_165	<-->	3pp0B_B_VAL_725
+3qwqA_A_PRO_168	<-->	3pp0B_B_VAL_723
+3qwqA_A_ILE_189	<-->	3pp0B_B_THR_718
+3qwqA_A_GLN_139	<-->	3pp0B_B_GLU_717
+3qwqA_A_ILE_189	<-->	3pp0B_B_GLU_717

@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4B_B_MET_1001	<-->	2ks1B_B_HIS_172
+1xd4B_B_ILE_816	<-->	2ks1B_B_LEU_157
+1xd4B_B_ARG_826	<-->	2ks1B_B_MET_168
+1xd4B_B_TYR_709	<-->	2ks1B_B_THR_148
+1xd4B_B_ASP_813	<-->	2ks1B_B_LEU_157
+1xd4B_B_MET_1001	<-->	2ks1B_B_VAL_174
+1xd4B_B_ARG_713	<-->	2ks1B_B_ILE_146
+1xd4B_B_ARG_706	<-->	2ks1B_B_LEU_156
+1xd4B_B_GLN_638	<-->	2ks1B_B_GLY_149
+1xd4B_B_GLU_815	<-->	2ks1B_B_ILE_164
+1xd4B_B_GLN_638	<-->	2ks1B_B_MET_150
+1xd4B_B_ILE_816	<-->	2ks1B_B_VAL_160
+1xd4B_B_ILE_816	<-->	2ks1B_B_ALA_161
+1xd4B_B_GLN_638	<-->	2ks1B_B_ILE_146
+1xd4B_B_ASN_999	<-->	2ks1B_B_HIS_172

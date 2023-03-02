@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5vykC_C_THR_165	<-->	7m0xB_B_THR_55
+5vykC_C_ASN_139	<-->	7m0xB_B_HIS_119
+5vykC_C_LEU_147	<-->	7m0xB_B_GLN_58
+5vykC_C_CYS_157	<-->	7m0xB_B_GLN_58
+5vykC_C_THR_165	<-->	7m0xB_B_ALA_52
+5vykC_C_ARG_168	<-->	7m0xB_B_LEU_54
+5vykC_C_VAL_143	<-->	7m0xB_B_GLN_58
+5vykC_C_ASN_139	<-->	7m0xB_B_LEU_54
+5vykC_C_LYS_144	<-->	7m0xB_B_GLN_58
+5vykC_C_THR_165	<-->	7m0xB_B_GLU_51
+5vykC_C_GLN_161	<-->	7m0xB_B_GLN_58
+5vykC_C_LYS_169	<-->	7m0xB_B_GLU_51
+5vykC_C_GLU_140	<-->	7m0xB_B_GLN_58
+5vykC_C_ALA_141	<-->	7m0xB_B_LYS_57
+5vykC_C_LYS_169	<-->	7m0xB_B_ARG_47
+5vykC_C_ALA_141	<-->	7m0xB_B_VAL_60
+5vykC_C_GLU_140	<-->	7m0xB_B_LYS_57
+5vykC_C_ARG_168	<-->	7m0xB_B_GLU_51
+5vykC_C_GLU_140	<-->	7m0xB_B_LEU_54

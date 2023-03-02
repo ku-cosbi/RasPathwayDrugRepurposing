@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6uanB_B_ARG_462	<-->	3w8qA_A_VAL_81
+6uanB_B_ARG_575	<-->	3w8qA_A_PHE_311
+6uanB_B_GLN_628	<-->	3w8qA_A_ASP_315
+6uanB_B_TYR_633	<-->	3w8qA_A_PHE_311
+6uanB_B_PRO_632	<-->	3w8qA_A_ASP_315
+6uanB_B_MET_627	<-->	3w8qA_A_ASP_315
+6uanB_B_MET_627	<-->	3w8qA_A_VAL_318
+6uanB_B_ALA_489	<-->	3w8qA_A_LYS_156
+6uanB_B_THR_599	<-->	3w8qA_A_ALA_309
+6uanB_B_GLY_466	<-->	3w8qA_A_ASN_78
+6uanB_B_ARG_575	<-->	3w8qA_A_ILE_310
+6uanB_B_ASN_631	<-->	3w8qA_A_GLU_312
+6uanB_B_SER_465	<-->	3w8qA_A_GLY_79
+6uanB_B_MET_627	<-->	3w8qA_A_ASN_319
+6uanB_B_GLN_496	<-->	3w8qA_A_PRO_307
+6uanB_B_SER_467	<-->	3w8qA_A_ASN_78
+6uanB_B_GLN_493	<-->	3w8qA_A_PRO_307
+6uanB_B_ARG_462	<-->	3w8qA_A_HIS_100
+6uanB_B_ASN_486	<-->	3w8qA_A_GLU_73
+6uanB_B_SER_465	<-->	3w8qA_A_GLY_80
+6uanB_B_SER_465	<-->	3w8qA_A_ASN_78

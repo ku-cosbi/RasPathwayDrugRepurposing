@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6scmA_A_THR_720	<-->	2ks1B_B_GLY_140
+6scmA_A_THR_720	<-->	2ks1B_B_PRO_141
+6scmA_A_ARG_713	<-->	2ks1B_B_ILE_146
+6scmA_A_ILE_816	<-->	2ks1B_B_VAL_160
+6scmA_A_ASP_707	<-->	2ks1B_B_LEU_156
+6scmA_A_ARG_713	<-->	2ks1B_B_THR_148
+6scmA_A_ARG_713	<-->	2ks1B_B_GLY_149
+6scmA_A_ILE_645	<-->	2ks1B_B_ILE_146
+6scmA_A_TYR_709	<-->	2ks1B_B_THR_148
+6scmA_A_GLN_638	<-->	2ks1B_B_GLY_149
+6scmA_A_LYS_814	<-->	2ks1B_B_ILE_164
+6scmA_A_ILE_816	<-->	2ks1B_B_LEU_156
+6scmA_A_LYS_814	<-->	2ks1B_B_PHE_167
+6scmA_A_LYS_814	<-->	2ks1B_B_MET_168
+6scmA_A_ARG_706	<-->	2ks1B_B_LEU_156
+6scmA_A_ARG_722	<-->	2ks1B_B_ASN_139
+6scmA_A_ARG_722	<-->	2ks1B_B_PRO_137
+6scmA_A_TYR_709	<-->	2ks1B_B_GLY_152
+6scmA_A_TYR_709	<-->	2ks1B_B_VAL_151
+6scmA_A_TYR_709	<-->	2ks1B_B_LEU_155
+6scmA_A_GLN_638	<-->	2ks1B_B_MET_150
+6scmA_A_GLN_638	<-->	2ks1B_B_ALA_153

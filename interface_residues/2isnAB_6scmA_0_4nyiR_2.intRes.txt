@@ -1,0 +1,16 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6scmA_A_GLU_942	<-->	4nyiR_R_LEU_133
+6scmA_A_VAL_947	<-->	4nyiR_R_ARG_128
+6scmA_A_PRO_945	<-->	4nyiR_R_GLN_129
+6scmA_A_GLU_942	<-->	4nyiR_R_SER_136
+6scmA_A_LEU_948	<-->	4nyiR_R_GLU_126
+6scmA_A_ASN_944	<-->	4nyiR_R_ASP_132
+6scmA_A_PRO_945	<-->	4nyiR_R_ASP_132
+6scmA_A_GLY_943	<-->	4nyiR_R_ASP_132
+6scmA_A_GLY_943	<-->	4nyiR_R_LEU_133
+6scmA_A_GLY_943	<-->	4nyiR_R_GLN_129
+6scmA_A_GLY_943	<-->	4nyiR_R_SER_136
+6scmA_A_GLU_946	<-->	4nyiR_R_ASP_132
+6scmA_A_LYS_949	<-->	4nyiR_R_GLU_126

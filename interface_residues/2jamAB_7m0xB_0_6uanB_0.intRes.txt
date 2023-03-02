@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7m0xB_B_ASN_221	<-->	6uanB_B_ILE_625
+7m0xB_B_LEU_235	<-->	6uanB_B_GLN_628
+7m0xB_B_PHE_311	<-->	6uanB_B_ASN_631
+7m0xB_B_PHE_311	<-->	6uanB_B_ARG_575
+7m0xB_B_GLY_237	<-->	6uanB_B_GLN_628
+7m0xB_B_PHE_311	<-->	6uanB_B_TYR_633
+7m0xB_B_PRO_307	<-->	6uanB_B_GLN_496
+7m0xB_B_PRO_307	<-->	6uanB_B_GLN_493
+7m0xB_B_PRO_307	<-->	6uanB_B_PRO_492
+7m0xB_B_THR_226	<-->	6uanB_B_GLN_493
+7m0xB_B_GLN_236	<-->	6uanB_B_GLN_628
+7m0xB_B_LYS_104	<-->	6uanB_B_TYR_656
+7m0xB_B_ALA_309	<-->	6uanB_B_GLN_493
+7m0xB_B_VAL_224	<-->	6uanB_B_LEU_597
+7m0xB_B_MET_308	<-->	6uanB_B_GLN_493
+7m0xB_B_LEU_235	<-->	6uanB_B_MET_627

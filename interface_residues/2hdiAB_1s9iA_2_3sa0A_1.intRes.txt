@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1s9iA_A_TYR_324	<-->	3sa0A_A_LEU_265
+1s9iA_A_LYS_273	<-->	3sa0A_A_PRO_274
+1s9iA_A_TYR_324	<-->	3sa0A_A_LEU_267
+1s9iA_A_TYR_324	<-->	3sa0A_A_SER_266
+1s9iA_A_ASP_271	<-->	3sa0A_A_VAL_273
+1s9iA_A_ASP_271	<-->	3sa0A_A_LYS_272
+1s9iA_A_ASP_271	<-->	3sa0A_A_ASN_271
+1s9iA_A_ILE_267	<-->	3sa0A_A_PRO_268
+1s9iA_A_PRO_269	<-->	3sa0A_A_HIS_269
+1s9iA_A_PRO_269	<-->	3sa0A_A_PRO_268
+1s9iA_A_GLU_328	<-->	3sa0A_A_SER_266
+1s9iA_A_TYR_324	<-->	3sa0A_A_PRO_268
+1s9iA_A_PRO_268	<-->	3sa0A_A_PRO_268
+1s9iA_A_PRO_268	<-->	3sa0A_A_HIS_269
+1s9iA_A_GLU_276	<-->	3sa0A_A_ARG_277
+1s9iA_A_GLU_328	<-->	3sa0A_A_PRO_268
+1s9iA_A_GLU_274	<-->	3sa0A_A_ASN_271
+1s9iA_A_GLU_328	<-->	3sa0A_A_LEU_267

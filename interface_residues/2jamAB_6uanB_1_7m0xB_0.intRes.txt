@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6uanB_B_PHE_468	<-->	7m0xB_B_PHE_223
+6uanB_B_GLY_466	<-->	7m0xB_B_PHE_223
+6uanB_B_SER_465	<-->	7m0xB_B_PHE_223
+6uanB_B_ARG_462	<-->	7m0xB_B_VAL_81
+6uanB_B_ARG_462	<-->	7m0xB_B_PHE_83
+6uanB_B_PRO_492	<-->	7m0xB_B_PRO_307
+6uanB_B_GLY_466	<-->	7m0xB_B_GLY_79
+6uanB_B_HIS_542	<-->	7m0xB_B_LYS_104
+6uanB_B_GLY_466	<-->	7m0xB_B_ASN_78
+6uanB_B_GLN_493	<-->	7m0xB_B_MET_308
+6uanB_B_SER_465	<-->	7m0xB_B_HIS_100
+6uanB_B_SER_467	<-->	7m0xB_B_ASN_78
+6uanB_B_GLY_464	<-->	7m0xB_B_HIS_100
+6uanB_B_TYR_538	<-->	7m0xB_B_GLU_102
+6uanB_B_ASN_486	<-->	7m0xB_B_GLU_73
+6uanB_B_ILE_463	<-->	7m0xB_B_HIS_100
+6uanB_B_SER_467	<-->	7m0xB_B_VAL_224
+6uanB_B_ARG_462	<-->	7m0xB_B_LEU_98
+6uanB_B_SER_467	<-->	7m0xB_B_PHE_223
+6uanB_B_ILE_543	<-->	7m0xB_B_ILE_103
+6uanB_B_ILE_543	<-->	7m0xB_B_PRO_105
+6uanB_B_ILE_543	<-->	7m0xB_B_LYS_104
+6uanB_B_SER_465	<-->	7m0xB_B_GLY_79

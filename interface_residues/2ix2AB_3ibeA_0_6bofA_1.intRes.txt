@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3ibeA_A_SER_777	<-->	6bofA_A_THR_148
+3ibeA_A_VAL_745	<-->	6bofA_A_GLN_150
+3ibeA_A_LEU_752	<-->	6bofA_A_PHE_141
+3ibeA_A_GLN_778	<-->	6bofA_A_THR_148
+3ibeA_A_LYS_744	<-->	6bofA_A_CYS_118
+3ibeA_A_SER_751	<-->	6bofA_A_GLN_131
+3ibeA_A_SER_777	<-->	6bofA_A_LYS_147
+3ibeA_A_LYS_770	<-->	6bofA_A_GLN_150
+3ibeA_A_LYS_744	<-->	6bofA_A_ARG_123
+3ibeA_A_ASP_748	<-->	6bofA_A_ILE_142
+3ibeA_A_LEU_774	<-->	6bofA_A_THR_148
+3ibeA_A_ASN_773	<-->	6bofA_A_THR_148
+3ibeA_A_ASN_773	<-->	6bofA_A_ARG_149
+3ibeA_A_ASP_748	<-->	6bofA_A_THR_127
+3ibeA_A_ASP_748	<-->	6bofA_A_GLU_143
+3ibeA_A_GLU_740	<-->	6bofA_A_PRO_121
+3ibeA_A_LEU_747	<-->	6bofA_A_ARG_123
+3ibeA_A_ASN_773	<-->	6bofA_A_GLN_150
+3ibeA_A_SER_751	<-->	6bofA_A_THR_127
+3ibeA_A_LEU_747	<-->	6bofA_A_THR_127

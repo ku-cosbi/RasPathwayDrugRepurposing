@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1xd4A_A_SER_642	<-->	2l9uA_A_VAL_653
+1xd4A_A_GLU_646	<-->	2l9uA_A_ILE_649
+1xd4A_A_GLU_649	<-->	2l9uA_A_LEU_642
+1xd4A_A_GLU_946	<-->	2l9uA_A_HIS_676
+1xd4A_A_GLU_942	<-->	2l9uA_A_HIS_676
+1xd4A_A_GLU_649	<-->	2l9uA_A_LEU_646
+1xd4A_A_GLU_646	<-->	2l9uA_A_ALA_650
+1xd4A_A_SER_642	<-->	2l9uA_A_ILE_649
+1xd4A_A_GLU_646	<-->	2l9uA_A_LEU_646
+1xd4A_A_GLU_954	<-->	2l9uA_A_THR_662
+1xd4A_A_GLU_639	<-->	2l9uA_A_VAL_653
+1xd4A_A_VAL_574	<-->	2l9uA_A_THR_643
+1xd4A_A_VAL_606	<-->	2l9uA_A_MET_657
+1xd4A_A_GLU_639	<-->	2l9uA_A_MET_657
+1xd4A_A_GLU_639	<-->	2l9uA_A_PHE_656
+1xd4A_A_VAL_947	<-->	2l9uA_A_TYR_665
+1xd4A_A_CYS_635	<-->	2l9uA_A_MET_657
+1xd4A_A_ILE_956	<-->	2l9uA_A_TYR_665
+1xd4A_A_GLU_946	<-->	2l9uA_A_TYR_665
