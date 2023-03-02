@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+5wb8A_A_TYR_246	<-->	6j71A_A_HIS_267
+5wb8A_A_MET_253	<-->	6j71A_A_VAL_308
+5wb8A_A_PRO_242	<-->	6j71A_A_LEU_266
+5wb8A_A_GLN_252	<-->	6j71A_A_PRO_316
+5wb8A_A_TYR_246	<-->	6j71A_A_PHE_258
+5wb8A_A_HIS_280	<-->	6j71A_A_PHE_279
+5wb8A_A_ALA_289	<-->	6j71A_A_PHE_279
+5wb8A_A_TYR_246	<-->	6j71A_A_THR_290
+5wb8A_A_THR_249	<-->	6j71A_A_THR_105
+5wb8A_A_GLN_252	<-->	6j71A_A_LEU_317
+5wb8A_A_TYR_246	<-->	6j71A_A_GLY_309
+5wb8A_A_LEU_245	<-->	6j71A_A_LEU_266
+5wb8A_A_TYR_251	<-->	6j71A_A_SER_310
+5wb8A_A_TYR_251	<-->	6j71A_A_CYS_311
+5wb8A_A_TYR_251	<-->	6j71A_A_THR_312
+5wb8A_A_TYR_251	<-->	6j71A_A_LEU_313
+5wb8A_A_HIS_280	<-->	6j71A_A_VAL_272
+5wb8A_A_TYR_246	<-->	6j71A_A_SER_310
+5wb8A_A_TYR_246	<-->	6j71A_A_VAL_308

@@ -1,0 +1,17 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_PRO_572	<-->	3p11A_A_ALA_476
+3n85A_A_LEU_295	<-->	3p11A_A_GLN_252
+3n85A_A_GLY_201	<-->	3p11A_A_PRO_193
+3n85A_A_PRO_572	<-->	3p11A_A_VAL_475
+3n85A_A_GLU_558	<-->	3p11A_A_PRO_483
+3n85A_A_PRO_603	<-->	3p11A_A_ARG_472
+3n85A_A_TYR_588	<-->	3p11A_A_ARG_471
+3n85A_A_SER_587	<-->	3p11A_A_ARG_471
+3n85A_A_SER_587	<-->	3p11A_A_HIS_447
+3n85A_A_ASP_255	<-->	3p11A_A_THR_89
+3n85A_A_PHE_257	<-->	3p11A_A_GLN_90
+3n85A_A_PRO_571	<-->	3p11A_A_VAL_475
+3n85A_A_PRO_571	<-->	3p11A_A_ALA_476
+3n85A_A_PRO_572	<-->	3p11A_A_GLY_478

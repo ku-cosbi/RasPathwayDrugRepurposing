@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_PRO_204	<-->	5wb8A_A_GLN_194
+3p11A_A_PHE_251	<-->	5wb8A_A_LYS_322
+3p11A_A_GLN_252	<-->	5wb8A_A_GLY_319
+3p11A_A_TYR_246	<-->	5wb8A_A_MET_87
+3p11A_A_ASN_205	<-->	5wb8A_A_GLN_194
+3p11A_A_GLN_194	<-->	5wb8A_A_GLN_194
+3p11A_A_LEU_249	<-->	5wb8A_A_ASP_323
+3p11A_A_PHE_251	<-->	5wb8A_A_GLY_317
+3p11A_A_ARG_506	<-->	5wb8A_A_GLY_307
+3p11A_A_LYS_248	<-->	5wb8A_A_MET_87
+3p11A_A_LYS_248	<-->	5wb8A_A_ASN_86
+3p11A_A_GLN_252	<-->	5wb8A_A_ASN_314
+3p11A_A_THR_250	<-->	5wb8A_A_GLY_319
+3p11A_A_THR_250	<-->	5wb8A_A_LYS_322
+3p11A_A_LYS_248	<-->	5wb8A_A_TYR_88
+3p11A_A_LEU_249	<-->	5wb8A_A_LYS_322
+3p11A_A_ASN_205	<-->	5wb8A_A_GLN_193
+3p11A_A_PHE_251	<-->	5wb8A_A_ILE_318
