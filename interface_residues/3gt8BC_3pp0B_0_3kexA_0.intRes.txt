@@ -1,0 +1,10 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_ARG_1006	<-->	3kexA_A_ILE_716
+3pp0B_B_LEU_1009	<-->	3kexA_A_LYS_717
+3pp0B_B_LEU_1009	<-->	3kexA_A_ILE_716
+3pp0B_B_VAL_746	<-->	3kexA_A_LEU_773
+3pp0B_B_ASN_745	<-->	3kexA_A_GLY_774
+3pp0B_B_ASN_745	<-->	3kexA_A_PRO_772
+3pp0B_B_ASN_745	<-->	3kexA_A_LEU_773

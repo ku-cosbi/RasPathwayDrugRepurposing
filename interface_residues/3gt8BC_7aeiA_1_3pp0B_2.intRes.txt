@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+7aeiA_A_LEU_730	<-->	3pp0B_B_LEU_1009
+7aeiA_A_HIS_988	<-->	3pp0B_B_ASP_742
+7aeiA_A_TYR_801	<-->	3pp0B_B_GLU_744
+7aeiA_A_LYS_739	<-->	3pp0B_B_LEU_1009
+7aeiA_A_PRO_794	<-->	3pp0B_B_VAL_746
+7aeiA_A_PHE_795	<-->	3pp0B_B_VAL_746
+7aeiA_A_HIS_805	<-->	3pp0B_B_GLY_743
+7aeiA_A_PHE_795	<-->	3pp0B_B_GLU_744
+7aeiA_A_PRO_990	<-->	3pp0B_B_TRP_739
+7aeiA_A_LYS_737	<-->	3pp0B_B_LEU_1000
+7aeiA_A_HIS_805	<-->	3pp0B_B_GLU_744
+7aeiA_A_PRO_990	<-->	3pp0B_B_ARG_713
+7aeiA_A_HIS_988	<-->	3pp0B_B_ARG_713
+7aeiA_A_PHE_997	<-->	3pp0B_B_ALA_706
+7aeiA_A_PHE_997	<-->	3pp0B_B_PRO_707
+7aeiA_A_LYS_737	<-->	3pp0B_B_TYR_803
+7aeiA_A_PHE_997	<-->	3pp0B_B_GLN_709
+7aeiA_A_ASN_996	<-->	3pp0B_B_GLN_709
+7aeiA_A_ASN_996	<-->	3pp0B_B_PRO_707
+7aeiA_A_PRO_990	<-->	3pp0B_B_ASP_742
+7aeiA_A_PRO_990	<-->	3pp0B_B_PRO_741
+7aeiA_A_LYS_739	<-->	3pp0B_B_TYR_1005
+7aeiA_A_LYS_737	<-->	3pp0B_B_PRO_856

@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1aweA_A_GLU_115	<-->	5cusA_A_HIS_386
+1aweA_A_ASP_120	<-->	5cusA_A_VAL_509
+1aweA_A_GLU_121	<-->	5cusA_A_GLN_497
+1aweA_A_GLU_121	<-->	5cusA_A_GLY_496
+1aweA_A_LYS_35	<-->	5cusA_A_GLU_520
+1aweA_A_PHE_94	<-->	5cusA_A_VAL_509
+1aweA_A_ASP_120	<-->	5cusA_A_PRO_495
+1aweA_A_ASP_120	<-->	5cusA_A_GLY_496
+1aweA_A_LYS_98	<-->	5cusA_A_GLY_494
+1aweA_A_ILE_117	<-->	5cusA_A_PRO_493
+1aweA_A_LYS_119	<-->	5cusA_A_GLY_494
+1aweA_A_ILE_117	<-->	5cusA_A_GLN_497
+1aweA_A_SER_148	<-->	5cusA_A_PRO_483
+1aweA_A_GLN_100	<-->	5cusA_A_PRO_493
+1aweA_A_LYS_119	<-->	5cusA_A_PRO_495
+1aweA_A_GLU_115	<-->	5cusA_A_HIS_388
+1aweA_A_ILE_117	<-->	5cusA_A_HIS_388
+1aweA_A_LYS_35	<-->	5cusA_A_GLY_519
+1aweA_A_LYS_119	<-->	5cusA_A_VAL_509
+1aweA_A_LYS_98	<-->	5cusA_A_ASP_482
+1aweA_A_LYS_98	<-->	5cusA_A_PRO_483
+1aweA_A_SER_123	<-->	5cusA_A_ASN_389
+1aweA_A_SER_123	<-->	5cusA_A_HIS_388
+1aweA_A_GLU_121	<-->	5cusA_A_ARG_425

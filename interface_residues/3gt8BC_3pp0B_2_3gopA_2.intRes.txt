@@ -1,0 +1,21 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3pp0B_B_VAL_746	<-->	3gopA_A_PHE_771
+3pp0B_B_GLU_744	<-->	3gopA_A_TYR_777
+3pp0B_B_GLY_743	<-->	3gopA_A_ASN_784
+3pp0B_B_GLU_744	<-->	3gopA_A_ASN_784
+3pp0B_B_PRO_741	<-->	3gopA_A_PRO_824
+3pp0B_B_GLU_744	<-->	3gopA_A_PRO_824
+3pp0B_B_VAL_746	<-->	3gopA_A_TYR_974
+3pp0B_B_ASN_745	<-->	3gopA_A_TYR_974
+3pp0B_B_ASN_745	<-->	3gopA_A_HIS_781
+3pp0B_B_ASP_742	<-->	3gopA_A_TYR_789
+3pp0B_B_ARG_713	<-->	3gopA_A_GLN_825
+3pp0B_B_PRO_749	<-->	3gopA_A_VAL_987
+3pp0B_B_LYS_747	<-->	3gopA_A_VAL_986
+3pp0B_B_LYS_747	<-->	3gopA_A_TYR_974
+3pp0B_B_ARG_713	<-->	3gopA_A_GLN_788
+3pp0B_B_ARG_713	<-->	3gopA_A_TYR_789
+3pp0B_B_PRO_741	<-->	3gopA_A_TYR_789
+3pp0B_B_GLU_744	<-->	3gopA_A_TYR_789

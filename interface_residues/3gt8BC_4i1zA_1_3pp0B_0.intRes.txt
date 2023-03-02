@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4i1zA_A_PRO_794	<-->	3pp0B_B_LYS_747
+4i1zA_A_PRO_794	<-->	3pp0B_B_VAL_746
+4i1zA_A_TYR_801	<-->	3pp0B_B_GLU_744
+4i1zA_A_PHE_795	<-->	3pp0B_B_ILE_748
+4i1zA_A_GLU_736	<-->	3pp0B_B_LEU_1000
+4i1zA_A_PRO_794	<-->	3pp0B_B_ILE_748
+4i1zA_A_HIS_805	<-->	3pp0B_B_GLU_744
+4i1zA_A_PHE_795	<-->	3pp0B_B_PRO_741
+4i1zA_A_PHE_795	<-->	3pp0B_B_VAL_746
+4i1zA_A_VAL_738	<-->	3pp0B_B_LEU_1000
+4i1zA_A_LYS_846	<-->	3pp0B_B_ARG_784
+4i1zA_A_GLN_849	<-->	3pp0B_B_LEU_711
+4i1zA_A_GLY_735	<-->	3pp0B_B_PRO_999
+4i1zA_A_ILE_740	<-->	3pp0B_B_TYR_803
+4i1zA_A_GLU_736	<-->	3pp0B_B_PRO_999
+4i1zA_A_LYS_739	<-->	3pp0B_B_LEU_1009
