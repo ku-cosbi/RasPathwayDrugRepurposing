@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1yy9A_A_ASP_355	<-->	1moxC_C_ARG_42
+1yy9A_A_ARG_353	<-->	1moxC_C_PHE_17
+1yy9A_A_VAL_417	<-->	1moxC_C_LEU_48
+1yy9A_A_ALA_415	<-->	1moxC_C_LEU_48
+1yy9A_A_GLN_384	<-->	1moxC_C_HIS_45
+1yy9A_A_LEU_348	<-->	1moxC_C_GLU_44
+1yy9A_A_LEU_348	<-->	1moxC_C_HIS_45
+1yy9A_A_GLN_408	<-->	1moxC_C_HIS_45
+1yy9A_A_VAL_350	<-->	1moxC_C_PHE_17
+1yy9A_A_HIS_409	<-->	1moxC_C_HIS_45
+1yy9A_A_GLN_411	<-->	1moxC_C_LEU_49
+1yy9A_A_SER_356	<-->	1moxC_C_THR_13
+1yy9A_A_HIS_346	<-->	1moxC_C_HIS_45
+1yy9A_A_PHE_357	<-->	1moxC_C_PHE_15
+1yy9A_A_LEU_325	<-->	1moxC_C_GLU_44
+1yy9A_A_PHE_357	<-->	1moxC_C_THR_13
+1yy9A_A_ASP_355	<-->	1moxC_C_THR_13
+1yy9A_A_LEU_382	<-->	1moxC_C_HIS_45
+1yy9A_A_ILE_438	<-->	1moxC_C_LEU_48
+1yy9A_A_HIS_409	<-->	1moxC_C_VAL_39
+1yy9A_A_LEU_325	<-->	1moxC_C_PHE_17
+1yy9A_A_THR_358	<-->	1moxC_C_ARG_42
+1yy9A_A_PHE_412	<-->	1moxC_C_LEU_48

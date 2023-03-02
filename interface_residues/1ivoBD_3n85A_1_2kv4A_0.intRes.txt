@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_ASP_360	<-->	2kv4A_A_LEU_15
+3n85A_A_LEU_13	<-->	2kv4A_A_TRP_50
+3n85A_A_LEU_355	<-->	2kv4A_A_TYR_44
+3n85A_A_PRO_356	<-->	2kv4A_A_LEU_15
+3n85A_A_TYR_42	<-->	2kv4A_A_GLU_51
+3n85A_A_TYR_42	<-->	2kv4A_A_TRP_50
+3n85A_A_LEU_13	<-->	2kv4A_A_GLU_51
+3n85A_A_MET_9	<-->	2kv4A_A_ARG_45
+3n85A_A_LEU_11	<-->	2kv4A_A_GLU_51
+3n85A_A_LEU_13	<-->	2kv4A_A_ARG_45
+3n85A_A_LEU_13	<-->	2kv4A_A_ASP_46
+3n85A_A_ASP_362	<-->	2kv4A_A_ARG_41
+3n85A_A_PRO_356	<-->	2kv4A_A_GLN_43
+3n85A_A_GLU_357	<-->	2kv4A_A_GLN_43
+3n85A_A_PRO_14	<-->	2kv4A_A_ARG_45
+3n85A_A_LEU_355	<-->	2kv4A_A_GLN_43
+3n85A_A_ARG_12	<-->	2kv4A_A_ARG_45
+3n85A_A_ARG_12	<-->	2kv4A_A_GLU_51
+3n85A_A_ASN_416	<-->	2kv4A_A_ARG_45
+3n85A_A_ALA_364	<-->	2kv4A_A_TYR_29

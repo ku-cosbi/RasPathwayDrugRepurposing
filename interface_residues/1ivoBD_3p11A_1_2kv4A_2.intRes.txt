@@ -1,0 +1,14 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3p11A_A_HIS_355	<-->	2kv4A_A_TYR_13
+3p11A_A_TYR_405	<-->	2kv4A_A_TYR_44
+3p11A_A_ASN_406	<-->	2kv4A_A_ARG_45
+3p11A_A_TRP_354	<-->	2kv4A_A_SER_9
+3p11A_A_LEU_345	<-->	2kv4A_A_GLN_43
+3p11A_A_GLN_322	<-->	2kv4A_A_GLN_43
+3p11A_A_THR_347	<-->	2kv4A_A_LEU_15
+3p11A_A_TRP_354	<-->	2kv4A_A_GLY_12
+3p11A_A_ILE_346	<-->	2kv4A_A_HIS_16
+3p11A_A_ILE_346	<-->	2kv4A_A_LEU_15
+3p11A_A_TRP_354	<-->	2kv4A_A_TYR_13
