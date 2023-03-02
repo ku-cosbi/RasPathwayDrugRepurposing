@@ -1,0 +1,18 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n85A_A_LEU_231	<-->	1shcA_A_GLN_140
+3n85A_A_THR_223	<-->	1shcA_A_GLN_140
+3n85A_A_ARG_78	<-->	1shcA_A_GLN_140
+3n85A_A_CYS_222	<-->	1shcA_A_ILE_141
+3n85A_A_LEU_231	<-->	1shcA_A_LYS_139
+3n85A_A_THR_223	<-->	1shcA_A_ILE_141
+3n85A_A_THR_223	<-->	1shcA_A_ASN_132
+3n85A_A_ARG_78	<-->	1shcA_A_CYS_138
+3n85A_A_THR_223	<-->	1shcA_A_MET_134
+3n85A_A_ASP_229	<-->	1shcA_A_MET_134
+3n85A_A_CYS_230	<-->	1shcA_A_LYS_139
+3n85A_A_LYS_206	<-->	1shcA_A_ASN_144
+3n85A_A_ARG_76	<-->	1shcA_A_CYS_138
+3n85A_A_LYS_206	<-->	1shcA_A_ILE_141
+3n85A_A_ARG_78	<-->	1shcA_A_LYS_139

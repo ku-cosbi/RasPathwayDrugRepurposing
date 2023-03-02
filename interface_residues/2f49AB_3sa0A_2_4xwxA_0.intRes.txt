@@ -1,0 +1,26 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3sa0A_A_THR_63	<-->	4xwxA_A_GLU_199
+3sa0A_A_GLU_341	<-->	4xwxA_A_ARG_67
+3sa0A_A_PRO_339	<-->	4xwxA_A_PHE_71
+3sa0A_A_ARG_148	<-->	4xwxA_A_MET_0
+3sa0A_A_PRO_339	<-->	4xwxA_A_ARG_74
+3sa0A_A_TYR_205	<-->	4xwxA_A_MET_0
+3sa0A_A_LYS_340	<-->	4xwxA_A_SER_151
+3sa0A_A_VAL_188	<-->	4xwxA_A_TRP_38
+3sa0A_A_VAL_188	<-->	4xwxA_A_GLY_37
+3sa0A_A_GLU_186	<-->	4xwxA_A_LEU_39
+3sa0A_A_GLU_186	<-->	4xwxA_A_TRP_38
+3sa0A_A_THR_181	<-->	4xwxA_A_SER_-1
+3sa0A_A_HIS_61	<-->	4xwxA_A_ARG_201
+3sa0A_A_TYR_187	<-->	4xwxA_A_TRP_38
+3sa0A_A_GLU_186	<-->	4xwxA_A_MET_0
+3sa0A_A_TYR_64	<-->	4xwxA_A_GLU_199
+3sa0A_A_HIS_61	<-->	4xwxA_A_PHE_198
+3sa0A_A_HIS_61	<-->	4xwxA_A_GLU_199
+3sa0A_A_THR_185	<-->	4xwxA_A_SER_-1
+3sa0A_A_ARG_172	<-->	4xwxA_A_MET_0
+3sa0A_A_GLU_60	<-->	4xwxA_A_PHE_198
+3sa0A_A_THR_63	<-->	4xwxA_A_TRP_38
+3sa0A_A_ARG_191	<-->	4xwxA_A_PRO_41

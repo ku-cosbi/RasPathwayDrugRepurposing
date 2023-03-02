@@ -1,0 +1,22 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2l1cA_A_ILE_141	<-->	1xd4B_B_ARG_479
+2l1cA_A_LEU_133	<-->	1xd4B_B_LEU_480
+2l1cA_A_PRO_48	<-->	1xd4B_B_PRO_481
+2l1cA_A_ILE_141	<-->	1xd4B_B_LEU_480
+2l1cA_A_PRO_48	<-->	1xd4B_B_GLY_482
+2l1cA_A_PHE_30	<-->	1xd4B_B_PRO_481
+2l1cA_A_ASN_132	<-->	1xd4B_B_LEU_480
+2l1cA_A_SER_29	<-->	1xd4B_B_PRO_481
+2l1cA_A_CYS_138	<-->	1xd4B_B_LYS_472
+2l1cA_A_CYS_138	<-->	1xd4B_B_LYS_491
+2l1cA_A_ALA_136	<-->	1xd4B_B_ARG_489
+2l1cA_A_GLY_28	<-->	1xd4B_B_PRO_481
+2l1cA_A_ILE_141	<-->	1xd4B_B_PRO_478
+2l1cA_A_THR_125	<-->	1xd4B_B_LEU_480
+2l1cA_A_HIS_145	<-->	1xd4B_B_LEU_480
+2l1cA_A_CYS_138	<-->	1xd4B_B_ARG_489
+2l1cA_A_ARG_26	<-->	1xd4B_B_PRO_478
+2l1cA_A_THR_25	<-->	1xd4B_B_PRO_478
+2l1cA_A_LYS_139	<-->	1xd4B_B_GLN_477

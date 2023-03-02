@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3n84A_A_SER_88	<-->	1shcA_A_GLU_184
+3n84A_A_SER_90	<-->	1shcA_A_PRO_121
+3n84A_A_ASN_143	<-->	1shcA_A_LYS_44
+3n84A_A_ASN_143	<-->	1shcA_A_ASP_43
+3n84A_A_ASN_143	<-->	1shcA_A_HIS_40
+3n84A_A_ASP_104	<-->	1shcA_A_LEU_39
+3n84A_A_ALA_91	<-->	1shcA_A_PRO_121
+3n84A_A_HIS_107	<-->	1shcA_A_GLY_185
+3n84A_A_HIS_107	<-->	1shcA_A_GLU_184
+3n84A_A_SER_90	<-->	1shcA_A_LEU_53
+3n84A_A_SER_90	<-->	1shcA_A_VAL_54
+3n84A_A_SER_90	<-->	1shcA_A_ARG_55
+3n84A_A_PRO_92	<-->	1shcA_A_PRO_121
+3n84A_A_ARG_67	<-->	1shcA_A_GLY_185
+3n84A_A_GLU_71	<-->	1shcA_A_GLY_185
+3n84A_A_ALA_91	<-->	1shcA_A_LEU_53
+3n84A_A_ARG_67	<-->	1shcA_A_GLU_184
+3n84A_A_GLU_89	<-->	1shcA_A_CYS_182
+3n84A_A_ARG_86	<-->	1shcA_A_GLU_184
+3n84A_A_GLU_89	<-->	1shcA_A_ARG_55
+3n84A_A_SER_88	<-->	1shcA_A_LEU_53
+3n84A_A_SER_90	<-->	1shcA_A_GLU_184
+3n84A_A_TRP_121	<-->	1shcA_A_PRO_48
+3n84A_A_SER_90	<-->	1shcA_A_CYS_182

@@ -1,0 +1,25 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+1n3hA_A_HIS_146	<-->	3gopA_A_ASN_972
+1n3hA_A_HIS_146	<-->	3gopA_A_ASP_970
+1n3hA_A_GLN_140	<-->	3gopA_A_LYS_782
+1n3hA_A_GLN_140	<-->	3gopA_A_ASP_783
+1n3hA_A_PHE_117	<-->	3gopA_A_ASP_960
+1n3hA_A_PHE_117	<-->	3gopA_A_GLU_961
+1n3hA_A_ALA_135	<-->	3gopA_A_ASP_783
+1n3hA_A_ILE_142	<-->	3gopA_A_ASP_783
+1n3hA_A_LYS_116	<-->	3gopA_A_GLU_961
+1n3hA_A_LYS_116	<-->	3gopA_A_ASN_784
+1n3hA_A_PHE_117	<-->	3gopA_A_GLY_959
+1n3hA_A_CYS_138	<-->	3gopA_A_ILE_957
+1n3hA_A_CYS_138	<-->	3gopA_A_GLN_958
+1n3hA_A_ILE_141	<-->	3gopA_A_ASP_783
+1n3hA_A_LEU_115	<-->	3gopA_A_GLU_961
+1n3hA_A_MET_120	<-->	3gopA_A_GLY_959
+1n3hA_A_MET_120	<-->	3gopA_A_GLN_958
+1n3hA_A_ALA_118	<-->	3gopA_A_GLU_961
+1n3hA_A_PHE_117	<-->	3gopA_A_GLY_786
+1n3hA_A_PHE_117	<-->	3gopA_A_ASN_784
+1n3hA_A_PHE_117	<-->	3gopA_A_ILE_785
+1n3hA_A_ASP_137	<-->	3gopA_A_GLN_958

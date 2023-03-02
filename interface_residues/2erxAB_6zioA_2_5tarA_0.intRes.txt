@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6zioA_A_HIS_27	<-->	5tarA_A_PRO_34
+6zioA_A_ASP_38	<-->	5tarA_A_SER_39
+6zioA_A_ILE_21	<-->	5tarA_A_PRO_34
+6zioA_A_ILE_21	<-->	5tarA_A_THR_35
+6zioA_A_SER_65	<-->	5tarA_A_ARG_41
+6zioA_A_TYR_32	<-->	5tarA_A_THR_35
+6zioA_A_VAL_29	<-->	5tarA_A_PRO_34
+6zioA_A_ILE_36	<-->	5tarA_A_GLN_25
+6zioA_A_ILE_24	<-->	5tarA_A_ILE_36
+6zioA_A_ILE_36	<-->	5tarA_A_ILE_24
+6zioA_A_TYR_64	<-->	5tarA_A_LEU_52
+6zioA_A_TYR_40	<-->	5tarA_A_THR_35
+6zioA_A_ASP_33	<-->	5tarA_A_GLN_25
+6zioA_A_TYR_40	<-->	5tarA_A_ILE_36
+6zioA_A_GLU_63	<-->	5tarA_A_GLN_43
+6zioA_A_MET_67	<-->	5tarA_A_ARG_41
+6zioA_A_GLU_37	<-->	5tarA_A_ARG_41
+6zioA_A_GLN_25	<-->	5tarA_A_ILE_36
+6zioA_A_GLN_25	<-->	5tarA_A_PRO_34
+6zioA_A_GLN_25	<-->	5tarA_A_THR_35

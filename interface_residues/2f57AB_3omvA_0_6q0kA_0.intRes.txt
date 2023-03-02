@@ -1,0 +1,27 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+3omvA_A_GLU_607	<-->	6q0kA_A_PHE_516
+3omvA_A_GLU_607	<-->	6q0kA_A_LEU_515
+3omvA_A_ARG_450	<-->	6q0kA_A_VAL_511
+3omvA_A_GLN_454	<-->	6q0kA_A_ARG_509
+3omvA_A_LEU_603	<-->	6q0kA_A_THR_508
+3omvA_A_LEU_603	<-->	6q0kA_A_ARG_509
+3omvA_A_ARG_401	<-->	6q0kA_A_PRO_708
+3omvA_A_ARG_401	<-->	6q0kA_A_ALA_569
+3omvA_A_HIS_611	<-->	6q0kA_A_HIS_477
+3omvA_A_HIS_611	<-->	6q0kA_A_GLN_530
+3omvA_A_VAL_403	<-->	6q0kA_A_HIS_510
+3omvA_A_LEU_608	<-->	6q0kA_A_HIS_477
+3omvA_A_LEU_608	<-->	6q0kA_A_TRP_476
+3omvA_A_LEU_608	<-->	6q0kA_A_MET_517
+3omvA_A_GLN_454	<-->	6q0kA_A_VAL_511
+3omvA_A_GLN_454	<-->	6q0kA_A_HIS_510
+3omvA_A_HIS_402	<-->	6q0kA_A_ARG_509
+3omvA_A_HIS_611	<-->	6q0kA_A_ASP_479
+3omvA_A_SER_612	<-->	6q0kA_A_GLY_478
+3omvA_A_SER_612	<-->	6q0kA_A_HIS_477
+3omvA_A_HIS_611	<-->	6q0kA_A_GLY_478
+3omvA_A_LYS_462	<-->	6q0kA_A_ALA_569
+3omvA_A_GLN_601	<-->	6q0kA_A_ASP_449
+3omvA_A_TYR_458	<-->	6q0kA_A_LYS_570

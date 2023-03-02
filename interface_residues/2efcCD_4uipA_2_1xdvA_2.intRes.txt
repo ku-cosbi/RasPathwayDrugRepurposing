@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+4uipA_A_HIS_409	<-->	1xdvA_A_LYS_636
+4uipA_A_ARG_353	<-->	1xdvA_A_GLN_712
+4uipA_A_GLN_411	<-->	1xdvA_A_ARG_961
+4uipA_A_LYS_443	<-->	1xdvA_A_GLU_646
+4uipA_A_ARG_353	<-->	1xdvA_A_GLU_716
+4uipA_A_HIS_409	<-->	1xdvA_A_PRO_637
+4uipA_A_PHE_412	<-->	1xdvA_A_LYS_636
+4uipA_A_LEU_325	<-->	1xdvA_A_TYR_709
+4uipA_A_VAL_350	<-->	1xdvA_A_TYR_709
+4uipA_A_LEU_325	<-->	1xdvA_A_ALA_708
+4uipA_A_SER_326	<-->	1xdvA_A_TYR_709
+4uipA_A_THR_464	<-->	1xdvA_A_ILE_956
+4uipA_A_GLY_461	<-->	1xdvA_A_GLU_946
+4uipA_A_LYS_463	<-->	1xdvA_A_ARG_961
+4uipA_A_SER_440	<-->	1xdvA_A_GLU_639
+4uipA_A_LEU_348	<-->	1xdvA_A_TYR_709
+4uipA_A_LYS_465	<-->	1xdvA_A_PHE_958
+4uipA_A_LYS_465	<-->	1xdvA_A_PHE_634
+4uipA_A_GLN_408	<-->	1xdvA_A_LYS_636
+4uipA_A_LYS_463	<-->	1xdvA_A_ILE_956
+4uipA_A_PHE_357	<-->	1xdvA_A_GLN_712

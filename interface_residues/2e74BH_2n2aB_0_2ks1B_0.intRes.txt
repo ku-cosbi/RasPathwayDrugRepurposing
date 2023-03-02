@@ -1,0 +1,13 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n2aB_B_VAL_126	<-->	2ks1B_B_VAL_159
+2n2aB_B_VAL_122	<-->	2ks1B_B_LEU_162
+2n2aB_B_GLY_129	<-->	2ks1B_B_LEU_155
+2n2aB_B_LYS_133	<-->	2ks1B_B_LEU_156
+2n2aB_B_GLN_136	<-->	2ks1B_B_GLY_152
+2n2aB_B_GLY_125	<-->	2ks1B_B_LEU_155
+2n2aB_B_GLN_136	<-->	2ks1B_B_GLY_149
+2n2aB_B_GLN_136	<-->	2ks1B_B_THR_148
+2n2aB_B_GLY_125	<-->	2ks1B_B_VAL_159
+2n2aB_B_ILE_132	<-->	2ks1B_B_THR_148

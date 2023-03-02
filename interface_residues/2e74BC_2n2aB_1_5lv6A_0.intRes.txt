@@ -1,0 +1,19 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n2aB_B_ILE_139	<-->	5lv6A_A_LYS_642
+2n2aB_B_VAL_121	<-->	5lv6A_A_LEU_658
+2n2aB_B_ILE_139	<-->	5lv6A_A_ILE_643
+2n2aB_B_GLY_125	<-->	5lv6A_A_LEU_658
+2n2aB_B_LEU_124	<-->	5lv6A_A_ALA_661
+2n2aB_B_ARG_135	<-->	5lv6A_A_VAL_651
+2n2aB_B_ARG_104	<-->	5lv6A_A_ARG_675
+2n2aB_B_ARG_135	<-->	5lv6A_A_ILE_643
+2n2aB_B_PHE_128	<-->	5lv6A_A_LEU_654
+2n2aB_B_PHE_128	<-->	5lv6A_A_LEU_655
+2n2aB_B_VAL_121	<-->	5lv6A_A_LEU_662
+2n2aB_B_SER_113	<-->	5lv6A_A_ARG_669
+2n2aB_B_LEU_124	<-->	5lv6A_A_LEU_658
+2n2aB_B_LEU_131	<-->	5lv6A_A_LEU_654
+2n2aB_B_ALA_114	<-->	5lv6A_A_ARG_669
+2n2aB_B_ILE_139	<-->	5lv6A_A_PRO_641

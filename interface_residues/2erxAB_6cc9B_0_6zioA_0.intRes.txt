@@ -1,0 +1,24 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+6cc9B_B_ARG_41	<-->	6zioA_A_MET_67
+6cc9B_B_ARG_41	<-->	6zioA_A_SER_39
+6cc9B_B_ASP_38	<-->	6zioA_A_GLN_25
+6cc9B_B_GLN_25	<-->	6zioA_A_ASP_33
+6cc9B_B_SER_39	<-->	6zioA_A_SER_39
+6cc9B_B_SER_39	<-->	6zioA_A_ASP_38
+6cc9B_B_ILE_24	<-->	6zioA_A_ASP_33
+6cc9B_B_LEU_52	<-->	6zioA_A_MET_67
+6cc9B_B_SER_39	<-->	6zioA_A_TYR_40
+6cc9B_B_ILE_24	<-->	6zioA_A_ILE_36
+6cc9B_B_GLU_37	<-->	6zioA_A_ARG_41
+6cc9B_B_GLN_25	<-->	6zioA_A_TYR_32
+6cc9B_B_GLN_25	<-->	6zioA_A_ASP_38
+6cc9B_B_LYS_42	<-->	6zioA_A_ILE_36
+6cc9B_B_GLU_3	<-->	6zioA_A_MET_67
+6cc9B_B_MET_1	<-->	6zioA_A_TYR_64
+6cc9B_B_MET_1	<-->	6zioA_A_SER_65
+6cc9B_B_MET_1	<-->	6zioA_A_ALA_66
+6cc9B_B_ARG_41	<-->	6zioA_A_GLU_37
+6cc9B_B_GLN_25	<-->	6zioA_A_ILE_36
+6cc9B_B_ARG_41	<-->	6zioA_A_LEU_56

@@ -1,0 +1,23 @@
+Interface Residues Contacts		
+target1_chain_resName_resNo	<-->	target2_chain_resName_resNo
+
+2n2aB_B_LEU_120	<-->	2m0bB_B_ILE_664
+2n2aB_B_ILE_139	<-->	2m0bB_B_PRO_644
+2n2aB_B_GLN_137	<-->	2m0bB_B_GLY_640
+2n2aB_B_LEU_124	<-->	2m0bB_B_ILE_664
+2n2aB_B_ILE_132	<-->	2m0bB_B_MET_650
+2n2aB_B_LEU_131	<-->	2m0bB_B_ALA_653
+2n2aB_B_PHE_128	<-->	2m0bB_B_LEU_654
+2n2aB_B_LEU_120	<-->	2m0bB_B_MET_668
+2n2aB_B_PHE_128	<-->	2m0bB_B_LEU_657
+2n2aB_B_VAL_116	<-->	2m0bB_B_MET_668
+2n2aB_B_THR_143	<-->	2m0bB_B_ILE_646
+2n2aB_B_GLY_117	<-->	2m0bB_B_MET_668
+2n2aB_B_THR_143	<-->	2m0bB_B_SER_645
+2n2aB_B_GLY_117	<-->	2m0bB_B_ILE_664
+2n2aB_B_LEU_131	<-->	2m0bB_B_MET_650
+2n2aB_B_SER_113	<-->	2m0bB_B_MET_668
+2n2aB_B_LEU_124	<-->	2m0bB_B_ALA_661
+2n2aB_B_LEU_124	<-->	2m0bB_B_VAL_660
+2n2aB_B_ARG_135	<-->	2m0bB_B_MET_650
+2n2aB_B_LEU_124	<-->	2m0bB_B_LEU_657
